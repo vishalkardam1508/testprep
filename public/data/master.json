@@ -110,7 +110,7 @@
           "datePublished": "2026-09-25",
           "totalQuestions": 50,
           "duration": 60,
-          "maxScore": 60,
+          "maxScore": 50,
           "difficulty": "Easy",
           "isFree": true,
           "tags": ["reasoning", "it"],
