@@ -1,0 +1,26 @@
+{
+  "_notes": [
+    "Copy the object inside \"entry\" into master.json → courses[<your course>].testSeries (add a comma after the previous test).",
+    "id must equal testId in the questions file. questionsUrl is the file path under public/ (starts with /data/questions/).",
+    "totalQuestions = number of questions. maxScore = sum of all question marks (including essays).",
+    "difficulty: Easy | Medium | Hard.  isFree: true shows 'Start Test', false shows the locked Premium button.",
+    "img: optional. Use a wide image (about 800x400) — local file like /images/my-test.jpg or a full https URL. null = colour banner.",
+    "markingScheme: optional. Only add it if this test's marking differs from the course; you can give just the values that change."
+  ],
+
+  "entry": {
+    "id": "your-test-id",
+    "title": "Your Test Title",
+    "description": "One or two lines about what this test covers",
+    "img": null,
+    "datePublished": "2026-09-25",
+    "totalQuestions": 5,
+    "duration": 60,
+    "maxScore": 18,
+    "difficulty": "Medium",
+    "isFree": true,
+    "tags": ["Child Psychology", "Maths"],
+    "questionsUrl": "/data/questions/your-test-id.json",
+    "markingScheme": { "default": { "correct": 3, "wrong": -1 } }
+  }
+}

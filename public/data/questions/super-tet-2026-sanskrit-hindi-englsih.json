@@ -1,0 +1,3631 @@
+{
+  "testId": "super-tet-2026-language-top-100",
+  "title": "Super TET 2026 Primary — Hindi + Sanskrit + English — Top 100",
+  "duration": 100,
+  "markingScheme": {
+    "default": {
+      "correct": 3,
+      "wrong": -1,
+      "skipped": 0
+    }
+  },
+  "sections": [
+    {
+      "id": "hindi",
+      "title": "Hindi",
+      "color": "orange"
+    },
+    {
+      "id": "sanskrit",
+      "title": "Sanskrit",
+      "color": "violet"
+    },
+    {
+      "id": "english",
+      "title": "English",
+      "color": "cyan"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘अग्नि’ का तद्भव शब्द क्या है?",
+      "options": [
+        "आग",
+        "अगिन",
+        "अग्न",
+        "अनल"
+      ],
+      "answer": 0,
+      "explanation": "‘अग्नि’ का प्रचलित तद्भव रूप ‘आग’ है।",
+      "i18n": {
+        "hi": {
+          "question": "‘अग्नि’ का तद्भव शब्द क्या है?",
+          "options": [
+            "आग",
+            "अगिन",
+            "अग्न",
+            "अनल"
+          ],
+          "explanation": "‘अग्नि’ का प्रचलित तद्भव रूप ‘आग’ है।"
+        },
+        "en": {
+          "question": "What is the Tadbhava form of ‘अग्नि’?",
+          "options": [
+            "आग",
+            "अगिन",
+            "अग्न",
+            "अनल"
+          ],
+          "explanation": "The commonly used Tadbhava form of ‘अग्नि’ is ‘आग’."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘निराशा’ शब्द में कौन-सा उपसर्ग है?",
+      "options": [
+        "नि",
+        "निर्",
+        "आ",
+        "शा"
+      ],
+      "answer": 1,
+      "explanation": "‘निराशा’ में ‘निर्’ उपसर्ग है।",
+      "i18n": {
+        "hi": {
+          "question": "‘निराशा’ शब्द में कौन-सा उपसर्ग है?",
+          "options": [
+            "नि",
+            "निर्",
+            "आ",
+            "शा"
+          ],
+          "explanation": "‘निराशा’ में ‘निर्’ उपसर्ग है।"
+        },
+        "en": {
+          "question": "Which prefix is used in the Hindi word ‘निराशा’?",
+          "options": [
+            "नि",
+            "निर्",
+            "आ",
+            "शा"
+          ],
+          "explanation": "The prefix in ‘निराशा’ is ‘निर्’."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘राजपुत्र’ में कौन-सा समास है?",
+      "options": [
+        "द्वंद्व",
+        "बहुव्रीहि",
+        "अव्ययीभाव",
+        "तत्पुरुष"
+      ],
+      "answer": 3,
+      "explanation": "राजा का पुत्र — संबंध तत्पुरुष समास।",
+      "i18n": {
+        "hi": {
+          "question": "‘राजपुत्र’ में कौन-सा समास है?",
+          "options": [
+            "द्वंद्व",
+            "बहुव्रीहि",
+            "अव्ययीभाव",
+            "तत्पुरुष"
+          ],
+          "explanation": "राजा का पुत्र — संबंध तत्पुरुष समास।"
+        },
+        "en": {
+          "question": "Which type of compound is ‘राजपुत्र’?",
+          "options": [
+            "Dvandva",
+            "Bahuvrihi",
+            "Avyayibhava",
+            "Tatpurusha"
+          ],
+          "explanation": "‘राजा का पुत्र’ expresses a relationship, so it is a Tatpurusha compound."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘आकाश’ का पर्यायवाची शब्द कौन-सा है?",
+      "options": [
+        "पवन",
+        "पृथ्वी",
+        "गगन",
+        "सागर"
+      ],
+      "answer": 2,
+      "explanation": "आकाश के पर्यायवाची शब्द गगन, नभ और व्योम हैं।",
+      "i18n": {
+        "hi": {
+          "question": "‘आकाश’ का पर्यायवाची शब्द कौन-सा है?",
+          "options": [
+            "पवन",
+            "पृथ्वी",
+            "गगन",
+            "सागर"
+          ],
+          "explanation": "आकाश के पर्यायवाची शब्द गगन, नभ और व्योम हैं।"
+        },
+        "en": {
+          "question": "Which is a synonym of ‘आकाश’?",
+          "options": [
+            "Wind",
+            "Earth",
+            "Sky",
+            "Ocean"
+          ],
+          "explanation": "‘गगन’ is a synonym of ‘आकाश’."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘उन्नति’ का विलोम शब्द क्या है?",
+      "options": [
+        "प्रगति",
+        "समृद्धि",
+        "विकास",
+        "अवनति"
+      ],
+      "answer": 3,
+      "explanation": "उन्नति का विलोम अवनति है।",
+      "i18n": {
+        "hi": {
+          "question": "‘उन्नति’ का विलोम शब्द क्या है?",
+          "options": [
+            "प्रगति",
+            "समृद्धि",
+            "विकास",
+            "अवनति"
+          ],
+          "explanation": "उन्नति का विलोम अवनति है।"
+        },
+        "en": {
+          "question": "What is the antonym of ‘उन्नति’?",
+          "options": [
+            "Progress",
+            "Prosperity",
+            "Development",
+            "Decline"
+          ],
+          "explanation": "The antonym of ‘उन्नति’ is ‘अवनति’."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘नाक कटना’ मुहावरे का अर्थ क्या है?",
+      "options": [
+        "बीमार होना",
+        "अपमान होना",
+        "बहुत प्रसन्न होना",
+        "क्रोधित होना"
+      ],
+      "answer": 1,
+      "explanation": "‘नाक कटना’ का अर्थ अपमान या प्रतिष्ठा की हानि होना है।",
+      "i18n": {
+        "hi": {
+          "question": "‘नाक कटना’ मुहावरे का अर्थ क्या है?",
+          "options": [
+            "बीमार होना",
+            "अपमान होना",
+            "बहुत प्रसन्न होना",
+            "क्रोधित होना"
+          ],
+          "explanation": "‘नाक कटना’ का अर्थ अपमान या प्रतिष्ठा की हानि होना है।"
+        },
+        "en": {
+          "question": "What does the Hindi idiom ‘नाक कटना’ mean?",
+          "options": [
+            "To become ill",
+            "To be disgraced",
+            "To become very happy",
+            "To become angry"
+          ],
+          "explanation": "The idiom means to suffer disgrace or loss of reputation."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘राम ने फल खाया।’ वाक्य में ‘राम ने’ कौन-सा कारक है?",
+      "options": [
+        "कर्म",
+        "करण",
+        "कर्ता",
+        "अपादान"
+      ],
+      "answer": 2,
+      "explanation": "जिसके द्वारा कार्य किया जाता है वह कर्ता कारक होता है।",
+      "i18n": {
+        "hi": {
+          "question": "‘राम ने फल खाया।’ वाक्य में ‘राम ने’ कौन-सा कारक है?",
+          "options": [
+            "कर्म",
+            "करण",
+            "कर्ता",
+            "अपादान"
+          ],
+          "explanation": "जिसके द्वारा कार्य किया जाता है वह कर्ता कारक होता है।"
+        },
+        "en": {
+          "question": "In ‘राम ने फल खाया’, which grammatical case is ‘राम ने’?",
+          "options": [
+            "Object",
+            "Instrumental",
+            "Subject/agent",
+            "Ablative"
+          ],
+          "explanation": "The person performing the action is the agent or subject."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘बच्चे खेल रहे हैं।’ वाक्य में कौन-सा काल है?",
+      "options": [
+        "सामान्य वर्तमान",
+        "पूर्ण भविष्यत्",
+        "सामान्य भूत",
+        "अपूर्ण वर्तमान"
+      ],
+      "answer": 3,
+      "explanation": "‘खेल रहे हैं’ वर्तमान समय में जारी कार्य को दर्शाता है, इसलिए यह अपूर्ण वर्तमान काल है।",
+      "i18n": {
+        "hi": {
+          "question": "‘बच्चे खेल रहे हैं।’ वाक्य में कौन-सा काल है?",
+          "options": [
+            "सामान्य वर्तमान",
+            "पूर्ण भविष्यत्",
+            "सामान्य भूत",
+            "अपूर्ण वर्तमान"
+          ],
+          "explanation": "‘खेल रहे हैं’ वर्तमान समय में जारी कार्य को दर्शाता है, इसलिए यह अपूर्ण वर्तमान काल है।"
+        },
+        "en": {
+          "question": "Which tense is used in ‘बच्चे खेल रहे हैं’?",
+          "options": [
+            "Simple present",
+            "Future perfect",
+            "Simple past",
+            "Present continuous"
+          ],
+          "explanation": "The action is continuing in the present, so it represents the present continuous tense."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘सुंदर’ शब्द किस प्रकार का विशेषण है?",
+      "options": [
+        "गुणवाचक",
+        "संख्यावाचक",
+        "परिमाणवाचक",
+        "सार्वनामिक"
+      ],
+      "answer": 0,
+      "explanation": "‘सुंदर’ किसी व्यक्ति या वस्तु के गुण को बताता है, इसलिए यह गुणवाचक विशेषण है।",
+      "i18n": {
+        "hi": {
+          "question": "‘सुंदर’ शब्द किस प्रकार का विशेषण है?",
+          "options": [
+            "गुणवाचक",
+            "संख्यावाचक",
+            "परिमाणवाचक",
+            "सार्वनामिक"
+          ],
+          "explanation": "‘सुंदर’ किसी व्यक्ति या वस्तु के गुण को बताता है, इसलिए यह गुणवाचक विशेषण है।"
+        },
+        "en": {
+          "question": "What type of adjective is ‘सुंदर’?",
+          "options": [
+            "Qualitative",
+            "Numeral",
+            "Quantitative",
+            "Pronominal"
+          ],
+          "explanation": "‘सुंदर’ describes a quality, so it is a qualitative adjective."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘धीरे-धीरे’ में कौन-सा अलंकार है?",
+      "options": [
+        "उपमा",
+        "पुनरुक्ति प्रकाश",
+        "अनुप्रास",
+        "रूपक"
+      ],
+      "answer": 1,
+      "explanation": "एक ही शब्द की पुनरावृत्ति होने के कारण यहाँ पुनरुक्ति प्रकाश अलंकार है।",
+      "i18n": {
+        "hi": {
+          "question": "‘धीरे-धीरे’ में कौन-सा अलंकार है?",
+          "options": [
+            "उपमा",
+            "पुनरुक्ति प्रकाश",
+            "अनुप्रास",
+            "रूपक"
+          ],
+          "explanation": "एक ही शब्द की पुनरावृत्ति होने के कारण यहाँ पुनरुक्ति प्रकाश अलंकार है।"
+        },
+        "en": {
+          "question": "Which figure of speech is illustrated by ‘धीरे-धीरे’?",
+          "options": [
+            "Simile",
+            "Repetition",
+            "Alliteration",
+            "Metaphor"
+          ],
+          "explanation": "The same word is repeated, representing the repetition figure."
+        }
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘जो मेहनत करता है, वही सफल होता है।’ वाक्य किस प्रकार का है?",
+      "options": [
+        "सरल",
+        "संयुक्त",
+        "मिश्र",
+        "विस्मयादिबोधक"
+      ],
+      "answer": 2,
+      "explanation": "इस वाक्य में एक प्रधान उपवाक्य और एक आश्रित उपवाक्य है, इसलिए यह मिश्र वाक्य है।",
+      "i18n": {
+        "hi": {
+          "question": "‘जो मेहनत करता है, वही सफल होता है।’ वाक्य किस प्रकार का है?",
+          "options": [
+            "सरल",
+            "संयुक्त",
+            "मिश्र",
+            "विस्मयादिबोधक"
+          ],
+          "explanation": "इस वाक्य में एक प्रधान उपवाक्य और एक आश्रित उपवाक्य है, इसलिए यह मिश्र वाक्य है।"
+        },
+        "en": {
+          "question": "What type of sentence is ‘जो मेहनत करता है, वही सफल होता है’?",
+          "options": [
+            "Simple",
+            "Compound",
+            "Complex",
+            "Exclamatory"
+          ],
+          "explanation": "It contains a main clause and a dependent clause, so it is a complex sentence."
+        }
+      }
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘विद्यालय’ का सही संधि-विच्छेद क्या है?",
+      "options": [
+        "विद् + यालय",
+        "विद्य + आलय",
+        "विद्या + लय",
+        "विद्या + आलय"
+      ],
+      "answer": 3,
+      "explanation": "विद्यालय = विद्या + आलय।",
+      "i18n": {
+        "hi": {
+          "question": "‘विद्यालय’ का सही संधि-विच्छेद क्या है?",
+          "options": [
+            "विद् + यालय",
+            "विद्य + आलय",
+            "विद्या + लय",
+            "विद्या + आलय"
+          ],
+          "explanation": "विद्यालय = विद्या + आलय।"
+        },
+        "en": {
+          "question": "What is the correct Sandhi-viched of ‘विद्यालय’?",
+          "options": [
+            "विद् + यालय",
+            "विद्य + आलय",
+            "विद्या + लय",
+            "विद्या + आलय"
+          ],
+          "explanation": "विद्यालय is formed from विद्या + आलय."
+        }
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘लड़का मैदान में खेल रहा है।’ में ‘लड़का’ कौन-सी संज्ञा है?",
+      "options": [
+        "व्यक्तिवाचक",
+        "भाववाचक",
+        "जातिवाचक",
+        "द्रव्यवाचक"
+      ],
+      "answer": 2,
+      "explanation": "‘लड़का’ किसी एक विशेष व्यक्ति का नाम नहीं है, बल्कि पूरी जाति/वर्ग का बोध कराता है, इसलिए यह जातिवाचक संज्ञा है।",
+      "i18n": {
+        "hi": {
+          "question": "‘लड़का मैदान में खेल रहा है।’ में ‘लड़का’ कौन-सी संज्ञा है?",
+          "options": [
+            "व्यक्तिवाचक",
+            "भाववाचक",
+            "जातिवाचक",
+            "द्रव्यवाचक"
+          ],
+          "explanation": "‘लड़का’ किसी एक विशेष व्यक्ति का नाम नहीं है, बल्कि पूरी जाति/वर्ग का बोध कराता है, इसलिए यह जातिवाचक संज्ञा है।"
+        },
+        "en": {
+          "question": "In ‘लड़का मैदान में खेल रहा है।’, what type of noun is ‘लड़का’?",
+          "options": [
+            "Proper noun",
+            "Abstract noun",
+            "Common noun",
+            "Material noun"
+          ],
+          "explanation": "‘लड़का’ (boy) names a whole class, not one particular person, so it is a common noun (जातिवाचक संज्ञा)."
+        }
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘हाथ मलना’ मुहावरे का अर्थ है—",
+      "options": [
+        "हाथ साफ करना",
+        "पछताना",
+        "काम करना",
+        "प्रार्थना करना"
+      ],
+      "answer": 1,
+      "explanation": "‘हाथ मलना’ का अर्थ पछताना है।",
+      "i18n": {
+        "hi": {
+          "question": "‘हाथ मलना’ मुहावरे का अर्थ है—",
+          "options": [
+            "हाथ साफ करना",
+            "पछताना",
+            "काम करना",
+            "प्रार्थना करना"
+          ],
+          "explanation": "‘हाथ मलना’ का अर्थ पछताना है।"
+        },
+        "en": {
+          "question": "What does the Hindi idiom ‘हाथ मलना’ mean?",
+          "options": [
+            "To clean hands",
+            "To regret",
+            "To work",
+            "To pray"
+          ],
+          "explanation": "The idiom means to regret something."
+        }
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘वह बहुत तेज दौड़ता है।’ में ‘तेज’ क्या है?",
+      "options": [
+        "संज्ञा",
+        "सर्वनाम",
+        "समुच्चयबोधक",
+        "क्रियाविशेषण"
+      ],
+      "answer": 3,
+      "explanation": "‘तेज’ यहाँ ‘दौड़ता है’ क्रिया की विशेषता बता रहा है, इसलिए यह क्रियाविशेषण है।",
+      "i18n": {
+        "hi": {
+          "question": "‘वह बहुत तेज दौड़ता है।’ में ‘तेज’ क्या है?",
+          "options": [
+            "संज्ञा",
+            "सर्वनाम",
+            "समुच्चयबोधक",
+            "क्रियाविशेषण"
+          ],
+          "explanation": "‘तेज’ यहाँ ‘दौड़ता है’ क्रिया की विशेषता बता रहा है, इसलिए यह क्रियाविशेषण है।"
+        },
+        "en": {
+          "question": "In ‘वह बहुत तेज दौड़ता है’, what is ‘तेज’?",
+          "options": [
+            "Noun",
+            "Pronoun",
+            "Conjunction",
+            "Adverb"
+          ],
+          "explanation": "‘तेज’ modifies the verb ‘दौड़ता है’, so it functions as an adverb."
+        }
+      }
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘सत्य’ का विलोम है—",
+      "options": [
+        "न्याय",
+        "असत्य",
+        "धर्म",
+        "सदाचार"
+      ],
+      "answer": 1,
+      "explanation": "सत्य का विलोम असत्य है।",
+      "i18n": {
+        "hi": {
+          "question": "‘सत्य’ का विलोम है—",
+          "options": [
+            "न्याय",
+            "असत्य",
+            "धर्म",
+            "सदाचार"
+          ],
+          "explanation": "सत्य का विलोम असत्य है।"
+        },
+        "en": {
+          "question": "What is the antonym of ‘सत्य’?",
+          "options": [
+            "Justice",
+            "Falsehood",
+            "Religion",
+            "Good conduct"
+          ],
+          "explanation": "The antonym of ‘सत्य’ is ‘असत्य’."
+        }
+      }
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘कमल के समान मुख’ में कौन-सा अलंकार है?",
+      "options": [
+        "रूपक",
+        "यमक",
+        "उपमा",
+        "श्लेष"
+      ],
+      "answer": 2,
+      "explanation": "‘समान’ शब्द द्वारा तुलना की गई है, इसलिए उपमा अलंकार है।",
+      "i18n": {
+        "hi": {
+          "question": "‘कमल के समान मुख’ में कौन-सा अलंकार है?",
+          "options": [
+            "रूपक",
+            "यमक",
+            "उपमा",
+            "श्लेष"
+          ],
+          "explanation": "‘समान’ शब्द द्वारा तुलना की गई है, इसलिए उपमा अलंकार है।"
+        },
+        "en": {
+          "question": "Which figure of speech is used in ‘कमल के समान मुख’?",
+          "options": [
+            "Metaphor",
+            "Yamaka",
+            "Simile",
+            "Pun"
+          ],
+          "explanation": "A comparison is explicitly made using ‘समान’, so it is a simile."
+        }
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘लड़कियाँ पढ़ रही हैं।’ में कर्ता का वचन क्या है?",
+      "options": [
+        "एकवचन",
+        "द्विवचन",
+        "बहुवचन",
+        "अनिश्चित"
+      ],
+      "answer": 2,
+      "explanation": "‘लड़कियाँ’ एक से अधिक व्यक्तियों को दर्शाता है, इसलिए बहुवचन है।",
+      "i18n": {
+        "hi": {
+          "question": "‘लड़कियाँ पढ़ रही हैं।’ में कर्ता का वचन क्या है?",
+          "options": [
+            "एकवचन",
+            "द्विवचन",
+            "बहुवचन",
+            "अनिश्चित"
+          ],
+          "explanation": "‘लड़कियाँ’ एक से अधिक व्यक्तियों को दर्शाता है, इसलिए बहुवचन है।"
+        },
+        "en": {
+          "question": "What is the number of the subject in ‘लड़कियाँ पढ़ रही हैं’?",
+          "options": [
+            "Singular",
+            "Dual",
+            "Plural",
+            "Indefinite"
+          ],
+          "explanation": "‘लड़कियाँ’ refers to more than one person, so it is plural."
+        }
+      }
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘जिसकी लाठी उसकी भैंस’ किस प्रकार की रचना है?",
+      "options": [
+        "मुहावरा",
+        "लोकोक्ति",
+        "संधि",
+        "समास"
+      ],
+      "answer": 1,
+      "explanation": "‘जिसकी लाठी उसकी भैंस’ एक प्रसिद्ध लोकोक्ति है।",
+      "i18n": {
+        "hi": {
+          "question": "‘जिसकी लाठी उसकी भैंस’ किस प्रकार की रचना है?",
+          "options": [
+            "मुहावरा",
+            "लोकोक्ति",
+            "संधि",
+            "समास"
+          ],
+          "explanation": "‘जिसकी लाठी उसकी भैंस’ एक प्रसिद्ध लोकोक्ति है।"
+        },
+        "en": {
+          "question": "What type of expression is ‘जिसकी लाठी उसकी भैंस’?",
+          "options": [
+            "Idiom",
+            "Proverb",
+            "Sandhi",
+            "Compound"
+          ],
+          "explanation": "It is a well-known Hindi proverb."
+        }
+      }
+    },
+    {
+      "id": 20,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘राम और श्याम बाजार गए।’ में ‘और’ क्या है?",
+      "options": [
+        "संबंधबोधक",
+        "विस्मयादिबोधक",
+        "समुच्चयबोधक",
+        "क्रियाविशेषण"
+      ],
+      "answer": 2,
+      "explanation": "‘और’ दो पदों को जोड़ता है, इसलिए यह समुच्चयबोधक है।",
+      "i18n": {
+        "hi": {
+          "question": "‘राम और श्याम बाजार गए।’ में ‘और’ क्या है?",
+          "options": [
+            "संबंधबोधक",
+            "विस्मयादिबोधक",
+            "समुच्चयबोधक",
+            "क्रियाविशेषण"
+          ],
+          "explanation": "‘और’ दो पदों को जोड़ता है, इसलिए यह समुच्चयबोधक है।"
+        },
+        "en": {
+          "question": "In ‘राम और श्याम बाजार गए’, what is ‘और’?",
+          "options": [
+            "Preposition",
+            "Interjection",
+            "Conjunction",
+            "Adverb"
+          ],
+          "explanation": "‘और’ connects two words, so it is a conjunction."
+        }
+      }
+    },
+    {
+      "id": 21,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘पुस्तकें’ शब्द का एकवचन क्या है?",
+      "options": [
+        "पुस्तक",
+        "पुस्तका",
+        "पुस्तकी",
+        "पुस्तकें ही"
+      ],
+      "answer": 0,
+      "explanation": "‘पुस्तकें’ का एकवचन ‘पुस्तक’ है।",
+      "i18n": {
+        "hi": {
+          "question": "‘पुस्तकें’ शब्द का एकवचन क्या है?",
+          "options": [
+            "पुस्तक",
+            "पुस्तका",
+            "पुस्तकी",
+            "पुस्तकें ही"
+          ],
+          "explanation": "‘पुस्तकें’ का एकवचन ‘पुस्तक’ है।"
+        },
+        "en": {
+          "question": "What is the singular form of ‘पुस्तकें’?",
+          "options": [
+            "पुस्तक",
+            "पुस्तका",
+            "पुस्तकी",
+            "पुस्तकें ही"
+          ],
+          "explanation": "The singular form is ‘पुस्तक’."
+        }
+      }
+    },
+    {
+      "id": 22,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘ईमानदार’ शब्द में कौन-सा प्रत्यय है?",
+      "options": [
+        "ई",
+        "मान",
+        "दार",
+        "आर"
+      ],
+      "answer": 2,
+      "explanation": "‘ईमान + दार’ से ‘ईमानदार’ बना है; ‘दार’ प्रत्यय है।",
+      "i18n": {
+        "hi": {
+          "question": "‘ईमानदार’ शब्द में कौन-सा प्रत्यय है?",
+          "options": [
+            "ई",
+            "मान",
+            "दार",
+            "आर"
+          ],
+          "explanation": "‘ईमान + दार’ से ‘ईमानदार’ बना है; ‘दार’ प्रत्यय है।"
+        },
+        "en": {
+          "question": "Which suffix occurs in the word ‘ईमानदार’?",
+          "options": [
+            "ई",
+            "मान",
+            "दार",
+            "आर"
+          ],
+          "explanation": "The word is formed as ईमान + दार; ‘दार’ is the suffix."
+        }
+      }
+    },
+    {
+      "id": 23,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘मैंने खाना खा लिया है।’ वाक्य का काल है—",
+      "options": [
+        "सामान्य वर्तमान",
+        "पूर्ण वर्तमान",
+        "अपूर्ण भूत",
+        "सामान्य भविष्यत्"
+      ],
+      "answer": 1,
+      "explanation": "‘खा लिया है’ से पता चलता है कि कार्य अभी-अभी वर्तमान में पूर्ण हुआ है, इसलिए यह पूर्ण वर्तमान (आसन्न भूत) काल है।",
+      "i18n": {
+        "hi": {
+          "question": "‘मैंने खाना खा लिया है।’ वाक्य का काल है—",
+          "options": [
+            "सामान्य वर्तमान",
+            "पूर्ण वर्तमान",
+            "अपूर्ण भूत",
+            "सामान्य भविष्यत्"
+          ],
+          "explanation": "‘खा लिया है’ से पता चलता है कि कार्य अभी-अभी वर्तमान में पूर्ण हुआ है, इसलिए यह पूर्ण वर्तमान (आसन्न भूत) काल है।"
+        },
+        "en": {
+          "question": "Which tense is used in ‘मैंने खाना खा लिया है।’?",
+          "options": [
+            "Simple present",
+            "Present perfect",
+            "Past continuous",
+            "Simple future"
+          ],
+          "explanation": "‘खा लिया है’ shows an action just completed in the present, so it is the present perfect (पूर्ण वर्तमान / आसन्न भूत)."
+        }
+      }
+    },
+    {
+      "id": 24,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘वह विद्यालय जाता है।’ का नकारात्मक रूप क्या होगा?",
+      "options": [
+        "वह विद्यालय नहीं जाता है।",
+        "वह विद्यालय जाता नहीं।",
+        "वह नहीं विद्यालय जाता है।",
+        "वह विद्यालय न जाता।"
+      ],
+      "answer": 0,
+      "explanation": "नकारात्मक वाक्य में ‘नहीं’ का प्रयोग किया जाता है।",
+      "i18n": {
+        "hi": {
+          "question": "‘वह विद्यालय जाता है।’ का नकारात्मक रूप क्या होगा?",
+          "options": [
+            "वह विद्यालय नहीं जाता है।",
+            "वह विद्यालय जाता नहीं।",
+            "वह नहीं विद्यालय जाता है।",
+            "वह विद्यालय न जाता।"
+          ],
+          "explanation": "नकारात्मक वाक्य में ‘नहीं’ का प्रयोग किया जाता है।"
+        },
+        "en": {
+          "question": "What is the negative form of ‘वह विद्यालय जाता है’?",
+          "options": [
+            "वह विद्यालय नहीं जाता है।",
+            "वह विद्यालय जाता नहीं।",
+            "वह नहीं विद्यालय जाता है।",
+            "वह विद्यालय न जाता।"
+          ],
+          "explanation": "‘नहीं’ is used to make the sentence negative."
+        }
+      }
+    },
+    {
+      "id": 25,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘नदी बहती है।’ में ‘बहती’ कौन-सा शब्द-भेद है?",
+      "options": [
+        "क्रिया",
+        "संज्ञा",
+        "विशेषण",
+        "सर्वनाम"
+      ],
+      "answer": 0,
+      "explanation": "‘बहती’ कार्य का बोध कराता है, इसलिए यह क्रिया है।",
+      "i18n": {
+        "hi": {
+          "question": "‘नदी बहती है।’ में ‘बहती’ कौन-सा शब्द-भेद है?",
+          "options": [
+            "क्रिया",
+            "संज्ञा",
+            "विशेषण",
+            "सर्वनाम"
+          ],
+          "explanation": "‘बहती’ कार्य का बोध कराता है, इसलिए यह क्रिया है।"
+        },
+        "en": {
+          "question": "What part of speech is ‘बहती’ in ‘नदी बहती है’?",
+          "options": [
+            "Verb",
+            "Noun",
+            "Adjective",
+            "Pronoun"
+          ],
+          "explanation": "‘बहती’ expresses an action, so it is a verb."
+        }
+      }
+    },
+    {
+      "id": 26,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘जल्दी का काम शैतान का।’ का आशय है—",
+      "options": [
+        "जल्दबाजी में काम बिगड़ सकता है",
+        "जल्दी करना अच्छा है",
+        "काम नहीं करना चाहिए",
+        "शैतान काम करता है"
+      ],
+      "answer": 0,
+      "explanation": "लोकोक्ति का आशय है कि जल्दबाजी में किया गया कार्य खराब हो सकता है।",
+      "i18n": {
+        "hi": {
+          "question": "‘जल्दी का काम शैतान का।’ का आशय है—",
+          "options": [
+            "जल्दबाजी में काम बिगड़ सकता है",
+            "जल्दी करना अच्छा है",
+            "काम नहीं करना चाहिए",
+            "शैतान काम करता है"
+          ],
+          "explanation": "लोकोक्ति का आशय है कि जल्दबाजी में किया गया कार्य खराब हो सकता है।"
+        },
+        "en": {
+          "question": "What is the meaning of the proverb ‘जल्दी का काम शैतान का’?",
+          "options": [
+            "Hasty work may go wrong",
+            "Haste is always good",
+            "One should not work",
+            "The devil works"
+          ],
+          "explanation": "The proverb conveys that work done in haste may be spoiled."
+        }
+      }
+    },
+    {
+      "id": 27,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘माता-पिता’ में कौन-सा समास है?",
+      "options": [
+        "कर्मधारय",
+        "तत्पुरुष",
+        "बहुव्रीहि",
+        "द्वंद्व"
+      ],
+      "answer": 3,
+      "explanation": "माता और पिता — दोनों पद समान रूप से प्रधान हैं, इसलिए द्वंद्व समास है।",
+      "i18n": {
+        "hi": {
+          "question": "‘माता-पिता’ में कौन-सा समास है?",
+          "options": [
+            "कर्मधारय",
+            "तत्पुरुष",
+            "बहुव्रीहि",
+            "द्वंद्व"
+          ],
+          "explanation": "माता और पिता — दोनों पद समान रूप से प्रधान हैं, इसलिए द्वंद्व समास है।"
+        },
+        "en": {
+          "question": "Which compound is ‘माता-पिता’?",
+          "options": [
+            "Karmadharaya",
+            "Tatpurusha",
+            "Bahuvrihi",
+            "Dvandva"
+          ],
+          "explanation": "Both components are equally important, so it is a Dvandva compound."
+        }
+      }
+    },
+    {
+      "id": 28,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘कमल’ का पर्यायवाची कौन-सा है?",
+      "options": [
+        "पंकज",
+        "पर्वत",
+        "पल्लव",
+        "पवन"
+      ],
+      "answer": 0,
+      "explanation": "पंकज कमल का पर्यायवाची है।",
+      "i18n": {
+        "hi": {
+          "question": "‘कमल’ का पर्यायवाची कौन-सा है?",
+          "options": [
+            "पंकज",
+            "पर्वत",
+            "पल्लव",
+            "पवन"
+          ],
+          "explanation": "पंकज कमल का पर्यायवाची है।"
+        },
+        "en": {
+          "question": "Which is a synonym of ‘कमल’?",
+          "options": [
+            "पंकज",
+            "Mountain",
+            "Leaf",
+            "Wind"
+          ],
+          "explanation": "‘पंकज’ is a synonym of ‘कमल’."
+        }
+      }
+    },
+    {
+      "id": 29,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘अंधकार’ का विलोम शब्द है—",
+      "options": [
+        "रात्रि",
+        "छाया",
+        "प्रकाश",
+        "सूर्य"
+      ],
+      "answer": 2,
+      "explanation": "अंधकार का विलोम प्रकाश है।",
+      "i18n": {
+        "hi": {
+          "question": "‘अंधकार’ का विलोम शब्द है—",
+          "options": [
+            "रात्रि",
+            "छाया",
+            "प्रकाश",
+            "सूर्य"
+          ],
+          "explanation": "अंधकार का विलोम प्रकाश है।"
+        },
+        "en": {
+          "question": "What is the antonym of ‘अंधकार’?",
+          "options": [
+            "Night",
+            "Shadow",
+            "Light",
+            "Sun"
+          ],
+          "explanation": "The antonym of ‘अंधकार’ is ‘प्रकाश’."
+        }
+      }
+    },
+    {
+      "id": 30,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘राम द्वारा पत्र लिखा गया।’ कौन-सा वाच्य है?",
+      "options": [
+        "कर्तृवाच्य",
+        "भाववाच्य",
+        "कर्मवाच्य",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "यहाँ कर्म ‘पत्र’ प्रधान है और क्रिया कर्म के अनुसार है, इसलिए कर्मवाच्य है।",
+      "i18n": {
+        "hi": {
+          "question": "‘राम द्वारा पत्र लिखा गया।’ कौन-सा वाच्य है?",
+          "options": [
+            "कर्तृवाच्य",
+            "भाववाच्य",
+            "कर्मवाच्य",
+            "इनमें से कोई नहीं"
+          ],
+          "explanation": "यहाँ कर्म ‘पत्र’ प्रधान है और क्रिया कर्म के अनुसार है, इसलिए कर्मवाच्य है।"
+        },
+        "en": {
+          "question": "Which voice is used in ‘राम द्वारा पत्र लिखा गया’?",
+          "options": [
+            "Active",
+            "Impersonal",
+            "Passive",
+            "None"
+          ],
+          "explanation": "The object ‘पत्र’ is prominent and the sentence is passive."
+        }
+      }
+    },
+    {
+      "id": 31,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘हिमालय’ का संधि-विच्छेद क्या है?",
+      "options": [
+        "हिम + आलय",
+        "हिमा + लय",
+        "हिम + लय",
+        "हि + मालय"
+      ],
+      "answer": 0,
+      "explanation": "हिमालय = हिम + आलय।",
+      "i18n": {
+        "hi": {
+          "question": "‘हिमालय’ का संधि-विच्छेद क्या है?",
+          "options": [
+            "हिम + आलय",
+            "हिमा + लय",
+            "हिम + लय",
+            "हि + मालय"
+          ],
+          "explanation": "हिमालय = हिम + आलय।"
+        },
+        "en": {
+          "question": "What is the Sandhi-viched of ‘हिमालय’?",
+          "options": [
+            "हिम + आलय",
+            "हिमा + लय",
+            "हिम + लय",
+            "हि + मालय"
+          ],
+          "explanation": "हिमालय is formed from हिम + आलय."
+        }
+      }
+    },
+    {
+      "id": 32,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘जो दूसरों का भला करता है’ के लिए एक शब्द है—",
+      "options": [
+        "स्वार्थी",
+        "परोपकारी",
+        "अज्ञानी",
+        "निर्दयी"
+      ],
+      "answer": 1,
+      "explanation": "दूसरों का हित करने वाला परोपकारी कहलाता है।",
+      "i18n": {
+        "hi": {
+          "question": "‘जो दूसरों का भला करता है’ के लिए एक शब्द है—",
+          "options": [
+            "स्वार्थी",
+            "परोपकारी",
+            "अज्ञानी",
+            "निर्दयी"
+          ],
+          "explanation": "दूसरों का हित करने वाला परोपकारी कहलाता है।"
+        },
+        "en": {
+          "question": "What is the one-word term for ‘one who works for the welfare of others’?",
+          "options": [
+            "Selfish",
+            "Benevolent",
+            "Ignorant",
+            "Cruel"
+          ],
+          "explanation": "A person who works for others' welfare is called ‘परोपकारी’."
+        }
+      }
+    },
+    {
+      "id": 33,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘वह स्वयं अपना काम करता है।’ में ‘स्वयं’ कौन-सा सर्वनाम है?",
+      "options": [
+        "निजवाचक",
+        "प्रश्नवाचक",
+        "संबंधवाचक",
+        "अनिश्चयवाचक"
+      ],
+      "answer": 0,
+      "explanation": "‘स्वयं’ अपने ही लिए प्रयुक्त हुआ है, इसलिए निजवाचक सर्वनाम है।",
+      "i18n": {
+        "hi": {
+          "question": "‘वह स्वयं अपना काम करता है।’ में ‘स्वयं’ कौन-सा सर्वनाम है?",
+          "options": [
+            "निजवाचक",
+            "प्रश्नवाचक",
+            "संबंधवाचक",
+            "अनिश्चयवाचक"
+          ],
+          "explanation": "‘स्वयं’ अपने ही लिए प्रयुक्त हुआ है, इसलिए निजवाचक सर्वनाम है।"
+        },
+        "en": {
+          "question": "What type of pronoun is ‘स्वयं’ in the sentence?",
+          "options": [
+            "Reflexive",
+            "Interrogative",
+            "Relative",
+            "Indefinite"
+          ],
+          "explanation": "‘स्वयं’ refers back to the subject, so it is reflexive."
+        }
+      }
+    },
+    {
+      "id": 34,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘बालक ने गेंद फेंकी।’ में ‘गेंद’ कौन-सा कारक है?",
+      "options": [
+        "कर्ता",
+        "करण",
+        "कर्म",
+        "अधिकरण"
+      ],
+      "answer": 2,
+      "explanation": "जिस पर क्रिया का प्रभाव पड़ता है, वह कर्म कारक होता है।",
+      "i18n": {
+        "hi": {
+          "question": "‘बालक ने गेंद फेंकी।’ में ‘गेंद’ कौन-सा कारक है?",
+          "options": [
+            "कर्ता",
+            "करण",
+            "कर्म",
+            "अधिकरण"
+          ],
+          "explanation": "जिस पर क्रिया का प्रभाव पड़ता है, वह कर्म कारक होता है।"
+        },
+        "en": {
+          "question": "In ‘बालक ने गेंद फेंकी’, what case is ‘गेंद’?",
+          "options": [
+            "Agent",
+            "Instrument",
+            "Object",
+            "Locative"
+          ],
+          "explanation": "The object affected by the action is the कर्म or object."
+        }
+      }
+    },
+    {
+      "id": 35,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘चाँद मुस्कुरा रहा है।’ में कौन-सा अलंकार है?",
+      "options": [
+        "यमक",
+        "उपमा",
+        "अनुप्रास",
+        "मानवीकरण"
+      ],
+      "answer": 3,
+      "explanation": "चाँद को मानव का गुण ‘मुस्कुराना’ दिया गया है, इसलिए मानवीकरण अलंकार है।",
+      "i18n": {
+        "hi": {
+          "question": "‘चाँद मुस्कुरा रहा है।’ में कौन-सा अलंकार है?",
+          "options": [
+            "यमक",
+            "उपमा",
+            "अनुप्रास",
+            "मानवीकरण"
+          ],
+          "explanation": "चाँद को मानव का गुण ‘मुस्कुराना’ दिया गया है, इसलिए मानवीकरण अलंकार है।"
+        },
+        "en": {
+          "question": "Which figure of speech is used in ‘चाँद मुस्कुरा रहा है’?",
+          "options": [
+            "Yamaka",
+            "Simile",
+            "Alliteration",
+            "Personification"
+          ],
+          "explanation": "The moon is given the human quality of smiling, so it is personification."
+        }
+      }
+    },
+    {
+      "id": 36,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘दूध का दूध, पानी का पानी’ का अर्थ है—",
+      "options": [
+        "दूध पीना",
+        "सही न्याय करना",
+        "पानी बचाना",
+        "बहुत मेहनत करना"
+      ],
+      "answer": 1,
+      "explanation": "इसका अर्थ है वास्तविकता स्पष्ट कर देना या उचित न्याय करना।",
+      "i18n": {
+        "hi": {
+          "question": "‘दूध का दूध, पानी का पानी’ का अर्थ है—",
+          "options": [
+            "दूध पीना",
+            "सही न्याय करना",
+            "पानी बचाना",
+            "बहुत मेहनत करना"
+          ],
+          "explanation": "इसका अर्थ है वास्तविकता स्पष्ट कर देना या उचित न्याय करना।"
+        },
+        "en": {
+          "question": "What does ‘दूध का दूध, पानी का पानी’ mean?",
+          "options": [
+            "To drink milk",
+            "To establish the truth fairly",
+            "To save water",
+            "To work hard"
+          ],
+          "explanation": "It means to make the truth clear and establish what is right."
+        }
+      }
+    },
+    {
+      "id": 37,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘अत्यधिक’ शब्द में कौन-सा उपसर्ग है?",
+      "options": [
+        "अति",
+        "अत्य",
+        "अधि",
+        "अ"
+      ],
+      "answer": 0,
+      "explanation": "अति + अधिक से अत्यधिक बना है; ‘अति’ उपसर्ग है।",
+      "i18n": {
+        "hi": {
+          "question": "‘अत्यधिक’ शब्द में कौन-सा उपसर्ग है?",
+          "options": [
+            "अति",
+            "अत्य",
+            "अधि",
+            "अ"
+          ],
+          "explanation": "अति + अधिक से अत्यधिक बना है; ‘अति’ उपसर्ग है।"
+        },
+        "en": {
+          "question": "Which prefix occurs in ‘अत्यधिक’?",
+          "options": [
+            "अति",
+            "अत्य",
+            "अधि",
+            "अ"
+          ],
+          "explanation": "The prefix is ‘अति’."
+        }
+      }
+    },
+    {
+      "id": 38,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘मित्रता’ में कौन-सा प्रत्यय है?",
+      "options": [
+        "मित्र",
+        "त्र",
+        "ता",
+        "इत्र"
+      ],
+      "answer": 2,
+      "explanation": "मित्र + ता = मित्रता। ‘ता’ प्रत्यय है।",
+      "i18n": {
+        "hi": {
+          "question": "‘मित्रता’ में कौन-सा प्रत्यय है?",
+          "options": [
+            "मित्र",
+            "त्र",
+            "ता",
+            "इत्र"
+          ],
+          "explanation": "मित्र + ता = मित्रता। ‘ता’ प्रत्यय है।"
+        },
+        "en": {
+          "question": "Which suffix is used in ‘मित्रता’?",
+          "options": [
+            "मित्र",
+            "त्र",
+            "ता",
+            "इत्र"
+          ],
+          "explanation": "मित्र + ता forms मित्रता, so ‘ता’ is the suffix."
+        }
+      }
+    },
+    {
+      "id": 39,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘पृथ्वी’ का पर्यायवाची है—",
+      "options": [
+        "धरा",
+        "गगन",
+        "नीर",
+        "अनल"
+      ],
+      "answer": 0,
+      "explanation": "धरा पृथ्वी का पर्यायवाची शब्द है।",
+      "i18n": {
+        "hi": {
+          "question": "‘पृथ्वी’ का पर्यायवाची है—",
+          "options": [
+            "धरा",
+            "गगन",
+            "नीर",
+            "अनल"
+          ],
+          "explanation": "धरा पृथ्वी का पर्यायवाची शब्द है।"
+        },
+        "en": {
+          "question": "Which is a synonym of ‘पृथ्वी’?",
+          "options": [
+            "धरा",
+            "Sky",
+            "Water",
+            "Fire"
+          ],
+          "explanation": "‘धरा’ is a synonym of ‘पृथ्वी’."
+        }
+      }
+    },
+    {
+      "id": 40,
+      "type": "single_choice",
+      "section": "hindi",
+      "question": "‘मैं कल विद्यालय जाऊँगा।’ में कौन-सा काल है?",
+      "options": [
+        "वर्तमान",
+        "भूत",
+        "अपूर्ण भूत",
+        "भविष्यत्"
+      ],
+      "answer": 3,
+      "explanation": "‘जाऊँगा’ भविष्य में होने वाले कार्य को दर्शाता है।",
+      "i18n": {
+        "hi": {
+          "question": "‘मैं कल विद्यालय जाऊँगा।’ में कौन-सा काल है?",
+          "options": [
+            "वर्तमान",
+            "भूत",
+            "अपूर्ण भूत",
+            "भविष्यत्"
+          ],
+          "explanation": "‘जाऊँगा’ भविष्य में होने वाले कार्य को दर्शाता है।"
+        },
+        "en": {
+          "question": "Which tense is used in ‘मैं कल विद्यालय जाऊँगा’?",
+          "options": [
+            "Present",
+            "Past",
+            "Past continuous",
+            "Future"
+          ],
+          "explanation": "‘जाऊँगा’ indicates an action that will happen in the future."
+        }
+      }
+    },
+    {
+      "id": 41,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘रामः पठति।’ वाक्य में कर्ता कौन है?",
+      "options": [
+        "रामः",
+        "पठति",
+        "वाक्यम्",
+        "कोऽपि नहीं"
+      ],
+      "answer": 0,
+      "explanation": "‘रामः’ कार्य करने वाला कर्ता है।",
+      "i18n": {
+        "hi": {
+          "question": "‘रामः पठति।’ वाक्य में कर्ता कौन है?",
+          "options": [
+            "रामः",
+            "पठति",
+            "वाक्यम्",
+            "कोऽपि नहीं"
+          ],
+          "explanation": "‘रामः’ कार्य करने वाला कर्ता है।"
+        },
+        "en": {
+          "question": "Who is the subject in ‘रामः पठति’?",
+          "options": [
+            "रामः",
+            "पठति",
+            "वाक्यम्",
+            "None"
+          ],
+          "explanation": "‘रामः’ is the person performing the action."
+        }
+      }
+    },
+    {
+      "id": 42,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘बालकः’ शब्द का स्त्रीलिंग रूप क्या है?",
+      "options": [
+        "बालिकः",
+        "बालकम्",
+        "बालकाः",
+        "बालिका"
+      ],
+      "answer": 3,
+      "explanation": "‘बालकः’ का स्त्रीलिंग रूप ‘बालिका’ है।",
+      "i18n": {
+        "hi": {
+          "question": "‘बालकः’ शब्द का स्त्रीलिंग रूप क्या है?",
+          "options": [
+            "बालिकः",
+            "बालकम्",
+            "बालकाः",
+            "बालिका"
+          ],
+          "explanation": "‘बालकः’ का स्त्रीलिंग रूप ‘बालिका’ है।"
+        },
+        "en": {
+          "question": "What is the feminine form of ‘बालकः’?",
+          "options": [
+            "बालिकः",
+            "बालकम्",
+            "बालकाः",
+            "बालिका"
+          ],
+          "explanation": "The feminine form of ‘बालकः’ is ‘बालिका’."
+        }
+      }
+    },
+    {
+      "id": 43,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘फलम्’ शब्द का बहुवचन क्या है?",
+      "options": [
+        "फलः",
+        "फलम्",
+        "फले",
+        "फलानि"
+      ],
+      "answer": 3,
+      "explanation": "नपुंसकलिंग ‘फलम्’ का बहुवचन ‘फलानि’ है।",
+      "i18n": {
+        "hi": {
+          "question": "‘फलम्’ शब्द का बहुवचन क्या है?",
+          "options": [
+            "फलः",
+            "फलम्",
+            "फले",
+            "फलानि"
+          ],
+          "explanation": "नपुंसकलिंग ‘फलम्’ का बहुवचन ‘फलानि’ है।"
+        },
+        "en": {
+          "question": "What is the plural form of ‘फलम्’?",
+          "options": [
+            "फलः",
+            "फलम्",
+            "फले",
+            "फलानि"
+          ],
+          "explanation": "The plural of neuter ‘फलम्’ is ‘फलानि’."
+        }
+      }
+    },
+    {
+      "id": 44,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘रामेण’ में कौन-सी विभक्ति है?",
+      "options": [
+        "तृतीया",
+        "द्वितीया",
+        "प्रथमा",
+        "चतुर्थी"
+      ],
+      "answer": 0,
+      "explanation": "‘रामेण’ तृतीया विभक्ति का रूप है।",
+      "i18n": {
+        "hi": {
+          "question": "‘रामेण’ में कौन-सी विभक्ति है?",
+          "options": [
+            "तृतीया",
+            "द्वितीया",
+            "प्रथमा",
+            "चतुर्थी"
+          ],
+          "explanation": "‘रामेण’ तृतीया विभक्ति का रूप है।"
+        },
+        "en": {
+          "question": "Which case is ‘रामेण’?",
+          "options": [
+            "Instrumental",
+            "Accusative",
+            "Nominative",
+            "Dative"
+          ],
+          "explanation": "‘रामेण’ is the instrumental case form."
+        }
+      }
+    },
+    {
+      "id": 45,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘गच्छति’ किस धातु से बना है?",
+      "options": [
+        "पठ्",
+        "गम्",
+        "भू",
+        "कृ"
+      ],
+      "answer": 1,
+      "explanation": "‘गच्छति’ गम् धातु का लट् लकार, प्रथम पुरुष एकवचन रूप है।",
+      "i18n": {
+        "hi": {
+          "question": "‘गच्छति’ किस धातु से बना है?",
+          "options": [
+            "पठ्",
+            "गम्",
+            "भू",
+            "कृ"
+          ],
+          "explanation": "‘गच्छति’ गम् धातु का लट् लकार, प्रथम पुरुष एकवचन रूप है।"
+        },
+        "en": {
+          "question": "From which root is ‘गच्छति’ derived?",
+          "options": [
+            "पठ्",
+            "गम्",
+            "भू",
+            "कृ"
+          ],
+          "explanation": "‘गच्छति’ is a present-tense form of the root ‘गम्’."
+        }
+      }
+    },
+    {
+      "id": 46,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘पठति’ का अर्थ क्या है?",
+      "options": [
+        "लिखता है",
+        "खाता है",
+        "जाता है",
+        "पढ़ता है"
+      ],
+      "answer": 3,
+      "explanation": "‘पठति’ का अर्थ है ‘पढ़ता है’।",
+      "i18n": {
+        "hi": {
+          "question": "‘पठति’ का अर्थ क्या है?",
+          "options": [
+            "लिखता है",
+            "खाता है",
+            "जाता है",
+            "पढ़ता है"
+          ],
+          "explanation": "‘पठति’ का अर्थ है ‘पढ़ता है’।"
+        },
+        "en": {
+          "question": "What does ‘पठति’ mean?",
+          "options": [
+            "Writes",
+            "Eats",
+            "Goes",
+            "Reads/studies"
+          ],
+          "explanation": "‘पठति’ means ‘reads/studies’."
+        }
+      }
+    },
+    {
+      "id": 47,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘रामः वनं गच्छति।’ में ‘वनम्’ कौन-सी विभक्ति है?",
+      "options": [
+        "प्रथमा",
+        "द्वितीया",
+        "तृतीया",
+        "सप्तमी"
+      ],
+      "answer": 1,
+      "explanation": "‘वनम्’ यहाँ गमन की दिशा/कर्म के रूप में द्वितीया विभक्ति में है।",
+      "i18n": {
+        "hi": {
+          "question": "‘रामः वनं गच्छति।’ में ‘वनम्’ कौन-सी विभक्ति है?",
+          "options": [
+            "प्रथमा",
+            "द्वितीया",
+            "तृतीया",
+            "सप्तमी"
+          ],
+          "explanation": "‘वनम्’ यहाँ गमन की दिशा/कर्म के रूप में द्वितीया विभक्ति में है।"
+        },
+        "en": {
+          "question": "Which case is ‘वनम्’ in ‘रामः वनं गच्छति’?",
+          "options": [
+            "Nominative",
+            "Accusative",
+            "Instrumental",
+            "Locative"
+          ],
+          "explanation": "‘वनम्’ is used in the accusative case with the verb of going."
+        }
+      }
+    },
+    {
+      "id": 48,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘देवालयः’ का सही संधि-विच्छेद क्या है?",
+      "options": [
+        "देव + आलयः",
+        "देवा + लयः",
+        "देव + लयः",
+        "दे + वालयः"
+      ],
+      "answer": 0,
+      "explanation": "देवालयः = देव + आलयः।",
+      "i18n": {
+        "hi": {
+          "question": "‘देवालयः’ का सही संधि-विच्छेद क्या है?",
+          "options": [
+            "देव + आलयः",
+            "देवा + लयः",
+            "देव + लयः",
+            "दे + वालयः"
+          ],
+          "explanation": "देवालयः = देव + आलयः।"
+        },
+        "en": {
+          "question": "What is the correct Sandhi-viched of ‘देवालयः’?",
+          "options": [
+            "देव + आलयः",
+            "देवा + लयः",
+            "देव + लयः",
+            "दे + वालयः"
+          ],
+          "explanation": "देवालयः is formed from देव + आलयः."
+        }
+      }
+    },
+    {
+      "id": 49,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘राजपुत्रः’ में कौन-सा समास है?",
+      "options": [
+        "द्वंद्व",
+        "बहुव्रीहि",
+        "तत्पुरुष",
+        "अव्ययीभाव"
+      ],
+      "answer": 2,
+      "explanation": "राज्ञः पुत्रः — संबंध तत्पुरुष समास है।",
+      "i18n": {
+        "hi": {
+          "question": "‘राजपुत्रः’ में कौन-सा समास है?",
+          "options": [
+            "द्वंद्व",
+            "बहुव्रीहि",
+            "तत्पुरुष",
+            "अव्ययीभाव"
+          ],
+          "explanation": "राज्ञः पुत्रः — संबंध तत्पुरुष समास है।"
+        },
+        "en": {
+          "question": "Which compound is ‘राजपुत्रः’?",
+          "options": [
+            "Dvandva",
+            "Bahuvrihi",
+            "Tatpurusha",
+            "Avyayibhava"
+          ],
+          "explanation": "It means ‘son of the king’, making it a Tatpurusha compound."
+        }
+      }
+    },
+    {
+      "id": 50,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘अहम्’ का अर्थ क्या है?",
+      "options": [
+        "तुम",
+        "हम",
+        "वह",
+        "मैं"
+      ],
+      "answer": 3,
+      "explanation": "‘अहम्’ का अर्थ ‘मैं’ है।",
+      "i18n": {
+        "hi": {
+          "question": "‘अहम्’ का अर्थ क्या है?",
+          "options": [
+            "तुम",
+            "हम",
+            "वह",
+            "मैं"
+          ],
+          "explanation": "‘अहम्’ का अर्थ ‘मैं’ है।"
+        },
+        "en": {
+          "question": "What does ‘अहम्’ mean?",
+          "options": [
+            "You",
+            "We",
+            "He/She",
+            "I"
+          ],
+          "explanation": "‘अहम्’ means ‘I’."
+        }
+      }
+    },
+    {
+      "id": 51,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘वयम्’ का अर्थ है—",
+      "options": [
+        "मैं",
+        "तुम",
+        "हम",
+        "वे"
+      ],
+      "answer": 2,
+      "explanation": "‘वयम्’ का अर्थ ‘हम’ है।",
+      "i18n": {
+        "hi": {
+          "question": "‘वयम्’ का अर्थ है—",
+          "options": [
+            "मैं",
+            "तुम",
+            "हम",
+            "वे"
+          ],
+          "explanation": "‘वयम्’ का अर्थ ‘हम’ है।"
+        },
+        "en": {
+          "question": "What does ‘वयम्’ mean?",
+          "options": [
+            "I",
+            "You",
+            "We",
+            "They"
+          ],
+          "explanation": "‘वयम्’ means ‘we’."
+        }
+      }
+    },
+    {
+      "id": 52,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘भवति’ किस पुरुष का रूप है?",
+      "options": [
+        "द्वितीय पुरुष",
+        "मध्यम पुरुष",
+        "उत्तम पुरुष",
+        "प्रथम पुरुष"
+      ],
+      "answer": 3,
+      "explanation": "भवति प्रथम पुरुष एकवचन का रूप है।",
+      "i18n": {
+        "hi": {
+          "question": "‘भवति’ किस पुरुष का रूप है?",
+          "options": [
+            "द्वितीय पुरुष",
+            "मध्यम पुरुष",
+            "उत्तम पुरुष",
+            "प्रथम पुरुष"
+          ],
+          "explanation": "भवति प्रथम पुरुष एकवचन का रूप है।"
+        },
+        "en": {
+          "question": "Which person is the form ‘भवति’?",
+          "options": [
+            "Second person",
+            "Second person",
+            "First person",
+            "Third person"
+          ],
+          "explanation": "‘भवति’ is a third-person singular form."
+        }
+      }
+    },
+    {
+      "id": 53,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘पुस्तकं पठ’ में ‘पठ’ कौन-सा लकार है?",
+      "options": [
+        "लट्",
+        "लङ्",
+        "लोट्",
+        "लृट्"
+      ],
+      "answer": 2,
+      "explanation": "आज्ञा या आदेश के लिए लोट् लकार का प्रयोग होता है।",
+      "i18n": {
+        "hi": {
+          "question": "‘पुस्तकं पठ’ में ‘पठ’ कौन-सा लकार है?",
+          "options": [
+            "लट्",
+            "लङ्",
+            "लोट्",
+            "लृट्"
+          ],
+          "explanation": "आज्ञा या आदेश के लिए लोट् लकार का प्रयोग होता है।"
+        },
+        "en": {
+          "question": "Which Lakara is used in ‘पुस्तकं पठ’?",
+          "options": [
+            "Lat",
+            "Lang",
+            "Lot",
+            "Lrit"
+          ],
+          "explanation": "Lot Lakara is used to express commands or requests."
+        }
+      }
+    },
+    {
+      "id": 54,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘सुन्दरः बालकः’ में ‘सुन्दरः’ क्या है?",
+      "options": [
+        "क्रिया",
+        "विशेषण",
+        "सर्वनाम",
+        "अव्यय"
+      ],
+      "answer": 1,
+      "explanation": "‘सुन्दरः’ बालक के गुण को बताता है, इसलिए यह विशेषण है।",
+      "i18n": {
+        "hi": {
+          "question": "‘सुन्दरः बालकः’ में ‘सुन्दरः’ क्या है?",
+          "options": [
+            "क्रिया",
+            "विशेषण",
+            "सर्वनाम",
+            "अव्यय"
+          ],
+          "explanation": "‘सुन्दरः’ बालक के गुण को बताता है, इसलिए यह विशेषण है।"
+        },
+        "en": {
+          "question": "What is ‘सुन्दरः’ in ‘सुन्दरः बालकः’?",
+          "options": [
+            "Verb",
+            "Adjective",
+            "Pronoun",
+            "Indeclinable"
+          ],
+          "explanation": "‘सुन्दरः’ describes the boy, so it is an adjective."
+        }
+      }
+    },
+    {
+      "id": 55,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘गुरवे नमः’ में ‘गुरवे’ कौन-सी विभक्ति है?",
+      "options": [
+        "द्वितीया",
+        "तृतीया",
+        "चतुर्थी",
+        "पञ्चमी"
+      ],
+      "answer": 2,
+      "explanation": "‘नमः’ के साथ चतुर्थी विभक्ति का प्रयोग होता है।",
+      "i18n": {
+        "hi": {
+          "question": "‘गुरवे नमः’ में ‘गुरवे’ कौन-सी विभक्ति है?",
+          "options": [
+            "द्वितीया",
+            "तृतीया",
+            "चतुर्थी",
+            "पञ्चमी"
+          ],
+          "explanation": "‘नमः’ के साथ चतुर्थी विभक्ति का प्रयोग होता है।"
+        },
+        "en": {
+          "question": "Which case is ‘गुरवे’ in ‘गुरवे नमः’?",
+          "options": [
+            "Accusative",
+            "Instrumental",
+            "Dative",
+            "Ablative"
+          ],
+          "explanation": "The dative case is used with ‘नमः’."
+        }
+      }
+    },
+    {
+      "id": 56,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘विद्यालये छात्राः पठन्ति।’ में ‘विद्यालये’ कौन-सी विभक्ति है?",
+      "options": [
+        "प्रथमा",
+        "द्वितीया",
+        "षष्ठी",
+        "सप्तमी"
+      ],
+      "answer": 3,
+      "explanation": "स्थान के अर्थ में ‘विद्यालये’ सप्तमी विभक्ति है।",
+      "i18n": {
+        "hi": {
+          "question": "‘विद्यालये छात्राः पठन्ति।’ में ‘विद्यालये’ कौन-सी विभक्ति है?",
+          "options": [
+            "प्रथमा",
+            "द्वितीया",
+            "षष्ठी",
+            "सप्तमी"
+          ],
+          "explanation": "स्थान के अर्थ में ‘विद्यालये’ सप्तमी विभक्ति है।"
+        },
+        "en": {
+          "question": "Which case is ‘विद्यालये’ in the sentence?",
+          "options": [
+            "Nominative",
+            "Accusative",
+            "Genitive",
+            "Locative"
+          ],
+          "explanation": "It indicates location, so it is locative."
+        }
+      }
+    },
+    {
+      "id": 57,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘रामस्य पुस्तकं’ में ‘रामस्य’ कौन-सी विभक्ति है?",
+      "options": [
+        "तृतीया",
+        "चतुर्थी",
+        "षष्ठी",
+        "सप्तमी"
+      ],
+      "answer": 2,
+      "explanation": "‘रामस्य’ संबंध बताता है, इसलिए षष्ठी विभक्ति है।",
+      "i18n": {
+        "hi": {
+          "question": "‘रामस्य पुस्तकं’ में ‘रामस्य’ कौन-सी विभक्ति है?",
+          "options": [
+            "तृतीया",
+            "चतुर्थी",
+            "षष्ठी",
+            "सप्तमी"
+          ],
+          "explanation": "‘रामस्य’ संबंध बताता है, इसलिए षष्ठी विभक्ति है।"
+        },
+        "en": {
+          "question": "Which case is ‘रामस्य’ in ‘रामस्य पुस्तकं’?",
+          "options": [
+            "Instrumental",
+            "Dative",
+            "Genitive",
+            "Locative"
+          ],
+          "explanation": "It expresses possession/relationship, so it is genitive."
+        }
+      }
+    },
+    {
+      "id": 58,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘अश्वः धावति।’ का सही अर्थ है—",
+      "options": [
+        "घोड़ा दौड़ता है",
+        "घोड़ा खाता है",
+        "घोड़ा सोता है",
+        "घोड़ा चलता नहीं"
+      ],
+      "answer": 0,
+      "explanation": "‘अश्वः’ = घोड़ा और ‘धावति’ = दौड़ता है।",
+      "i18n": {
+        "hi": {
+          "question": "‘अश्वः धावति।’ का सही अर्थ है—",
+          "options": [
+            "घोड़ा दौड़ता है",
+            "घोड़ा खाता है",
+            "घोड़ा सोता है",
+            "घोड़ा चलता नहीं"
+          ],
+          "explanation": "‘अश्वः’ = घोड़ा और ‘धावति’ = दौड़ता है।"
+        },
+        "en": {
+          "question": "What is the meaning of ‘अश्वः धावति’?",
+          "options": [
+            "The horse runs",
+            "The horse eats",
+            "The horse sleeps",
+            "The horse does not walk"
+          ],
+          "explanation": "‘अश्वः’ means horse and ‘धावति’ means runs."
+        }
+      }
+    },
+    {
+      "id": 59,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘नदी’ शब्द किस लिंग का है?",
+      "options": [
+        "पुल्लिंग",
+        "स्त्रीलिंग",
+        "नपुंसकलिंग",
+        "उभयलिंग"
+      ],
+      "answer": 1,
+      "explanation": "‘नदी’ स्त्रीलिंग शब्द है।",
+      "i18n": {
+        "hi": {
+          "question": "‘नदी’ शब्द किस लिंग का है?",
+          "options": [
+            "पुल्लिंग",
+            "स्त्रीलिंग",
+            "नपुंसकलिंग",
+            "उभयलिंग"
+          ],
+          "explanation": "‘नदी’ स्त्रीलिंग शब्द है।"
+        },
+        "en": {
+          "question": "What gender is the Sanskrit word ‘नदी’?",
+          "options": [
+            "Masculine",
+            "Feminine",
+            "Neuter",
+            "Common"
+          ],
+          "explanation": "‘नदी’ is a feminine noun."
+        }
+      }
+    },
+    {
+      "id": 60,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘अत्र’ का अर्थ है—",
+      "options": [
+        "वहाँ",
+        "कब",
+        "यहाँ",
+        "क्यों"
+      ],
+      "answer": 2,
+      "explanation": "‘अत्र’ का अर्थ ‘यहाँ’ है।",
+      "i18n": {
+        "hi": {
+          "question": "‘अत्र’ का अर्थ है—",
+          "options": [
+            "वहाँ",
+            "कब",
+            "यहाँ",
+            "क्यों"
+          ],
+          "explanation": "‘अत्र’ का अर्थ ‘यहाँ’ है।"
+        },
+        "en": {
+          "question": "What does ‘अत्र’ mean?",
+          "options": [
+            "There",
+            "When",
+            "Here",
+            "Why"
+          ],
+          "explanation": "‘अत्र’ means ‘here’."
+        }
+      }
+    },
+    {
+      "id": 61,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘कदा’ का अर्थ क्या है?",
+      "options": [
+        "कहाँ",
+        "कौन",
+        "कब",
+        "क्या"
+      ],
+      "answer": 2,
+      "explanation": "‘कदा’ प्रश्नवाचक अव्यय है जिसका अर्थ ‘कब’ है।",
+      "i18n": {
+        "hi": {
+          "question": "‘कदा’ का अर्थ क्या है?",
+          "options": [
+            "कहाँ",
+            "कौन",
+            "कब",
+            "क्या"
+          ],
+          "explanation": "‘कदा’ प्रश्नवाचक अव्यय है जिसका अर्थ ‘कब’ है।"
+        },
+        "en": {
+          "question": "What does ‘कदा’ mean?",
+          "options": [
+            "Where",
+            "Who",
+            "When",
+            "What"
+          ],
+          "explanation": "‘कदा’ is an interrogative adverb meaning ‘when’."
+        }
+      }
+    },
+    {
+      "id": 62,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘बालकाः क्रीडन्ति।’ में क्रिया कौन-सी है?",
+      "options": [
+        "बालकाः",
+        "क्रीडन्ति",
+        "दोनों",
+        "कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "‘क्रीडन्ति’ क्रिया है, जिसका अर्थ है ‘खेलते हैं’।",
+      "i18n": {
+        "hi": {
+          "question": "‘बालकाः क्रीडन्ति।’ में क्रिया कौन-सी है?",
+          "options": [
+            "बालकाः",
+            "क्रीडन्ति",
+            "दोनों",
+            "कोई नहीं"
+          ],
+          "explanation": "‘क्रीडन्ति’ क्रिया है, जिसका अर्थ है ‘खेलते हैं’।"
+        },
+        "en": {
+          "question": "Which is the verb in ‘बालकाः क्रीडन्ति’?",
+          "options": [
+            "बालकाः",
+            "क्रीडन्ति",
+            "Both",
+            "None"
+          ],
+          "explanation": "‘क्रीडन्ति’ is the verb and means ‘play’."
+        }
+      }
+    },
+    {
+      "id": 63,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘पुत्रः’ का बहुवचन क्या है?",
+      "options": [
+        "पुत्रम्",
+        "पुत्राणि",
+        "पुत्रे",
+        "पुत्राः"
+      ],
+      "answer": 3,
+      "explanation": "‘पुत्रः’ का बहुवचन ‘पुत्राः’ है।",
+      "i18n": {
+        "hi": {
+          "question": "‘पुत्रः’ का बहुवचन क्या है?",
+          "options": [
+            "पुत्रम्",
+            "पुत्राणि",
+            "पुत्रे",
+            "पुत्राः"
+          ],
+          "explanation": "‘पुत्रः’ का बहुवचन ‘पुत्राः’ है।"
+        },
+        "en": {
+          "question": "What is the plural of ‘पुत्रः’?",
+          "options": [
+            "पुत्रम्",
+            "पुत्राणि",
+            "पुत्रे",
+            "पुत्राः"
+          ],
+          "explanation": "The plural form is ‘पुत्राः’."
+        }
+      }
+    },
+    {
+      "id": 64,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘सः पठति।’ में ‘सः’ क्या है?",
+      "options": [
+        "संज्ञा",
+        "क्रिया",
+        "विशेषण",
+        "सर्वनाम"
+      ],
+      "answer": 3,
+      "explanation": "‘सः’ पुरुषवाचक सर्वनाम है।",
+      "i18n": {
+        "hi": {
+          "question": "‘सः पठति।’ में ‘सः’ क्या है?",
+          "options": [
+            "संज्ञा",
+            "क्रिया",
+            "विशेषण",
+            "सर्वनाम"
+          ],
+          "explanation": "‘सः’ पुरुषवाचक सर्वनाम है।"
+        },
+        "en": {
+          "question": "What is ‘सः’ in ‘सः पठति’?",
+          "options": [
+            "Noun",
+            "Verb",
+            "Adjective",
+            "Pronoun"
+          ],
+          "explanation": "‘सः’ is a personal pronoun."
+        }
+      }
+    },
+    {
+      "id": 65,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘किम्’ किस प्रकार का शब्द है?",
+      "options": [
+        "प्रश्नवाचक सर्वनाम",
+        "क्रिया",
+        "विशेषण",
+        "अव्यय"
+      ],
+      "answer": 0,
+      "explanation": "‘किम्’ प्रश्न पूछने वाला सर्वनाम है।",
+      "i18n": {
+        "hi": {
+          "question": "‘किम्’ किस प्रकार का शब्द है?",
+          "options": [
+            "प्रश्नवाचक सर्वनाम",
+            "क्रिया",
+            "विशेषण",
+            "अव्यय"
+          ],
+          "explanation": "‘किम्’ प्रश्न पूछने वाला सर्वनाम है।"
+        },
+        "en": {
+          "question": "What type of word is ‘किम्’?",
+          "options": [
+            "Interrogative pronoun",
+            "Verb",
+            "Adjective",
+            "Indeclinable"
+          ],
+          "explanation": "‘किम्’ is an interrogative pronoun."
+        }
+      }
+    },
+    {
+      "id": 66,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘नमः’ के साथ सामान्यतः कौन-सी विभक्ति आती है?",
+      "options": [
+        "प्रथमा",
+        "द्वितीया",
+        "चतुर्थी",
+        "सप्तमी"
+      ],
+      "answer": 2,
+      "explanation": "संस्कृत में ‘नमः’ के साथ चतुर्थी विभक्ति का प्रयोग होता है।",
+      "i18n": {
+        "hi": {
+          "question": "‘नमः’ के साथ सामान्यतः कौन-सी विभक्ति आती है?",
+          "options": [
+            "प्रथमा",
+            "द्वितीया",
+            "चतुर्थी",
+            "सप्तमी"
+          ],
+          "explanation": "संस्कृत में ‘नमः’ के साथ चतुर्थी विभक्ति का प्रयोग होता है।"
+        },
+        "en": {
+          "question": "Which case is generally used with ‘नमः’?",
+          "options": [
+            "Nominative",
+            "Accusative",
+            "Dative",
+            "Locative"
+          ],
+          "explanation": "The dative case is generally used with ‘नमः’."
+        }
+      }
+    },
+    {
+      "id": 67,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘सूर्यः’ का पर्यायवाची कौन-सा है?",
+      "options": [
+        "रवि",
+        "शशि",
+        "पवन",
+        "वारि"
+      ],
+      "answer": 0,
+      "explanation": "रवि सूर्य का पर्यायवाची है।",
+      "i18n": {
+        "hi": {
+          "question": "‘सूर्यः’ का पर्यायवाची कौन-सा है?",
+          "options": [
+            "रवि",
+            "शशि",
+            "पवन",
+            "वारि"
+          ],
+          "explanation": "रवि सूर्य का पर्यायवाची है।"
+        },
+        "en": {
+          "question": "Which is a synonym of ‘सूर्यः’?",
+          "options": [
+            "रवि",
+            "Moon",
+            "Wind",
+            "Water"
+          ],
+          "explanation": "‘रवि’ is a synonym of the Sun."
+        }
+      }
+    },
+    {
+      "id": 68,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘शशि’ का अर्थ है—",
+      "options": [
+        "सूर्य",
+        "चन्द्रमा",
+        "पृथ्वी",
+        "आकाश"
+      ],
+      "answer": 1,
+      "explanation": "‘शशि’ चन्द्रमा का पर्यायवाची है।",
+      "i18n": {
+        "hi": {
+          "question": "‘शशि’ का अर्थ है—",
+          "options": [
+            "सूर्य",
+            "चन्द्रमा",
+            "पृथ्वी",
+            "आकाश"
+          ],
+          "explanation": "‘शशि’ चन्द्रमा का पर्यायवाची है।"
+        },
+        "en": {
+          "question": "What does ‘शशि’ mean?",
+          "options": [
+            "Sun",
+            "Moon",
+            "Earth",
+            "Sky"
+          ],
+          "explanation": "‘शशि’ is a name for the Moon."
+        }
+      }
+    },
+    {
+      "id": 69,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘भू’ धातु का सामान्य अर्थ है—",
+      "options": [
+        "होना",
+        "जाना",
+        "पढ़ना",
+        "खाना"
+      ],
+      "answer": 0,
+      "explanation": "‘भू’ धातु का अर्थ ‘होना’ या ‘भवित होना’ है।",
+      "i18n": {
+        "hi": {
+          "question": "‘भू’ धातु का सामान्य अर्थ है—",
+          "options": [
+            "होना",
+            "जाना",
+            "पढ़ना",
+            "खाना"
+          ],
+          "explanation": "‘भू’ धातु का अर्थ ‘होना’ या ‘भवित होना’ है।"
+        },
+        "en": {
+          "question": "What is the basic meaning of the root ‘भू’?",
+          "options": [
+            "To be/become",
+            "To go",
+            "To read",
+            "To eat"
+          ],
+          "explanation": "The root ‘भू’ means ‘to be’ or ‘to become’."
+        }
+      }
+    },
+    {
+      "id": 70,
+      "type": "single_choice",
+      "section": "sanskrit",
+      "question": "‘रामः पुस्तकं पठति।’ का कर्म कौन है?",
+      "options": [
+        "रामः",
+        "पुस्तकम्",
+        "पठति",
+        "कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "जिस वस्तु पर पढ़ने की क्रिया हो रही है, वह ‘पुस्तकम्’ कर्म है।",
+      "i18n": {
+        "hi": {
+          "question": "‘रामः पुस्तकं पठति।’ का कर्म कौन है?",
+          "options": [
+            "रामः",
+            "पुस्तकम्",
+            "पठति",
+            "कोई नहीं"
+          ],
+          "explanation": "जिस वस्तु पर पढ़ने की क्रिया हो रही है, वह ‘पुस्तकम्’ कर्म है।"
+        },
+        "en": {
+          "question": "What is the object in ‘रामः पुस्तकं पठति’?",
+          "options": [
+            "रामः",
+            "पुस्तकम्",
+            "पठति",
+            "None"
+          ],
+          "explanation": "‘पुस्तकम्’ is the object of the action."
+        }
+      }
+    },
+    {
+      "id": 71,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct plural form of ‘child’.",
+      "options": [
+        "Childs",
+        "Childes",
+        "Children",
+        "Childrens"
+      ],
+      "answer": 2,
+      "explanation": "The correct irregular plural of ‘child’ is ‘children’.",
+      "i18n": {
+        "hi": {
+          "question": "‘child’ का सही बहुवचन चुनिए।",
+          "options": [
+            "Childs",
+            "Childes",
+            "Children",
+            "Childrens"
+          ],
+          "explanation": "‘child’ का सही अनियमित बहुवचन ‘children’ है।"
+        },
+        "en": {
+          "question": "Choose the correct plural form of ‘child’.",
+          "options": [
+            "Childs",
+            "Childes",
+            "Children",
+            "Childrens"
+          ],
+          "explanation": "The correct irregular plural of ‘child’ is ‘children’."
+        }
+      }
+    },
+    {
+      "id": 72,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct article: ‘He is ___ honest man.’",
+      "options": [
+        "an",
+        "a",
+        "the",
+        "no article"
+      ],
+      "answer": 0,
+      "explanation": "‘Honest’ begins with a vowel sound, so ‘an’ is used.",
+      "i18n": {
+        "hi": {
+          "question": "सही article चुनिए: ‘He is ___ honest man.’",
+          "options": [
+            "an",
+            "a",
+            "the",
+            "no article"
+          ],
+          "explanation": "‘Honest’ की शुरुआत vowel sound से होती है, इसलिए ‘an’ का प्रयोग होगा।"
+        },
+        "en": {
+          "question": "Choose the correct article: ‘He is ___ honest man.’",
+          "options": [
+            "an",
+            "a",
+            "the",
+            "no article"
+          ],
+          "explanation": "‘Honest’ begins with a vowel sound, so ‘an’ is used."
+        }
+      }
+    },
+    {
+      "id": 73,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct tense: ‘She ___ to school every day.’",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "went"
+      ],
+      "answer": 1,
+      "explanation": "For a singular third-person subject in the simple present, ‘goes’ is correct.",
+      "i18n": {
+        "hi": {
+          "question": "सही tense चुनिए: ‘She ___ to school every day.’",
+          "options": [
+            "go",
+            "goes",
+            "going",
+            "went"
+          ],
+          "explanation": "Simple present में singular third-person subject के साथ ‘goes’ सही है।"
+        },
+        "en": {
+          "question": "Choose the correct tense: ‘She ___ to school every day.’",
+          "options": [
+            "go",
+            "goes",
+            "going",
+            "went"
+          ],
+          "explanation": "For a singular third-person subject in the simple present, ‘goes’ is correct."
+        }
+      }
+    },
+    {
+      "id": 74,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the synonym of ‘happy’.",
+      "options": [
+        "Sad",
+        "Angry",
+        "Joyful",
+        "Weak"
+      ],
+      "answer": 2,
+      "explanation": "‘Joyful’ means happy.",
+      "i18n": {
+        "hi": {
+          "question": "‘happy’ का synonym चुनिए।",
+          "options": [
+            "Sad",
+            "Angry",
+            "Joyful",
+            "Weak"
+          ],
+          "explanation": "‘Joyful’ का अर्थ happy अर्थात प्रसन्न होता है।"
+        },
+        "en": {
+          "question": "Choose the synonym of ‘happy’.",
+          "options": [
+            "Sad",
+            "Angry",
+            "Joyful",
+            "Weak"
+          ],
+          "explanation": "‘Joyful’ means happy."
+        }
+      }
+    },
+    {
+      "id": 75,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the antonym of ‘ancient’.",
+      "options": [
+        "Old",
+        "Historic",
+        "Modern",
+        "Past"
+      ],
+      "answer": 2,
+      "explanation": "‘Modern’ is the antonym of ‘ancient’.",
+      "i18n": {
+        "hi": {
+          "question": "‘ancient’ का antonym चुनिए।",
+          "options": [
+            "Old",
+            "Historic",
+            "Modern",
+            "Past"
+          ],
+          "explanation": "‘Modern’ का अर्थ आधुनिक है और यह ‘ancient’ का विलोम है।"
+        },
+        "en": {
+          "question": "Choose the antonym of ‘ancient’.",
+          "options": [
+            "Old",
+            "Historic",
+            "Modern",
+            "Past"
+          ],
+          "explanation": "‘Modern’ is the antonym of ‘ancient’."
+        }
+      }
+    },
+    {
+      "id": 76,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Identify the noun in the sentence: ‘The boy reads a book.’",
+      "options": [
+        "The",
+        "a",
+        "reads",
+        "boy"
+      ],
+      "answer": 3,
+      "explanation": "‘Boy’ is a noun because it names a person.",
+      "i18n": {
+        "hi": {
+          "question": "‘The boy reads a book.’ में noun पहचानिए।",
+          "options": [
+            "The",
+            "a",
+            "reads",
+            "boy"
+          ],
+          "explanation": "‘Boy’ व्यक्ति का नाम बताता है, इसलिए noun है।"
+        },
+        "en": {
+          "question": "Identify the noun in the sentence: ‘The boy reads a book.’",
+          "options": [
+            "The",
+            "a",
+            "reads",
+            "boy"
+          ],
+          "explanation": "‘Boy’ is a noun because it names a person."
+        }
+      }
+    },
+    {
+      "id": 77,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct preposition: ‘The book is ___ the table.’",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": 1,
+      "explanation": "A book resting on the surface of a table is ‘on the table’.",
+      "i18n": {
+        "hi": {
+          "question": "सही preposition चुनिए: ‘The book is ___ the table.’",
+          "options": [
+            "in",
+            "on",
+            "at",
+            "by"
+          ],
+          "explanation": "Table की सतह पर रखी वस्तु के लिए ‘on’ का प्रयोग होता है।"
+        },
+        "en": {
+          "question": "Choose the correct preposition: ‘The book is ___ the table.’",
+          "options": [
+            "in",
+            "on",
+            "at",
+            "by"
+          ],
+          "explanation": "A book resting on the surface of a table is ‘on the table’."
+        }
+      }
+    },
+    {
+      "id": 78,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct form: ‘They ___ playing cricket.’",
+      "options": [
+        "is",
+        "am",
+        "be",
+        "are"
+      ],
+      "answer": 3,
+      "explanation": "‘They’ takes the plural auxiliary ‘are’.",
+      "i18n": {
+        "hi": {
+          "question": "सही form चुनिए: ‘They ___ playing cricket.’",
+          "options": [
+            "is",
+            "am",
+            "be",
+            "are"
+          ],
+          "explanation": "‘They’ के साथ plural auxiliary ‘are’ आता है।"
+        },
+        "en": {
+          "question": "Choose the correct form: ‘They ___ playing cricket.’",
+          "options": [
+            "is",
+            "am",
+            "be",
+            "are"
+          ],
+          "explanation": "‘They’ takes the plural auxiliary ‘are’."
+        }
+      }
+    },
+    {
+      "id": 79,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct passive voice: ‘Ram writes a letter.’",
+      "options": [
+        "A letter is written by Ram.",
+        "A letter was written by Ram.",
+        "A letter is being written by Ram.",
+        "A letter has written by Ram."
+      ],
+      "answer": 0,
+      "explanation": "The simple present active sentence changes to simple present passive: ‘A letter is written by Ram.’",
+      "i18n": {
+        "hi": {
+          "question": "‘Ram writes a letter.’ का सही passive voice चुनिए।",
+          "options": [
+            "A letter is written by Ram.",
+            "A letter was written by Ram.",
+            "A letter is being written by Ram.",
+            "A letter has written by Ram."
+          ],
+          "explanation": "Simple present active का passive ‘A letter is written by Ram’ होगा।"
+        },
+        "en": {
+          "question": "Choose the correct passive voice: ‘Ram writes a letter.’",
+          "options": [
+            "A letter is written by Ram.",
+            "A letter was written by Ram.",
+            "A letter is being written by Ram.",
+            "A letter has written by Ram."
+          ],
+          "explanation": "The simple present active sentence changes to simple present passive: ‘A letter is written by Ram.’"
+        }
+      }
+    },
+    {
+      "id": 80,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct indirect speech: He said, ‘I am tired.’",
+      "options": [
+        "He said that I am tired.",
+        "He said that he was tired.",
+        "He says that he was tired.",
+        "He said he is tired."
+      ],
+      "answer": 1,
+      "explanation": "In reported speech, ‘I’ changes to ‘he’ and ‘am’ changes to ‘was’.",
+      "i18n": {
+        "hi": {
+          "question": "सही indirect speech चुनिए: He said, ‘I am tired.’",
+          "options": [
+            "He said that I am tired.",
+            "He said that he was tired.",
+            "He says that he was tired.",
+            "He said he is tired."
+          ],
+          "explanation": "Reported speech में ‘I’ → ‘he’ और ‘am’ → ‘was’ होता है।"
+        },
+        "en": {
+          "question": "Choose the correct indirect speech: He said, ‘I am tired.’",
+          "options": [
+            "He said that I am tired.",
+            "He said that he was tired.",
+            "He says that he was tired.",
+            "He said he is tired."
+          ],
+          "explanation": "In reported speech, ‘I’ changes to ‘he’ and ‘am’ changes to ‘was’."
+        }
+      }
+    },
+    {
+      "id": 81,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correctly spelled word.",
+      "options": [
+        "Necesary",
+        "Necessary",
+        "Neccessary",
+        "Necassary"
+      ],
+      "answer": 1,
+      "explanation": "The correct spelling is ‘Necessary’.",
+      "i18n": {
+        "hi": {
+          "question": "सही spelling चुनिए।",
+          "options": [
+            "Necesary",
+            "Necessary",
+            "Neccessary",
+            "Necassary"
+          ],
+          "explanation": "सही spelling ‘Necessary’ है।"
+        },
+        "en": {
+          "question": "Choose the correctly spelled word.",
+          "options": [
+            "Necesary",
+            "Necessary",
+            "Neccessary",
+            "Necassary"
+          ],
+          "explanation": "The correct spelling is ‘Necessary’."
+        }
+      }
+    },
+    {
+      "id": 82,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct question tag: ‘She is a teacher, ___?’",
+      "options": [
+        "is she",
+        "isn't she",
+        "doesn't she",
+        "wasn't she"
+      ],
+      "answer": 1,
+      "explanation": "A positive statement with ‘is’ takes the negative tag ‘isn't she?’",
+      "i18n": {
+        "hi": {
+          "question": "सही question tag चुनिए: ‘She is a teacher, ___?’",
+          "options": [
+            "is she",
+            "isn't she",
+            "doesn't she",
+            "wasn't she"
+          ],
+          "explanation": "Positive statement ‘is’ के साथ negative tag ‘isn't she?’ आता है।"
+        },
+        "en": {
+          "question": "Choose the correct question tag: ‘She is a teacher, ___?’",
+          "options": [
+            "is she",
+            "isn't she",
+            "doesn't she",
+            "wasn't she"
+          ],
+          "explanation": "A positive statement with ‘is’ takes the negative tag ‘isn't she?’"
+        }
+      }
+    },
+    {
+      "id": 83,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct modal: ‘You ___ obey your parents.’",
+      "options": [
+        "should",
+        "may",
+        "can",
+        "might"
+      ],
+      "answer": 0,
+      "explanation": "‘Should’ expresses advice or moral obligation.",
+      "i18n": {
+        "hi": {
+          "question": "सही modal चुनिए: ‘You ___ obey your parents.’",
+          "options": [
+            "should",
+            "may",
+            "can",
+            "might"
+          ],
+          "explanation": "‘Should’ सलाह या नैतिक कर्तव्य व्यक्त करता है।"
+        },
+        "en": {
+          "question": "Choose the correct modal: ‘You ___ obey your parents.’",
+          "options": [
+            "should",
+            "may",
+            "can",
+            "might"
+          ],
+          "explanation": "‘Should’ expresses advice or moral obligation."
+        }
+      }
+    },
+    {
+      "id": 84,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct comparative form of ‘good’.",
+      "options": [
+        "Gooder",
+        "More good",
+        "Best",
+        "Better"
+      ],
+      "answer": 3,
+      "explanation": "The comparative form of ‘good’ is ‘better’.",
+      "i18n": {
+        "hi": {
+          "question": "‘good’ का सही comparative form चुनिए।",
+          "options": [
+            "Gooder",
+            "More good",
+            "Best",
+            "Better"
+          ],
+          "explanation": "‘good’ का comparative form ‘better’ है।"
+        },
+        "en": {
+          "question": "Choose the correct comparative form of ‘good’.",
+          "options": [
+            "Gooder",
+            "More good",
+            "Best",
+            "Better"
+          ],
+          "explanation": "The comparative form of ‘good’ is ‘better’."
+        }
+      }
+    },
+    {
+      "id": 85,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct pronoun: ‘This book belongs to Rahul. It is ___.’",
+      "options": [
+        "his",
+        "him",
+        "he",
+        "himself"
+      ],
+      "answer": 0,
+      "explanation": "‘His’ is the possessive pronoun required here.",
+      "i18n": {
+        "hi": {
+          "question": "सही pronoun चुनिए: ‘This book belongs to Rahul. It is ___.’",
+          "options": [
+            "his",
+            "him",
+            "he",
+            "himself"
+          ],
+          "explanation": "यहाँ possession बताने के लिए ‘his’ सही है।"
+        },
+        "en": {
+          "question": "Choose the correct pronoun: ‘This book belongs to Rahul. It is ___.’",
+          "options": [
+            "his",
+            "him",
+            "he",
+            "himself"
+          ],
+          "explanation": "‘His’ is the possessive pronoun required here."
+        }
+      }
+    },
+    {
+      "id": 86,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct conjunction: ‘Work hard ___ you will succeed.’",
+      "options": [
+        "but",
+        "because",
+        "or",
+        "and"
+      ],
+      "answer": 3,
+      "explanation": "‘And’ appropriately joins the two related clauses.",
+      "i18n": {
+        "hi": {
+          "question": "सही conjunction चुनिए: ‘Work hard ___ you will succeed.’",
+          "options": [
+            "but",
+            "because",
+            "or",
+            "and"
+          ],
+          "explanation": "दो संबंधित clauses को जोड़ने के लिए यहाँ ‘and’ उपयुक्त है।"
+        },
+        "en": {
+          "question": "Choose the correct conjunction: ‘Work hard ___ you will succeed.’",
+          "options": [
+            "but",
+            "because",
+            "or",
+            "and"
+          ],
+          "explanation": "‘And’ appropriately joins the two related clauses."
+        }
+      }
+    },
+    {
+      "id": 87,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Identify the adjective: ‘She bought a beautiful dress.’",
+      "options": [
+        "beautiful",
+        "bought",
+        "She",
+        "dress"
+      ],
+      "answer": 0,
+      "explanation": "‘Beautiful’ describes the noun ‘dress’, so it is an adjective.",
+      "i18n": {
+        "hi": {
+          "question": "‘She bought a beautiful dress.’ में adjective पहचानिए।",
+          "options": [
+            "beautiful",
+            "bought",
+            "She",
+            "dress"
+          ],
+          "explanation": "‘Beautiful’, ‘dress’ की विशेषता बताता है, इसलिए adjective है।"
+        },
+        "en": {
+          "question": "Identify the adjective: ‘She bought a beautiful dress.’",
+          "options": [
+            "beautiful",
+            "bought",
+            "She",
+            "dress"
+          ],
+          "explanation": "‘Beautiful’ describes the noun ‘dress’, so it is an adjective."
+        }
+      }
+    },
+    {
+      "id": 88,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "He don't like tea.",
+        "He doesn't likes tea.",
+        "He doesn't like tea.",
+        "He not like tea."
+      ],
+      "answer": 2,
+      "explanation": "After ‘doesn't’, the main verb remains in its base form: ‘like’.",
+      "i18n": {
+        "hi": {
+          "question": "सही sentence चुनिए।",
+          "options": [
+            "He don't like tea.",
+            "He doesn't likes tea.",
+            "He doesn't like tea.",
+            "He not like tea."
+          ],
+          "explanation": "‘doesn't’ के बाद main verb का base form ‘like’ आता है।"
+        },
+        "en": {
+          "question": "Choose the correct sentence.",
+          "options": [
+            "He don't like tea.",
+            "He doesn't likes tea.",
+            "He doesn't like tea.",
+            "He not like tea."
+          ],
+          "explanation": "After ‘doesn't’, the main verb remains in its base form: ‘like’."
+        }
+      }
+    },
+    {
+      "id": 89,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct plural of ‘mouse’.",
+      "options": [
+        "Mouses",
+        "Mouse",
+        "Meese",
+        "Mice"
+      ],
+      "answer": 3,
+      "explanation": "The irregular plural of ‘mouse’ is ‘mice’.",
+      "i18n": {
+        "hi": {
+          "question": "‘mouse’ का सही plural चुनिए।",
+          "options": [
+            "Mouses",
+            "Mouse",
+            "Meese",
+            "Mice"
+          ],
+          "explanation": "‘mouse’ का irregular plural ‘mice’ है।"
+        },
+        "en": {
+          "question": "Choose the correct plural of ‘mouse’.",
+          "options": [
+            "Mouses",
+            "Mouse",
+            "Meese",
+            "Mice"
+          ],
+          "explanation": "The irregular plural of ‘mouse’ is ‘mice’."
+        }
+      }
+    },
+    {
+      "id": 90,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct form: ‘I have ___ my homework.’",
+      "options": [
+        "done",
+        "did",
+        "do",
+        "doing"
+      ],
+      "answer": 0,
+      "explanation": "Present perfect uses ‘have + past participle’; the past participle of ‘do’ is ‘done’.",
+      "i18n": {
+        "hi": {
+          "question": "सही form चुनिए: ‘I have ___ my homework.’",
+          "options": [
+            "done",
+            "did",
+            "do",
+            "doing"
+          ],
+          "explanation": "Present perfect में ‘have + past participle’ आता है; ‘do’ का past participle ‘done’ है।"
+        },
+        "en": {
+          "question": "Choose the correct form: ‘I have ___ my homework.’",
+          "options": [
+            "done",
+            "did",
+            "do",
+            "doing"
+          ],
+          "explanation": "Present perfect uses ‘have + past participle’; the past participle of ‘do’ is ‘done’."
+        }
+      }
+    },
+    {
+      "id": 91,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct indirect speech: She said, ‘I can swim.’",
+      "options": [
+        "She says that she could swim.",
+        "She said that I can swim.",
+        "She said that she could swim.",
+        "She said that she can swam."
+      ],
+      "answer": 2,
+      "explanation": "In reported speech, ‘can’ generally changes to ‘could’ and ‘I’ changes to ‘she’.",
+      "i18n": {
+        "hi": {
+          "question": "सही indirect speech चुनिए: She said, ‘I can swim.’",
+          "options": [
+            "She says that she could swim.",
+            "She said that I can swim.",
+            "She said that she could swim.",
+            "She said that she can swam."
+          ],
+          "explanation": "Reported speech में ‘can’ → ‘could’ और ‘I’ → ‘she’ होता है।"
+        },
+        "en": {
+          "question": "Choose the correct indirect speech: She said, ‘I can swim.’",
+          "options": [
+            "She says that she could swim.",
+            "She said that I can swim.",
+            "She said that she could swim.",
+            "She said that she can swam."
+          ],
+          "explanation": "In reported speech, ‘can’ generally changes to ‘could’ and ‘I’ changes to ‘she’."
+        }
+      }
+    },
+    {
+      "id": 92,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct passive form: ‘They built a bridge.’",
+      "options": [
+        "A bridge is built by them.",
+        "A bridge was built by them.",
+        "A bridge has built by them.",
+        "A bridge was building by them."
+      ],
+      "answer": 1,
+      "explanation": "The simple past passive uses ‘was/were + past participle’.",
+      "i18n": {
+        "hi": {
+          "question": "‘They built a bridge.’ का सही passive form चुनिए।",
+          "options": [
+            "A bridge is built by them.",
+            "A bridge was built by them.",
+            "A bridge has built by them.",
+            "A bridge was building by them."
+          ],
+          "explanation": "Simple past passive में ‘was/were + past participle’ का प्रयोग होता है।"
+        },
+        "en": {
+          "question": "Choose the correct passive form: ‘They built a bridge.’",
+          "options": [
+            "A bridge is built by them.",
+            "A bridge was built by them.",
+            "A bridge has built by them.",
+            "A bridge was building by them."
+          ],
+          "explanation": "The simple past passive uses ‘was/were + past participle’."
+        }
+      }
+    },
+    {
+      "id": 93,
+      "type": "single_choice",
+      "section": "english",
+      "question": "What is the meaning of the idiom ‘A piece of cake’?",
+      "options": [
+        "Very difficult",
+        "Very sweet",
+        "Very expensive",
+        "Very easy"
+      ],
+      "answer": 3,
+      "explanation": "‘A piece of cake’ means something that is very easy to do.",
+      "i18n": {
+        "hi": {
+          "question": "‘A piece of cake’ idiom का अर्थ क्या है?",
+          "options": [
+            "बहुत कठिन",
+            "बहुत मीठा",
+            "बहुत महँगा",
+            "बहुत आसान"
+          ],
+          "explanation": "इस idiom का अर्थ है कोई काम बहुत आसान होना।"
+        },
+        "en": {
+          "question": "What is the meaning of the idiom ‘A piece of cake’?",
+          "options": [
+            "Very difficult",
+            "Very sweet",
+            "Very expensive",
+            "Very easy"
+          ],
+          "explanation": "‘A piece of cake’ means something that is very easy to do."
+        }
+      }
+    },
+    {
+      "id": 94,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the one-word substitution for ‘a person who cannot read or write’.",
+      "options": [
+        "Literate",
+        "Author",
+        "Scholar",
+        "Illiterate"
+      ],
+      "answer": 3,
+      "explanation": "A person who cannot read or write is called illiterate.",
+      "i18n": {
+        "hi": {
+          "question": "‘a person who cannot read or write’ के लिए one-word substitution चुनिए।",
+          "options": [
+            "Literate",
+            "Author",
+            "Scholar",
+            "Illiterate"
+          ],
+          "explanation": "जो पढ़ या लिख नहीं सकता उसे ‘illiterate’ कहा जाता है।"
+        },
+        "en": {
+          "question": "Choose the one-word substitution for ‘a person who cannot read or write’.",
+          "options": [
+            "Literate",
+            "Author",
+            "Scholar",
+            "Illiterate"
+          ],
+          "explanation": "A person who cannot read or write is called illiterate."
+        }
+      }
+    },
+    {
+      "id": 95,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Neither Ram nor Shyam are present.",
+        "Neither Ram nor Shyam is present.",
+        "Neither Ram or Shyam is present.",
+        "Neither Ram nor Shyam were present."
+      ],
+      "answer": 1,
+      "explanation": "With ‘neither...nor’ referring to singular subjects, ‘is’ is appropriate here.",
+      "i18n": {
+        "hi": {
+          "question": "सही sentence चुनिए।",
+          "options": [
+            "Neither Ram nor Shyam are present.",
+            "Neither Ram nor Shyam is present.",
+            "Neither Ram or Shyam is present.",
+            "Neither Ram nor Shyam were present."
+          ],
+          "explanation": "यहाँ दोनों subjects singular हैं, इसलिए ‘is’ उपयुक्त है।"
+        },
+        "en": {
+          "question": "Choose the correct sentence.",
+          "options": [
+            "Neither Ram nor Shyam are present.",
+            "Neither Ram nor Shyam is present.",
+            "Neither Ram or Shyam is present.",
+            "Neither Ram nor Shyam were present."
+          ],
+          "explanation": "With ‘neither...nor’ referring to singular subjects, ‘is’ is appropriate here."
+        }
+      }
+    },
+    {
+      "id": 96,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct preposition: ‘He has lived here ___ 2015.’",
+      "options": [
+        "for",
+        "since",
+        "from",
+        "by"
+      ],
+      "answer": 1,
+      "explanation": "‘Since’ is used with a specific point in time such as 2015.",
+      "i18n": {
+        "hi": {
+          "question": "सही preposition चुनिए: ‘He has lived here ___ 2015.’",
+          "options": [
+            "for",
+            "since",
+            "from",
+            "by"
+          ],
+          "explanation": "2015 एक specific point of time है, इसलिए ‘since’ का प्रयोग होगा।"
+        },
+        "en": {
+          "question": "Choose the correct preposition: ‘He has lived here ___ 2015.’",
+          "options": [
+            "for",
+            "since",
+            "from",
+            "by"
+          ],
+          "explanation": "‘Since’ is used with a specific point in time such as 2015."
+        }
+      }
+    },
+    {
+      "id": 97,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct word: ‘The news ___ true.’",
+      "options": [
+        "are",
+        "were",
+        "have",
+        "is"
+      ],
+      "answer": 3,
+      "explanation": "‘News’ is treated as a singular uncountable noun and takes ‘is’.",
+      "i18n": {
+        "hi": {
+          "question": "सही word चुनिए: ‘The news ___ true.’",
+          "options": [
+            "are",
+            "were",
+            "have",
+            "is"
+          ],
+          "explanation": "‘News’ singular uncountable noun की तरह प्रयोग होता है, इसलिए ‘is’ आएगा।"
+        },
+        "en": {
+          "question": "Choose the correct word: ‘The news ___ true.’",
+          "options": [
+            "are",
+            "were",
+            "have",
+            "is"
+          ],
+          "explanation": "‘News’ is treated as a singular uncountable noun and takes ‘is’."
+        }
+      }
+    },
+    {
+      "id": 98,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct spelling.",
+      "options": [
+        "Environment",
+        "Enviroment",
+        "Envirnoment",
+        "Environmant"
+      ],
+      "answer": 0,
+      "explanation": "The correct spelling is ‘Environment’.",
+      "i18n": {
+        "hi": {
+          "question": "सही spelling चुनिए।",
+          "options": [
+            "Environment",
+            "Enviroment",
+            "Envirnoment",
+            "Environmant"
+          ],
+          "explanation": "सही spelling ‘Environment’ है।"
+        },
+        "en": {
+          "question": "Choose the correct spelling.",
+          "options": [
+            "Environment",
+            "Enviroment",
+            "Envirnoment",
+            "Environmant"
+          ],
+          "explanation": "The correct spelling is ‘Environment’."
+        }
+      }
+    },
+    {
+      "id": 99,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct question word: ‘___ did you go yesterday?’",
+      "options": [
+        "Who",
+        "Whose",
+        "Which",
+        "Where"
+      ],
+      "answer": 3,
+      "explanation": "‘Where’ asks about a place or location.",
+      "i18n": {
+        "hi": {
+          "question": "सही question word चुनिए: ‘___ did you go yesterday?’",
+          "options": [
+            "Who",
+            "Whose",
+            "Which",
+            "Where"
+          ],
+          "explanation": "‘Where’ स्थान के बारे में प्रश्न पूछता है।"
+        },
+        "en": {
+          "question": "Choose the correct question word: ‘___ did you go yesterday?’",
+          "options": [
+            "Who",
+            "Whose",
+            "Which",
+            "Where"
+          ],
+          "explanation": "‘Where’ asks about a place or location."
+        }
+      }
+    },
+    {
+      "id": 100,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Read the sentence: ‘Ravi wakes up early, exercises for thirty minutes, and then goes to school.’ What does Ravi do before going to school?",
+      "options": [
+        "He watches television.",
+        "He exercises.",
+        "He plays football.",
+        "He goes to the market."
+      ],
+      "answer": 1,
+      "explanation": "The sentence states that Ravi exercises for thirty minutes before going to school.",
+      "i18n": {
+        "hi": {
+          "question": "वाक्य पढ़िए: ‘Ravi wakes up early, exercises for thirty minutes, and then goes to school.’ Ravi स्कूल जाने से पहले क्या करता है?",
+          "options": [
+            "वह television देखता है।",
+            "वह exercise करता है।",
+            "वह football खेलता है।",
+            "वह market जाता है।"
+          ],
+          "explanation": "वाक्य के अनुसार Ravi स्कूल जाने से पहले तीस मिनट exercise करता है।"
+        },
+        "en": {
+          "question": "Read the sentence: ‘Ravi wakes up early, exercises for thirty minutes, and then goes to school.’ What does Ravi do before going to school?",
+          "options": [
+            "He watches television.",
+            "He exercises.",
+            "He plays football.",
+            "He goes to the market."
+          ],
+          "explanation": "The sentence states that Ravi exercises for thirty minutes before going to school."
+        }
+      }
+    }
+  ]
+}

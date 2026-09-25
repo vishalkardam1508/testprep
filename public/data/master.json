@@ -1,0 +1,108 @@
+{
+  "app": {
+    "name": "TestPrep",
+    "tagline": "Crack your dream exam with smart preparation",
+    "logo": null,
+    "stats": {
+      "courses": 1,
+      "questions": 2000,
+      "students": 50000
+    },
+    "founder": {
+      "name": "Vishal Kardam",
+      "role": "Founder, TestPrep · Full-Stack Software Engineer",
+      "photo": "/images/founder.jpg",
+      "avatar": "/images/founder-avatar.jpg",
+      "phone": "+91 9027474653",
+      "email": "vishalkardam1508@gmail.com",
+      "portfolio": "https://vishalkardam.vercel.app/",
+      "thought": "Talent is everywhere, but opportunity is not. A student's dream should never depend on how much their family can pay for coaching.",
+      "vision": "Free education and test preparation for every student — no fees, no hidden charges. Every aspirant in India, from a small village or a big city, should get the same quality practice, the same exam-pattern mock tests, and the same detailed solutions.",
+      "promises": [
+        { "icon": "🎓", "title": "100% Free", "text": "Mock tests, solutions and analysis at no charge." },
+        { "icon": "🌐", "title": "Hindi + English", "text": "Every question available in both languages." },
+        { "icon": "🤖", "title": "Smart Evaluation", "text": "Instant scoring and AI feedback on written answers." },
+        { "icon": "📊", "title": "Real Exam Pattern", "text": "Section-wise tests with the actual marking scheme." }
+      ]
+    }
+  },
+  "courses": [
+    {
+      "id": "supertet",
+      "title": "Super TET 2026",
+      "subtitle": "UP Assistant Teacher Exam",
+      "img": "https://tse1.mm.bing.net/th/id/OIP.74BLrtxc29QvQQrewQAkXQHaHa?r=0&pid=Api&h=220&P=0",
+      "color": "from-violet-600 to-purple-700",
+      "description": "Complete preparation for UPESSC Super TET 2026. 120 questions, 360 marks, +3/-1 marking.",
+      "language": "Hindi + English",
+      "active": true,
+      "markingScheme": {
+        "default": { "correct": 3, "wrong": -1, "skipped": 0 },
+        "multipleChoice": { "allCorrect": 3, "partialCredit": 1, "anyWrong": -1 },
+        "essay": { "marks": 5, "autoScore": false }
+      },
+      "testSeries": [
+        {
+          "id": "supertet-test-1",
+          "title": "Super TET Full Mock Test 1",
+          "description": "Full-length style mock test covering all subjects",
+          "img": "https://tse1.mm.bing.net/th/id/OIP.74BLrtxc29QvQQrewQAkXQHaHa?r=0&pid=Api&h=220&P=0",
+          "datePublished": "2026-01-01",
+          "totalQuestions": 6,
+          "duration": 120,
+          "maxScore": 20,
+          "difficulty": "Medium",
+          "isFree": true,
+          "tags": ["GK", "Math", "Hindi", "Teaching"],
+          "questionsUrl": "/data/questions/supertet-test-1.json"
+        },
+        {
+          "id": "supertet-pyq-based-100-1",
+          "title": "Super TET PYQ-Based Questions — Psychology, Teaching & Life Skills",
+          "description": "PYQ-based practice set: Child Psychology, Teaching Skills & Methodology, and Life Skills / Management & Aptitude",
+          "img": "https://i.ytimg.com/vi/L6bFmeAZmgI/maxresdefault.jpg",
+          "datePublished": "2026-09-25",
+          "totalQuestions": 95,
+          "duration": 120,
+          "maxScore": 285,
+          "difficulty": "Medium",
+          "isFree": true,
+          "tags": ["Child Psychology", "Teaching", "Life Skills", "PYQ"],
+          "questionsUrl": "/data/questions/supertet-pyq-based.json"
+        },
+        {
+          "id": "gk-ca-top-100",
+          "title": "GK & Current Affairs — Top 100 Questions",
+          "description": "Indian History, Geography, Polity, Science & Technology, Current Affairs 2024-25 and Sports & Awards",
+          "img": "/images/gk-current-affairs.jpg",
+          "datePublished": "2026-09-25",
+          "totalQuestions": 100,
+          "duration": 120,
+          "maxScore": 100,
+          "difficulty": "Medium",
+          "isFree": true,
+          "tags": ["GK", "Current Affairs", "History", "Polity", "Science"],
+          "markingScheme": {
+            "default": { "correct": 1, "wrong": -1 },
+            "multipleChoice": { "allCorrect": 1, "partialCredit": 0, "anyWrong": -1 }
+          },
+          "questionsUrl": "/data/questions/super-tet-2026-gk-ca-top-100.json"
+        },
+        {
+          "id": "super-tet-2026-language-top-100",
+          "title": "Super TET 2026 Primary — Hindi + Sanskrit + English — Top 100",
+          "description": "Language section practice: Hindi grammar, Sanskrit vyakaran and English grammar & usage",
+          "img": "/images/language-hindi-sanskrit-english.jpg",
+          "datePublished": "2026-09-25",
+          "totalQuestions": 100,
+          "duration": 100,
+          "maxScore": 300,
+          "difficulty": "Medium",
+          "isFree": true,
+          "tags": ["Hindi", "Sanskrit", "English", "Grammar"],
+          "questionsUrl": "/data/questions/super-tet-2026-sanskrit-hindi-englsih.json"
+        }
+      ]
+    }
+  ]
+}

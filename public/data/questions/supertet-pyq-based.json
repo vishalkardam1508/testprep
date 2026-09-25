@@ -1,0 +1,3651 @@
+{
+  "testId": "supertet-pyq-based-100-1",
+  "title": "Super TET Top 100 PYQ-Based Questions - Psychology, Teaching & Life Skills",
+  "duration": 120,
+  "markingScheme": {
+    "default": {
+      "correct": 3,
+      "wrong": -1,
+      "skipped": 0
+    },
+    "multipleChoice": {
+      "allCorrect": 3,
+      "partialCredit": 1,
+      "anyWrong": -1
+    },
+    "essay": {
+      "marks": 5,
+      "autoScore": false
+    }
+  },
+  "sections": [
+    {
+      "id": "child-psychology",
+      "title": "Child Psychology",
+      "color": "violet"
+    },
+    {
+      "id": "teaching",
+      "title": "Teaching Skills & Methodology",
+      "color": "orange"
+    },
+    {
+      "id": "life-skills",
+      "title": "Life Skills / Management & Aptitude",
+      "color": "cyan"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "बाल विकास के संबंध में निम्नलिखित में से कौन-सा कथन सबसे उपयुक्त है?",
+      "options": [
+        "विकास केवल शारीरिक परिवर्तन है",
+        "विकास एक सतत और क्रमिक प्रक्रिया है",
+        "सभी बच्चों का विकास समान गति से होता है",
+        "विकास केवल विद्यालय जाने के बाद शुरू होता है"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "बाल विकास एक सतत, क्रमिक और बहुआयामी प्रक्रिया है जिसमें शारीरिक, संज्ञानात्मक, सामाजिक और भावनात्मक परिवर्तन शामिल होते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "बाल विकास के संबंध में निम्नलिखित में से कौन-सा कथन सबसे उपयुक्त है?",
+          "options": [
+            "विकास केवल शारीरिक परिवर्तन है",
+            "विकास एक सतत और क्रमिक प्रक्रिया है",
+            "सभी बच्चों का विकास समान गति से होता है",
+            "विकास केवल विद्यालय जाने के बाद शुरू होता है"
+          ],
+          "explanation": "बाल विकास एक सतत, क्रमिक और बहुआयामी प्रक्रिया है।"
+        },
+        "en": {
+          "question": "Which statement is most appropriate regarding child development?",
+          "options": [
+            "Development is only physical change",
+            "Development is a continuous and gradual process",
+            "All children develop at the same rate",
+            "Development begins only after schooling"
+          ],
+          "explanation": "Child development is a continuous, gradual and multidimensional process."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "वृद्धि और विकास में मुख्य अंतर क्या है?",
+      "options": [
+        "वृद्धि गुणात्मक और विकास मात्रात्मक है",
+        "वृद्धि मुख्यतः मात्रात्मक तथा विकास मात्रात्मक और गुणात्मक दोनों है",
+        "दोनों में कोई अंतर नहीं है",
+        "विकास केवल शारीरिक होता है"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "वृद्धि मुख्यतः ऊंचाई, वजन आदि जैसे मात्रात्मक परिवर्तनों से संबंधित है, जबकि विकास में गुणात्मक और मात्रात्मक दोनों परिवर्तन शामिल होते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "वृद्धि और विकास में मुख्य अंतर क्या है?",
+          "options": [
+            "वृद्धि गुणात्मक और विकास मात्रात्मक है",
+            "वृद्धि मुख्यतः मात्रात्मक तथा विकास मात्रात्मक और गुणात्मक दोनों है",
+            "दोनों में कोई अंतर नहीं है",
+            "विकास केवल शारीरिक होता है"
+          ],
+          "explanation": "वृद्धि मुख्यतः मात्रात्मक परिवर्तन है, जबकि विकास में मात्रात्मक और गुणात्मक दोनों परिवर्तन होते हैं।"
+        },
+        "en": {
+          "question": "What is the main difference between growth and development?",
+          "options": [
+            "Growth is qualitative and development is quantitative",
+            "Growth is mainly quantitative while development includes both quantitative and qualitative changes",
+            "There is no difference",
+            "Development is only physical"
+          ],
+          "explanation": "Growth mainly refers to quantitative changes, whereas development includes both quantitative and qualitative changes."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "पियाजे के अनुसार पूर्व-संक्रियात्मक अवस्था सामान्यतः किस आयु के बीच होती है?",
+      "options": [
+        "0-2 वर्ष",
+        "2-7 वर्ष",
+        "7-11 वर्ष",
+        "11 वर्ष के बाद"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "पियाजे के संज्ञानात्मक विकास सिद्धांत में पूर्व-संक्रियात्मक अवस्था लगभग 2 से 7 वर्ष तक मानी जाती है।",
+      "i18n": {
+        "hi": {
+          "question": "पियाजे के अनुसार पूर्व-संक्रियात्मक अवस्था सामान्यतः किस आयु के बीच होती है?",
+          "options": [
+            "0-2 वर्ष",
+            "2-7 वर्ष",
+            "7-11 वर्ष",
+            "11 वर्ष के बाद"
+          ],
+          "explanation": "पूर्व-संक्रियात्मक अवस्था लगभग 2 से 7 वर्ष तक होती है।"
+        },
+        "en": {
+          "question": "According to Piaget, the preoperational stage generally occurs between which ages?",
+          "options": [
+            "0-2 years",
+            "2-7 years",
+            "7-11 years",
+            "After 11 years"
+          ],
+          "explanation": "The preoperational stage generally occurs from about 2 to 7 years."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "पियाजे के अनुसार ठोस संक्रियात्मक अवस्था की प्रमुख विशेषता क्या है?",
+      "options": [
+        "अमूर्त चिंतन का पूर्ण विकास",
+        "ठोस वस्तुओं और घटनाओं पर तार्किक चिंतन",
+        "केवल अनुकरण द्वारा सीखना",
+        "भाषा का पूर्ण अभाव"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "ठोस संक्रियात्मक अवस्था में बच्चे ठोस वस्तुओं और वास्तविक परिस्थितियों के बारे में तार्किक रूप से सोचने लगते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "पियाजे के अनुसार ठोस संक्रियात्मक अवस्था की प्रमुख विशेषता क्या है?",
+          "options": [
+            "अमूर्त चिंतन का पूर्ण विकास",
+            "ठोस वस्तुओं और घटनाओं पर तार्किक चिंतन",
+            "केवल अनुकरण द्वारा सीखना",
+            "भाषा का पूर्ण अभाव"
+          ],
+          "explanation": "इस अवस्था में बच्चे ठोस वस्तुओं और घटनाओं पर तार्किक चिंतन करने लगते हैं।"
+        },
+        "en": {
+          "question": "What is a major characteristic of Piaget's concrete operational stage?",
+          "options": [
+            "Complete development of abstract thinking",
+            "Logical thinking about concrete objects and events",
+            "Learning only through imitation",
+            "Complete absence of language"
+          ],
+          "explanation": "Children begin to reason logically about concrete objects and real situations during this stage."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "वाइगोत्स्की के अनुसार सीखने में सबसे महत्वपूर्ण भूमिका किसकी होती है?",
+      "options": [
+        "सामाजिक अंतःक्रिया",
+        "केवल जैविक परिपक्वता",
+        "केवल व्यक्तिगत अध्ययन",
+        "केवल परीक्षा"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "वाइगोत्स्की ने सामाजिक अंतःक्रिया और सांस्कृतिक संदर्भ को संज्ञानात्मक विकास में महत्वपूर्ण माना।",
+      "i18n": {
+        "hi": {
+          "question": "वाइगोत्स्की के अनुसार सीखने में सबसे महत्वपूर्ण भूमिका किसकी होती है?",
+          "options": [
+            "सामाजिक अंतःक्रिया",
+            "केवल जैविक परिपक्वता",
+            "केवल व्यक्तिगत अध्ययन",
+            "केवल परीक्षा"
+          ],
+          "explanation": "वाइगोत्स्की ने सामाजिक अंतःक्रिया और संस्कृति को सीखने के लिए महत्वपूर्ण माना।"
+        },
+        "en": {
+          "question": "According to Vygotsky, what plays a major role in learning?",
+          "options": [
+            "Social interaction",
+            "Only biological maturation",
+            "Only individual study",
+            "Only examinations"
+          ],
+          "explanation": "Vygotsky emphasized social interaction and cultural context in learning and cognitive development."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "ZPD का पूर्ण रूप क्या है?",
+      "options": [
+        "Zone of Personal Development",
+        "Zone of Proximal Development",
+        "Zone of Psychological Discipline",
+        "Zone of Primary Development"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "ZPD का अर्थ Zone of Proximal Development है, जो उस अंतर को दर्शाता है जो बच्चा अकेले और सहायता से कर सकता है।",
+      "i18n": {
+        "hi": {
+          "question": "ZPD का पूर्ण रूप क्या है?",
+          "options": [
+            "Zone of Personal Development",
+            "Zone of Proximal Development",
+            "Zone of Psychological Discipline",
+            "Zone of Primary Development"
+          ],
+          "explanation": "ZPD का अर्थ Zone of Proximal Development है।"
+        },
+        "en": {
+          "question": "What is the full form of ZPD?",
+          "options": [
+            "Zone of Personal Development",
+            "Zone of Proximal Development",
+            "Zone of Psychological Discipline",
+            "Zone of Primary Development"
+          ],
+          "explanation": "ZPD stands for Zone of Proximal Development."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "स्कैफोल्डिंग का अर्थ क्या है?",
+      "options": [
+        "बच्चे को हमेशा शिक्षक पर निर्भर रखना",
+        "सीखने के दौरान आवश्यक अस्थायी सहायता देना",
+        "बच्चे को दंड देना",
+        "केवल पाठ्यपुस्तक पढ़ाना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "स्कैफोल्डिंग में शिक्षक या अधिक सक्षम व्यक्ति बच्चे को ऐसी अस्थायी सहायता देता है जिसे बाद में धीरे-धीरे हटा दिया जाता है।",
+      "i18n": {
+        "hi": {
+          "question": "स्कैफोल्डिंग का अर्थ क्या है?",
+          "options": [
+            "बच्चे को हमेशा शिक्षक पर निर्भर रखना",
+            "सीखने के दौरान आवश्यक अस्थायी सहायता देना",
+            "बच्चे को दंड देना",
+            "केवल पाठ्यपुस्तक पढ़ाना"
+          ],
+          "explanation": "स्कैफोल्डिंग में सीखने के दौरान आवश्यक अस्थायी सहायता दी जाती है।"
+        },
+        "en": {
+          "question": "What does scaffolding mean?",
+          "options": [
+            "Keeping the child permanently dependent on the teacher",
+            "Providing temporary support during learning",
+            "Punishing the child",
+            "Teaching only from textbooks"
+          ],
+          "explanation": "Scaffolding involves temporary support that is gradually withdrawn as the learner becomes capable."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "बालक के विकास को सबसे अधिक प्रभावित करने वाले कारकों में कौन-से शामिल हैं?",
+      "options": [
+        "केवल आनुवंशिकता",
+        "केवल वातावरण",
+        "आनुवंशिकता और वातावरण दोनों",
+        "केवल विद्यालय"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "बाल विकास आनुवंशिकता और वातावरण दोनों की पारस्परिक भूमिका से प्रभावित होता है।",
+      "i18n": {
+        "hi": {
+          "question": "बालक के विकास को सबसे अधिक प्रभावित करने वाले कारकों में कौन-से शामिल हैं?",
+          "options": [
+            "केवल आनुवंशिकता",
+            "केवल वातावरण",
+            "आनुवंशिकता और वातावरण दोनों",
+            "केवल विद्यालय"
+          ],
+          "explanation": "बाल विकास में आनुवंशिकता और वातावरण दोनों महत्वपूर्ण हैं।"
+        },
+        "en": {
+          "question": "Which factors significantly influence child development?",
+          "options": [
+            "Only heredity",
+            "Only environment",
+            "Both heredity and environment",
+            "Only school"
+          ],
+          "explanation": "Both heredity and environment interact to influence child development."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "व्यक्तिगत भिन्नताओं का अर्थ है कि:",
+      "options": [
+        "सभी बच्चे बिल्कुल समान होते हैं",
+        "बच्चों में क्षमताओं और रुचियों में अंतर हो सकता है",
+        "केवल कमजोर बच्चे अलग होते हैं",
+        "केवल बुद्धिमान बच्चे अलग होते हैं"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "व्यक्तिगत भिन्नताएँ बच्चों की बुद्धि, रुचि, सीखने की गति, व्यक्तित्व और अन्य विशेषताओं में पाए जाने वाले अंतर को दर्शाती हैं।",
+      "i18n": {
+        "hi": {
+          "question": "व्यक्तिगत भिन्नताओं का अर्थ है कि:",
+          "options": [
+            "सभी बच्चे बिल्कुल समान होते हैं",
+            "बच्चों में क्षमताओं और रुचियों में अंतर हो सकता है",
+            "केवल कमजोर बच्चे अलग होते हैं",
+            "केवल बुद्धिमान बच्चे अलग होते हैं"
+          ],
+          "explanation": "बच्चों की क्षमताओं, रुचियों और सीखने की गति में भिन्नता हो सकती है।"
+        },
+        "en": {
+          "question": "Individual differences mean that:",
+          "options": [
+            "All children are exactly the same",
+            "Children may differ in abilities and interests",
+            "Only weak children are different",
+            "Only intelligent children are different"
+          ],
+          "explanation": "Children may differ in abilities, interests, personality and learning pace."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "रचनात्मकता का सबसे उपयुक्त संकेतक कौन-सा है?",
+      "options": [
+        "केवल सही उत्तर याद रखना",
+        "नए और मौलिक विचार उत्पन्न करना",
+        "हर कार्य में शिक्षक की नकल करना",
+        "केवल पाठ याद करना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "रचनात्मकता में मौलिकता, नए विचार उत्पन्न करना और समस्याओं को नए तरीकों से हल करना शामिल है।",
+      "i18n": {
+        "hi": {
+          "question": "रचनात्मकता का सबसे उपयुक्त संकेतक कौन-सा है?",
+          "options": [
+            "केवल सही उत्तर याद रखना",
+            "नए और मौलिक विचार उत्पन्न करना",
+            "हर कार्य में शिक्षक की नकल करना",
+            "केवल पाठ याद करना"
+          ],
+          "explanation": "रचनात्मकता नए और मौलिक विचार उत्पन्न करने की क्षमता से जुड़ी है।"
+        },
+        "en": {
+          "question": "Which is the best indicator of creativity?",
+          "options": [
+            "Only memorizing correct answers",
+            "Generating new and original ideas",
+            "Imitating the teacher in every task",
+            "Only memorizing lessons"
+          ],
+          "explanation": "Creativity involves originality and the ability to generate new ideas."
+        }
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "आंतरिक अभिप्रेरणा का उदाहरण कौन-सा है?",
+      "options": [
+        "इनाम पाने के लिए पढ़ना",
+        "डांट से बचने के लिए पढ़ना",
+        "विषय में रुचि के कारण पढ़ना",
+        "अंक के डर से पढ़ना"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "जब विद्यार्थी किसी कार्य को स्वयं की रुचि या संतुष्टि के लिए करता है, तो यह आंतरिक अभिप्रेरणा है।",
+      "i18n": {
+        "hi": {
+          "question": "आंतरिक अभिप्रेरणा का उदाहरण कौन-सा है?",
+          "options": [
+            "इनाम पाने के लिए पढ़ना",
+            "डांट से बचने के लिए पढ़ना",
+            "विषय में रुचि के कारण पढ़ना",
+            "अंक के डर से पढ़ना"
+          ],
+          "explanation": "रुचि और आंतरिक संतुष्टि के कारण पढ़ना आंतरिक अभिप्रेरणा है।"
+        },
+        "en": {
+          "question": "Which is an example of intrinsic motivation?",
+          "options": [
+            "Studying to get a reward",
+            "Studying to avoid punishment",
+            "Studying because of interest in the subject",
+            "Studying because of fear of marks"
+          ],
+          "explanation": "Doing an activity because of interest and internal satisfaction is intrinsic motivation."
+        }
+      }
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "बाह्य अभिप्रेरणा का उदाहरण क्या है?",
+      "options": [
+        "विषय के प्रति जिज्ञासा",
+        "सीखने का आनंद",
+        "पुरस्कार प्राप्त करने के लिए कार्य करना",
+        "नई चीज खोजने की इच्छा"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "बाह्य अभिप्रेरणा में व्यवहार बाहरी पुरस्कार, दंड या अन्य बाहरी परिणामों से प्रभावित होता है।",
+      "i18n": {
+        "hi": {
+          "question": "बाह्य अभिप्रेरणा का उदाहरण क्या है?",
+          "options": [
+            "विषय के प्रति जिज्ञासा",
+            "सीखने का आनंद",
+            "पुरस्कार प्राप्त करने के लिए कार्य करना",
+            "नई चीज खोजने की इच्छा"
+          ],
+          "explanation": "पुरस्कार के लिए कार्य करना बाह्य अभिप्रेरणा का उदाहरण है।"
+        },
+        "en": {
+          "question": "Which is an example of extrinsic motivation?",
+          "options": [
+            "Curiosity about a subject",
+            "Enjoyment of learning",
+            "Doing a task to receive a reward",
+            "Desire to discover something new"
+          ],
+          "explanation": "Working for an external reward is an example of extrinsic motivation."
+        }
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "सीखने में पूर्व ज्ञान का क्या महत्व है?",
+      "options": [
+        "कोई महत्व नहीं",
+        "नया ज्ञान समझने में सहायता करता है",
+        "यह सीखने में बाधा ही बनता है",
+        "यह केवल परीक्षा के समय उपयोगी है"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "पूर्व ज्ञान नए ज्ञान को समझने और उससे जोड़ने में महत्वपूर्ण भूमिका निभाता है।",
+      "i18n": {
+        "hi": {
+          "question": "सीखने में पूर्व ज्ञान का क्या महत्व है?",
+          "options": [
+            "कोई महत्व नहीं",
+            "नया ज्ञान समझने में सहायता करता है",
+            "यह सीखने में बाधा ही बनता है",
+            "यह केवल परीक्षा के समय उपयोगी है"
+          ],
+          "explanation": "पूर्व ज्ञान नए ज्ञान को समझने और उससे जोड़ने में सहायता करता है।"
+        },
+        "en": {
+          "question": "What is the importance of prior knowledge in learning?",
+          "options": [
+            "It has no importance",
+            "It helps in understanding new knowledge",
+            "It always creates a barrier",
+            "It is useful only during examinations"
+          ],
+          "explanation": "Prior knowledge helps learners connect and understand new information."
+        }
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "समावेशी शिक्षा का मुख्य उद्देश्य क्या है?",
+      "options": [
+        "विशेष आवश्यकता वाले बच्चों को अलग करना",
+        "सभी बच्चों को साथ सीखने का अवसर देना",
+        "केवल प्रतिभाशाली बच्चों को पढ़ाना",
+        "केवल परीक्षा परिणाम बढ़ाना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "समावेशी शिक्षा का उद्देश्य विविध क्षमताओं और आवश्यकताओं वाले बच्चों को समान शैक्षिक वातावरण में सीखने के अवसर देना है।",
+      "i18n": {
+        "hi": {
+          "question": "समावेशी शिक्षा का मुख्य उद्देश्य क्या है?",
+          "options": [
+            "विशेष आवश्यकता वाले बच्चों को अलग करना",
+            "सभी बच्चों को साथ सीखने का अवसर देना",
+            "केवल प्रतिभाशाली बच्चों को पढ़ाना",
+            "केवल परीक्षा परिणाम बढ़ाना"
+          ],
+          "explanation": "समावेशी शिक्षा सभी बच्चों को साथ सीखने का अवसर देती है।"
+        },
+        "en": {
+          "question": "What is the main objective of inclusive education?",
+          "options": [
+            "Separating children with special needs",
+            "Providing opportunities for all children to learn together",
+            "Teaching only gifted children",
+            "Only increasing examination results"
+          ],
+          "explanation": "Inclusive education aims to provide learning opportunities to children with diverse needs in a common educational environment."
+        }
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "बच्चे की सीखने की कठिनाई का पता चलने पर शिक्षक को सबसे पहले क्या करना चाहिए?",
+      "options": [
+        "बच्चे को दंड देना",
+        "बच्चे को कक्षा से निकाल देना",
+        "कठिनाई के कारण और प्रकृति को समझना",
+        "बच्चे को अनदेखा करना"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "शिक्षक को पहले समस्या की प्रकृति और कारणों को समझना चाहिए, फिर उपयुक्त सहायता और remedial teaching की योजना बनानी चाहिए।",
+      "i18n": {
+        "hi": {
+          "question": "बच्चे की सीखने की कठिनाई का पता चलने पर शिक्षक को सबसे पहले क्या करना चाहिए?",
+          "options": [
+            "बच्चे को दंड देना",
+            "बच्चे को कक्षा से निकाल देना",
+            "कठिनाई के कारण और प्रकृति को समझना",
+            "बच्चे को अनदेखा करना"
+          ],
+          "explanation": "पहला कदम समस्या की प्रकृति और कारणों को समझना है।"
+        },
+        "en": {
+          "question": "What should a teacher do first after identifying a child's learning difficulty?",
+          "options": [
+            "Punish the child",
+            "Remove the child from the class",
+            "Understand the nature and causes of the difficulty",
+            "Ignore the child"
+          ],
+          "explanation": "The teacher should first understand the nature and possible causes of the difficulty."
+        }
+      }
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "बुद्धि परीक्षण मुख्यतः किससे संबंधित है?",
+      "options": [
+        "केवल शारीरिक शक्ति",
+        "संज्ञानात्मक क्षमताओं के आकलन",
+        "केवल भावनात्मक व्यवहार",
+        "केवल भाषा की सुंदरता"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "बुद्धि परीक्षण सामान्यतः तर्क, समस्या समाधान और अन्य संज्ञानात्मक क्षमताओं के विभिन्न पहलुओं का आकलन करते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "बुद्धि परीक्षण मुख्यतः किससे संबंधित है?",
+          "options": [
+            "केवल शारीरिक शक्ति",
+            "संज्ञानात्मक क्षमताओं के आकलन",
+            "केवल भावनात्मक व्यवहार",
+            "केवल भाषा की सुंदरता"
+          ],
+          "explanation": "बुद्धि परीक्षण संज्ञानात्मक क्षमताओं के विभिन्न पहलुओं का आकलन करते हैं।"
+        },
+        "en": {
+          "question": "Intelligence tests are mainly concerned with:",
+          "options": [
+            "Physical strength only",
+            "Assessment of cognitive abilities",
+            "Emotional behaviour only",
+            "Beauty of language only"
+          ],
+          "explanation": "Intelligence tests assess various aspects of cognitive ability."
+        }
+      }
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "भूलने की प्रक्रिया को कम करने में कौन-सा सबसे उपयोगी है?",
+      "options": [
+        "अर्थपूर्ण पुनरावृत्ति",
+        "पूरी तरह निष्क्रिय रहना",
+        "सीखने के बाद अभ्यास न करना",
+        "केवल एक बार पढ़ना"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "अर्थपूर्ण पुनरावृत्ति और अभ्यास स्मृति को मजबूत करने में सहायता करते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "भूलने की प्रक्रिया को कम करने में कौन-सा सबसे उपयोगी है?",
+          "options": [
+            "अर्थपूर्ण पुनरावृत्ति",
+            "पूरी तरह निष्क्रिय रहना",
+            "सीखने के बाद अभ्यास न करना",
+            "केवल एक बार पढ़ना"
+          ],
+          "explanation": "अर्थपूर्ण पुनरावृत्ति और अभ्यास स्मृति को मजबूत करते हैं।"
+        },
+        "en": {
+          "question": "Which is most useful in reducing forgetting?",
+          "options": [
+            "Meaningful repetition",
+            "Remaining completely inactive",
+            "Avoiding practice after learning",
+            "Reading only once"
+          ],
+          "explanation": "Meaningful repetition and practice strengthen memory."
+        }
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "बच्चे के भावनात्मक विकास के लिए कौन-सा वातावरण सबसे उपयुक्त है?",
+      "options": [
+        "भय और दंड का वातावरण",
+        "स्वीकृति और सुरक्षा का वातावरण",
+        "अत्यधिक प्रतिस्पर्धा",
+        "लगातार आलोचना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "सुरक्षित, सहयोगी और स्वीकारात्मक वातावरण बच्चे के स्वस्थ भावनात्मक विकास में सहायता करता है।",
+      "i18n": {
+        "hi": {
+          "question": "बच्चे के भावनात्मक विकास के लिए कौन-सा वातावरण सबसे उपयुक्त है?",
+          "options": [
+            "भय और दंड का वातावरण",
+            "स्वीकृति और सुरक्षा का वातावरण",
+            "अत्यधिक प्रतिस्पर्धा",
+            "लगातार आलोचना"
+          ],
+          "explanation": "स्वीकृति, सुरक्षा और सहयोग भावनात्मक विकास के लिए महत्वपूर्ण हैं।"
+        },
+        "en": {
+          "question": "Which environment is most suitable for a child's emotional development?",
+          "options": [
+            "An environment of fear and punishment",
+            "An environment of acceptance and security",
+            "Excessive competition",
+            "Constant criticism"
+          ],
+          "explanation": "A safe, supportive and accepting environment promotes healthy emotional development."
+        }
+      }
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "अनुकरण द्वारा सीखने के सिद्धांत से कौन सबसे अधिक संबंधित है?",
+      "options": [
+        "बंडूरा",
+        "पावलॉव",
+        "फ्रायड",
+        "कोहलर"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "अल्बर्ट बंडूरा के सामाजिक अधिगम सिद्धांत में अवलोकन और अनुकरण द्वारा सीखने पर विशेष बल दिया गया है।",
+      "i18n": {
+        "hi": {
+          "question": "अनुकरण द्वारा सीखने के सिद्धांत से कौन सबसे अधिक संबंधित है?",
+          "options": [
+            "बंडूरा",
+            "पावलॉव",
+            "फ्रायड",
+            "कोहलर"
+          ],
+          "explanation": "बंडूरा के सामाजिक अधिगम सिद्धांत में अवलोकन और अनुकरण महत्वपूर्ण हैं।"
+        },
+        "en": {
+          "question": "Who is most closely associated with learning through imitation?",
+          "options": [
+            "Bandura",
+            "Pavlov",
+            "Freud",
+            "Kohler"
+          ],
+          "explanation": "Bandura's social learning theory emphasizes observational and imitative learning."
+        }
+      }
+    },
+    {
+      "id": 20,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "सकारात्मक पुनर्बलन का उदाहरण क्या है?",
+      "options": [
+        "सही उत्तर पर प्रशंसा करना",
+        "गलती पर अपमान करना",
+        "बच्चे को कक्षा से बाहर करना",
+        "काम न करने पर धमकी देना"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "सही व्यवहार के बाद प्रशंसा या पुरस्कार देना सकारात्मक पुनर्बलन का उदाहरण है।",
+      "i18n": {
+        "hi": {
+          "question": "सकारात्मक पुनर्बलन का उदाहरण क्या है?",
+          "options": [
+            "सही उत्तर पर प्रशंसा करना",
+            "गलती पर अपमान करना",
+            "बच्चे को कक्षा से बाहर करना",
+            "काम न करने पर धमकी देना"
+          ],
+          "explanation": "सही व्यवहार के बाद प्रशंसा देना सकारात्मक पुनर्बलन है।"
+        },
+        "en": {
+          "question": "Which is an example of positive reinforcement?",
+          "options": [
+            "Praising a correct response",
+            "Insulting a child for a mistake",
+            "Removing a child from class",
+            "Threatening a child for not working"
+          ],
+          "explanation": "Providing praise after desired behaviour is positive reinforcement."
+        }
+      }
+    },
+    {
+      "id": 21,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "बाल-केंद्रित शिक्षा में शिक्षक की भूमिका मुख्यतः क्या होती है?",
+      "options": [
+        "केवल व्याख्यान देना",
+        "सुविधादाता और मार्गदर्शक",
+        "केवल अनुशासन अधिकारी",
+        "केवल परीक्षक"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "बाल-केंद्रित शिक्षा में शिक्षक सीखने की प्रक्रिया को सुविधाजनक बनाता है और विद्यार्थियों का मार्गदर्शन करता है।",
+      "i18n": {
+        "hi": {
+          "question": "बाल-केंद्रित शिक्षा में शिक्षक की भूमिका मुख्यतः क्या होती है?",
+          "options": [
+            "केवल व्याख्यान देना",
+            "सुविधादाता और मार्गदर्शक",
+            "केवल अनुशासन अधिकारी",
+            "केवल परीक्षक"
+          ],
+          "explanation": "शिक्षक मुख्यतः facilitator और guide की भूमिका निभाता है।"
+        },
+        "en": {
+          "question": "What is the main role of a teacher in child-centred education?",
+          "options": [
+            "Only delivering lectures",
+            "Facilitator and guide",
+            "Only a discipline officer",
+            "Only an examiner"
+          ],
+          "explanation": "The teacher mainly facilitates learning and guides learners."
+        }
+      }
+    },
+    {
+      "id": 22,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "बच्चों में सीखने की गति अलग-अलग होने का मुख्य कारण क्या माना जाता है?",
+      "options": [
+        "व्यक्तिगत भिन्नताएँ",
+        "सभी बच्चों की समान क्षमता",
+        "केवल पाठ्यपुस्तक",
+        "केवल विद्यालय का समय"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "बच्चों की क्षमताओं, रुचियों, अनुभवों और सीखने की शैलियों में व्यक्तिगत भिन्नताएँ होती हैं।",
+      "i18n": {
+        "hi": {
+          "question": "बच्चों में सीखने की गति अलग-अलग होने का मुख्य कारण क्या माना जाता है?",
+          "options": [
+            "व्यक्तिगत भिन्नताएँ",
+            "सभी बच्चों की समान क्षमता",
+            "केवल पाठ्यपुस्तक",
+            "केवल विद्यालय का समय"
+          ],
+          "explanation": "व्यक्तिगत भिन्नताएँ बच्चों की सीखने की गति में अंतर का एक प्रमुख कारण हैं।"
+        },
+        "en": {
+          "question": "What is a major reason for differences in children's learning pace?",
+          "options": [
+            "Individual differences",
+            "Equal ability of all children",
+            "Only the textbook",
+            "Only school hours"
+          ],
+          "explanation": "Individual differences in ability, interests and experiences contribute to differences in learning pace."
+        }
+      }
+    },
+    {
+      "id": 23,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "नैतिक विकास के सिद्धांत से कौन प्रमुख रूप से संबंधित है?",
+      "options": [
+        "कोहल्बर्ग",
+        "स्किनर",
+        "पावलॉव",
+        "थॉर्नडाइक"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "लॉरेंस कोहल्बर्ग ने नैतिक विकास के चरणों का सिद्धांत प्रस्तुत किया।",
+      "i18n": {
+        "hi": {
+          "question": "नैतिक विकास के सिद्धांत से कौन प्रमुख रूप से संबंधित है?",
+          "options": [
+            "कोहल्बर्ग",
+            "स्किनर",
+            "पावलॉव",
+            "थॉर्नडाइक"
+          ],
+          "explanation": "कोहल्बर्ग नैतिक विकास के चरणों के सिद्धांत के लिए प्रसिद्ध हैं।"
+        },
+        "en": {
+          "question": "Who is primarily associated with the theory of moral development?",
+          "options": [
+            "Kohlberg",
+            "Skinner",
+            "Pavlov",
+            "Thorndike"
+          ],
+          "explanation": "Lawrence Kohlberg proposed a theory of stages of moral development."
+        }
+      }
+    },
+    {
+      "id": 24,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "बच्चे की भाषा के विकास में सबसे महत्वपूर्ण प्रारंभिक कारकों में से एक क्या है?",
+      "options": [
+        "सामाजिक अंतःक्रिया",
+        "केवल परीक्षा",
+        "केवल लिखित अभ्यास",
+        "केवल दंड"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "भाषा का विकास सामाजिक संपर्क, संवाद और समृद्ध भाषाई वातावरण से काफी प्रभावित होता है।",
+      "i18n": {
+        "hi": {
+          "question": "बच्चे की भाषा के विकास में सबसे महत्वपूर्ण प्रारंभिक कारकों में से एक क्या है?",
+          "options": [
+            "सामाजिक अंतःक्रिया",
+            "केवल परीक्षा",
+            "केवल लिखित अभ्यास",
+            "केवल दंड"
+          ],
+          "explanation": "सामाजिक अंतःक्रिया और भाषाई वातावरण भाषा विकास में महत्वपूर्ण हैं।"
+        },
+        "en": {
+          "question": "Which is an important early factor in a child's language development?",
+          "options": [
+            "Social interaction",
+            "Only examinations",
+            "Only written practice",
+            "Only punishment"
+          ],
+          "explanation": "Social interaction and a rich language environment support language development."
+        }
+      }
+    },
+    {
+      "id": 25,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "एक बच्चा बार-बार प्रश्न पूछता है। शिक्षक को क्या करना चाहिए?",
+      "options": [
+        "उसे चुप करा देना",
+        "उसकी जिज्ञासा को प्रोत्साहित करना",
+        "उसे दंड देना",
+        "उसे कक्षा से बाहर भेजना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "प्रश्न पूछना जिज्ञासा और सक्रिय सीखने का संकेत हो सकता है। शिक्षक को उचित प्रश्नों को प्रोत्साहित करना चाहिए।",
+      "i18n": {
+        "hi": {
+          "question": "एक बच्चा बार-बार प्रश्न पूछता है। शिक्षक को क्या करना चाहिए?",
+          "options": [
+            "उसे चुप करा देना",
+            "उसकी जिज्ञासा को प्रोत्साहित करना",
+            "उसे दंड देना",
+            "उसे कक्षा से बाहर भेजना"
+          ],
+          "explanation": "जिज्ञासा को प्रोत्साहित करना सीखने के लिए उपयोगी है।"
+        },
+        "en": {
+          "question": "A child repeatedly asks questions. What should the teacher do?",
+          "options": [
+            "Silence the child",
+            "Encourage the child's curiosity",
+            "Punish the child",
+            "Send the child out of class"
+          ],
+          "explanation": "Encouraging curiosity supports active learning."
+        }
+      }
+    },
+    {
+      "id": 26,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "सीखने में त्रुटियों को किस रूप में देखना अधिक उपयुक्त है?",
+      "options": [
+        "अपराध",
+        "सीखने की प्रक्रिया के संकेत",
+        "बच्चे की अक्षमता का स्थायी प्रमाण",
+        "दंड का कारण"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "त्रुटियाँ बच्चे की सोच और अवधारणाओं को समझने का अवसर देती हैं तथा शिक्षक को remedial support देने में मदद करती हैं।",
+      "i18n": {
+        "hi": {
+          "question": "सीखने में त्रुटियों को किस रूप में देखना अधिक उपयुक्त है?",
+          "options": [
+            "अपराध",
+            "सीखने की प्रक्रिया के संकेत",
+            "बच्चे की अक्षमता का स्थायी प्रमाण",
+            "दंड का कारण"
+          ],
+          "explanation": "त्रुटियाँ सीखने की प्रक्रिया और बच्चे की सोच के बारे में जानकारी देती हैं।"
+        },
+        "en": {
+          "question": "How should errors in learning preferably be viewed?",
+          "options": [
+            "As a crime",
+            "As indicators of the learning process",
+            "As permanent proof of inability",
+            "As a reason for punishment"
+          ],
+          "explanation": "Errors provide information about a child's thinking and learning needs."
+        }
+      }
+    },
+    {
+      "id": 27,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "संज्ञानात्मक विकास मुख्यतः किससे संबंधित है?",
+      "options": [
+        "सोचने और समझने की प्रक्रियाओं से",
+        "केवल शारीरिक वृद्धि से",
+        "केवल भावनाओं से",
+        "केवल खेल से"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "संज्ञानात्मक विकास में सोच, तर्क, स्मृति, समस्या समाधान और समझ जैसी मानसिक प्रक्रियाएँ शामिल होती हैं।",
+      "i18n": {
+        "hi": {
+          "question": "संज्ञानात्मक विकास मुख्यतः किससे संबंधित है?",
+          "options": [
+            "सोचने और समझने की प्रक्रियाओं से",
+            "केवल शारीरिक वृद्धि से",
+            "केवल भावनाओं से",
+            "केवल खेल से"
+          ],
+          "explanation": "संज्ञानात्मक विकास में सोच, तर्क, स्मृति और समस्या समाधान शामिल हैं।"
+        },
+        "en": {
+          "question": "Cognitive development is mainly concerned with:",
+          "options": [
+            "Processes of thinking and understanding",
+            "Only physical growth",
+            "Only emotions",
+            "Only play"
+          ],
+          "explanation": "Cognitive development includes thinking, reasoning, memory and problem solving."
+        }
+      }
+    },
+    {
+      "id": 28,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "एक शिक्षक बच्चे की तुलना दूसरे बच्चों से करने के बजाय उसकी पिछली उपलब्धि से करता है। यह किस दृष्टिकोण को दर्शाता है?",
+      "options": [
+        "व्यक्तिगत प्रगति पर ध्यान",
+        "प्रतिस्पर्धात्मक दंड",
+        "नकारात्मक मूल्यांकन",
+        "सामूहिक दंड"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "बच्चे की अपनी पूर्व उपलब्धि से तुलना व्यक्तिगत प्रगति और growth-oriented assessment पर ध्यान देती है।",
+      "i18n": {
+        "hi": {
+          "question": "एक शिक्षक बच्चे की तुलना दूसरे बच्चों से करने के बजाय उसकी पिछली उपलब्धि से करता है। यह किस दृष्टिकोण को दर्शाता है?",
+          "options": [
+            "व्यक्तिगत प्रगति पर ध्यान",
+            "प्रतिस्पर्धात्मक दंड",
+            "नकारात्मक मूल्यांकन",
+            "सामूहिक दंड"
+          ],
+          "explanation": "यह व्यक्तिगत प्रगति पर ध्यान देने वाला दृष्टिकोण है।"
+        },
+        "en": {
+          "question": "A teacher compares a child with the child's previous performance rather than with other children. What does this reflect?",
+          "options": [
+            "Focus on individual progress",
+            "Competitive punishment",
+            "Negative assessment",
+            "Collective punishment"
+          ],
+          "explanation": "This approach focuses on individual progress rather than competition."
+        }
+      }
+    },
+    {
+      "id": 29,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "बालक के सामाजिक विकास में सहपाठी समूह की क्या भूमिका है?",
+      "options": [
+        "कोई भूमिका नहीं",
+        "सामाजिक कौशल और सहयोग विकसित करने में सहायता",
+        "केवल अनुशासन बिगाड़ना",
+        "केवल परीक्षा की तैयारी"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "सहपाठी समूह बच्चों को सहयोग, संवाद, साझा करना और सामाजिक नियमों को समझने के अवसर देता है।",
+      "i18n": {
+        "hi": {
+          "question": "बालक के सामाजिक विकास में सहपाठी समूह की क्या भूमिका है?",
+          "options": [
+            "कोई भूमिका नहीं",
+            "सामाजिक कौशल और सहयोग विकसित करने में सहायता",
+            "केवल अनुशासन बिगाड़ना",
+            "केवल परीक्षा की तैयारी"
+          ],
+          "explanation": "सहपाठी समूह सामाजिक कौशल, सहयोग और संवाद विकसित करने में मदद करता है।"
+        },
+        "en": {
+          "question": "What is the role of peer groups in social development?",
+          "options": [
+            "No role",
+            "They help develop social skills and cooperation",
+            "They only disturb discipline",
+            "They only prepare children for exams"
+          ],
+          "explanation": "Peer groups provide opportunities to develop cooperation, communication and social skills."
+        }
+      }
+    },
+    {
+      "id": 30,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "बच्चे की सीखने की क्षमता को बढ़ाने के लिए शिक्षक को क्या करना चाहिए?",
+      "options": [
+        "केवल व्याख्यान देना",
+        "सक्रिय भागीदारी के अवसर देना",
+        "हर गलती पर दंड देना",
+        "केवल रटने पर जोर देना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "सक्रिय भागीदारी, गतिविधियाँ, चर्चा और समस्या समाधान सीखने को अधिक प्रभावी बना सकते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "बच्चे की सीखने की क्षमता को बढ़ाने के लिए शिक्षक को क्या करना चाहिए?",
+          "options": [
+            "केवल व्याख्यान देना",
+            "सक्रिय भागीदारी के अवसर देना",
+            "हर गलती पर दंड देना",
+            "केवल रटने पर जोर देना"
+          ],
+          "explanation": "सक्रिय भागीदारी सीखने को अधिक प्रभावी बनाती है।"
+        },
+        "en": {
+          "question": "What should a teacher do to enhance children's learning?",
+          "options": [
+            "Only lecture",
+            "Provide opportunities for active participation",
+            "Punish every error",
+            "Focus only on memorization"
+          ],
+          "explanation": "Active participation can make learning more meaningful and effective."
+        }
+      }
+    },
+    {
+      "id": 31,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "सीखने की तत्परता का अर्थ क्या है?",
+      "options": [
+        "केवल बच्चे की आयु",
+        "नई सीख के लिए आवश्यक पूर्व तैयारी और क्षमता",
+        "केवल परीक्षा में रुचि",
+        "केवल शारीरिक शक्ति"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "सीखने की readiness का संबंध उस स्तर की तैयारी, पूर्व ज्ञान और क्षमता से है जो नई सीख के लिए आवश्यक होती है।",
+      "i18n": {
+        "hi": {
+          "question": "सीखने की तत्परता का अर्थ क्या है?",
+          "options": [
+            "केवल बच्चे की आयु",
+            "नई सीख के लिए आवश्यक पूर्व तैयारी और क्षमता",
+            "केवल परीक्षा में रुचि",
+            "केवल शारीरिक शक्ति"
+          ],
+          "explanation": "तत्परता में नई सीख के लिए आवश्यक तैयारी और क्षमता शामिल है।"
+        },
+        "en": {
+          "question": "What does readiness for learning mean?",
+          "options": [
+            "Only the child's age",
+            "The preparation and ability needed for new learning",
+            "Only interest in examinations",
+            "Only physical strength"
+          ],
+          "explanation": "Readiness refers to the preparation, prior knowledge and ability needed for new learning."
+        }
+      }
+    },
+    {
+      "id": 32,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "यदि बच्चा किसी समस्या को स्वयं हल करने के लिए विभिन्न तरीके आजमाता है, तो यह किस क्षमता का संकेत है?",
+      "options": [
+        "समस्या समाधान",
+        "निष्क्रियता",
+        "केवल अनुकरण",
+        "केवल स्मरण"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "विभिन्न रणनीतियों को आजमाना समस्या समाधान और लचीले चिंतन का संकेत है।",
+      "i18n": {
+        "hi": {
+          "question": "यदि बच्चा किसी समस्या को स्वयं हल करने के लिए विभिन्न तरीके आजमाता है, तो यह किस क्षमता का संकेत है?",
+          "options": [
+            "समस्या समाधान",
+            "निष्क्रियता",
+            "केवल अनुकरण",
+            "केवल स्मरण"
+          ],
+          "explanation": "विभिन्न तरीकों को आजमाना समस्या समाधान क्षमता का संकेत है।"
+        },
+        "en": {
+          "question": "If a child tries different ways to solve a problem independently, what does this indicate?",
+          "options": [
+            "Problem-solving ability",
+            "Passivity",
+            "Only imitation",
+            "Only memorization"
+          ],
+          "explanation": "Trying different strategies indicates problem-solving and flexible thinking."
+        }
+      }
+    },
+    {
+      "id": 33,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "कक्षा में डर का वातावरण सीखने को किस प्रकार प्रभावित कर सकता है?",
+      "options": [
+        "हमेशा सीखने को बढ़ाता है",
+        "चिंता बढ़ाकर सीखने में बाधा डाल सकता है",
+        "इसका कोई प्रभाव नहीं",
+        "यह केवल खेल को प्रभावित करता है"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "अत्यधिक भय और चिंता ध्यान, सहभागिता और सीखने को नकारात्मक रूप से प्रभावित कर सकते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "कक्षा में डर का वातावरण सीखने को किस प्रकार प्रभावित कर सकता है?",
+          "options": [
+            "हमेशा सीखने को बढ़ाता है",
+            "चिंता बढ़ाकर सीखने में बाधा डाल सकता है",
+            "इसका कोई प्रभाव नहीं",
+            "यह केवल खेल को प्रभावित करता है"
+          ],
+          "explanation": "भय और चिंता सीखने में बाधा डाल सकते हैं।"
+        },
+        "en": {
+          "question": "How can a fearful classroom environment affect learning?",
+          "options": [
+            "It always improves learning",
+            "It can increase anxiety and hinder learning",
+            "It has no effect",
+            "It affects only play"
+          ],
+          "explanation": "Excessive fear and anxiety can negatively affect attention, participation and learning."
+        }
+      }
+    },
+    {
+      "id": 34,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "एक शिक्षक सभी बच्चों को एक ही तरीके से पढ़ाता है क्योंकि वह मानता है कि सभी की क्षमता समान है। यह किस सिद्धांत की उपेक्षा है?",
+      "options": [
+        "व्यक्तिगत भिन्नता",
+        "पुनर्बलन",
+        "अनुकरण",
+        "स्मृति"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "सभी बच्चों की क्षमताएँ, रुचियाँ और सीखने की आवश्यकताएँ समान नहीं होतीं।",
+      "i18n": {
+        "hi": {
+          "question": "एक शिक्षक सभी बच्चों को एक ही तरीके से पढ़ाता है क्योंकि वह मानता है कि सभी की क्षमता समान है। यह किस सिद्धांत की उपेक्षा है?",
+          "options": [
+            "व्यक्तिगत भिन्नता",
+            "पुनर्बलन",
+            "अनुकरण",
+            "स्मृति"
+          ],
+          "explanation": "यह व्यक्तिगत भिन्नताओं के सिद्धांत की उपेक्षा है।"
+        },
+        "en": {
+          "question": "A teacher uses the same method for all children because he believes all have equal abilities. Which principle is ignored?",
+          "options": [
+            "Individual differences",
+            "Reinforcement",
+            "Imitation",
+            "Memory"
+          ],
+          "explanation": "The teacher is ignoring individual differences among learners."
+        }
+      }
+    },
+    {
+      "id": 35,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "अच्छी सीखने की प्रक्रिया में शिक्षक को बच्चे की गलतियों के प्रति कैसा दृष्टिकोण रखना चाहिए?",
+      "options": [
+        "दंडात्मक",
+        "निदानात्मक और सहयोगात्मक",
+        "उपेक्षापूर्ण",
+        "अपमानजनक"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "त्रुटियों का विश्लेषण करके शिक्षक बच्चे की कठिनाई पहचान सकता है और उपयुक्त सहायता दे सकता है।",
+      "i18n": {
+        "hi": {
+          "question": "अच्छी सीखने की प्रक्रिया में शिक्षक को बच्चे की गलतियों के प्रति कैसा दृष्टिकोण रखना चाहिए?",
+          "options": [
+            "दंडात्मक",
+            "निदानात्मक और सहयोगात्मक",
+            "उपेक्षापूर्ण",
+            "अपमानजनक"
+          ],
+          "explanation": "शिक्षक को त्रुटियों को सीखने की आवश्यकता पहचानने के अवसर के रूप में देखना चाहिए।"
+        },
+        "en": {
+          "question": "What attitude should a teacher have toward children's errors in an effective learning process?",
+          "options": [
+            "Punitive",
+            "Diagnostic and supportive",
+            "Indifferent",
+            "Humiliating"
+          ],
+          "explanation": "Errors can help identify learning difficulties and guide appropriate support."
+        }
+      }
+    },
+    {
+      "id": 36,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "भावनात्मक बुद्धिमत्ता में मुख्यतः क्या शामिल है?",
+      "options": [
+        "केवल गणितीय क्षमता",
+        "भावनाओं को समझना और नियंत्रित करना",
+        "केवल शारीरिक शक्ति",
+        "केवल स्मरण शक्ति"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "भावनात्मक बुद्धिमत्ता में अपनी और दूसरों की भावनाओं को पहचानना, समझना और उचित रूप से संभालना शामिल है।",
+      "i18n": {
+        "hi": {
+          "question": "भावनात्मक बुद्धिमत्ता में मुख्यतः क्या शामिल है?",
+          "options": [
+            "केवल गणितीय क्षमता",
+            "भावनाओं को समझना और नियंत्रित करना",
+            "केवल शारीरिक शक्ति",
+            "केवल स्मरण शक्ति"
+          ],
+          "explanation": "भावनात्मक बुद्धिमत्ता भावनाओं की पहचान, समझ और प्रबंधन से संबंधित है।"
+        },
+        "en": {
+          "question": "What does emotional intelligence mainly involve?",
+          "options": [
+            "Only mathematical ability",
+            "Understanding and managing emotions",
+            "Only physical strength",
+            "Only memory"
+          ],
+          "explanation": "Emotional intelligence involves recognizing, understanding and managing emotions."
+        }
+      }
+    },
+    {
+      "id": 37,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "बालक में आत्मविश्वास विकसित करने के लिए शिक्षक को क्या करना चाहिए?",
+      "options": [
+        "हर गलती पर सार्वजनिक आलोचना",
+        "प्रयास और प्रगति की सराहना",
+        "हमेशा तुलना करना",
+        "केवल उच्च अंक वालों को अवसर देना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "प्रयास, प्रगति और उचित उपलब्धियों की सकारात्मक प्रतिक्रिया बच्चे के आत्मविश्वास को मजबूत कर सकती है।",
+      "i18n": {
+        "hi": {
+          "question": "बालक में आत्मविश्वास विकसित करने के लिए शिक्षक को क्या करना चाहिए?",
+          "options": [
+            "हर गलती पर सार्वजनिक आलोचना",
+            "प्रयास और प्रगति की सराहना",
+            "हमेशा तुलना करना",
+            "केवल उच्च अंक वालों को अवसर देना"
+          ],
+          "explanation": "प्रयास और प्रगति की सराहना आत्मविश्वास विकसित करने में सहायक है।"
+        },
+        "en": {
+          "question": "What should a teacher do to develop a child's self-confidence?",
+          "options": [
+            "Publicly criticize every mistake",
+            "Appreciate effort and progress",
+            "Always compare children",
+            "Give opportunities only to high scorers"
+          ],
+          "explanation": "Recognizing effort and progress can support children's self-confidence."
+        }
+      }
+    },
+    {
+      "id": 38,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "कक्षा में सहयोगात्मक अधिगम का प्रमुख लाभ क्या है?",
+      "options": [
+        "सामाजिक और संचार कौशल का विकास",
+        "बच्चों को निष्क्रिय बनाना",
+        "केवल शिक्षक का कार्य कम करना",
+        "केवल परीक्षा अंक बढ़ाना"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "सहयोगात्मक अधिगम विद्यार्थियों को संवाद, सहयोग, समस्या समाधान और सामाजिक कौशल विकसित करने के अवसर देता है।",
+      "i18n": {
+        "hi": {
+          "question": "कक्षा में सहयोगात्मक अधिगम का प्रमुख लाभ क्या है?",
+          "options": [
+            "सामाजिक और संचार कौशल का विकास",
+            "बच्चों को निष्क्रिय बनाना",
+            "केवल शिक्षक का कार्य कम करना",
+            "केवल परीक्षा अंक बढ़ाना"
+          ],
+          "explanation": "सहयोगात्मक अधिगम सामाजिक, संचार और समस्या समाधान कौशल विकसित करता है।"
+        },
+        "en": {
+          "question": "What is a major benefit of collaborative learning?",
+          "options": [
+            "Development of social and communication skills",
+            "Making children passive",
+            "Only reducing teacher workload",
+            "Only increasing exam marks"
+          ],
+          "explanation": "Collaborative learning supports communication, cooperation and problem-solving skills."
+        }
+      }
+    },
+    {
+      "id": 39,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "बच्चे के विकास में खेल का क्या महत्व है?",
+      "options": [
+        "खेल समय की बर्बादी है",
+        "खेल सामाजिक, शारीरिक और संज्ञानात्मक विकास में सहायक है",
+        "खेल केवल मनोरंजन है",
+        "खेल केवल बड़े बच्चों के लिए है"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "खेल बच्चों को शारीरिक गतिविधि, सामाजिक संपर्क, समस्या समाधान और रचनात्मकता के अवसर देता है।",
+      "i18n": {
+        "hi": {
+          "question": "बच्चे के विकास में खेल का क्या महत्व है?",
+          "options": [
+            "खेल समय की बर्बादी है",
+            "खेल सामाजिक, शारीरिक और संज्ञानात्मक विकास में सहायक है",
+            "खेल केवल मनोरंजन है",
+            "खेल केवल बड़े बच्चों के लिए है"
+          ],
+          "explanation": "खेल बहुआयामी विकास के लिए महत्वपूर्ण है।"
+        },
+        "en": {
+          "question": "What is the importance of play in child development?",
+          "options": [
+            "Play is a waste of time",
+            "Play supports social, physical and cognitive development",
+            "Play is only entertainment",
+            "Play is only for older children"
+          ],
+          "explanation": "Play provides opportunities for physical, social, cognitive and creative development."
+        }
+      }
+    },
+    {
+      "id": 40,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "बाल मनोविज्ञान का शिक्षक के लिए सबसे महत्वपूर्ण उपयोग क्या है?",
+      "options": [
+        "बच्चों को नियंत्रित करना",
+        "बच्चों की सीखने और विकास संबंधी आवश्यकताओं को समझना",
+        "केवल परीक्षा बनाना",
+        "केवल अनुशासन लागू करना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "बाल मनोविज्ञान शिक्षक को बच्चों की विकासात्मक अवस्थाओं, आवश्यकताओं, व्यवहार और सीखने की प्रक्रियाओं को समझने में मदद करता है।",
+      "i18n": {
+        "hi": {
+          "question": "बाल मनोविज्ञान का शिक्षक के लिए सबसे महत्वपूर्ण उपयोग क्या है?",
+          "options": [
+            "बच्चों को नियंत्रित करना",
+            "बच्चों की सीखने और विकास संबंधी आवश्यकताओं को समझना",
+            "केवल परीक्षा बनाना",
+            "केवल अनुशासन लागू करना"
+          ],
+          "explanation": "बाल मनोविज्ञान शिक्षक को बच्चों की विकासात्मक और सीखने की आवश्यकताओं को समझने में मदद करता है।"
+        },
+        "en": {
+          "question": "What is the most important use of child psychology for a teacher?",
+          "options": [
+            "Controlling children",
+            "Understanding children's learning and developmental needs",
+            "Only preparing examinations",
+            "Only enforcing discipline"
+          ],
+          "explanation": "Child psychology helps teachers understand children's development, behaviour and learning needs."
+        }
+      }
+    },
+
+    {
+      "id": 41,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "शिक्षण का सबसे महत्वपूर्ण उद्देश्य क्या होना चाहिए?",
+      "options": [
+        "केवल पाठ पूरा करना",
+        "विद्यार्थियों में अर्थपूर्ण सीखने का विकास करना",
+        "केवल गृहकार्य देना",
+        "केवल परीक्षा लेना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "प्रभावी शिक्षण का उद्देश्य विद्यार्थियों में समझ, कौशल और अर्थपूर्ण अधिगम विकसित करना है।",
+      "i18n": {
+        "hi": {
+          "question": "शिक्षण का सबसे महत्वपूर्ण उद्देश्य क्या होना चाहिए?",
+          "options": [
+            "केवल पाठ पूरा करना",
+            "विद्यार्थियों में अर्थपूर्ण सीखने का विकास करना",
+            "केवल गृहकार्य देना",
+            "केवल परीक्षा लेना"
+          ],
+          "explanation": "शिक्षण का उद्देश्य अर्थपूर्ण और प्रभावी अधिगम विकसित करना है।"
+        },
+        "en": {
+          "question": "What should be the most important objective of teaching?",
+          "options": [
+            "Only completing the syllabus",
+            "Developing meaningful learning among students",
+            "Only giving homework",
+            "Only conducting examinations"
+          ],
+          "explanation": "Effective teaching aims to develop meaningful understanding and learning."
+        }
+      }
+    },
+    {
+      "id": 42,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "बाल-केंद्रित शिक्षण में पाठ की शुरुआत किससे करना अधिक उपयुक्त है?",
+      "options": [
+        "बच्चों के पूर्व ज्ञान और अनुभव से",
+        "केवल शिक्षक की परिभाषा से",
+        "केवल परीक्षा प्रश्नों से",
+        "दंड से"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "बच्चों के पूर्व अनुभव और ज्ञान से जुड़कर नया ज्ञान अधिक अर्थपूर्ण बनाया जा सकता है।",
+      "i18n": {
+        "hi": {
+          "question": "बाल-केंद्रित शिक्षण में पाठ की शुरुआत किससे करना अधिक उपयुक्त है?",
+          "options": [
+            "बच्चों के पूर्व ज्ञान और अनुभव से",
+            "केवल शिक्षक की परिभाषा से",
+            "केवल परीक्षा प्रश्नों से",
+            "दंड से"
+          ],
+          "explanation": "पूर्व ज्ञान और अनुभव नए सीखने से जोड़ने में सहायता करते हैं।"
+        },
+        "en": {
+          "question": "In child-centred teaching, what is a suitable starting point for a lesson?",
+          "options": [
+            "Children's prior knowledge and experiences",
+            "Only the teacher's definition",
+            "Only examination questions",
+            "Punishment"
+          ],
+          "explanation": "Connecting new learning with prior knowledge and experience makes learning meaningful."
+        }
+      }
+    },
+    {
+      "id": 43,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "रचनावादी दृष्टिकोण में विद्यार्थी को किस रूप में देखा जाता है?",
+      "options": [
+        "निष्क्रिय ज्ञान प्राप्तकर्ता",
+        "सक्रिय ज्ञान निर्माता",
+        "केवल अनुशासन का पालन करने वाला",
+        "केवल परीक्षार्थी"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "रचनावादी दृष्टिकोण के अनुसार विद्यार्थी अपने अनुभव और सक्रिय सहभागिता के माध्यम से ज्ञान का निर्माण करता है।",
+      "i18n": {
+        "hi": {
+          "question": "रचनावादी दृष्टिकोण में विद्यार्थी को किस रूप में देखा जाता है?",
+          "options": [
+            "निष्क्रिय ज्ञान प्राप्तकर्ता",
+            "सक्रिय ज्ञान निर्माता",
+            "केवल अनुशासन का पालन करने वाला",
+            "केवल परीक्षार्थी"
+          ],
+          "explanation": "रचनावाद विद्यार्थी को सक्रिय रूप से ज्ञान का निर्माण करने वाला मानता है।"
+        },
+        "en": {
+          "question": "How is the learner viewed in a constructivist approach?",
+          "options": [
+            "Passive receiver of knowledge",
+            "Active constructor of knowledge",
+            "Only a follower of discipline",
+            "Only an examinee"
+          ],
+          "explanation": "Constructivism views learners as active constructors of knowledge."
+        }
+      }
+    },
+    {
+      "id": 44,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "निर्माणात्मक मूल्यांकन का मुख्य उद्देश्य क्या है?",
+      "options": [
+        "केवल अंतिम अंक देना",
+        "सीखने के दौरान प्रगति और कठिनाइयों की पहचान करना",
+        "विद्यार्थियों को दंड देना",
+        "केवल रैंक बनाना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Formative assessment सीखने की प्रक्रिया के दौरान feedback देकर प्रगति और कठिनाइयों की पहचान करता है।",
+      "i18n": {
+        "hi": {
+          "question": "निर्माणात्मक मूल्यांकन का मुख्य उद्देश्य क्या है?",
+          "options": [
+            "केवल अंतिम अंक देना",
+            "सीखने के दौरान प्रगति और कठिनाइयों की पहचान करना",
+            "विद्यार्थियों को दंड देना",
+            "केवल रैंक बनाना"
+          ],
+          "explanation": "निर्माणात्मक मूल्यांकन सीखने के दौरान प्रगति और कठिनाइयों की पहचान करता है।"
+        },
+        "en": {
+          "question": "What is the main purpose of formative assessment?",
+          "options": [
+            "Only assigning final marks",
+            "Identifying progress and difficulties during learning",
+            "Punishing students",
+            "Only creating ranks"
+          ],
+          "explanation": "Formative assessment provides information about progress and difficulties during learning."
+        }
+      }
+    },
+    {
+      "id": 45,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "समापनात्मक मूल्यांकन सामान्यतः कब किया जाता है?",
+      "options": [
+        "सीखने की प्रक्रिया के बीच में ही",
+        "इकाई या पाठ्यक्रम के अंत में",
+        "कक्षा शुरू होने से पहले",
+        "केवल अवकाश के समय"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Summative assessment सामान्यतः किसी इकाई, पाठ्यक्रम या अवधि के अंत में उपलब्धि का आकलन करता है।",
+      "i18n": {
+        "hi": {
+          "question": "समापनात्मक मूल्यांकन सामान्यतः कब किया जाता है?",
+          "options": [
+            "सीखने की प्रक्रिया के बीच में ही",
+            "इकाई या पाठ्यक्रम के अंत में",
+            "कक्षा शुरू होने से पहले",
+            "केवल अवकाश के समय"
+          ],
+          "explanation": "समापनात्मक मूल्यांकन आम तौर पर इकाई या पाठ्यक्रम के अंत में किया जाता है।"
+        },
+        "en": {
+          "question": "When is summative assessment generally conducted?",
+          "options": [
+            "Only during the middle of learning",
+            "At the end of a unit or course",
+            "Before the class begins",
+            "Only during recess"
+          ],
+          "explanation": "Summative assessment generally evaluates achievement at the end of a unit, course or period."
+        }
+      }
+    },
+    {
+      "id": 46,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "निदानात्मक परीक्षण का मुख्य उद्देश्य क्या है?",
+      "options": [
+        "सीखने की कठिनाइयों का पता लगाना",
+        "केवल पुरस्कार देना",
+        "केवल उपस्थिति लेना",
+        "केवल अंतिम परीक्षा लेना"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Diagnostic assessment का उद्देश्य विशेष सीखने की कठिनाइयों और उनके संभावित कारणों की पहचान करना है।",
+      "i18n": {
+        "hi": {
+          "question": "निदानात्मक परीक्षण का मुख्य उद्देश्य क्या है?",
+          "options": [
+            "सीखने की कठिनाइयों का पता लगाना",
+            "केवल पुरस्कार देना",
+            "केवल उपस्थिति लेना",
+            "केवल अंतिम परीक्षा लेना"
+          ],
+          "explanation": "निदानात्मक परीक्षण सीखने की कठिनाइयों की पहचान करता है।"
+        },
+        "en": {
+          "question": "What is the main purpose of a diagnostic test?",
+          "options": [
+            "Identifying learning difficulties",
+            "Only giving rewards",
+            "Only taking attendance",
+            "Only conducting the final exam"
+          ],
+          "explanation": "Diagnostic assessment identifies specific learning difficulties and their possible causes."
+        }
+      }
+    },
+    {
+      "id": 47,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "उपचारात्मक शिक्षण किसके बाद अधिक प्रभावी होता है?",
+      "options": [
+        "निदानात्मक मूल्यांकन",
+        "केवल वार्षिक परीक्षा",
+        "केवल उपस्थिति",
+        "केवल खेल"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Diagnostic assessment से कठिनाई की पहचान करने के बाद remedial teaching अधिक लक्षित और प्रभावी हो सकती है।",
+      "i18n": {
+        "hi": {
+          "question": "उपचारात्मक शिक्षण किसके बाद अधिक प्रभावी होता है?",
+          "options": [
+            "निदानात्मक मूल्यांकन",
+            "केवल वार्षिक परीक्षा",
+            "केवल उपस्थिति",
+            "केवल खेल"
+          ],
+          "explanation": "निदान के बाद कठिनाई के अनुसार उपचारात्मक शिक्षण किया जा सकता है।"
+        },
+        "en": {
+          "question": "Remedial teaching is more effective after:",
+          "options": [
+            "Diagnostic assessment",
+            "Only annual examination",
+            "Only attendance",
+            "Only play"
+          ],
+          "explanation": "Diagnostic assessment helps identify the specific areas requiring remedial support."
+        }
+      }
+    },
+    {
+      "id": 48,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "प्रश्न पूछने की अच्छी तकनीक में शिक्षक को क्या करना चाहिए?",
+      "options": [
+        "केवल एक ही बच्चे को हमेशा प्रश्न देना",
+        "सोचने के लिए पर्याप्त समय देना",
+        "उत्तर तुरंत बता देना",
+        "केवल तेज विद्यार्थियों को अवसर देना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Wait time विद्यार्थियों को सोचने और बेहतर उत्तर देने का अवसर देता है।",
+      "i18n": {
+        "hi": {
+          "question": "प्रश्न पूछने की अच्छी तकनीक में शिक्षक को क्या करना चाहिए?",
+          "options": [
+            "केवल एक ही बच्चे को हमेशा प्रश्न देना",
+            "सोचने के लिए पर्याप्त समय देना",
+            "उत्तर तुरंत बता देना",
+            "केवल तेज विद्यार्थियों को अवसर देना"
+          ],
+          "explanation": "विद्यार्थियों को उत्तर सोचने के लिए पर्याप्त समय देना उपयोगी है।"
+        },
+        "en": {
+          "question": "What should a teacher do as part of good questioning technique?",
+          "options": [
+            "Always ask the same child",
+            "Provide sufficient thinking time",
+            "Immediately give the answer",
+            "Give opportunities only to fast learners"
+          ],
+          "explanation": "Providing wait time allows students to think and formulate responses."
+        }
+      }
+    },
+    {
+      "id": 49,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "समूह कार्य को प्रभावी बनाने के लिए सबसे आवश्यक क्या है?",
+      "options": [
+        "भूमिकाओं और कार्य की स्पष्टता",
+        "केवल एक विद्यार्थी को कार्य देना",
+        "शिक्षक का पूरी तरह निष्क्रिय होना",
+        "किसी भी प्रकार का उद्देश्य न होना"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "स्पष्ट उद्देश्य, भूमिकाएँ और अपेक्षित परिणाम समूह कार्य को अधिक प्रभावी बनाते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "समूह कार्य को प्रभावी बनाने के लिए सबसे आवश्यक क्या है?",
+          "options": [
+            "भूमिकाओं और कार्य की स्पष्टता",
+            "केवल एक विद्यार्थी को कार्य देना",
+            "शिक्षक का पूरी तरह निष्क्रिय होना",
+            "किसी भी प्रकार का उद्देश्य न होना"
+          ],
+          "explanation": "स्पष्ट भूमिकाएँ और उद्देश्य समूह कार्य को प्रभावी बनाते हैं।"
+        },
+        "en": {
+          "question": "What is essential for effective group work?",
+          "options": [
+            "Clarity of roles and tasks",
+            "Giving the task to only one student",
+            "Teacher being completely inactive",
+            "Having no objective"
+          ],
+          "explanation": "Clear roles, tasks and objectives support effective group work."
+        }
+      }
+    },
+    {
+      "id": 50,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "शिक्षण-सहायक सामग्री का प्रमुख उद्देश्य क्या है?",
+      "options": [
+        "कक्षा को सजाना मात्र",
+        "अवधारणाओं को अधिक स्पष्ट और अनुभवात्मक बनाना",
+        "शिक्षक को बदलना",
+        "परीक्षा समाप्त करना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Teaching-learning materials अमूर्त या कठिन अवधारणाओं को अधिक स्पष्ट, दृश्य और अनुभवात्मक बना सकते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "शिक्षण-सहायक सामग्री का प्रमुख उद्देश्य क्या है?",
+          "options": [
+            "कक्षा को सजाना मात्र",
+            "अवधारणाओं को अधिक स्पष्ट और अनुभवात्मक बनाना",
+            "शिक्षक को बदलना",
+            "परीक्षा समाप्त करना"
+          ],
+          "explanation": "शिक्षण-सहायक सामग्री अवधारणाओं को स्पष्ट और अनुभवात्मक बनाने में मदद करती है।"
+        },
+        "en": {
+          "question": "What is the main purpose of teaching-learning materials?",
+          "options": [
+            "Only decorating the classroom",
+            "Making concepts clearer and more experiential",
+            "Replacing the teacher",
+            "Eliminating examinations"
+          ],
+          "explanation": "Teaching-learning materials can make concepts clearer, visual and experiential."
+        }
+      }
+    },
+    {
+      "id": 51,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "एक प्रभावी पाठ योजना में सबसे पहले क्या स्पष्ट होना चाहिए?",
+      "options": [
+        "सीखने के उद्देश्य",
+        "केवल गृहकार्य",
+        "केवल परीक्षा की तारीख",
+        "केवल उपस्थिति"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Lesson planning में learning objectives स्पष्ट होना आवश्यक है ताकि शिक्षण और मूल्यांकन दोनों उसी के अनुरूप किए जा सकें।",
+      "i18n": {
+        "hi": {
+          "question": "एक प्रभावी पाठ योजना में सबसे पहले क्या स्पष्ट होना चाहिए?",
+          "options": [
+            "सीखने के उद्देश्य",
+            "केवल गृहकार्य",
+            "केवल परीक्षा की तारीख",
+            "केवल उपस्थिति"
+          ],
+          "explanation": "पाठ योजना में सीखने के उद्देश्य स्पष्ट होने चाहिए।"
+        },
+        "en": {
+          "question": "What should be clear first in an effective lesson plan?",
+          "options": [
+            "Learning objectives",
+            "Only homework",
+            "Only the exam date",
+            "Only attendance"
+          ],
+          "explanation": "Clear learning objectives guide teaching activities and assessment."
+        }
+      }
+    },
+    {
+      "id": 52,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "एक शिक्षक केवल सही उत्तर पर ध्यान देता है और यह नहीं देखता कि बच्चा उत्तर तक कैसे पहुँचा। इसमें किसकी उपेक्षा हो रही है?",
+      "options": [
+        "सीखने की प्रक्रिया",
+        "उपस्थिति",
+        "विद्यालय भवन",
+        "पाठ्यपुस्तक"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "शिक्षण में केवल अंतिम उत्तर के बजाय विद्यार्थी की सोच और प्रक्रिया को समझना भी महत्वपूर्ण है।",
+      "i18n": {
+        "hi": {
+          "question": "एक शिक्षक केवल सही उत्तर पर ध्यान देता है और यह नहीं देखता कि बच्चा उत्तर तक कैसे पहुँचा। इसमें किसकी उपेक्षा हो रही है?",
+          "options": [
+            "सीखने की प्रक्रिया",
+            "उपस्थिति",
+            "विद्यालय भवन",
+            "पाठ्यपुस्तक"
+          ],
+          "explanation": "यह सीखने की प्रक्रिया और बच्चे की सोच की उपेक्षा है।"
+        },
+        "en": {
+          "question": "A teacher focuses only on the correct answer and ignores how the child reached it. What is being neglected?",
+          "options": [
+            "The learning process",
+            "Attendance",
+            "School building",
+            "Textbook"
+          ],
+          "explanation": "The teacher is neglecting the learner's reasoning and learning process."
+        }
+      }
+    },
+    {
+      "id": 53,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "अच्छा feedback कैसा होना चाहिए?",
+      "options": [
+        "अस्पष्ट और सामान्य",
+        "समय पर, विशिष्ट और सुधार में सहायक",
+        "केवल नकारात्मक",
+        "केवल परीक्षा के कई महीने बाद"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "प्रभावी feedback समय पर, विशिष्ट और आगे सुधार के लिए उपयोगी होना चाहिए।",
+      "i18n": {
+        "hi": {
+          "question": "अच्छा feedback कैसा होना चाहिए?",
+          "options": [
+            "अस्पष्ट और सामान्य",
+            "समय पर, विशिष्ट और सुधार में सहायक",
+            "केवल नकारात्मक",
+            "केवल परीक्षा के कई महीने बाद"
+          ],
+          "explanation": "अच्छा feedback timely, specific और सुधार-उन्मुख होता है।"
+        },
+        "en": {
+          "question": "What should effective feedback be like?",
+          "options": [
+            "Vague and general",
+            "Timely, specific and helpful for improvement",
+            "Only negative",
+            "Only months after the examination"
+          ],
+          "explanation": "Effective feedback should be timely, specific and improvement-oriented."
+        }
+      }
+    },
+    {
+      "id": 54,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "यदि विद्यार्थी किसी अवधारणा को नहीं समझ पा रहा है, तो शिक्षक को क्या करना चाहिए?",
+      "options": [
+        "उसे अयोग्य घोषित करना",
+        "वैकल्पिक उदाहरण और विधि का प्रयोग करना",
+        "उसे अनदेखा करना",
+        "केवल अधिक गृहकार्य देना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "वैकल्पिक उदाहरण, गतिविधियाँ और शिक्षण रणनीतियाँ अलग-अलग सीखने की आवश्यकताओं को संबोधित कर सकती हैं।",
+      "i18n": {
+        "hi": {
+          "question": "यदि विद्यार्थी किसी अवधारणा को नहीं समझ पा रहा है, तो शिक्षक को क्या करना चाहिए?",
+          "options": [
+            "उसे अयोग्य घोषित करना",
+            "वैकल्पिक उदाहरण और विधि का प्रयोग करना",
+            "उसे अनदेखा करना",
+            "केवल अधिक गृहकार्य देना"
+          ],
+          "explanation": "वैकल्पिक उदाहरण और शिक्षण विधि का प्रयोग करना अधिक उपयुक्त है।"
+        },
+        "en": {
+          "question": "If a learner cannot understand a concept, what should the teacher do?",
+          "options": [
+            "Declare the learner incapable",
+            "Use alternative examples and methods",
+            "Ignore the learner",
+            "Only give more homework"
+          ],
+          "explanation": "Alternative examples and teaching strategies can address different learning needs."
+        }
+      }
+    },
+    {
+      "id": 55,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "परियोजना विधि में विद्यार्थी मुख्यतः क्या करते हैं?",
+      "options": [
+        "केवल शिक्षक का व्याख्यान सुनते हैं",
+        "किसी वास्तविक या अर्थपूर्ण कार्य पर सक्रिय रूप से काम करते हैं",
+        "केवल पुस्तक याद करते हैं",
+        "केवल परीक्षा देते हैं"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Project method विद्यार्थियों को किसी अर्थपूर्ण समस्या या कार्य पर सक्रिय रूप से काम करने का अवसर देती है।",
+      "i18n": {
+        "hi": {
+          "question": "परियोजना विधि में विद्यार्थी मुख्यतः क्या करते हैं?",
+          "options": [
+            "केवल शिक्षक का व्याख्यान सुनते हैं",
+            "किसी वास्तविक या अर्थपूर्ण कार्य पर सक्रिय रूप से काम करते हैं",
+            "केवल पुस्तक याद करते हैं",
+            "केवल परीक्षा देते हैं"
+          ],
+          "explanation": "परियोजना विधि सक्रिय और अर्थपूर्ण कार्य पर आधारित होती है।"
+        },
+        "en": {
+          "question": "What do learners mainly do in the project method?",
+          "options": [
+            "Only listen to lectures",
+            "Actively work on a meaningful or real-life task",
+            "Only memorize books",
+            "Only take examinations"
+          ],
+          "explanation": "The project method involves active work on meaningful tasks or problems."
+        }
+      }
+    },
+    {
+      "id": 56,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "कक्षा प्रबंधन का सबसे प्रभावी आधार क्या है?",
+      "options": [
+        "भय",
+        "स्पष्ट अपेक्षाएँ और सकारात्मक संबंध",
+        "लगातार दंड",
+        "पूर्ण मौन"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "स्पष्ट नियम, सकारात्मक शिक्षक-विद्यार्थी संबंध और सुसंगत व्यवहार कक्षा प्रबंधन में सहायक होते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "कक्षा प्रबंधन का सबसे प्रभावी आधार क्या है?",
+          "options": [
+            "भय",
+            "स्पष्ट अपेक्षाएँ और सकारात्मक संबंध",
+            "लगातार दंड",
+            "पूर्ण मौन"
+          ],
+          "explanation": "स्पष्ट अपेक्षाएँ और सकारात्मक संबंध प्रभावी classroom management के महत्वपूर्ण आधार हैं।"
+        },
+        "en": {
+          "question": "What is an effective foundation for classroom management?",
+          "options": [
+            "Fear",
+            "Clear expectations and positive relationships",
+            "Constant punishment",
+            "Complete silence"
+          ],
+          "explanation": "Clear expectations and positive teacher-student relationships support effective classroom management."
+        }
+      }
+    },
+    {
+      "id": 57,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "एक शिक्षक विद्यार्थियों से खुले प्रश्न पूछता है जिनके कई संभावित उत्तर हो सकते हैं। इसका प्रमुख उद्देश्य क्या हो सकता है?",
+      "options": [
+        "रचनात्मक और आलोचनात्मक चिंतन को बढ़ाना",
+        "केवल याददाश्त जांचना",
+        "केवल अनुशासन बनाए रखना",
+        "केवल उपस्थिति लेना"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Open-ended questions विद्यार्थियों को विभिन्न दृष्टिकोण, तर्क और रचनात्मक उत्तर विकसित करने का अवसर देते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "एक शिक्षक विद्यार्थियों से खुले प्रश्न पूछता है जिनके कई संभावित उत्तर हो सकते हैं। इसका प्रमुख उद्देश्य क्या हो सकता है?",
+          "options": [
+            "रचनात्मक और आलोचनात्मक चिंतन को बढ़ाना",
+            "केवल याददाश्त जांचना",
+            "केवल अनुशासन बनाए रखना",
+            "केवल उपस्थिति लेना"
+          ],
+          "explanation": "खुले प्रश्न रचनात्मक और आलोचनात्मक चिंतन को बढ़ावा देते हैं।"
+        },
+        "en": {
+          "question": "A teacher asks open-ended questions with several possible answers. What may be the main purpose?",
+          "options": [
+            "Promoting creative and critical thinking",
+            "Only testing memory",
+            "Only maintaining discipline",
+            "Only taking attendance"
+          ],
+          "explanation": "Open-ended questions encourage reasoning, creativity and multiple perspectives."
+        }
+      }
+    },
+    {
+      "id": 58,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "सहकारी अधिगम में शिक्षक की भूमिका क्या होनी चाहिए?",
+      "options": [
+        "पूरी प्रक्रिया पर अकेले नियंत्रण रखना",
+        "समूहों को मार्गदर्शन और आवश्यक सहायता देना",
+        "किसी भी प्रकार की सहायता न देना",
+        "केवल परीक्षा लेना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Cooperative learning में शिक्षक facilitator की भूमिका निभाता है और समूहों को आवश्यक दिशा और सहायता देता है।",
+      "i18n": {
+        "hi": {
+          "question": "सहकारी अधिगम में शिक्षक की भूमिका क्या होनी चाहिए?",
+          "options": [
+            "पूरी प्रक्रिया पर अकेले नियंत्रण रखना",
+            "समूहों को मार्गदर्शन और आवश्यक सहायता देना",
+            "किसी भी प्रकार की सहायता न देना",
+            "केवल परीक्षा लेना"
+          ],
+          "explanation": "शिक्षक समूहों को मार्गदर्शन देकर सहयोगात्मक सीखने को सुविधाजनक बनाता है।"
+        },
+        "en": {
+          "question": "What should be the teacher's role in cooperative learning?",
+          "options": [
+            "Control the entire process alone",
+            "Guide groups and provide necessary support",
+            "Provide no assistance",
+            "Only conduct tests"
+          ],
+          "explanation": "The teacher facilitates cooperative learning by guiding and supporting groups."
+        }
+      }
+    },
+    {
+      "id": 59,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "एक शिक्षक अलग-अलग क्षमता वाले बच्चों को अलग-अलग स्तर के कार्य देता है। यह किसका उदाहरण है?",
+      "options": [
+        "विभेदीकृत शिक्षण",
+        "सामूहिक दंड",
+        "केवल व्याख्यान",
+        "रटने की विधि"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Differentiated instruction में विद्यार्थियों की आवश्यकताओं और readiness के अनुसार शिक्षण और कार्यों में बदलाव किया जाता है।",
+      "i18n": {
+        "hi": {
+          "question": "एक शिक्षक अलग-अलग क्षमता वाले बच्चों को अलग-अलग स्तर के कार्य देता है। यह किसका उदाहरण है?",
+          "options": [
+            "विभेदीकृत शिक्षण",
+            "सामूहिक दंड",
+            "केवल व्याख्यान",
+            "रटने की विधि"
+          ],
+          "explanation": "यह differentiated instruction का उदाहरण है।"
+        },
+        "en": {
+          "question": "A teacher gives different levels of tasks to learners with different abilities. What is this an example of?",
+          "options": [
+            "Differentiated instruction",
+            "Collective punishment",
+            "Only lecturing",
+            "Rote method"
+          ],
+          "explanation": "Differentiated instruction adapts teaching according to learner needs and readiness."
+        }
+      }
+    },
+    {
+      "id": 60,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "शिक्षक को मूल्यांकन का उपयोग केवल अंक देने के बजाय किस लिए करना चाहिए?",
+      "options": [
+        "सीखने में सुधार के लिए",
+        "बच्चों को डराने के लिए",
+        "बच्चों की तुलना करने के लिए",
+        "केवल रैंक बनाने के लिए"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Assessment का एक महत्वपूर्ण उद्देश्य learning gaps पहचानकर आगे के शिक्षण को बेहतर बनाना है।",
+      "i18n": {
+        "hi": {
+          "question": "शिक्षक को मूल्यांकन का उपयोग केवल अंक देने के बजाय किस लिए करना चाहिए?",
+          "options": [
+            "सीखने में सुधार के लिए",
+            "बच्चों को डराने के लिए",
+            "बच्चों की तुलना करने के लिए",
+            "केवल रैंक बनाने के लिए"
+          ],
+          "explanation": "मूल्यांकन का उपयोग सीखने में सुधार के लिए किया जाना चाहिए।"
+        },
+        "en": {
+          "question": "Instead of only assigning marks, how should a teacher use assessment?",
+          "options": [
+            "To improve learning",
+            "To frighten children",
+            "To compare children",
+            "Only to create ranks"
+          ],
+          "explanation": "Assessment should provide information that helps improve learning and teaching."
+        }
+      }
+    },
+    {
+      "id": 61,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "यदि अधिकांश विद्यार्थी एक ही अवधारणा में गलती करते हैं, तो शिक्षक को क्या करना चाहिए?",
+      "options": [
+        "सभी को दंड देना",
+        "अपनी शिक्षण रणनीति की समीक्षा करना",
+        "विषय छोड़ देना",
+        "बच्चों को कमजोर घोषित करना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "यदि अनेक विद्यार्थी एक ही अवधारणा में कठिनाई दिखाते हैं तो शिक्षक को अपनी teaching strategy, examples और explanation की समीक्षा करनी चाहिए।",
+      "i18n": {
+        "hi": {
+          "question": "यदि अधिकांश विद्यार्थी एक ही अवधारणा में गलती करते हैं, तो शिक्षक को क्या करना चाहिए?",
+          "options": [
+            "सभी को दंड देना",
+            "अपनी शिक्षण रणनीति की समीक्षा करना",
+            "विषय छोड़ देना",
+            "बच्चों को कमजोर घोषित करना"
+          ],
+          "explanation": "सामूहिक कठिनाई होने पर शिक्षण रणनीति की समीक्षा करना उचित है।"
+        },
+        "en": {
+          "question": "If most learners make the same conceptual error, what should the teacher do?",
+          "options": [
+            "Punish everyone",
+            "Review the teaching strategy",
+            "Abandon the topic",
+            "Declare the children weak"
+          ],
+          "explanation": "A common error may indicate the need to review the teaching strategy and explanation."
+        }
+      }
+    },
+    {
+      "id": 62,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "अनुभवात्मक अधिगम का सबसे अच्छा उदाहरण कौन-सा है?",
+      "options": [
+        "केवल परिभाषा याद करना",
+        "वास्तविक गतिविधि करके अवधारणा सीखना",
+        "केवल शिक्षक को सुनना",
+        "केवल नोट्स कॉपी करना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Experiential learning में विद्यार्थी अनुभव, गतिविधि और reflection के माध्यम से सीखता है।",
+      "i18n": {
+        "hi": {
+          "question": "अनुभवात्मक अधिगम का सबसे अच्छा उदाहरण कौन-सा है?",
+          "options": [
+            "केवल परिभाषा याद करना",
+            "वास्तविक गतिविधि करके अवधारणा सीखना",
+            "केवल शिक्षक को सुनना",
+            "केवल नोट्स कॉपी करना"
+          ],
+          "explanation": "गतिविधि और अनुभव के माध्यम से सीखना experiential learning का उदाहरण है।"
+        },
+        "en": {
+          "question": "Which is the best example of experiential learning?",
+          "options": [
+            "Only memorizing a definition",
+            "Learning a concept through a real activity",
+            "Only listening to the teacher",
+            "Only copying notes"
+          ],
+          "explanation": "Experiential learning involves learning through experience and activity."
+        }
+      }
+    },
+    {
+      "id": 63,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "एक अच्छा शिक्षक विद्यार्थियों के प्रश्नों को कैसे देखता है?",
+      "options": [
+        "बाधा के रूप में",
+        "सीखने के अवसर के रूप में",
+        "अनुशासनहीनता के रूप में हमेशा",
+        "समय की बर्बादी के रूप में"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "उचित प्रश्न जिज्ञासा और सोच का संकेत हो सकते हैं और शिक्षक को learning gaps समझने में भी मदद करते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "एक अच्छा शिक्षक विद्यार्थियों के प्रश्नों को कैसे देखता है?",
+          "options": [
+            "बाधा के रूप में",
+            "सीखने के अवसर के रूप में",
+            "अनुशासनहीनता के रूप में हमेशा",
+            "समय की बर्बादी के रूप में"
+          ],
+          "explanation": "विद्यार्थियों के प्रश्न सीखने और सोचने के अवसर प्रदान करते हैं।"
+        },
+        "en": {
+          "question": "How should an effective teacher view students' questions?",
+          "options": [
+            "As obstacles",
+            "As opportunities for learning",
+            "Always as indiscipline",
+            "As a waste of time"
+          ],
+          "explanation": "Questions can indicate curiosity and provide opportunities for deeper learning."
+        }
+      }
+    },
+    {
+      "id": 64,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "यदि कोई विद्यार्थी कक्षा में बार-बार बाधा उत्पन्न करता है, तो शिक्षक का पहला कदम क्या होना चाहिए?",
+      "options": [
+        "तुरंत कठोर दंड देना",
+        "व्यवहार के कारण को समझना",
+        "उसे हमेशा के लिए बाहर करना",
+        "सभी विद्यार्थियों को दंड देना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "व्यवहार के कारण को समझना शिक्षक को उचित intervention चुनने में मदद करता है।",
+      "i18n": {
+        "hi": {
+          "question": "यदि कोई विद्यार्थी कक्षा में बार-बार बाधा उत्पन्न करता है, तो शिक्षक का पहला कदम क्या होना चाहिए?",
+          "options": [
+            "तुरंत कठोर दंड देना",
+            "व्यवहार के कारण को समझना",
+            "उसे हमेशा के लिए बाहर करना",
+            "सभी विद्यार्थियों को दंड देना"
+          ],
+          "explanation": "पहले व्यवहार के कारण और परिस्थिति को समझना चाहिए।"
+        },
+        "en": {
+          "question": "If a learner repeatedly disrupts the class, what should the teacher do first?",
+          "options": [
+            "Immediately give harsh punishment",
+            "Understand the reason behind the behaviour",
+            "Permanently remove the learner",
+            "Punish the whole class"
+          ],
+          "explanation": "Understanding the reason for the behaviour helps determine an appropriate intervention."
+        }
+      }
+    },
+    {
+      "id": 65,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "शिक्षक की व्यावसायिक दक्षता में सबसे महत्वपूर्ण क्या है?",
+      "options": [
+        "विषय ज्ञान और शिक्षण कौशल का निरंतर विकास",
+        "केवल वरिष्ठता",
+        "केवल कठोर अनुशासन",
+        "केवल अधिक गृहकार्य देना"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "एक प्रभावी शिक्षक को विषय ज्ञान, pedagogy और professional skills को निरंतर विकसित करना चाहिए।",
+      "i18n": {
+        "hi": {
+          "question": "शिक्षक की व्यावसायिक दक्षता में सबसे महत्वपूर्ण क्या है?",
+          "options": [
+            "विषय ज्ञान और शिक्षण कौशल का निरंतर विकास",
+            "केवल वरिष्ठता",
+            "केवल कठोर अनुशासन",
+            "केवल अधिक गृहकार्य देना"
+          ],
+          "explanation": "व्यावसायिक दक्षता में निरंतर सीखना और teaching skills विकसित करना महत्वपूर्ण है।"
+        },
+        "en": {
+          "question": "What is most important for teacher professional competence?",
+          "options": [
+            "Continuous development of subject knowledge and teaching skills",
+            "Only seniority",
+            "Only strict discipline",
+            "Only giving more homework"
+          ],
+          "explanation": "Professional competence requires continuous development of subject and pedagogical knowledge."
+        }
+      }
+    },
+    {
+      "id": 66,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "एक शिक्षक lesson के दौरान विद्यार्थियों से छोटे-छोटे प्रश्न पूछकर समझ की जांच करता है। यह किसका उदाहरण है?",
+      "options": [
+        "Formative assessment",
+        "Summative assessment",
+        "केवल वार्षिक परीक्षा",
+        "केवल प्रवेश परीक्षा"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "पाठ के दौरान understanding check करना formative assessment का एक सामान्य रूप है।",
+      "i18n": {
+        "hi": {
+          "question": "एक शिक्षक lesson के दौरान विद्यार्थियों से छोटे-छोटे प्रश्न पूछकर समझ की जांच करता है। यह किसका उदाहरण है?",
+          "options": [
+            "Formative assessment",
+            "Summative assessment",
+            "केवल वार्षिक परीक्षा",
+            "केवल प्रवेश परीक्षा"
+          ],
+          "explanation": "पाठ के दौरान समझ की जांच formative assessment का उदाहरण है।"
+        },
+        "en": {
+          "question": "A teacher checks students' understanding through short questions during a lesson. What is this an example of?",
+          "options": [
+            "Formative assessment",
+            "Summative assessment",
+            "Only annual examination",
+            "Only entrance examination"
+          ],
+          "explanation": "Checking understanding during instruction is a form of formative assessment."
+        }
+      }
+    },
+    {
+      "id": 67,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "एक शिक्षक विद्यार्थियों को समस्या देकर स्वयं समाधान खोजने देता है। यह किस प्रकार के अधिगम को बढ़ावा देता है?",
+      "options": [
+        "समस्या-आधारित अधिगम",
+        "निष्क्रिय अधिगम",
+        "केवल रटने का अधिगम",
+        "केवल अनुकरण"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Problem-based learning में विद्यार्थी समस्या का विश्लेषण करते हैं और समाधान खोजने की प्रक्रिया में सीखते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "एक शिक्षक विद्यार्थियों को समस्या देकर स्वयं समाधान खोजने देता है। यह किस प्रकार के अधिगम को बढ़ावा देता है?",
+          "options": [
+            "समस्या-आधारित अधिगम",
+            "निष्क्रिय अधिगम",
+            "केवल रटने का अधिगम",
+            "केवल अनुकरण"
+          ],
+          "explanation": "समस्या देकर समाधान खोजने देना problem-based learning से संबंधित है।"
+        },
+        "en": {
+          "question": "A teacher gives learners a problem and lets them find solutions themselves. What type of learning does this promote?",
+          "options": [
+            "Problem-based learning",
+            "Passive learning",
+            "Only rote learning",
+            "Only imitation"
+          ],
+          "explanation": "Problem-based learning involves learning through analysis and solution of meaningful problems."
+        }
+      }
+    },
+    {
+      "id": 68,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "शिक्षण में स्थानीय उदाहरणों का उपयोग क्यों उपयोगी है?",
+      "options": [
+        "वे अवधारणाओं को बच्चों के अनुभव से जोड़ते हैं",
+        "वे पाठ्यक्रम समाप्त कर देते हैं",
+        "वे परीक्षा की आवश्यकता समाप्त करते हैं",
+        "वे केवल शिक्षक के लिए उपयोगी हैं"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "स्थानीय और परिचित उदाहरण विद्यार्थियों के अनुभव से जुड़कर अवधारणाओं को अधिक अर्थपूर्ण बना सकते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "शिक्षण में स्थानीय उदाहरणों का उपयोग क्यों उपयोगी है?",
+          "options": [
+            "वे अवधारणाओं को बच्चों के अनुभव से जोड़ते हैं",
+            "वे पाठ्यक्रम समाप्त कर देते हैं",
+            "वे परीक्षा की आवश्यकता समाप्त करते हैं",
+            "वे केवल शिक्षक के लिए उपयोगी हैं"
+          ],
+          "explanation": "स्थानीय उदाहरण बच्चों के अनुभव से अवधारणाओं को जोड़ते हैं।"
+        },
+        "en": {
+          "question": "Why is using local examples useful in teaching?",
+          "options": [
+            "They connect concepts with children's experiences",
+            "They eliminate the curriculum",
+            "They eliminate the need for exams",
+            "They are useful only for teachers"
+          ],
+          "explanation": "Local examples can connect abstract concepts with familiar experiences."
+        }
+      }
+    },
+    {
+      "id": 69,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "समावेशी कक्षा में शिक्षक को क्या करना चाहिए?",
+      "options": [
+        "सभी बच्चों से बिल्कुल समान प्रदर्शन की अपेक्षा",
+        "विविध आवश्यकताओं के अनुसार उचित सहायता और अनुकूलन",
+        "विशेष आवश्यकता वाले बच्चों को अलग रखना",
+        "केवल तेज विद्यार्थियों पर ध्यान देना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "समावेशी शिक्षण में विभिन्न आवश्यकताओं और क्षमताओं के अनुसार उचित accommodations और support दिए जाते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "समावेशी कक्षा में शिक्षक को क्या करना चाहिए?",
+          "options": [
+            "सभी बच्चों से बिल्कुल समान प्रदर्शन की अपेक्षा",
+            "विविध आवश्यकताओं के अनुसार उचित सहायता और अनुकूलन",
+            "विशेष आवश्यकता वाले बच्चों को अलग रखना",
+            "केवल तेज विद्यार्थियों पर ध्यान देना"
+          ],
+          "explanation": "विविध आवश्यकताओं के अनुसार सहायता और अनुकूलन समावेशी शिक्षण का हिस्सा है।"
+        },
+        "en": {
+          "question": "What should a teacher do in an inclusive classroom?",
+          "options": [
+            "Expect exactly the same performance from everyone",
+            "Provide appropriate support and adaptations for diverse needs",
+            "Separate children with special needs",
+            "Focus only on fast learners"
+          ],
+          "explanation": "Inclusive teaching adapts support and learning opportunities to diverse needs."
+        }
+      }
+    },
+    {
+      "id": 70,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "एक शिक्षक स्वयं भी विद्यार्थियों की प्रतिक्रिया के आधार पर अपनी teaching बदलता है। यह किस गुण को दर्शाता है?",
+      "options": [
+        "Reflective teaching",
+        "Rigid teaching",
+        "Punitive teaching",
+        "Passive teaching"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Reflective teaching में शिक्षक अपने teaching practices की समीक्षा करता है और feedback के आधार पर सुधार करता है।",
+      "i18n": {
+        "hi": {
+          "question": "एक शिक्षक स्वयं भी विद्यार्थियों की प्रतिक्रिया के आधार पर अपनी teaching बदलता है। यह किस गुण को दर्शाता है?",
+          "options": [
+            "Reflective teaching",
+            "Rigid teaching",
+            "Punitive teaching",
+            "Passive teaching"
+          ],
+          "explanation": "Feedback के आधार पर अपनी teaching में सुधार करना reflective teaching को दर्शाता है।"
+        },
+        "en": {
+          "question": "A teacher modifies teaching based on students' responses. What quality does this demonstrate?",
+          "options": [
+            "Reflective teaching",
+            "Rigid teaching",
+            "Punitive teaching",
+            "Passive teaching"
+          ],
+          "explanation": "Reflective teaching involves reviewing and improving teaching practices based on evidence and feedback."
+        }
+      }
+    },
+    {
+      "id": 71,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "एक शिक्षक विद्यार्थियों को अपनी सीखने की प्रगति पर स्वयं विचार करने को कहता है। यह किससे संबंधित है?",
+      "options": [
+        "Self-assessment",
+        "केवल summative assessment",
+        "केवल punishment",
+        "केवल attendance"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Self-assessment में विद्यार्थी अपनी सीख, उपलब्धियों और कठिनाइयों पर स्वयं विचार करता है।",
+      "i18n": {
+        "hi": {
+          "question": "एक शिक्षक विद्यार्थियों को अपनी सीखने की प्रगति पर स्वयं विचार करने को कहता है। यह किससे संबंधित है?",
+          "options": [
+            "Self-assessment",
+            "केवल summative assessment",
+            "केवल punishment",
+            "केवल attendance"
+          ],
+          "explanation": "अपनी प्रगति का स्वयं मूल्यांकन self-assessment कहलाता है।"
+        },
+        "en": {
+          "question": "A teacher asks learners to reflect on their own learning progress. What is this related to?",
+          "options": [
+            "Self-assessment",
+            "Only summative assessment",
+            "Only punishment",
+            "Only attendance"
+          ],
+          "explanation": "Self-assessment involves learners reflecting on their own learning and progress."
+        }
+      }
+    },
+    {
+      "id": 72,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "Peer assessment में विद्यार्थी क्या करते हैं?",
+      "options": [
+        "एक-दूसरे के कार्य का निर्धारित मानदंडों के आधार पर मूल्यांकन",
+        "केवल शिक्षक का मूल्यांकन",
+        "केवल अपनी उपस्थिति दर्ज",
+        "केवल पाठ याद"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Peer assessment में विद्यार्थी निर्धारित criteria के आधार पर अपने साथियों के कार्य का मूल्यांकन करते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Peer assessment में विद्यार्थी क्या करते हैं?",
+          "options": [
+            "एक-दूसरे के कार्य का निर्धारित मानदंडों के आधार पर मूल्यांकन",
+            "केवल शिक्षक का मूल्यांकन",
+            "केवल अपनी उपस्थिति दर्ज",
+            "केवल पाठ याद"
+          ],
+          "explanation": "Peer assessment में विद्यार्थी साथियों के कार्य का मूल्यांकन करते हैं।"
+        },
+        "en": {
+          "question": "What do students do in peer assessment?",
+          "options": [
+            "Evaluate each other's work using defined criteria",
+            "Only evaluate the teacher",
+            "Only record attendance",
+            "Only memorize lessons"
+          ],
+          "explanation": "Peer assessment involves evaluating classmates' work using appropriate criteria."
+        }
+      }
+    },
+    {
+      "id": 73,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "शिक्षक को गृहकार्य कैसा देना चाहिए?",
+      "options": [
+        "अर्थपूर्ण और सीखने से संबंधित",
+        "केवल बहुत अधिक मात्रा में",
+        "बिना उद्देश्य के",
+        "केवल दंड के रूप में"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "गृहकार्य का उद्देश्य अभ्यास, अनुप्रयोग या विस्तार होना चाहिए; केवल मात्रा बढ़ाना उपयोगी नहीं है।",
+      "i18n": {
+        "hi": {
+          "question": "शिक्षक को गृहकार्य कैसा देना चाहिए?",
+          "options": [
+            "अर्थपूर्ण और सीखने से संबंधित",
+            "केवल बहुत अधिक मात्रा में",
+            "बिना उद्देश्य के",
+            "केवल दंड के रूप में"
+          ],
+          "explanation": "अर्थपूर्ण और learning objectives से जुड़ा homework अधिक उपयोगी होता है।"
+        },
+        "en": {
+          "question": "What kind of homework should a teacher assign?",
+          "options": [
+            "Meaningful and related to learning",
+            "Only a very large amount",
+            "Without purpose",
+            "Only as punishment"
+          ],
+          "explanation": "Homework should have a meaningful learning purpose rather than simply being excessive."
+        }
+      }
+    },
+    {
+      "id": 74,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "शिक्षण में उदाहरण से नियम की ओर जाना किस विधि का संकेत है?",
+      "options": [
+        "आगमन विधि",
+        "निगमन विधि",
+        "व्याख्यान विधि",
+        "केवल चर्चा विधि"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Inductive method में विशेष उदाहरणों या घटनाओं से सामान्य नियम की ओर बढ़ा जाता है।",
+      "i18n": {
+        "hi": {
+          "question": "शिक्षण में उदाहरण से नियम की ओर जाना किस विधि का संकेत है?",
+          "options": [
+            "आगमन विधि",
+            "निगमन विधि",
+            "व्याख्यान विधि",
+            "केवल चर्चा विधि"
+          ],
+          "explanation": "उदाहरणों से सामान्य नियम की ओर जाना आगमन विधि है।"
+        },
+        "en": {
+          "question": "Moving from examples to a general rule in teaching indicates which method?",
+          "options": [
+            "Inductive method",
+            "Deductive method",
+            "Lecture method",
+            "Only discussion method"
+          ],
+          "explanation": "The inductive method moves from specific examples to a general rule."
+        }
+      }
+    },
+    {
+      "id": 75,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "शिक्षक द्वारा विद्यार्थी की उपलब्धि पर विशिष्ट और सकारात्मक प्रतिक्रिया देना किसका उदाहरण है?",
+      "options": [
+        "रचनात्मक feedback",
+        "दंड",
+        "निष्क्रिय मूल्यांकन",
+        "सामूहिक अनुशासन"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Specific and constructive feedback विद्यार्थी को यह समझने में मदद करता है कि उसने क्या अच्छा किया और कहाँ सुधार करना है।",
+      "i18n": {
+        "hi": {
+          "question": "शिक्षक द्वारा विद्यार्थी की उपलब्धि पर विशिष्ट और सकारात्मक प्रतिक्रिया देना किसका उदाहरण है?",
+          "options": [
+            "रचनात्मक feedback",
+            "दंड",
+            "निष्क्रिय मूल्यांकन",
+            "सामूहिक अनुशासन"
+          ],
+          "explanation": "विशिष्ट सकारात्मक प्रतिक्रिया constructive feedback का उदाहरण है।"
+        },
+        "en": {
+          "question": "A teacher gives specific and positive feedback on a learner's achievement. What is this an example of?",
+          "options": [
+            "Constructive feedback",
+            "Punishment",
+            "Passive assessment",
+            "Collective discipline"
+          ],
+          "explanation": "Specific and useful positive feedback is constructive feedback."
+        }
+      }
+    },
+
+    {
+      "id": 76,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "जीवन कौशलों में समस्या समाधान का अर्थ क्या है?",
+      "options": [
+        "समस्या से बचना",
+        "समस्या को समझकर उचित समाधान खोजना",
+        "दूसरों को दोष देना",
+        "समस्या को अनदेखा करना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Problem-solving में समस्या की पहचान, कारणों का विश्लेषण, विकल्पों पर विचार और उचित समाधान का चयन शामिल होता है।",
+      "i18n": {
+        "hi": {
+          "question": "जीवन कौशलों में समस्या समाधान का अर्थ क्या है?",
+          "options": [
+            "समस्या से बचना",
+            "समस्या को समझकर उचित समाधान खोजना",
+            "दूसरों को दोष देना",
+            "समस्या को अनदेखा करना"
+          ],
+          "explanation": "समस्या समाधान में समस्या को समझना और उचित विकल्प चुनना शामिल है।"
+        },
+        "en": {
+          "question": "What does problem-solving as a life skill mean?",
+          "options": [
+            "Avoiding problems",
+            "Understanding a problem and finding an appropriate solution",
+            "Blaming others",
+            "Ignoring the problem"
+          ],
+          "explanation": "Problem-solving involves identifying the issue, analyzing options and selecting an appropriate solution."
+        }
+      }
+    },
+    {
+      "id": 77,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "प्रभावी संचार का सबसे महत्वपूर्ण तत्व क्या है?",
+      "options": [
+        "केवल बोलना",
+        "सुनना और संदेश को स्पष्ट रूप से समझना",
+        "केवल ऊंची आवाज में बोलना",
+        "दूसरे को बीच में रोकना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Effective communication में स्पष्ट अभिव्यक्ति के साथ सक्रिय सुनना और feedback शामिल होता है।",
+      "i18n": {
+        "hi": {
+          "question": "प्रभावी संचार का सबसे महत्वपूर्ण तत्व क्या है?",
+          "options": [
+            "केवल बोलना",
+            "सुनना और संदेश को स्पष्ट रूप से समझना",
+            "केवल ऊंची आवाज में बोलना",
+            "दूसरे को बीच में रोकना"
+          ],
+          "explanation": "प्रभावी संचार में active listening महत्वपूर्ण है।"
+        },
+        "en": {
+          "question": "What is an important element of effective communication?",
+          "options": [
+            "Only speaking",
+            "Listening and understanding the message clearly",
+            "Only speaking loudly",
+            "Interrupting others"
+          ],
+          "explanation": "Effective communication involves clear expression as well as active listening."
+        }
+      }
+    },
+    {
+      "id": 78,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "एक अच्छे नेता की प्रमुख विशेषता क्या है?",
+      "options": [
+        "हर निर्णय अकेले लेना",
+        "दूसरों को सुनना और टीम को दिशा देना",
+        "दूसरों को दबाना",
+        "गलतियों के लिए हमेशा दूसरों को दोष देना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Effective leadership में listening, communication, decision-making, responsibility और team coordination शामिल होते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "एक अच्छे नेता की प्रमुख विशेषता क्या है?",
+          "options": [
+            "हर निर्णय अकेले लेना",
+            "दूसरों को सुनना और टीम को दिशा देना",
+            "दूसरों को दबाना",
+            "गलतियों के लिए हमेशा दूसरों को दोष देना"
+          ],
+          "explanation": "अच्छा नेतृत्व सुनने, मार्गदर्शन और टीम समन्वय पर आधारित होता है।"
+        },
+        "en": {
+          "question": "What is an important quality of a good leader?",
+          "options": [
+            "Making every decision alone",
+            "Listening to others and guiding the team",
+            "Suppressing others",
+            "Always blaming others for mistakes"
+          ],
+          "explanation": "Effective leadership involves listening, guidance, responsibility and team coordination."
+        }
+      }
+    },
+    {
+      "id": 79,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "समय प्रबंधन का पहला कदम क्या होना चाहिए?",
+      "options": [
+        "सभी कार्य एक साथ करना",
+        "कार्यों की प्राथमिकता तय करना",
+        "महत्वपूर्ण कार्य टालना",
+        "बिना योजना काम करना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Time management में प्राथमिकताओं की पहचान और उसके अनुसार योजना बनाना महत्वपूर्ण है।",
+      "i18n": {
+        "hi": {
+          "question": "समय प्रबंधन का पहला कदम क्या होना चाहिए?",
+          "options": [
+            "सभी कार्य एक साथ करना",
+            "कार्यों की प्राथमिकता तय करना",
+            "महत्वपूर्ण कार्य टालना",
+            "बिना योजना काम करना"
+          ],
+          "explanation": "समय प्रबंधन में प्राथमिकता तय करना एक महत्वपूर्ण प्रारंभिक कदम है।"
+        },
+        "en": {
+          "question": "What should be an initial step in time management?",
+          "options": [
+            "Doing all tasks at once",
+            "Prioritizing tasks",
+            "Postponing important tasks",
+            "Working without a plan"
+          ],
+          "explanation": "Identifying priorities helps in planning and managing time effectively."
+        }
+      }
+    },
+    {
+      "id": 80,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "भावनात्मक बुद्धिमत्ता में आत्म-जागरूकता का अर्थ क्या है?",
+      "options": [
+        "दूसरों की भावनाएँ नियंत्रित करना",
+        "अपनी भावनाओं को पहचानना और समझना",
+        "अपनी भावनाओं को हमेशा छिपाना",
+        "दूसरों को दोष देना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Self-awareness का अर्थ अपनी भावनाओं, विचारों और प्रतिक्रियाओं को पहचानना और समझना है।",
+      "i18n": {
+        "hi": {
+          "question": "भावनात्मक बुद्धिमत्ता में आत्म-जागरूकता का अर्थ क्या है?",
+          "options": [
+            "दूसरों की भावनाएँ नियंत्रित करना",
+            "अपनी भावनाओं को पहचानना और समझना",
+            "अपनी भावनाओं को हमेशा छिपाना",
+            "दूसरों को दोष देना"
+          ],
+          "explanation": "आत्म-जागरूकता अपनी भावनाओं और प्रतिक्रियाओं को समझने की क्षमता है।"
+        },
+        "en": {
+          "question": "What does self-awareness mean in emotional intelligence?",
+          "options": [
+            "Controlling others' emotions",
+            "Recognizing and understanding one's own emotions",
+            "Always hiding one's emotions",
+            "Blaming others"
+          ],
+          "explanation": "Self-awareness involves recognizing and understanding one's own emotions and reactions."
+        }
+      }
+    },
+    {
+      "id": 81,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "किसी विवाद को हल करने का सबसे रचनात्मक तरीका क्या है?",
+      "options": [
+        "दूसरे व्यक्ति को दोष देना",
+        "शांतिपूर्वक दोनों पक्षों को सुनना और समाधान खोजना",
+        "विवाद को बढ़ाना",
+        "बातचीत से बचना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Conflict resolution में सक्रिय सुनना, समस्या की पहचान और mutually acceptable solution की खोज महत्वपूर्ण है।",
+      "i18n": {
+        "hi": {
+          "question": "किसी विवाद को हल करने का सबसे रचनात्मक तरीका क्या है?",
+          "options": [
+            "दूसरे व्यक्ति को दोष देना",
+            "शांतिपूर्वक दोनों पक्षों को सुनना और समाधान खोजना",
+            "विवाद को बढ़ाना",
+            "बातचीत से बचना"
+          ],
+          "explanation": "दोनों पक्षों को सुनकर समाधान खोजना रचनात्मक conflict resolution है।"
+        },
+        "en": {
+          "question": "What is a constructive way to resolve a conflict?",
+          "options": [
+            "Blame the other person",
+            "Listen calmly to both sides and seek a solution",
+            "Escalate the conflict",
+            "Avoid communication"
+          ],
+          "explanation": "Constructive conflict resolution involves listening to both sides and seeking a workable solution."
+        }
+      }
+    },
+    {
+      "id": 82,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "टीमवर्क में सबसे महत्वपूर्ण क्या है?",
+      "options": [
+        "केवल व्यक्तिगत सफलता",
+        "साझा लक्ष्य और सहयोग",
+        "दूसरों को नियंत्रित करना",
+        "जिम्मेदारी से बचना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Teamwork shared goals, cooperation, communication and responsibility पर आधारित होता है।",
+      "i18n": {
+        "hi": {
+          "question": "टीमवर्क में सबसे महत्वपूर्ण क्या है?",
+          "options": [
+            "केवल व्यक्तिगत सफलता",
+            "साझा लक्ष्य और सहयोग",
+            "दूसरों को नियंत्रित करना",
+            "जिम्मेदारी से बचना"
+          ],
+          "explanation": "टीमवर्क में साझा लक्ष्य और सहयोग आवश्यक हैं।"
+        },
+        "en": {
+          "question": "What is most important in teamwork?",
+          "options": [
+            "Only individual success",
+            "Shared goals and cooperation",
+            "Controlling others",
+            "Avoiding responsibility"
+          ],
+          "explanation": "Teamwork requires shared goals, cooperation, communication and responsibility."
+        }
+      }
+    },
+    {
+      "id": 83,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "निर्णय लेने से पहले सबसे उपयुक्त कदम क्या है?",
+      "options": [
+        "पहला विकल्प तुरंत चुन लेना",
+        "उपलब्ध विकल्पों और उनके परिणामों पर विचार करना",
+        "दूसरों को दोष देना",
+        "जानकारी को अनदेखा करना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "अच्छे निर्णय में उपलब्ध जानकारी, विकल्पों और संभावित परिणामों का विचार करना शामिल है।",
+      "i18n": {
+        "hi": {
+          "question": "निर्णय लेने से पहले सबसे उपयुक्त कदम क्या है?",
+          "options": [
+            "पहला विकल्प तुरंत चुन लेना",
+            "उपलब्ध विकल्पों और उनके परिणामों पर विचार करना",
+            "दूसरों को दोष देना",
+            "जानकारी को अनदेखा करना"
+          ],
+          "explanation": "विकल्पों और संभावित परिणामों पर विचार करना बेहतर निर्णय लेने में मदद करता है।"
+        },
+        "en": {
+          "question": "What is an appropriate step before making a decision?",
+          "options": [
+            "Immediately choose the first option",
+            "Consider available options and their consequences",
+            "Blame others",
+            "Ignore information"
+          ],
+          "explanation": "Considering options and possible consequences supports sound decision-making."
+        }
+      }
+    },
+    {
+      "id": 84,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "एक शिक्षक को अभिभावक से कठिन बातचीत करनी है। सबसे उपयुक्त तरीका क्या है?",
+      "options": [
+        "दोषारोपण करना",
+        "सम्मानपूर्वक तथ्य साझा करना और समाधान पर चर्चा करना",
+        "बातचीत से बचना",
+        "केवल शिकायत करना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Professional communication में सम्मान, तथ्य, सक्रिय सुनना और समाधान-केंद्रित चर्चा महत्वपूर्ण हैं।",
+      "i18n": {
+        "hi": {
+          "question": "एक शिक्षक को अभिभावक से कठिन बातचीत करनी है। सबसे उपयुक्त तरीका क्या है?",
+          "options": [
+            "दोषारोपण करना",
+            "सम्मानपूर्वक तथ्य साझा करना और समाधान पर चर्चा करना",
+            "बातचीत से बचना",
+            "केवल शिकायत करना"
+          ],
+          "explanation": "सम्मानपूर्वक तथ्य साझा करना और समाधान पर चर्चा करना बेहतर professional communication है।"
+        },
+        "en": {
+          "question": "A teacher needs to have a difficult conversation with a parent. What is the most appropriate approach?",
+          "options": [
+            "Blame the parent",
+            "Share facts respectfully and discuss solutions",
+            "Avoid the conversation",
+            "Only complain"
+          ],
+          "explanation": "Professional communication should be respectful, factual and solution-oriented."
+        }
+      }
+    },
+    {
+      "id": 85,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "तनाव प्रबंधन के लिए कौन-सा उपाय अधिक उपयुक्त है?",
+      "options": [
+        "समस्या को हमेशा दबाना",
+        "समय प्रबंधन, विश्राम और सहायता लेना",
+        "नींद कम करना",
+        "हर समस्या से भागना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "स्वस्थ stress management में planning, adequate rest, healthy routines और आवश्यकता होने पर support लेना शामिल हो सकता है।",
+      "i18n": {
+        "hi": {
+          "question": "तनाव प्रबंधन के लिए कौन-सा उपाय अधिक उपयुक्त है?",
+          "options": [
+            "समस्या को हमेशा दबाना",
+            "समय प्रबंधन, विश्राम और सहायता लेना",
+            "नींद कम करना",
+            "हर समस्या से भागना"
+          ],
+          "explanation": "समय प्रबंधन, पर्याप्त विश्राम और सहायता लेना तनाव प्रबंधन में उपयोगी हो सकता है।"
+        },
+        "en": {
+          "question": "Which approach is more appropriate for stress management?",
+          "options": [
+            "Always suppressing problems",
+            "Time management, rest and seeking support",
+            "Reducing sleep",
+            "Avoiding every problem"
+          ],
+          "explanation": "Healthy stress management may include planning, adequate rest and seeking support."
+        }
+      }
+    },
+    {
+      "id": 86,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "शिक्षक के लिए पेशेवर नैतिकता का एक महत्वपूर्ण तत्व क्या है?",
+      "options": [
+        "विद्यार्थियों के साथ निष्पक्ष और सम्मानजनक व्यवहार",
+        "पक्षपात",
+        "गोपनीय जानकारी साझा करना",
+        "केवल अच्छे विद्यार्थियों को अवसर देना"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Professional ethics में निष्पक्षता, सम्मान, जिम्मेदारी और विद्यार्थियों के हितों की रक्षा शामिल है।",
+      "i18n": {
+        "hi": {
+          "question": "शिक्षक के लिए पेशेवर नैतिकता का एक महत्वपूर्ण तत्व क्या है?",
+          "options": [
+            "विद्यार्थियों के साथ निष्पक्ष और सम्मानजनक व्यवहार",
+            "पक्षपात",
+            "गोपनीय जानकारी साझा करना",
+            "केवल अच्छे विद्यार्थियों को अवसर देना"
+          ],
+          "explanation": "निष्पक्ष और सम्मानजनक व्यवहार शिक्षक की पेशेवर नैतिकता का महत्वपूर्ण भाग है।"
+        },
+        "en": {
+          "question": "What is an important element of professional ethics for a teacher?",
+          "options": [
+            "Fair and respectful treatment of students",
+            "Favoritism",
+            "Sharing confidential information",
+            "Giving opportunities only to high-performing students"
+          ],
+          "explanation": "Fairness, respect and responsibility are important elements of professional ethics."
+        }
+      }
+    },
+    {
+      "id": 87,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "यदि टीम में दो सदस्य असहमत हैं, तो टीम लीडर को क्या करना चाहिए?",
+      "options": [
+        "एक सदस्य को तुरंत दोषी घोषित करना",
+        "दोनों पक्षों को सुनकर साझा समाधान खोजने में मदद करना",
+        "विवाद को नजरअंदाज करना",
+        "पूरी टीम को दंड देना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Effective leadership में conflict को समझना, दोनों पक्षों को सुनना और समाधान की दिशा में टीम को ले जाना शामिल है।",
+      "i18n": {
+        "hi": {
+          "question": "यदि टीम में दो सदस्य असहमत हैं, तो टीम लीडर को क्या करना चाहिए?",
+          "options": [
+            "एक सदस्य को तुरंत दोषी घोषित करना",
+            "दोनों पक्षों को सुनकर साझा समाधान खोजने में मदद करना",
+            "विवाद को नजरअंदाज करना",
+            "पूरी टीम को दंड देना"
+          ],
+          "explanation": "दोनों पक्षों को सुनना और साझा समाधान खोजना उचित नेतृत्व व्यवहार है।"
+        },
+        "en": {
+          "question": "If two team members disagree, what should a team leader do?",
+          "options": [
+            "Immediately declare one member guilty",
+            "Listen to both sides and help find a shared solution",
+            "Ignore the conflict",
+            "Punish the whole team"
+          ],
+          "explanation": "Effective leadership involves listening and facilitating constructive conflict resolution."
+        }
+      }
+    },
+    {
+      "id": 88,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "आत्म-अनुशासन का अर्थ क्या है?",
+      "options": [
+        "दूसरों द्वारा नियंत्रित होना",
+        "अपने व्यवहार और कार्यों को लक्ष्य के अनुसार नियंत्रित करना",
+        "हर काम टालना",
+        "केवल दंड से काम करना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Self-discipline में व्यक्ति अपने व्यवहार, समय और कार्यों को निर्धारित लक्ष्यों के अनुरूप नियंत्रित करता है।",
+      "i18n": {
+        "hi": {
+          "question": "आत्म-अनुशासन का अर्थ क्या है?",
+          "options": [
+            "दूसरों द्वारा नियंत्रित होना",
+            "अपने व्यवहार और कार्यों को लक्ष्य के अनुसार नियंत्रित करना",
+            "हर काम टालना",
+            "केवल दंड से काम करना"
+          ],
+          "explanation": "आत्म-अनुशासन अपने व्यवहार और कार्यों को लक्ष्यों के अनुरूप नियंत्रित करने की क्षमता है।"
+        },
+        "en": {
+          "question": "What does self-discipline mean?",
+          "options": [
+            "Being controlled by others",
+            "Controlling one's behaviour and actions according to goals",
+            "Postponing every task",
+            "Working only because of punishment"
+          ],
+          "explanation": "Self-discipline involves regulating one's behaviour and actions to achieve goals."
+        }
+      }
+    },
+    {
+      "id": 89,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "सक्रिय सुनने का अर्थ क्या है?",
+      "options": [
+        "सिर्फ चुप रहना",
+        "ध्यानपूर्वक सुनना, समझना और उचित प्रतिक्रिया देना",
+        "दूसरे की बात काटना",
+        "उत्तर पहले से तैयार रखना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Active listening में ध्यान देना, समझना, clarification और appropriate response शामिल होते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "सक्रिय सुनने का अर्थ क्या है?",
+          "options": [
+            "सिर्फ चुप रहना",
+            "ध्यानपूर्वक सुनना, समझना और उचित प्रतिक्रिया देना",
+            "दूसरे की बात काटना",
+            "उत्तर पहले से तैयार रखना"
+          ],
+          "explanation": "सक्रिय सुनने में ध्यानपूर्वक सुनना और समझकर प्रतिक्रिया देना शामिल है।"
+        },
+        "en": {
+          "question": "What does active listening mean?",
+          "options": [
+            "Only remaining silent",
+            "Listening attentively, understanding and responding appropriately",
+            "Interrupting the speaker",
+            "Preparing an answer in advance"
+          ],
+          "explanation": "Active listening involves attention, understanding and an appropriate response."
+        }
+      }
+    },
+    {
+      "id": 90,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "यदि कोई शिक्षक अपनी गलती स्वीकार करके उसे सुधारता है, तो यह किस गुण को दर्शाता है?",
+      "options": [
+        "जिम्मेदारी और आत्म-जागरूकता",
+        "कमजोरी",
+        "अनुशासनहीनता",
+        "अयोग्यता"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "गलती स्वीकार करना, उससे सीखना और सुधार करना responsibility और self-awareness को दर्शाता है।",
+      "i18n": {
+        "hi": {
+          "question": "यदि कोई शिक्षक अपनी गलती स्वीकार करके उसे सुधारता है, तो यह किस गुण को दर्शाता है?",
+          "options": [
+            "जिम्मेदारी और आत्म-जागरूकता",
+            "कमजोरी",
+            "अनुशासनहीनता",
+            "अयोग्यता"
+          ],
+          "explanation": "अपनी गलती स्वीकार कर सुधार करना जिम्मेदारी और आत्म-जागरूकता का संकेत है।"
+        },
+        "en": {
+          "question": "If a teacher accepts and corrects a mistake, what quality does this demonstrate?",
+          "options": [
+            "Responsibility and self-awareness",
+            "Weakness",
+            "Indiscipline",
+            "Incompetence"
+          ],
+          "explanation": "Acknowledging and correcting mistakes demonstrates responsibility and self-awareness."
+        }
+      }
+    },
+    {
+      "id": 91,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "एक शिक्षक को एक साथ कई जरूरी कार्य करने हैं। सबसे उपयुक्त रणनीति क्या है?",
+      "options": [
+        "बिना योजना सब शुरू करना",
+        "कार्य की urgency और importance के अनुसार प्राथमिकता तय करना",
+        "सभी कार्य छोड़ देना",
+        "केवल आसान कार्य करना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "महत्व और तात्कालिकता के आधार पर प्राथमिकता तय करना प्रभावी time management का हिस्सा है।",
+      "i18n": {
+        "hi": {
+          "question": "एक शिक्षक को एक साथ कई जरूरी कार्य करने हैं। सबसे उपयुक्त रणनीति क्या है?",
+          "options": [
+            "बिना योजना सब शुरू करना",
+            "कार्य की urgency और importance के अनुसार प्राथमिकता तय करना",
+            "सभी कार्य छोड़ देना",
+            "केवल आसान कार्य करना"
+          ],
+          "explanation": "Urgency और importance के अनुसार प्राथमिकता तय करना उचित रणनीति है।"
+        },
+        "en": {
+          "question": "A teacher has several important tasks at the same time. What is the most appropriate strategy?",
+          "options": [
+            "Start everything without planning",
+            "Prioritize tasks according to urgency and importance",
+            "Abandon all tasks",
+            "Do only easy tasks"
+          ],
+          "explanation": "Prioritizing according to urgency and importance supports effective time management."
+        }
+      }
+    },
+    {
+      "id": 92,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "सहानुभूति का अर्थ क्या है?",
+      "options": [
+        "दूसरे की स्थिति और भावनाओं को समझने का प्रयास",
+        "हर बात में सहमत होना",
+        "दूसरे को नियंत्रित करना",
+        "दूसरे की समस्या को नजरअंदाज करना"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Empathy का अर्थ दूसरे व्यक्ति के अनुभव और भावनाओं को समझने का प्रयास करना है।",
+      "i18n": {
+        "hi": {
+          "question": "सहानुभूति का अर्थ क्या है?",
+          "options": [
+            "दूसरे की स्थिति और भावनाओं को समझने का प्रयास",
+            "हर बात में सहमत होना",
+            "दूसरे को नियंत्रित करना",
+            "दूसरे की समस्या को नजरअंदाज करना"
+          ],
+          "explanation": "सहानुभूति दूसरे की स्थिति और भावनाओं को समझने से संबंधित है।"
+        },
+        "en": {
+          "question": "What does empathy mean?",
+          "options": [
+            "Trying to understand another person's situation and feelings",
+            "Agreeing with everything",
+            "Controlling another person",
+            "Ignoring another person's problem"
+          ],
+          "explanation": "Empathy involves trying to understand another person's feelings and perspective."
+        }
+      }
+    },
+    {
+      "id": 93,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "कक्षा में सकारात्मक वातावरण बनाने के लिए शिक्षक को क्या करना चाहिए?",
+      "options": [
+        "सभी बच्चों का सम्मान करना",
+        "केवल अच्छे अंक वालों की प्रशंसा करना",
+        "लगातार तुलना करना",
+        "गलतियों पर अपमान करना"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "सम्मान, निष्पक्षता और सकारात्मक संबंध supportive classroom environment बनाने में मदद करते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "कक्षा में सकारात्मक वातावरण बनाने के लिए शिक्षक को क्या करना चाहिए?",
+          "options": [
+            "सभी बच्चों का सम्मान करना",
+            "केवल अच्छे अंक वालों की प्रशंसा करना",
+            "लगातार तुलना करना",
+            "गलतियों पर अपमान करना"
+          ],
+          "explanation": "सभी बच्चों के प्रति सम्मान सकारात्मक classroom environment का आधार है।"
+        },
+        "en": {
+          "question": "What should a teacher do to create a positive classroom environment?",
+          "options": [
+            "Respect all children",
+            "Praise only high scorers",
+            "Constantly compare children",
+            "Humiliate children for mistakes"
+          ],
+          "explanation": "Respect and fairness toward all learners support a positive classroom environment."
+        }
+      }
+    },
+    {
+      "id": 94,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "एक विद्यार्थी लगातार असफल होने के बाद प्रयास छोड़ देता है। शिक्षक की सबसे उपयुक्त प्रतिक्रिया क्या होगी?",
+      "options": [
+        "उसे आलसी कहना",
+        "छोटे achievable goals देकर प्रोत्साहित करना",
+        "उसे पूरी तरह अनदेखा करना",
+        "उसकी तुलना सबसे अच्छे विद्यार्थी से करना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "छोटे लक्ष्य, उचित feedback और encouragement learner motivation और confidence को पुनः विकसित करने में सहायता कर सकते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "एक विद्यार्थी लगातार असफल होने के बाद प्रयास छोड़ देता है। शिक्षक की सबसे उपयुक्त प्रतिक्रिया क्या होगी?",
+          "options": [
+            "उसे आलसी कहना",
+            "छोटे achievable goals देकर प्रोत्साहित करना",
+            "उसे पूरी तरह अनदेखा करना",
+            "उसकी तुलना सबसे अच्छे विद्यार्थी से करना"
+          ],
+          "explanation": "छोटे लक्ष्य और प्रोत्साहन विद्यार्थी को पुनः प्रयास करने में सहायता कर सकते हैं।"
+        },
+        "en": {
+          "question": "A learner stops trying after repeated failures. What is the most appropriate teacher response?",
+          "options": [
+            "Call the learner lazy",
+            "Provide small achievable goals and encouragement",
+            "Ignore the learner completely",
+            "Compare the learner with the best student"
+          ],
+          "explanation": "Small achievable goals and encouragement can help rebuild motivation and confidence."
+        }
+      }
+    },
+   {
+  "id": 95,
+  "type": "single_choice",
+  "section": "life-skills",
+  "question": "कार्य सौंपने (delegation) का लाभ क्या है?",
+  "options": [
+    "सारी जिम्मेदारी से बचना",
+    "उचित व्यक्ति को कार्य देकर टीम की क्षमता का बेहतर उपयोग करना",
+    "सभी कार्य स्वयं करना",
+    "निर्णय लेने से बचना"
+  ],
+  "answer": 1,
+  "marks": 3,
+  "negativeMarks": 1,
+  "explanation": "Delegation का अर्थ उचित कार्य को उचित व्यक्ति को सौंपना है। इससे कार्य का प्रभावी वितरण होता है, टीम के सदस्यों की क्षमता का उपयोग होता है और नेतृत्व कौशल विकसित होता है।",
+  "i18n": {
+    "hi": {
+      "question": "कार्य सौंपने (delegation) का लाभ क्या है?",
+      "options": [
+        "सारी जिम्मेदारी से बचना",
+        "उचित व्यक्ति को कार्य देकर टीम की क्षमता का बेहतर उपयोग करना",
+        "सभी कार्य स्वयं करना",
+        "निर्णय लेने से बचना"
+      ],
+      "explanation": "Delegation का अर्थ उचित कार्य को उचित व्यक्ति को सौंपना है। इससे कार्य का प्रभावी वितरण होता है, टीम के सदस्यों की क्षमता का उपयोग होता है और नेतृत्व कौशल विकसित होता है।"
+    },
+    "en": {
+      "question": "What is a benefit of delegation?",
+      "options": [
+        "Avoiding all responsibility",
+        "Using the team's capabilities effectively by assigning tasks to the appropriate person",
+        "Doing all tasks yourself",
+        "Avoiding decision-making"
+      ],
+      "explanation": "Delegation means assigning appropriate tasks to appropriate people. It promotes effective distribution of work, makes better use of team members' abilities, and develops leadership skills."
+    }
+  }
+}]
+}

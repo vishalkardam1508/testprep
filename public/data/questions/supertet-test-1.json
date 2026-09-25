@@ -1,0 +1,259 @@
+{
+  "testId": "supertet-test-1",
+  "title": "Super TET Full Mock Test 1",
+  "duration": 120,
+  "markingScheme": {
+    "default": {
+      "correct": 3,
+      "wrong": -1,
+      "skipped": 0
+    },
+    "multipleChoice": {
+      "allCorrect": 3,
+      "partialCredit": 1,
+      "anyWrong": -1
+    },
+    "essay": {
+      "marks": 5,
+      "autoScore": false
+    }
+  },
+  "sections": [
+    {
+      "id": "gk",
+      "title": "General Knowledge",
+      "color": "violet"
+    },
+    {
+      "id": "math",
+      "title": "Mathematics",
+      "color": "cyan"
+    },
+    {
+      "id": "language",
+      "title": "Language",
+      "color": "emerald"
+    },
+    {
+      "id": "teaching",
+      "title": "Teaching Skills",
+      "color": "orange"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "section": "gk",
+      "question": "उत्तर प्रदेश की राजधानी कौन सी है?",
+      "options": [
+        "आगरा",
+        "लखनऊ",
+        "वाराणसी",
+        "कानपुर"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "उत्तर प्रदेश की राजधानी लखनऊ है। यह नवाबों का शहर भी कहलाता है।",
+      "i18n": {
+        "hi": {
+          "question": "उत्तर प्रदेश की राजधानी कौन सी है?",
+          "options": [
+            "आगरा",
+            "लखनऊ",
+            "वाराणसी",
+            "कानपुर"
+          ],
+          "explanation": "उत्तर प्रदेश की राजधानी लखनऊ है। यह नवाबों का शहर भी कहलाता है।"
+        },
+        "en": {
+          "question": "What is the capital of Uttar Pradesh?",
+          "options": [
+            "Agra",
+            "Lucknow",
+            "Varanasi",
+            "Kanpur"
+          ],
+          "explanation": "The capital of Uttar Pradesh is Lucknow. It is also called the city of the Nawabs."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "section": "gk",
+      "question": "Super TET 2026 में कुल अंक कितने हैं?",
+      "options": [
+        "150",
+        "300",
+        "360",
+        "400"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Super TET 2026 में 120 प्रश्न हैं और प्रत्येक सही उत्तर के 3 अंक हैं, अतः कुल 360 अंक हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Super TET 2026 में कुल अंक कितने हैं?",
+          "options": [
+            "150",
+            "300",
+            "360",
+            "400"
+          ],
+          "explanation": "Super TET 2026 में 120 प्रश्न हैं और प्रत्येक सही उत्तर के 3 अंक हैं, अतः कुल 360 अंक हैं।"
+        },
+        "en": {
+          "question": "What is the total number of marks in Super TET 2026?",
+          "options": [
+            "150",
+            "300",
+            "360",
+            "400"
+          ],
+          "explanation": "Super TET 2026 has 120 questions and each correct answer carries 3 marks, therefore the total is 360 marks."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "section": "gk",
+      "question": "निम्नलिखित में से कौन-कौन से भारतीय राज्यों की सीमाएँ उत्तर प्रदेश से मिलती हैं? (एक से अधिक उत्तर सही हो सकते हैं)",
+      "options": [
+        "मध्य प्रदेश",
+        "राजस्थान",
+        "बिहार",
+        "केरल"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "उत्तर प्रदेश की सीमाएँ मध्य प्रदेश, राजस्थान, बिहार, उत्तराखंड, हिमाचल प्रदेश, हरियाणा और दिल्ली से मिलती हैं। केरल से नहीं।",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से कौन-कौन से भारतीय राज्यों की सीमाएँ उत्तर प्रदेश से मिलती हैं? (एक से अधिक उत्तर सही हो सकते हैं)",
+          "options": [
+            "मध्य प्रदेश",
+            "राजस्थान",
+            "बिहार",
+            "केरल"
+          ],
+          "explanation": "उत्तर प्रदेश की सीमाएँ मध्य प्रदेश, राजस्थान, बिहार, उत्तराखंड, हिमाचल प्रदेश, हरियाणा और दिल्ली से मिलती हैं। केरल से नहीं।"
+        },
+        "en": {
+          "question": "Which of the following Indian states share a border with Uttar Pradesh? (More than one answer may be correct)",
+          "options": [
+            "Madhya Pradesh",
+            "Rajasthan",
+            "Bihar",
+            "Kerala"
+          ],
+          "explanation": "Uttar Pradesh shares its borders with Madhya Pradesh, Rajasthan, Bihar, Uttarakhand, Himachal Pradesh, Haryana and Delhi. It does not border Kerala."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "section": "math",
+      "question": "यदि एक संख्या का 25% = 75 है, तो वह संख्या क्या है?",
+      "options": [
+        "200",
+        "250",
+        "300",
+        "350"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "यदि x का 25% = 75 है, तो x = 75 × 100/25 = 300।",
+      "i18n": {
+        "hi": {
+          "question": "यदि एक संख्या का 25% = 75 है, तो वह संख्या क्या है?",
+          "options": [
+            "200",
+            "250",
+            "300",
+            "350"
+          ],
+          "explanation": "यदि x का 25% = 75 है, तो x = 75 × 100/25 = 300।"
+        },
+        "en": {
+          "question": "If 25% of a number equals 75, what is the number?",
+          "options": [
+            "200",
+            "250",
+            "300",
+            "350"
+          ],
+          "explanation": "If 25% of x = 75, then x = 75 × 100/25 = 300."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "section": "teaching",
+      "question": "बाल केंद्रित शिक्षा का मुख्य उद्देश्य क्या है?",
+      "options": [
+        "बच्चे को पाठ्यपुस्तक से पढ़ाना",
+        "बच्चे की रुचि और क्षमता के अनुसार सीखना",
+        "केवल परीक्षा में अच्छे अंक दिलाना",
+        "अनुशासन बनाए रखना"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "बाल केंद्रित शिक्षा में बच्चे की रुचि, आवश्यकता और क्षमता को ध्यान में रखकर शिक्षण किया जाता है।",
+      "i18n": {
+        "hi": {
+          "question": "बाल केंद्रित शिक्षा का मुख्य उद्देश्य क्या है?",
+          "options": [
+            "बच्चे को पाठ्यपुस्तक से पढ़ाना",
+            "बच्चे की रुचि और क्षमता के अनुसार सीखना",
+            "केवल परीक्षा में अच्छे अंक दिलाना",
+            "अनुशासन बनाए रखना"
+          ],
+          "explanation": "बाल केंद्रित शिक्षा में बच्चे की रुचि, आवश्यकता और क्षमता को ध्यान में रखकर शिक्षण किया जाता है।"
+        },
+        "en": {
+          "question": "What is the main objective of child‑centered education?",
+          "options": [
+            "Teaching the child from the textbook",
+            "Learning according to the child's interest and ability",
+            "Only securing high marks in exams",
+            "Maintaining discipline"
+          ],
+          "explanation": "In child‑centered education, teaching is done keeping the child's interest, needs and ability in mind."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "type": "essay",
+      "section": "teaching",
+      "question": "एक प्रभावशाली शिक्षक के 5 मुख्य गुण लिखिए। प्रत्येक गुण को उदाहरण सहित समझाइए।",
+      "marks": 5,
+      "negativeMarks": 0,
+      "wordLimit": 300,
+      "explanation": "एक प्रभावशाली शिक्षक में: 1) विषय ज्ञान, 2) संप्रेषण कौशल, 3) धैर्य, 4) रचनात्मकता, 5) प्रेरणा देने की क्षमता होनी चाहिए।",
+      "i18n": {
+        "hi": {
+          "question": "एक प्रभावशाली शिक्षक के 5 मुख्य गुण लिखिए। प्रत्येक गुण को उदाहरण सहित समझाइए।",
+          "explanation": "एक प्रभावशाली शिक्षक में: 1) विषय ज्ञान, 2) संप्रेषण कौशल, 3) धैर्य, 4) रचनात्मकता, 5) प्रेरणा देने की क्षमता होनी चाहिए।"
+        },
+        "en": {
+          "question": "Write five main qualities of an effective teacher. Explain each quality with an example.",
+          "explanation": "An effective teacher should have: 1) Subject knowledge, 2) Communication skills, 3) Patience, 4) Creativity, 5) Ability to motivate."
+        }
+      }
+    }
+  ]
+}

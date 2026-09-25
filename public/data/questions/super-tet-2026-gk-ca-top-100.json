@@ -1,0 +1,1655 @@
+{
+  "testId": "gk-ca-top-100",
+  "title": "GK & Current Affairs — Top 100 Questions",
+  "duration": 120,
+  "markingScheme": {
+    "default": {
+      "correct": 1,
+      "wrong": -1,
+      "skipped": 0
+    },
+    "multipleChoice": {
+      "allCorrect": 1,
+      "partialCredit": 0,
+      "anyWrong": -1
+    },
+    "essay": {
+      "marks": 5,
+      "autoScore": false
+    }
+  },
+  "sections": [
+    {
+      "id": "history",
+      "title": "Indian History",
+      "color": "violet"
+    },
+    {
+      "id": "geography",
+      "title": "Indian Geography",
+      "color": "cyan"
+    },
+    {
+      "id": "polity",
+      "title": "Polity & Constitution",
+      "color": "emerald"
+    },
+    {
+      "id": "science",
+      "title": "Science & Technology",
+      "color": "blue"
+    },
+    {
+      "id": "current_affairs",
+      "title": "Current Affairs 2024-25",
+      "color": "orange"
+    },
+    {
+      "id": "sports",
+      "title": "Sports & Awards",
+      "color": "pink"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "section": "history",
+      "question": "Who was the first Prime Minister of India?",
+      "options": [
+        "Mahatma Gandhi",
+        "Dr. B.R. Ambedkar",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Jawaharlal Nehru was India's first Prime Minister who served from 15 August 1947 until his death on 27 May 1964."
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "section": "history",
+      "question": "India got independence from British rule on?",
+      "options": [
+        "14 August 1947",
+        "15 August 1947",
+        "26 January 1950",
+        "26 November 1949"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "India got independence from British rule on 15 August 1947. Jawaharlal Nehru gave the famous 'Tryst with Destiny' speech."
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "section": "history",
+      "question": "The Battle of Plassey was fought in which year?",
+      "options": [
+        "1757",
+        "1600",
+        "1526",
+        "1857"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The Battle of Plassey was fought on 23 June 1757 between the British East India Company (Robert Clive) and Nawab Siraj ud-Daulah of Bengal."
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "section": "history",
+      "question": "Who wrote the book 'Discovery of India'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhash Chandra Bose",
+        "Dr. B.R. Ambedkar"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "'Discovery of India' was written by Jawaharlal Nehru while imprisoned at Ahmednagar Fort during 1942-46."
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "section": "history",
+      "question": "The founder of the Mughal Empire was?",
+      "options": [
+        "Akbar",
+        "Humayun",
+        "Aurangzeb",
+        "Babur"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Babur founded the Mughal Empire in 1526 after defeating Ibrahim Lodi at the First Battle of Panipat."
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "section": "history",
+      "question": "Ashoka the Great belonged to which dynasty?",
+      "options": [
+        "Gupta",
+        "Nanda",
+        "Kushan",
+        "Maurya"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Ashoka was the third ruler of the Maurya Empire (268–232 BCE). He is known for spreading Buddhism after the Kalinga War."
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "section": "history",
+      "question": "Who is known as the 'Iron Man of India'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Subhash Chandra Bose"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Sardar Vallabhbhai Patel is known as the 'Iron Man of India' for his role in integrating 562 princely states into India after independence."
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "section": "history",
+      "question": "The Jallianwala Bagh massacre occurred in which year?",
+      "options": [
+        "1915",
+        "1917",
+        "1921",
+        "1919"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The Jallianwala Bagh massacre took place on 13 April 1919 in Amritsar when General Dyer's troops opened fire on unarmed civilians, killing hundreds."
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "section": "history",
+      "question": "Who was the last Viceroy of British India?",
+      "options": [
+        "Lord Curzon",
+        "Lord Mountbatten",
+        "Lord Wavell",
+        "Lord Irwin"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Lord Mountbatten was the last Viceroy of India who oversaw the transfer of power and partition of India in 1947."
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "section": "history",
+      "question": "The Dandi March (Salt March) was started by Mahatma Gandhi in which year?",
+      "options": [
+        "1920",
+        "1925",
+        "1930",
+        "1942"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Mahatma Gandhi started the Dandi March on 12 March 1930, walking 241 miles to produce salt from seawater, breaking British salt laws."
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "section": "history",
+      "question": "Who founded the Indian National Congress?",
+      "options": [
+        "Mahatma Gandhi",
+        "Bal Gangadhar Tilak",
+        "Gopal Krishna Gokhale",
+        "A.O. Hume"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Allan Octavian Hume, a British civil servant, founded the Indian National Congress in December 1885 in Bombay."
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "section": "history",
+      "question": "The partition of Bengal (1905) was done by which Viceroy?",
+      "options": [
+        "Lord Dalhousie",
+        "Lord Lytton",
+        "Lord Ripon",
+        "Lord Curzon"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Lord Curzon divided Bengal in 1905, triggering the Swadeshi Movement. The partition was annulled in 1911."
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "section": "history",
+      "question": "Quit India Movement was launched in which year?",
+      "options": [
+        "1942",
+        "1930",
+        "1940",
+        "1920"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Mahatma Gandhi launched the Quit India Movement on 8 August 1942 at Gowalia Tank Maidan, Mumbai, with the slogan 'Do or Die'."
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "section": "history",
+      "question": "Who gave the famous slogan 'Jai Hind'?",
+      "options": [
+        "Subhash Chandra Bose",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Bal Gangadhar Tilak"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "'Jai Hind' (Victory to India) was a slogan popularized by Netaji Subhash Chandra Bose for the Indian National Army (INA)."
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "section": "history",
+      "question": "The First Battle of Panipat was fought in which year?",
+      "options": [
+        "1500",
+        "1556",
+        "1526",
+        "1576"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The First Battle of Panipat (1526) was fought between Babur and Ibrahim Lodi. Babur's victory established the Mughal Empire."
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "section": "history",
+      "question": "Swami Vivekananda delivered his famous speech at the Parliament of World Religions in?",
+      "options": [
+        "London",
+        "New York",
+        "Chicago",
+        "Paris"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Swami Vivekananda delivered his famous 'Sisters and Brothers of America' speech at the Parliament of World's Religions in Chicago in 1893."
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "section": "history",
+      "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in?",
+      "options": [
+        "1917",
+        "1918",
+        "1919",
+        "1920"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Mahatma Gandhi launched the Non-Cooperation Movement in 1920 against British colonial rule, calling for boycott of British goods and institutions."
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "section": "history",
+      "question": "The Sepoy Mutiny (First War of Independence) began in which year?",
+      "options": [
+        "1847",
+        "1857",
+        "1867",
+        "1877"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The Sepoy Mutiny, also called the First War of Independence, began on 10 May 1857 in Meerut. It was a major uprising against British rule."
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "section": "history",
+      "question": "Who gave the slogan 'Swaraj is my birthright and I shall have it'?",
+      "options": [
+        "Bal Gangadhar Tilak",
+        "Mahatma Gandhi",
+        "Lala Lajpat Rai",
+        "Bipin Chandra Pal"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Bal Gangadhar Tilak gave this famous slogan which became a rallying cry for Indian independence."
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "section": "history",
+      "question": "Chandragupta Maurya founded which empire?",
+      "options": [
+        "Maurya Empire",
+        "Kushan Empire",
+        "Gupta Empire",
+        "Chola Empire"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Chandragupta Maurya founded the Maurya Empire around 322 BCE with the help of Chanakya (Kautilya), with Pataliputra as its capital."
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "section": "geography",
+      "question": "The longest river in India is?",
+      "options": [
+        "Yamuna",
+        "Godavari",
+        "Brahmaputra",
+        "Ganga"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The Ganga (Ganges) is the longest river in India, stretching approximately 2,525 km from Gangotri Glacier to the Bay of Bengal."
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "section": "geography",
+      "question": "The highest peak located entirely within India is?",
+      "options": [
+        "K2",
+        "Kanchenjunga",
+        "Nanda Devi",
+        "Kamet"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Nanda Devi (7,816 m) in Uttarakhand is the highest peak located entirely within India. Kanchenjunga (8,586 m) is higher, but it lies on the India–Nepal border in Sikkim."
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "section": "geography",
+      "question": "Which state has the longest coastline in India?",
+      "options": [
+        "Maharashtra",
+        "Tamil Nadu",
+        "Gujarat",
+        "Andhra Pradesh"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Gujarat has the longest coastline in India, stretching approximately 1,600 km, including the mainland and island coastlines."
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "section": "geography",
+      "question": "The Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The Tropic of Cancer (23.5°N) passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram."
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "section": "geography",
+      "question": "Chilika Lake, Asia's largest coastal lagoon, is located in?",
+      "options": [
+        "Odisha",
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Kerala"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Chilika Lake in Odisha is the largest coastal lagoon in India and the largest in Asia. It is also a Ramsar Wetland site."
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "section": "geography",
+      "question": "The Thar Desert is mainly located in which Indian state?",
+      "options": [
+        "Gujarat",
+        "Rajasthan",
+        "Haryana",
+        "Punjab"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The Thar Desert (Great Indian Desert) is mainly located in Rajasthan. It extends into Gujarat, Punjab, and Haryana as well."
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "section": "geography",
+      "question": "Which is the smallest state of India by area?",
+      "options": [
+        "Goa",
+        "Tripura",
+        "Sikkim",
+        "Manipur"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Goa is the smallest state of India by area, covering approximately 3,702 sq km. Sikkim is the second smallest."
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "section": "geography",
+      "question": "The Brahmaputra river enters India through which state?",
+      "options": [
+        "Arunachal Pradesh",
+        "Manipur",
+        "Assam",
+        "Sikkim"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The Brahmaputra (known as Tsangpo in Tibet) enters India through Arunachal Pradesh and then flows through Assam."
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "section": "geography",
+      "question": "The Western Ghats mountain range is also known as?",
+      "options": [
+        "Vindhya",
+        "Aravalli",
+        "Sahyadri",
+        "Satpura"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The Western Ghats are also called Sahyadri. They run 1,600 km parallel to India's western coast and are a UNESCO World Heritage Site."
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "section": "geography",
+      "question": "Sundarbans, the world's largest mangrove forest, is in which state?",
+      "options": [
+        "Odisha",
+        "Assam",
+        "Andhra Pradesh",
+        "West Bengal"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Sundarbans is located in West Bengal (and Bangladesh). It is a UNESCO World Heritage Site and home to the Royal Bengal Tiger."
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "section": "geography",
+      "question": "The largest freshwater lake in India is?",
+      "options": [
+        "Wular Lake",
+        "Dal Lake",
+        "Chilika Lake",
+        "Vembanad Lake"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Wular Lake in Jammu & Kashmir is the largest freshwater lake in India and one of the largest in Asia."
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "section": "geography",
+      "question": "Which state receives the highest annual rainfall in India?",
+      "options": [
+        "Meghalaya",
+        "Kerala",
+        "West Bengal",
+        "Assam"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Meghalaya receives the highest rainfall in India. Mawsynram (Meghalaya) is considered the wettest place on Earth with ~11,871 mm annual rainfall."
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "section": "geography",
+      "question": "The Deccan Plateau is mainly composed of which rock?",
+      "options": [
+        "Basalt",
+        "Limestone",
+        "Granite",
+        "Sandstone"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The Deccan Plateau is mainly composed of basalt (volcanic rock), formed by the Deccan Traps volcanic activity about 66 million years ago."
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "section": "geography",
+      "question": "River Luni drains into which water body?",
+      "options": [
+        "Arabian Sea",
+        "Bay of Bengal",
+        "Gulf of Khambhat",
+        "Rann of Kutch"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "River Luni originates from Pushkar Lake in Aravalli hills and drains into the Rann of Kutch in Gujarat."
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "section": "geography",
+      "question": "India's southernmost point is?",
+      "options": [
+        "Kanyakumari",
+        "Rameswaram",
+        "Indira Point",
+        "Point Calimere"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Indira Point in the Andaman and Nicobar Islands is India's southernmost point. Kanyakumari is the southernmost tip of mainland India."
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "section": "polity",
+      "question": "The Constitution of India was adopted on?",
+      "options": [
+        "15 August 1947",
+        "26 January 1950",
+        "26 November 1949",
+        "14 August 1947"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The Constitution of India was adopted by the Constituent Assembly on 26 November 1949 (Constitution Day). It came into force on 26 January 1950."
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "section": "polity",
+      "question": "The first President of India was?",
+      "options": [
+        "Dr. S. Radhakrishnan",
+        "Dr. Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "V.V. Giri"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962. He was elected twice to the office."
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "section": "polity",
+      "question": "How many Fundamental Rights are there in the Indian Constitution?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "There are 6 Fundamental Rights: Right to Equality (Art 14-18), Right to Freedom (19-22), Right against Exploitation (23-24), Right to Freedom of Religion (25-28), Cultural & Educational Rights (29-30), Right to Constitutional Remedies (32)."
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "section": "polity",
+      "question": "The 'Right to Education' was made a fundamental right by which Constitutional Amendment?",
+      "options": [
+        "73rd Amendment",
+        "86th Amendment",
+        "91st Amendment",
+        "44th Amendment"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The 86th Constitutional Amendment (2002) added Article 21A, making free and compulsory education a Fundamental Right for children aged 6-14 years."
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "section": "polity",
+      "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "options": [
+        "Prime Minister",
+        "Vice President of India",
+        "Speaker of Lok Sabha",
+        "Chief Justice of India"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The Vice President of India is the ex-officio Chairman of the Rajya Sabha as per Article 64 of the Constitution."
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "section": "polity",
+      "question": "The minimum age to become the President of India is?",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "A person must be at least 35 years old and a citizen of India to be eligible to become the President of India (Article 58)."
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "section": "polity",
+      "question": "The Directive Principles of State Policy are contained in which Part of the Constitution?",
+      "options": [
+        "Part IV",
+        "Part III",
+        "Part II",
+        "Part IVA"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Directive Principles of State Policy are in Part IV (Articles 36-51) of the Indian Constitution. They are non-justiciable but fundamental in governance."
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "section": "polity",
+      "question": "Emergency provisions in the Indian Constitution are in which Part?",
+      "options": [
+        "Part XIV",
+        "Part XVI",
+        "Part XVIII",
+        "Part XX"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Emergency provisions are in Part XVIII (Articles 352-360). Three types: National Emergency (352), State Emergency (356), and Financial Emergency (360)."
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "section": "polity",
+      "question": "The words 'Socialist' and 'Secular' were added to the Preamble by which Amendment?",
+      "options": [
+        "40th Amendment",
+        "42nd Amendment",
+        "44th Amendment",
+        "52nd Amendment"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The 42nd Constitutional Amendment Act, 1976 added the words 'Socialist', 'Secular', and 'Integrity' to the Preamble of the Indian Constitution."
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "section": "polity",
+      "question": "The Finance Commission of India is constituted under which Article?",
+      "options": [
+        "Article 249",
+        "Article 280",
+        "Article 263",
+        "Article 312"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Article 280 provides for the establishment of a Finance Commission every 5 years to recommend distribution of taxes between Centre and States."
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "section": "polity",
+      "question": "Article 21A of Indian Constitution deals with?",
+      "options": [
+        "Right to Life",
+        "Right to Education",
+        "Right to Privacy",
+        "Right to Work"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Article 21A provides the Right to free and compulsory education to all children between 6-14 years. Added by 86th Amendment, 2002."
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "section": "polity",
+      "question": "Who has the power to summon and prorogue the Parliament?",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Vice President",
+        "Speaker"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The President of India has the power to summon and prorogue each House of Parliament (Article 85) and to dissolve the Lok Sabha."
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "section": "polity",
+      "question": "The concept of Judicial Review in India is inspired by which country?",
+      "options": [
+        "UK",
+        "USA",
+        "Canada",
+        "Australia"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "India borrowed the concept of Judicial Review from the USA. It allows courts to examine laws and government actions for constitutional validity."
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "section": "polity",
+      "question": "The Fundamental Duties in the Indian Constitution are in which Part?",
+      "options": [
+        "Part III",
+        "Part IV",
+        "Part IVA",
+        "Part V"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Fundamental Duties are in Part IVA (Article 51A) of the Constitution. They were added by the 42nd Amendment, 1976. There are 11 Fundamental Duties."
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "section": "polity",
+      "question": "The current President of India Droupadi Murmu took office in?",
+      "options": [
+        "July 2021",
+        "July 2022",
+        "January 2023",
+        "May 2022"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Droupadi Murmu became the 15th President of India on 25 July 2022. She is the first tribal woman and the second woman to become India's President."
+    },
+    {
+      "id": 51,
+      "type": "mcq",
+      "section": "science",
+      "question": "The SI unit of electric current is?",
+      "options": [
+        "Volt",
+        "Watt",
+        "Ampere",
+        "Ohm"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The SI unit of electric current is Ampere (A), named after French physicist André-Marie Ampère. It measures the rate of flow of electric charge."
+    },
+    {
+      "id": 52,
+      "type": "mcq",
+      "section": "science",
+      "question": "Which gas is the primary contributor to global warming?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Carbon Dioxide (CO2) is the primary greenhouse gas responsible for global warming. Human activities like burning fossil fuels release large amounts of CO2."
+    },
+    {
+      "id": 53,
+      "type": "mcq",
+      "section": "science",
+      "question": "DNA stands for?",
+      "options": [
+        "Dinitric Ribose Acid",
+        "Diribonucleic Acid",
+        "Deoxyribonitric Acid",
+        "Deoxyribonucleic Acid"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "DNA stands for Deoxyribonucleic Acid. It carries genetic information in all living organisms and most viruses."
+    },
+    {
+      "id": 54,
+      "type": "mcq",
+      "section": "science",
+      "question": "The approximate speed of light in vacuum is?",
+      "options": [
+        "3 × 10⁸ m/s",
+        "3 × 10⁷ m/s",
+        "3 × 10⁶ m/s",
+        "3 × 10⁹ m/s"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The speed of light in vacuum is approximately 3 × 10⁸ m/s (299,792,458 m/s). It is denoted by 'c'."
+    },
+    {
+      "id": 55,
+      "type": "mcq",
+      "section": "science",
+      "question": "Which vitamin is synthesized by the human body on exposure to sunlight?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Vitamin D is synthesized in the skin upon exposure to ultraviolet B (UVB) rays from sunlight. Its deficiency causes rickets in children."
+    },
+    {
+      "id": 56,
+      "type": "mcq",
+      "section": "science",
+      "question": "The largest planet in our Solar System is?",
+      "options": [
+        "Jupiter",
+        "Neptune",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Jupiter is the largest planet in our Solar System. Its mass is more than twice that of all other planets combined."
+    },
+    {
+      "id": 57,
+      "type": "mcq",
+      "section": "science",
+      "question": "Which blood group is known as the universal donor?",
+      "options": [
+        "A positive",
+        "O negative",
+        "AB positive",
+        "B negative"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "O negative (O-) is the universal donor as it can be given to patients of any blood group in emergencies. AB positive is the universal recipient."
+    },
+    {
+      "id": 58,
+      "type": "mcq",
+      "section": "science",
+      "question": "Penicillin (first antibiotic) was discovered by?",
+      "options": [
+        "Louis Pasteur",
+        "Joseph Lister",
+        "Robert Koch",
+        "Alexander Fleming"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Alexander Fleming discovered Penicillin accidentally in 1928 when he noticed a mold (Penicillium) killing bacteria in his petri dish."
+    },
+    {
+      "id": 59,
+      "type": "mcq",
+      "section": "science",
+      "question": "Which organ in the human body produces insulin?",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Stomach",
+        "Pancreas"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Insulin is produced by the beta cells of the Islets of Langerhans in the Pancreas. It regulates blood glucose levels. Deficiency causes diabetes."
+    },
+    {
+      "id": 60,
+      "type": "mcq",
+      "section": "science",
+      "question": "Photosynthesis in plants takes place in which cell organelle?",
+      "options": [
+        "Mitochondria",
+        "Ribosome",
+        "Chloroplast",
+        "Nucleus"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Photosynthesis occurs in Chloroplasts which contain chlorophyll. The process converts CO2, water, and sunlight into glucose and oxygen."
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "section": "science",
+      "question": "The SI unit of force is?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Pascal",
+        "Watt"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The SI unit of force is Newton (N). One Newton is the force needed to accelerate a 1 kg mass by 1 m/s². Named after Sir Isaac Newton."
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "section": "science",
+      "question": "The atomic number of Carbon is?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Carbon has atomic number 6, meaning it has 6 protons. Carbon forms the backbone of all organic molecules."
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "section": "science",
+      "question": "ISRO was established in which year?",
+      "options": [
+        "1957",
+        "1961",
+        "1969",
+        "1975"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Indian Space Research Organisation (ISRO) was established on 15 August 1969. Dr. Vikram Sarabhai is known as the father of India's space programme."
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "section": "science",
+      "question": "Mars is known as the 'Red Planet' because of?",
+      "options": [
+        "Volcanic activity",
+        "Methane gas",
+        "Red sunsets",
+        "Iron oxide (rust) on surface"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Mars appears red due to iron oxide (rust) on its surface and in its atmosphere. It is the fourth planet from the Sun."
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "section": "science",
+      "question": "The chemical symbol of Gold is?",
+      "options": [
+        "Gd",
+        "Go",
+        "Ag",
+        "Au"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The chemical symbol for Gold is Au, from the Latin word 'Aurum'. Its atomic number is 79. Silver's symbol is Ag (Argentum)."
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "Chandrayaan-3 successfully landed on the Moon's south pole on?",
+      "options": [
+        "14 July 2023",
+        "15 November 2023",
+        "2 September 2023",
+        "23 August 2023"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Chandrayaan-3's Vikram lander successfully soft-landed near Moon's south pole on 23 August 2023, making India the 4th country and first to land near the lunar south pole."
+    },
+    {
+      "id": 67,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "The 2024 Summer Olympics were held in which city?",
+      "options": [
+        "Paris",
+        "Los Angeles",
+        "Tokyo",
+        "Brisbane"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The 2024 Summer Olympics (XXXIII Olympiad) were held in Paris, France from 26 July to 11 August 2024. USA topped the medal tally."
+    },
+    {
+      "id": 68,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "India won how many total medals at the Paris Olympics 2024?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "India won 6 medals at Paris Olympics 2024 — 1 Silver (Neeraj Chopra in Javelin) and 5 Bronze medals (Manu Bhaker won 2 Bronze)."
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "Who won the Nobel Peace Prize 2024?",
+      "options": [
+        "United Nations",
+        "Malala Yousafzai",
+        "Nihon Hidankyo",
+        "ICRC"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Nihon Hidankyo, a Japanese organization of atomic bomb survivors (Hibakusha) from Hiroshima and Nagasaki, won the Nobel Peace Prize 2024."
+    },
+    {
+      "id": 70,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "New criminal laws (BNS, BNSS, BSA) replacing IPC, CrPC came into effect from?",
+      "options": [
+        "1 January 2024",
+        "1 April 2024",
+        "1 July 2024",
+        "1 October 2024"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Bharatiya Nyaya Sanhita (BNS), Bharatiya Nagarik Suraksha Sanhita (BNSS), and Bharatiya Sakshya Adhiniyam (BSA) replaced IPC, CrPC, and Evidence Act from 1 July 2024."
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "India's solar mission 'Aditya-L1' successfully reached its destination in?",
+      "options": [
+        "January 2024",
+        "October 2023",
+        "August 2023",
+        "April 2024"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Aditya-L1, launched on 2 September 2023, successfully reached the Sun-Earth L1 Lagrange point on 6 January 2024 to study the Sun."
+    },
+    {
+      "id": 72,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "The Ram Mandir in Ayodhya was consecrated (Pran Pratishtha) in?",
+      "options": [
+        "December 2023",
+        "22 January 2024",
+        "15 August 2024",
+        "5 March 2024"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The Ram Mandir in Ayodhya was consecrated (Pran Pratishtha) on 22 January 2024 by Prime Minister Narendra Modi."
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "Who became the Chief Justice of India after Justice D.Y. Chandrachud in 2024?",
+      "options": [
+        "Justice Hima Kohli",
+        "Justice Surya Kant",
+        "Justice B.R. Gavai",
+        "Justice Sanjiv Khanna"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Justice Sanjiv Khanna became the 51st Chief Justice of India on 11 November 2024, succeeding Justice D.Y. Chandrachud."
+    },
+    {
+      "id": 74,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "India's G20 Presidency (2022-23) had which theme?",
+      "options": [
+        "Together for Better Future",
+        "Vasudhaiva Kutumbakam",
+        "Shared Earth Shared Future",
+        "Build Back Better"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "India's G20 Presidency theme was 'Vasudhaiva Kutumbakam' (One Earth, One Family, One Future) from the ancient Sanskrit Maha Upanishad text."
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "Which country won the ICC Cricket World Cup 2023?",
+      "options": [
+        "India",
+        "England",
+        "New Zealand",
+        "Australia"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Australia won the ICC Cricket World Cup 2023, defeating India by 6 wickets in the final held at Narendra Modi Stadium, Ahmedabad on 19 November 2023."
+    },
+    {
+      "id": 76,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "India surpassed which country to become the world's most populous nation in 2023?",
+      "options": [
+        "USA",
+        "Russia",
+        "Indonesia",
+        "China"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "India surpassed China in April 2023 to become the world's most populous nation with over 1.4 billion people, according to UN data."
+    },
+    {
+      "id": 77,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "The new Parliament building of India was inaugurated in?",
+      "options": [
+        "December 2022",
+        "February 2023",
+        "28 May 2023",
+        "August 2023"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The new Parliament building (Sansad Bhawan) was inaugurated by Prime Minister Narendra Modi on 28 May 2023."
+    },
+    {
+      "id": 78,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "UPI stands for?",
+      "options": [
+        "Universal Payment Interface",
+        "Unified Payments Interface",
+        "Universal Payments Integration",
+        "Unified Payment Index"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "UPI stands for Unified Payments Interface, a real-time payment system developed by NPCI (National Payments Corporation of India) launched in 2016."
+    },
+    {
+      "id": 79,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "India's first indigenous aircraft carrier INS Vikrant was commissioned in?",
+      "options": [
+        "2022",
+        "2021",
+        "2020",
+        "2023"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "INS Vikrant, India's first domestically built aircraft carrier, was commissioned on 2 September 2022 in Kochi. It is the first aircraft carrier built in Asia."
+    },
+    {
+      "id": 80,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "India won ICC T20 World Cup 2024 by defeating which country in the final?",
+      "options": [
+        "Pakistan",
+        "South Africa",
+        "England",
+        "Australia"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "India won the ICC T20 World Cup 2024, defeating South Africa by 7 runs in the final at Barbados on 29 June 2024."
+    },
+    {
+      "id": 81,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "Narendra Modi became Prime Minister for the 3rd consecutive term in which year?",
+      "options": [
+        "2019",
+        "2021",
+        "2024",
+        "2025"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Narendra Modi was sworn in as Prime Minister for the 3rd consecutive term on 9 June 2024 after the NDA coalition won the 2024 General Elections."
+    },
+    {
+      "id": 82,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "Which IPL team won the IPL 2024 title?",
+      "options": [
+        "Mumbai Indians",
+        "Rajasthan Royals",
+        "Chennai Super Kings",
+        "Kolkata Knight Riders"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Kolkata Knight Riders (KKR) won IPL 2024 (17th edition), defeating Sunrisers Hyderabad in the final at MA Chidambaram Stadium, Chennai."
+    },
+    {
+      "id": 83,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "Neeraj Chopra won which medal at Paris Olympics 2024 in Javelin Throw?",
+      "options": [
+        "Gold",
+        "Silver",
+        "Bronze",
+        "He did not participate"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Neeraj Chopra won Silver medal at Paris Olympics 2024 with a throw of 89.45m. Pakistan's Arshad Nadeem won Gold (92.97m, Olympic record)."
+    },
+    {
+      "id": 84,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "Operation Sindoor was conducted by India against which country?",
+      "options": [
+        "China",
+        "Pakistan",
+        "Bangladesh",
+        "Afghanistan"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Operation Sindoor was India's military operation in May 2025 targeting terrorist infrastructure in Pakistan and Pakistan-Occupied Kashmir in response to the Pahalgam terror attack."
+    },
+    {
+      "id": 85,
+      "type": "mcq",
+      "section": "current_affairs",
+      "question": "The 'One Nation One Election' proposal in India refers to?",
+      "options": [
+        "Single national ID card for voting",
+        "Simultaneous elections for Lok Sabha and all State Assemblies",
+        "One PM for all states",
+        "Unified national tax system"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "One Nation One Election means conducting simultaneous elections for the Lok Sabha and all State Legislative Assemblies to reduce election frequency and costs. A High-Level Committee under former President Ram Nath Kovind submitted its report in 2024."
+    },
+    {
+      "id": 86,
+      "type": "mcq",
+      "section": "sports",
+      "question": "Who won the FIFA World Cup 2022?",
+      "options": [
+        "Argentina",
+        "Brazil",
+        "France",
+        "England"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Argentina won the FIFA World Cup 2022 in Qatar, defeating France 3-3 in normal time and winning 4-2 on penalties. Lionel Messi won the Golden Ball."
+    },
+    {
+      "id": 87,
+      "type": "mcq",
+      "section": "sports",
+      "question": "Neeraj Chopra won India's first Olympic gold in athletics at Tokyo 2020 in?",
+      "options": [
+        "Javelin Throw",
+        "Shot Put",
+        "Discus Throw",
+        "Hammer Throw"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Neeraj Chopra won Gold in Javelin Throw at Tokyo Olympics 2020 with a throw of 87.58m. It was India's first Olympic gold medal in athletics."
+    },
+    {
+      "id": 88,
+      "type": "mcq",
+      "section": "sports",
+      "question": "The Bharat Ratna is India's highest?",
+      "options": [
+        "Military award",
+        "Sports award",
+        "Literary award",
+        "Civilian honor"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Bharat Ratna is India's highest civilian honor, instituted on 2 January 1954. It recognizes exceptional service of the highest order to the nation."
+    },
+    {
+      "id": 89,
+      "type": "mcq",
+      "section": "sports",
+      "question": "PV Sindhu is associated with which sport?",
+      "options": [
+        "Tennis",
+        "Table Tennis",
+        "Badminton",
+        "Squash"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "PV Sindhu is an Indian badminton player who won Silver at Rio 2016, Bronze at Tokyo 2020 Olympics, and two World Championship titles."
+    },
+    {
+      "id": 90,
+      "type": "mcq",
+      "section": "sports",
+      "question": "The Indian Premier League (IPL) was founded in which year?",
+      "options": [
+        "2008",
+        "2006",
+        "2007",
+        "2005"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The Indian Premier League (IPL) was founded in 2008 by the BCCI. The first season was won by Rajasthan Royals. IPL is one of the richest cricket leagues in the world."
+    },
+    {
+      "id": 91,
+      "type": "mcq",
+      "section": "sports",
+      "question": "The Dronacharya Award in India is given to?",
+      "options": [
+        "Best athlete",
+        "Sports coaches",
+        "Best sports journalist",
+        "Best referee"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The Dronacharya Award is India's highest honor for sports coaches. Named after Dronacharya, the legendary guru from Mahabharata."
+    },
+    {
+      "id": 92,
+      "type": "mcq",
+      "section": "sports",
+      "question": "Who is known as 'The Flying Sikh' of India?",
+      "options": [
+        "Milkha Singh",
+        "PT Usha",
+        "Gurbachan Singh Randhawa",
+        "Paramjeet Singh"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Milkha Singh (1929-2021) was known as 'The Flying Sikh' for his extraordinary achievements in sprint running. He won the 400m gold at 1958 Commonwealth Games."
+    },
+    {
+      "id": 93,
+      "type": "mcq",
+      "section": "sports",
+      "question": "Which sport is popularly regarded as India's national game?",
+      "options": [
+        "Cricket",
+        "Kabaddi",
+        "Field Hockey",
+        "Badminton"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "India has no officially declared national sport, but field hockey is popularly regarded as the national game. India has won 8 Olympic gold medals in hockey (1928, 1932, 1936, 1948, 1952, 1956, 1964, 1980)."
+    },
+    {
+      "id": 94,
+      "type": "mcq",
+      "section": "sports",
+      "question": "Mary Kom is associated with which sport?",
+      "options": [
+        "Boxing",
+        "Athletics",
+        "Wrestling",
+        "Weightlifting"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Mary Kom is a legendary Indian boxer who has won 8 World Boxing Championship titles and a Bronze medal at London 2012 Olympics."
+    },
+    {
+      "id": 95,
+      "type": "mcq",
+      "section": "sports",
+      "question": "India's highest sports award was renamed as 'Major Dhyan Chand Khel Ratna Award' in?",
+      "options": [
+        "2019",
+        "2020",
+        "2022",
+        "2021"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "The Rajiv Gandhi Khel Ratna Award was renamed as 'Major Dhyan Chand Khel Ratna Award' in 2021 to honor the legendary Indian hockey player Major Dhyan Chand."
+    },
+    {
+      "id": 96,
+      "type": "mcq",
+      "section": "sports",
+      "question": "Lovlina Borgohain won a Bronze medal at Tokyo Olympics 2020 in?",
+      "options": [
+        "Shooting",
+        "Wrestling",
+        "Weightlifting",
+        "Boxing"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Lovlina Borgohain won Bronze in Welterweight Boxing at Tokyo Olympics 2020. She also won Bronze at Paris Olympics 2024."
+    },
+    {
+      "id": 97,
+      "type": "mcq",
+      "section": "sports",
+      "question": "Manu Bhaker made history at Paris Olympics 2024 by winning?",
+      "options": [
+        "2 Bronze medals",
+        "1 Gold medal",
+        "1 Silver and 1 Bronze",
+        "3 medals total"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Manu Bhaker won 2 Bronze medals at Paris Olympics 2024 — in 10m Air Pistol (individual) and 10m Air Pistol Mixed Team (with Sarabjot Singh). She is the first Indian to win 2 medals in single Olympics."
+    },
+    {
+      "id": 98,
+      "type": "mcq",
+      "section": "sports",
+      "question": "India won the Thomas Cup (Men's Badminton World Championship) for the first time in?",
+      "options": [
+        "2018",
+        "2022",
+        "2020",
+        "2024"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "India won the Thomas Cup 2022 for the first time, defeating Indonesia 3-0 in the final in Bangkok. It was a historic achievement for Indian badminton."
+    },
+    {
+      "id": 99,
+      "type": "mcq",
+      "section": "sports",
+      "question": "Which Indian cricketer is known as 'The Wall'?",
+      "options": [
+        "Sachin Tendulkar",
+        "Sourav Ganguly",
+        "Anil Kumble",
+        "Rahul Dravid"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Rahul Dravid is known as 'The Wall' for his solid, consistent batting and ability to play long innings. He is currently the Head Coach of the Indian cricket team."
+    },
+    {
+      "id": 100,
+      "type": "mcq",
+      "section": "sports",
+      "question": "Who won India's first gold medal at the Paralympic Games?",
+      "options": [
+        "Devendra Jhajharia",
+        "Murlikant Petkar",
+        "Mariyappan Thangavelu",
+        "Girisha Nagarajegowda"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "negativeMarks": 1,
+      "explanation": "Murlikant Petkar won India's first Paralympic gold medal in the 50 m freestyle swimming event at the 1972 Heidelberg Paralympics. He was awarded the Padma Shri in 2018."
+    }
+  ]
+}
