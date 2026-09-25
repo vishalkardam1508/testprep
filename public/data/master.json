@@ -55,6 +55,19 @@
           "isFree": true,
           "tags": ["GK", "Math", "Hindi", "Teaching"],
           "questionsUrl": "/data/questions/supertet-test-1.json"
+        },{
+          "id": "supertet-test-1",
+          "title": "Super TET Top 100 CDP CRACK QUESTIONS",
+          "description": "Full-length style mock test covering all subjects",
+          "img": "https://tse1.mm.bing.net/th/id/OIP.74BLrtxc29QvQQrewQAkXQHaHa?r=0&pid=Api&h=220&P=0",
+          "datePublished": "2026-09-26",
+          "totalQuestions": 100,
+          "duration": 60,
+          "maxScore": 360,
+          "difficulty": "Hard",
+          "isFree": true,
+          "tags": ["Child Psychology", "Teaching", "Life Skills", "PYQ"],
+          "questionsUrl": "/data/questions/supertet_cdp_top_1_percent_100.json"
         },
         {
           "id": "supertet-pyq-based-100-1",
