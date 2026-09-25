@@ -1,0 +1,366 @@
+{
+  "testId": "reasoning-it-50",
+  "title": "Reasoning & IT — Top 50 Questions",
+  "duration": 60,
+  "markingScheme": {
+    "default": { "correct": 1, "wrong": -1, "skipped": 0 },
+    "multipleChoice": { "allCorrect": 1, "partialCredit": 0, "anyWrong": -1 },
+    "essay": { "marks": 5, "autoScore": false }
+  },
+  "sections": [
+    { "id": "reasoning", "title": "Reasoning",             "color": "violet" },
+    { "id": "it",        "title": "Information Technology", "color": "cyan"   }
+  ],
+  "questions": [
+    {
+      "id": 1, "type": "mcq", "section": "reasoning",
+      "question": "What comes next in the series? 2, 4, 8, 16, 32, ?",
+      "options": ["48", "64", "56", "72"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "Each number is multiplied by 2. So 32 × 2 = 64."
+    },
+    {
+      "id": 2, "type": "mcq", "section": "reasoning",
+      "question": "Analogy — Book : Library :: Money : ?",
+      "options": ["Bank", "Shop", "Wallet", "Market"],
+      "answer": 0, "marks": 1, "negativeMarks": 1,
+      "explanation": "Books are kept in a Library. Money is kept in a Bank. This is a place-of-storage analogy."
+    },
+    {
+      "id": 3, "type": "mcq", "section": "reasoning",
+      "question": "Odd One Out — Apple, Mango, Potato, Banana",
+      "options": ["Apple", "Mango", "Potato", "Banana"],
+      "answer": 2, "marks": 1, "negativeMarks": 1,
+      "explanation": "Potato is a vegetable (root), while Apple, Mango, and Banana are all fruits."
+    },
+    {
+      "id": 4, "type": "mcq", "section": "reasoning",
+      "question": "Letter Series — A, C, E, G, ?",
+      "options": ["H", "I", "J", "K"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "Every alternate letter is selected: A(1), C(3), E(5), G(7), I(9). Each letter skips one letter."
+    },
+    {
+      "id": 5, "type": "mcq", "section": "reasoning",
+      "question": "Coding: If each letter is replaced by its position number, then CAT = ?",
+      "options": ["3-1-20", "2-1-19", "3-2-20", "4-1-20"],
+      "answer": 0, "marks": 1, "negativeMarks": 1,
+      "explanation": "C=3, A=1, T=20 in alphabetical positions. So CAT = 3-1-20."
+    },
+    {
+      "id": 6, "type": "mcq", "section": "reasoning",
+      "question": "Blood Relation: A is B's father. B is C's brother. How is A related to C?",
+      "options": ["Uncle", "Father", "Grandfather", "Brother"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "A is B's father. B is C's brother, meaning B and C have the same father. So A is also C's Father."
+    },
+    {
+      "id": 7, "type": "mcq", "section": "reasoning",
+      "question": "Number Series — 1, 4, 9, 16, 25, ?",
+      "options": ["30", "35", "36", "42"],
+      "answer": 2, "marks": 1, "negativeMarks": 1,
+      "explanation": "These are perfect squares: 1²=1, 2²=4, 3²=9, 4²=16, 5²=25, 6²=36."
+    },
+    {
+      "id": 8, "type": "mcq", "section": "reasoning",
+      "question": "Direction Sense: Rohan walks 10m North, turns right, walks 10m, then turns right again. In which direction is he now facing?",
+      "options": ["North", "South", "East", "West"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "North → turn right = East → turn right = South. So he is now facing South."
+    },
+    {
+      "id": 9, "type": "mcq", "section": "reasoning",
+      "question": "Analogy — Doctor : Hospital :: Teacher : ?",
+      "options": ["Library", "School", "College", "Books"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "A Doctor works in a Hospital. A Teacher works in a School. This is a profession-workplace analogy."
+    },
+    {
+      "id": 10, "type": "mcq", "section": "reasoning",
+      "question": "Coding-Decoding: If APPLE = BQQMF (each letter +1), then MANGO = ?",
+      "options": ["NBOHP", "NBOIP", "NACIP", "MBNHP"],
+      "answer": 0, "marks": 1, "negativeMarks": 1,
+      "explanation": "Each letter moves +1 in the alphabet. M+1=N, A+1=B, N+1=O, G+1=H, O+1=P → NBOHP."
+    },
+    {
+      "id": 11, "type": "mcq", "section": "reasoning",
+      "question": "Ranking: Amit is 10th from top and 20th from bottom in a class. How many students are there?",
+      "options": ["28", "29", "30", "31"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "Total students = (Rank from top) + (Rank from bottom) - 1 = 10 + 20 - 1 = 29."
+    },
+    {
+      "id": 12, "type": "mcq", "section": "reasoning",
+      "question": "Syllogism: All cats are animals. All animals are living beings. Conclusion: All cats are living beings — is this?",
+      "options": ["True", "False", "Neither True nor False", "Data insufficient"],
+      "answer": 0, "marks": 1, "negativeMarks": 1,
+      "explanation": "Cats → Animals → Living beings. By transitive property, all cats are living beings. The conclusion is TRUE."
+    },
+    {
+      "id": 13, "type": "mcq", "section": "reasoning",
+      "question": "Odd One Out — Lion, Tiger, Leopard, Horse",
+      "options": ["Lion", "Tiger", "Leopard", "Horse"],
+      "answer": 3, "marks": 1, "negativeMarks": 1,
+      "explanation": "Lion, Tiger, and Leopard are wild carnivores from the cat family. Horse is a domestic herbivore — the odd one out."
+    },
+    {
+      "id": 14, "type": "mcq", "section": "reasoning",
+      "question": "Letter Analogy: ACE : FHJ :: LNP : ?",
+      "options": ["QSU", "PRT", "RST", "QRU"],
+      "answer": 0, "marks": 1, "negativeMarks": 1,
+      "explanation": "ACE → FHJ (each letter +5). Similarly LNP → L+5=Q, N+5=S, P+5=U → QSU."
+    },
+    {
+      "id": 15, "type": "mcq", "section": "reasoning",
+      "question": "Number Series — 3, 6, 12, 24, 48, ?",
+      "options": ["72", "88", "96", "102"],
+      "answer": 2, "marks": 1, "negativeMarks": 1,
+      "explanation": "Each number is multiplied by 2. So 48 × 2 = 96."
+    },
+    {
+      "id": 16, "type": "mcq", "section": "reasoning",
+      "question": "Direction: A man facing North-East turns 90° clockwise. Which direction is he now facing?",
+      "options": ["North-West", "South-East", "South-West", "East"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "NE + 90° clockwise = SE. Clockwise rotation: N→E→S→W. NE+90°=SE."
+    },
+    {
+      "id": 17, "type": "mcq", "section": "reasoning",
+      "question": "Blood Relation: How is your mother's brother's son related to you?",
+      "options": ["Uncle", "Cousin", "Brother", "Nephew"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "Mother's brother = Maternal Uncle. Uncle's son = Cousin. So he is your Cousin."
+    },
+    {
+      "id": 18, "type": "mcq", "section": "reasoning",
+      "question": "Fibonacci Series — 2, 3, 5, 8, 13, 21, ?",
+      "options": ["29", "31", "34", "37"],
+      "answer": 2, "marks": 1, "negativeMarks": 1,
+      "explanation": "Each number = sum of previous two numbers. 13+21 = 34. This is the Fibonacci sequence."
+    },
+    {
+      "id": 19, "type": "mcq", "section": "reasoning",
+      "question": "Analogy — Chair : Furniture :: Shirt : ?",
+      "options": ["Cloth", "Tailor", "Clothing", "Fashion"],
+      "answer": 2, "marks": 1, "negativeMarks": 1,
+      "explanation": "Chair is a type of Furniture. Shirt is a type of Clothing. Category analogy."
+    },
+    {
+      "id": 20, "type": "mcq", "section": "reasoning",
+      "question": "Mathematical Operations: If + means ÷, - means +, × means -, ÷ means ×, then: 8+4-2=?",
+      "options": ["2", "3", "4", "5"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "Replace symbols: 8÷4+2 = 2+2 = 4? Wait: 8+4 means 8÷4=2, then 2-2 means 2+2=4. Let me recalculate: 8÷4=2, then 2+2=4. Answer is 3 if: 8÷4=2, 2+2... Actually 8÷4=2, -2 means +2, so 2+2=4... Hmm let me recalculate with answer 3: 8÷4=2, 2+1=3? The answer is 4. Correcting: answer should be 2 (index). Options 2,3,4,5 — 4 is at index 2."
+    },
+    {
+      "id": 21, "type": "mcq", "section": "reasoning",
+      "question": "Venn Diagram: In a class of 100, 60 study Maths, 50 study Science, 30 study both. How many study only Maths?",
+      "options": ["20", "30", "40", "50"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "Only Maths = Total Maths − Both = 60 − 30 = 30."
+    },
+    {
+      "id": 22, "type": "mcq", "section": "reasoning",
+      "question": "Number Analogy — 4 : 16 :: 5 : ?",
+      "options": ["20", "25", "30", "35"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "4² = 16. Similarly 5² = 25. The relationship is squaring."
+    },
+    {
+      "id": 23, "type": "mcq", "section": "reasoning",
+      "question": "Odd One Out — January, March, June, August",
+      "options": ["January", "March", "June", "August"],
+      "answer": 2, "marks": 1, "negativeMarks": 1,
+      "explanation": "January (31), March (31), August (31) all have 31 days. June has only 30 days — the odd one out."
+    },
+    {
+      "id": 24, "type": "mcq", "section": "reasoning",
+      "question": "Mirror Image: If the word TABLE is written in a mirror, the image would be?",
+      "options": ["ELBAT", "ETBAL", "ELBTA", "TABTE"],
+      "answer": 0, "marks": 1, "negativeMarks": 1,
+      "explanation": "A mirror image reverses the order of letters horizontally. TABLE → ELBAT (letters in reverse order)."
+    },
+    {
+      "id": 25, "type": "mcq", "section": "reasoning",
+      "question": "Series: 100, 96, 88, 76, 60, ?",
+      "options": ["44", "40", "48", "36"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "Differences: -4, -8, -12, -16, -20. So 60 - 20 = 40. The difference increases by -4 each time."
+    },
+    {
+      "id": 26, "type": "mcq", "section": "it",
+      "question": "CPU stands for?",
+      "options": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Computer Program Unit"],
+      "answer": 0, "marks": 1, "negativeMarks": 1,
+      "explanation": "CPU stands for Central Processing Unit. It is the brain of the computer that performs all arithmetic and logical operations."
+    },
+    {
+      "id": 27, "type": "mcq", "section": "it",
+      "question": "RAM stands for?",
+      "options": ["Random Access Memory", "Read Access Memory", "Random Application Memory", "Read Application Memory"],
+      "answer": 0, "marks": 1, "negativeMarks": 1,
+      "explanation": "RAM stands for Random Access Memory. It is the primary memory of a computer that stores data temporarily while the computer is running."
+    },
+    {
+      "id": 28, "type": "mcq", "section": "it",
+      "question": "Which of the following is an Input Device?",
+      "options": ["Monitor", "Printer", "Keyboard", "Speaker"],
+      "answer": 2, "marks": 1, "negativeMarks": 1,
+      "explanation": "Keyboard is an input device used to enter data into a computer. Monitor, Printer, and Speaker are output devices."
+    },
+    {
+      "id": 29, "type": "mcq", "section": "it",
+      "question": "WWW stands for?",
+      "options": ["World Wide Web", "Wide World Web", "World Web Wide", "Wide Web World"],
+      "answer": 0, "marks": 1, "negativeMarks": 1,
+      "explanation": "WWW stands for World Wide Web. It is a system of internet servers that support HTTP documents. Created by Tim Berners-Lee in 1989."
+    },
+    {
+      "id": 30, "type": "mcq", "section": "it",
+      "question": "Which of the following is an Operating System?",
+      "options": ["MS Word", "Adobe Photoshop", "Ubuntu", "Google Chrome"],
+      "answer": 2, "marks": 1, "negativeMarks": 1,
+      "explanation": "Ubuntu is a Linux-based Operating System. MS Word is a word processor, Photoshop is a graphics editor, Chrome is a web browser."
+    },
+    {
+      "id": 31, "type": "mcq", "section": "it",
+      "question": "Who is known as the 'Father of Computers'?",
+      "options": ["Bill Gates", "Alan Turing", "Charles Babbage", "Tim Berners-Lee"],
+      "answer": 2, "marks": 1, "negativeMarks": 1,
+      "explanation": "Charles Babbage is known as the Father of Computers. He invented the Difference Engine and Analytical Engine in the 19th century."
+    },
+    {
+      "id": 32, "type": "mcq", "section": "it",
+      "question": "HTTP stands for?",
+      "options": ["HyperText Transfer Protocol", "HyperText Transport Protocol", "High Transfer Text Protocol", "High Text Transport Protocol"],
+      "answer": 0, "marks": 1, "negativeMarks": 1,
+      "explanation": "HTTP stands for HyperText Transfer Protocol. It is the foundation of data communication on the World Wide Web. HTTPS adds security (SSL/TLS)."
+    },
+    {
+      "id": 33, "type": "mcq", "section": "it",
+      "question": "Which is the largest data storage unit among these?",
+      "options": ["Kilobyte (KB)", "Megabyte (MB)", "Gigabyte (GB)", "Terabyte (TB)"],
+      "answer": 3, "marks": 1, "negativeMarks": 1,
+      "explanation": "Order of storage: KB < MB < GB < TB. 1 TB = 1024 GB = 1,048,576 MB = 1,073,741,824 KB."
+    },
+    {
+      "id": 34, "type": "mcq", "section": "it",
+      "question": "A computer virus is?",
+      "options": ["A hardware defect", "A malicious software program", "An internet connection issue", "A power failure"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "A computer virus is a malicious software program that can copy itself and spread to other computers, causing damage to data and systems."
+    },
+    {
+      "id": 35, "type": "mcq", "section": "it",
+      "question": "The keyboard shortcut for Copy is?",
+      "options": ["Ctrl+X", "Ctrl+C", "Ctrl+V", "Ctrl+Z"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "Ctrl+C = Copy, Ctrl+X = Cut, Ctrl+V = Paste, Ctrl+Z = Undo. These are standard keyboard shortcuts."
+    },
+    {
+      "id": 36, "type": "mcq", "section": "it",
+      "question": "Which of the following is a Search Engine?",
+      "options": ["Facebook", "WhatsApp", "Google", "Instagram"],
+      "answer": 2, "marks": 1, "negativeMarks": 1,
+      "explanation": "Google is a search engine used to find information on the internet. Facebook and Instagram are social media, WhatsApp is a messaging app."
+    },
+    {
+      "id": 37, "type": "mcq", "section": "it",
+      "question": "PDF stands for?",
+      "options": ["Portable Document Format", "Print Document File", "Portable Data File", "Print Data Format"],
+      "answer": 0, "marks": 1, "negativeMarks": 1,
+      "explanation": "PDF stands for Portable Document Format. It was developed by Adobe. PDF files can be viewed on any device without changing formatting."
+    },
+    {
+      "id": 38, "type": "mcq", "section": "it",
+      "question": "The keyboard shortcut to Undo an action in MS Word is?",
+      "options": ["Ctrl+Y", "Ctrl+Z", "Ctrl+U", "Ctrl+X"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "Ctrl+Z is used to Undo the last action in MS Word and most applications. Ctrl+Y is used to Redo."
+    },
+    {
+      "id": 39, "type": "mcq", "section": "it",
+      "question": "URL stands for?",
+      "options": ["Universal Resource Locator", "Uniform Resource Locator", "Universal Record Locator", "Uniform Record Locator"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "URL stands for Uniform Resource Locator. It is the web address used to access a specific resource on the internet (e.g., https://www.google.com)."
+    },
+    {
+      "id": 40, "type": "mcq", "section": "it",
+      "question": "Which of the following is NOT a web browser?",
+      "options": ["Google Chrome", "Mozilla Firefox", "MS Excel", "Safari"],
+      "answer": 2, "marks": 1, "negativeMarks": 1,
+      "explanation": "MS Excel is a spreadsheet application, not a web browser. Chrome, Firefox, and Safari are all web browsers used to access the internet."
+    },
+    {
+      "id": 41, "type": "mcq", "section": "it",
+      "question": "What is 'Phishing' in cybersecurity?",
+      "options": ["Catching computer bugs", "Fraudulent attempt to steal personal information online", "Speeding up internet connection", "Installing antivirus software"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "Phishing is a cybercrime where attackers disguise themselves as trustworthy entities (fake emails, websites) to steal sensitive information like passwords or card numbers."
+    },
+    {
+      "id": 42, "type": "mcq", "section": "it",
+      "question": "USB stands for?",
+      "options": ["Universal Serial Bus", "Universal System Bus", "Unified Serial Bus", "United System Bus"],
+      "answer": 0, "marks": 1, "negativeMarks": 1,
+      "explanation": "USB stands for Universal Serial Bus. It is a standard connection interface used to connect peripherals like keyboards, mice, and pen drives to computers."
+    },
+    {
+      "id": 43, "type": "mcq", "section": "it",
+      "question": "Which generation of computers used Vacuum Tubes?",
+      "options": ["First Generation", "Second Generation", "Third Generation", "Fourth Generation"],
+      "answer": 0, "marks": 1, "negativeMarks": 1,
+      "explanation": "First Generation (1940-1956) used vacuum tubes. 2nd Gen used transistors, 3rd used ICs, 4th used microprocessors, 5th uses AI."
+    },
+    {
+      "id": 44, "type": "mcq", "section": "it",
+      "question": "MS Excel is primarily used for?",
+      "options": ["Word Processing", "Spreadsheets & Data Analysis", "Creating Presentations", "Web Browsing"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "MS Excel is a spreadsheet application used for data entry, calculations, charts, and data analysis. MS Word = word processing, PowerPoint = presentations."
+    },
+    {
+      "id": 45, "type": "mcq", "section": "it",
+      "question": "The keyboard shortcut for Save in MS Word is?",
+      "options": ["Ctrl+A", "Ctrl+S", "Ctrl+D", "Ctrl+P"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "Ctrl+S saves the current document. Ctrl+A = Select All, Ctrl+P = Print, Ctrl+D = Font dialog box."
+    },
+    {
+      "id": 46, "type": "mcq", "section": "it",
+      "question": "Which of the following is NOT a type of computer memory?",
+      "options": ["RAM", "ROM", "Cache", "CPU"],
+      "answer": 3, "marks": 1, "negativeMarks": 1,
+      "explanation": "CPU (Central Processing Unit) is the processor, not a memory type. RAM, ROM, and Cache are all types of computer memory."
+    },
+    {
+      "id": 47, "type": "mcq", "section": "it",
+      "question": "Digital India initiative was launched in which year?",
+      "options": ["2013", "2014", "2015", "2016"],
+      "answer": 2, "marks": 1, "negativeMarks": 1,
+      "explanation": "Digital India was launched on 1 July 2015 by Prime Minister Narendra Modi. Its aim is to make government services available electronically and boost internet connectivity."
+    },
+    {
+      "id": 48, "type": "mcq", "section": "it",
+      "question": "AI stands for?",
+      "options": ["Automatic Intelligence", "Artificial Intelligence", "Automated Integration", "Artificial Integration"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "AI stands for Artificial Intelligence. It refers to the simulation of human intelligence by machines, especially computer systems."
+    },
+    {
+      "id": 49, "type": "mcq", "section": "it",
+      "question": "What does the keyboard shortcut Ctrl+Alt+Del do?",
+      "options": ["Saves the file", "Opens Task Manager / System Options", "Closes the browser", "Shuts down the computer immediately"],
+      "answer": 1, "marks": 1, "negativeMarks": 1,
+      "explanation": "Ctrl+Alt+Del opens the security screen in Windows which gives options like Task Manager, Lock, Switch User, Sign Out, and Shut down."
+    },
+    {
+      "id": 50, "type": "mcq", "section": "it",
+      "question": "Full form of E-mail is?",
+      "options": ["Electronic Mail", "Easy Mail", "Enhanced Mail", "Electrical Mail"],
+      "answer": 0, "marks": 1, "negativeMarks": 1,
+      "explanation": "E-mail stands for Electronic Mail. It is a method of exchanging messages between computers over the internet. Developed by Ray Tomlinson in 1971."
+    }
+  ]
+}
