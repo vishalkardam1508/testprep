@@ -101,6 +101,20 @@
           "isFree": true,
           "tags": ["Hindi", "Sanskrit", "English", "Grammar"],
           "questionsUrl": "/data/questions/super-tet-2026-sanskrit-hindi-englsih.json"
+        },
+         {
+          "id": "reasoning-it-50",
+          "title": "Super TET 2026 Primary-Reasoning & ICT — Top 50 Questions",
+          "description": "Language section practice: Hindi grammar, Sanskrit vyakaran and English grammar & usage",
+          "img": "https://tse4.mm.bing.net/th/id/OIP.EAlpXaveuSL9g_5AW5mH-AHaEK?r=0&pid=Api&h=220&P=0",
+          "datePublished": "2026-09-25",
+          "totalQuestions": 50,
+          "duration": 60,
+          "maxScore": 60,
+          "difficulty": "Easy",
+          "isFree": true,
+          "tags": ["reasoning", "it"],
+          "questionsUrl": "/data/questions/supertet-2026-reasoning-ict-top-50.json"
         }
       ]
     }
