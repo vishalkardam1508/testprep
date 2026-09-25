@@ -1,0 +1,3640 @@
+{
+  "testId": "supertet-cdp-top-1-percent-100",
+  "title": "SuperTET CDP — Top 1% Super Hard Test",
+  "duration": 120,
+  "markingScheme": {
+    "default": {
+      "correct": 3,
+      "wrong": -1,
+      "skipped": 0
+    },
+    "multipleChoice": {
+      "allCorrect": 3,
+      "partialCredit": 1,
+      "anyWrong": -1
+    },
+    "essay": {
+      "marks": 5,
+      "autoScore": false
+    }
+  },
+  "sections": [
+    {
+      "id": "teaching-methodology",
+      "title": "Teaching Methodology",
+      "color": "violet"
+    },
+    {
+      "id": "child-psychology",
+      "title": "Child Psychology",
+      "color": "cyan"
+    },
+    {
+      "id": "life-skills",
+      "title": "Life Skills",
+      "color": "orange"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "रचनावादी कक्षा में शिक्षक की सर्वोत्तम भूमिका क्या है?",
+      "options": [
+        "ज्ञान का एकमात्र स्रोत",
+        "सुविधादाता और मार्गदर्शक",
+        "केवल परीक्षक",
+        "केवल अनुशासन अधिकारी"
+      ],
+      "answer": 1,
+      "explanation": "रचनावाद में learner स्वयं अर्थ का निर्माण करता है और शिक्षक scaffolding व learning opportunities देता है।",
+      "i18n": {
+        "hi": {
+          "question": "रचनावादी कक्षा में शिक्षक की सर्वोत्तम भूमिका क्या है?",
+          "options": [
+            "ज्ञान का एकमात्र स्रोत",
+            "सुविधादाता और मार्गदर्शक",
+            "केवल परीक्षक",
+            "केवल अनुशासन अधिकारी"
+          ],
+          "explanation": "रचनावाद में learner स्वयं अर्थ का निर्माण करता है और शिक्षक scaffolding व learning opportunities देता है।"
+        },
+        "en": {
+          "question": "What is the best role of a teacher in a constructivist classroom?",
+          "options": [
+            "Sole source of knowledge",
+            "Facilitator and guide",
+            "Only examiner",
+            "Only discipline officer"
+          ],
+          "explanation": "In constructivism, the learner constructs meaning while the teacher provides scaffolding and learning opportunities."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Assessment for Learning का मुख्य उद्देश्य क्या है?",
+      "options": [
+        "अंतिम grade देना",
+        "अधिगम के दौरान evidence लेकर teaching-learning सुधारना",
+        "केवल rank बनाना",
+        "केवल attendance लेना"
+      ],
+      "answer": 1,
+      "explanation": "यह formative evidence और feedback के माध्यम से आगे के learning को सुधारता है।",
+      "i18n": {
+        "hi": {
+          "question": "Assessment for Learning का मुख्य उद्देश्य क्या है?",
+          "options": [
+            "अंतिम grade देना",
+            "अधिगम के दौरान evidence लेकर teaching-learning सुधारना",
+            "केवल rank बनाना",
+            "केवल attendance लेना"
+          ],
+          "explanation": "यह formative evidence और feedback के माध्यम से आगे के learning को सुधारता है।"
+        },
+        "en": {
+          "question": "What is the main purpose of Assessment for Learning?",
+          "options": [
+            "Give final grades",
+            "Use evidence during learning to improve teaching and learning",
+            "Only rank students",
+            "Only record attendance"
+          ],
+          "explanation": "It improves subsequent learning through formative evidence and feedback."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Bloom revised taxonomy में 'Create' किस cognitive demand को दर्शाता है?",
+      "options": [
+        "तथ्य याद करना",
+        "अर्थ समझाना",
+        "नियम लागू करना",
+        "तत्वों को नए रूप में संगठित कर नया उत्पाद बनाना"
+      ],
+      "answer": 3,
+      "explanation": "Create में synthesis के स्तर पर नया और मौलिक product/solution बनाना शामिल है।",
+      "i18n": {
+        "hi": {
+          "question": "Bloom revised taxonomy में 'Create' किस cognitive demand को दर्शाता है?",
+          "options": [
+            "तथ्य याद करना",
+            "अर्थ समझाना",
+            "नियम लागू करना",
+            "तत्वों को नए रूप में संगठित कर नया उत्पाद बनाना"
+          ],
+          "explanation": "Create में synthesis के स्तर पर नया और मौलिक product/solution बनाना शामिल है।"
+        },
+        "en": {
+          "question": "What cognitive demand does 'Create' represent in Bloom's revised taxonomy?",
+          "options": [
+            "Recall facts",
+            "Explain meaning",
+            "Apply a rule",
+            "Organize elements into a new product"
+          ],
+          "explanation": "Create involves producing a new and original product or solution."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Thorndike के Law of Effect का सबसे सटीक कथन कौन-सा है?",
+      "options": [
+        "हर व्यवहार जन्मजात है",
+        "संतोषजनक परिणाम वाले responses की पुनरावृत्ति की संभावना बढ़ती है",
+        "सीखना केवल observation से होता है",
+        "दंड ही सीखने का आधार है"
+      ],
+      "answer": 1,
+      "explanation": "व्यवहार के परिणाम उसकी भविष्य की संभावना को प्रभावित करते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Thorndike के Law of Effect का सबसे सटीक कथन कौन-सा है?",
+          "options": [
+            "हर व्यवहार जन्मजात है",
+            "संतोषजनक परिणाम वाले responses की पुनरावृत्ति की संभावना बढ़ती है",
+            "सीखना केवल observation से होता है",
+            "दंड ही सीखने का आधार है"
+          ],
+          "explanation": "व्यवहार के परिणाम उसकी भविष्य की संभावना को प्रभावित करते हैं।"
+        },
+        "en": {
+          "question": "Which best states Thorndike's Law of Effect?",
+          "options": [
+            "Every behavior is innate",
+            "Responses followed by satisfying consequences are more likely to recur",
+            "Learning occurs only through observation",
+            "Punishment is the basis of learning"
+          ],
+          "explanation": "Consequences of behavior affect its future likelihood."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Pavlovian conditioning में भोजन के साथ बार-बार जोड़ी गई घंटी अंततः क्या बनती है?",
+      "options": [
+        "अशर्त उद्दीपक",
+        "अशर्त प्रतिक्रिया",
+        "सशर्त उद्दीपक",
+        "दंड"
+      ],
+      "answer": 2,
+      "explanation": "पूर्व neutral stimulus conditioning के बाद conditioned stimulus बनता है।",
+      "i18n": {
+        "hi": {
+          "question": "Pavlovian conditioning में भोजन के साथ बार-बार जोड़ी गई घंटी अंततः क्या बनती है?",
+          "options": [
+            "अशर्त उद्दीपक",
+            "अशर्त प्रतिक्रिया",
+            "सशर्त उद्दीपक",
+            "दंड"
+          ],
+          "explanation": "पूर्व neutral stimulus conditioning के बाद conditioned stimulus बनता है।"
+        },
+        "en": {
+          "question": "In Pavlovian conditioning, what does the bell become after repeated pairing with food?",
+          "options": [
+            "Unconditioned stimulus",
+            "Unconditioned response",
+            "Conditioned stimulus",
+            "Punishment"
+          ],
+          "explanation": "A previously neutral stimulus becomes a conditioned stimulus after conditioning."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "अप्रिय stimulus हटाकर किसी behavior की संभावना बढ़ाना क्या कहलाता है?",
+      "options": [
+        "सकारात्मक पुनर्बलन",
+        "नकारात्मक पुनर्बलन",
+        "सकारात्मक दंड",
+        "विलोपन"
+      ],
+      "answer": 1,
+      "explanation": "Negative reinforcement में unpleasant condition हटती है और target behavior बढ़ता है।",
+      "i18n": {
+        "hi": {
+          "question": "अप्रिय stimulus हटाकर किसी behavior की संभावना बढ़ाना क्या कहलाता है?",
+          "options": [
+            "सकारात्मक पुनर्बलन",
+            "नकारात्मक पुनर्बलन",
+            "सकारात्मक दंड",
+            "विलोपन"
+          ],
+          "explanation": "Negative reinforcement में unpleasant condition हटती है और target behavior बढ़ता है।"
+        },
+        "en": {
+          "question": "Increasing a behavior by removing an unpleasant stimulus is called:",
+          "options": [
+            "Positive reinforcement",
+            "Negative reinforcement",
+            "Positive punishment",
+            "Extinction"
+          ],
+          "explanation": "Negative reinforcement removes an unpleasant condition and increases the target behavior."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Köhler के chimpanzee experiments किससे जुड़े हैं?",
+      "options": [
+        "अंतर्दृष्टि अधिगम",
+        "शास्त्रीय अनुबंधन",
+        "मौखिक अधिगम",
+        "परिपक्वता"
+      ],
+      "answer": 0,
+      "explanation": "समस्या की संरचना को अचानक समझकर समाधान करना insight learning है।",
+      "i18n": {
+        "hi": {
+          "question": "Köhler के chimpanzee experiments किससे जुड़े हैं?",
+          "options": [
+            "अंतर्दृष्टि अधिगम",
+            "शास्त्रीय अनुबंधन",
+            "मौखिक अधिगम",
+            "परिपक्वता"
+          ],
+          "explanation": "समस्या की संरचना को अचानक समझकर समाधान करना insight learning है।"
+        },
+        "en": {
+          "question": "Köhler's chimpanzee experiments are associated with:",
+          "options": [
+            "Insight learning",
+            "Classical conditioning",
+            "Verbal learning",
+            "Maturation"
+          ],
+          "explanation": "Sudden restructuring and solving of a problem is insight learning."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Vygotsky की ZPD किस अंतर को दर्शाती है?",
+      "options": [
+        "IQ और achievement",
+        "स्वतंत्र प्रदर्शन और सहायता से संभव प्रदर्शन",
+        "memory और attention",
+        "physical और social development"
+      ],
+      "answer": 1,
+      "explanation": "ZPD learner की assisted potential performance की सीमा है।",
+      "i18n": {
+        "hi": {
+          "question": "Vygotsky की ZPD किस अंतर को दर्शाती है?",
+          "options": [
+            "IQ और achievement",
+            "स्वतंत्र प्रदर्शन और सहायता से संभव प्रदर्शन",
+            "memory और attention",
+            "physical और social development"
+          ],
+          "explanation": "ZPD learner की assisted potential performance की सीमा है।"
+        },
+        "en": {
+          "question": "Vygotsky's ZPD refers to the gap between:",
+          "options": [
+            "IQ and achievement",
+            "Independent performance and assisted performance",
+            "Memory and attention",
+            "Physical and social development"
+          ],
+          "explanation": "ZPD is the range of potential performance with assistance."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Scaffolding कब हटाना सबसे उचित है?",
+      "options": [
+        "तुरंत",
+        "जैसे-जैसे learner independent competence विकसित करे",
+        "कभी नहीं",
+        "केवल परीक्षा के बाद"
+      ],
+      "answer": 1,
+      "explanation": "Scaffolding अस्थायी support है और mastery बढ़ने पर घटता है।",
+      "i18n": {
+        "hi": {
+          "question": "Scaffolding कब हटाना सबसे उचित है?",
+          "options": [
+            "तुरंत",
+            "जैसे-जैसे learner independent competence विकसित करे",
+            "कभी नहीं",
+            "केवल परीक्षा के बाद"
+          ],
+          "explanation": "Scaffolding अस्थायी support है और mastery बढ़ने पर घटता है।"
+        },
+        "en": {
+          "question": "When should scaffolding be withdrawn?",
+          "options": [
+            "Immediately",
+            "As the learner develops independent competence",
+            "Never",
+            "Only after examination"
+          ],
+          "explanation": "Scaffolding is temporary support and decreases as mastery grows."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Diagnostic assessment का प्रमुख उद्देश्य क्या है?",
+      "options": [
+        "Final grade",
+        "विशिष्ट misconceptions और learning gaps पहचानना",
+        "Rank",
+        "Attendance"
+      ],
+      "answer": 1,
+      "explanation": "Diagnostic assessment intervention से पहले learning difficulty की प्रकृति पहचानता है।",
+      "i18n": {
+        "hi": {
+          "question": "Diagnostic assessment का प्रमुख उद्देश्य क्या है?",
+          "options": [
+            "Final grade",
+            "विशिष्ट misconceptions और learning gaps पहचानना",
+            "Rank",
+            "Attendance"
+          ],
+          "explanation": "Diagnostic assessment intervention से पहले learning difficulty की प्रकृति पहचानता है।"
+        },
+        "en": {
+          "question": "What is the main purpose of diagnostic assessment?",
+          "options": [
+            "Final grade",
+            "Identify specific misconceptions and learning gaps",
+            "Rank",
+            "Attendance"
+          ],
+          "explanation": "It identifies the nature of learning difficulty before intervention."
+        }
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "यदि objective 'तुलना कर evidence-based निर्णय लेना' है, तो सबसे aligned task कौन-सा है?",
+      "options": [
+        "परिभाषा लिखना",
+        "दो विकल्पों की तुलना कर choice justify करना",
+        "सूची याद करना",
+        "रिक्त स्थान भरना"
+      ],
+      "answer": 1,
+      "explanation": "Assessment को intended cognitive performance को सीधे मापना चाहिए।",
+      "i18n": {
+        "hi": {
+          "question": "यदि objective 'तुलना कर evidence-based निर्णय लेना' है, तो सबसे aligned task कौन-सा है?",
+          "options": [
+            "परिभाषा लिखना",
+            "दो विकल्पों की तुलना कर choice justify करना",
+            "सूची याद करना",
+            "रिक्त स्थान भरना"
+          ],
+          "explanation": "Assessment को intended cognitive performance को सीधे मापना चाहिए।"
+        },
+        "en": {
+          "question": "If the objective is to compare and make an evidence-based decision, which task is most aligned?",
+          "options": [
+            "Write a definition",
+            "Compare two options and justify a choice",
+            "Recall a list",
+            "Fill blanks"
+          ],
+          "explanation": "Assessment should directly measure the intended cognitive performance."
+        }
+      }
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Learning by Doing किस approach से सबसे अधिक संबंधित है?",
+      "options": [
+        "अनुभवात्मक अधिगम",
+        "निष्क्रिय व्याख्यान",
+        "रटने",
+        "दंड आधारित teaching"
+      ],
+      "answer": 0,
+      "explanation": "प्रत्यक्ष अनुभव, reflection और application experiential learning के केंद्र हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Learning by Doing किस approach से सबसे अधिक संबंधित है?",
+          "options": [
+            "अनुभवात्मक अधिगम",
+            "निष्क्रिय व्याख्यान",
+            "रटने",
+            "दंड आधारित teaching"
+          ],
+          "explanation": "प्रत्यक्ष अनुभव, reflection और application experiential learning के केंद्र हैं।"
+        },
+        "en": {
+          "question": "Learning by Doing is most closely associated with:",
+          "options": [
+            "Experiential learning",
+            "Passive lecture",
+            "Rote learning",
+            "Punishment-based teaching"
+          ],
+          "explanation": "Direct experience, reflection and application are central to experiential learning."
+        }
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Bruner की Spiral Curriculum की मुख्य विशेषता क्या है?",
+      "options": [
+        "विषय एक बार पढ़ाना",
+        "अवधारणाओं को बढ़ती complexity के साथ पुनः देखना",
+        "केवल memorization",
+        "हर बार नया syllabus"
+      ],
+      "answer": 1,
+      "explanation": "मुख्य concepts को बढ़ती गहराई के साथ revisit किया जाता है।",
+      "i18n": {
+        "hi": {
+          "question": "Bruner की Spiral Curriculum की मुख्य विशेषता क्या है?",
+          "options": [
+            "विषय एक बार पढ़ाना",
+            "अवधारणाओं को बढ़ती complexity के साथ पुनः देखना",
+            "केवल memorization",
+            "हर बार नया syllabus"
+          ],
+          "explanation": "मुख्य concepts को बढ़ती गहराई के साथ revisit किया जाता है।"
+        },
+        "en": {
+          "question": "What is a key feature of Bruner's Spiral Curriculum?",
+          "options": [
+            "Teach a topic once",
+            "Revisit concepts with increasing complexity",
+            "Only memorization",
+            "New syllabus every time"
+          ],
+          "explanation": "Key concepts are revisited with increasing depth."
+        }
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Hidden Curriculum किसे कहते हैं?",
+      "options": [
+        "केवल textbook",
+        "अनौपचारिक norms, values और behaviors जो अप्रत्यक्ष रूप से सीखे जाते हैं",
+        "केवल homework",
+        "केवल board syllabus"
+      ],
+      "answer": 1,
+      "explanation": "School culture और routines से कई सामाजिक expectations अप्रत्यक्ष रूप से सीखी जाती हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Hidden Curriculum किसे कहते हैं?",
+          "options": [
+            "केवल textbook",
+            "अनौपचारिक norms, values और behaviors जो अप्रत्यक्ष रूप से सीखे जाते हैं",
+            "केवल homework",
+            "केवल board syllabus"
+          ],
+          "explanation": "School culture और routines से कई सामाजिक expectations अप्रत्यक्ष रूप से सीखी जाती हैं।"
+        },
+        "en": {
+          "question": "What is the hidden curriculum?",
+          "options": [
+            "Textbook only",
+            "Informal norms, values and behaviors learned indirectly",
+            "Homework only",
+            "Board syllabus only"
+          ],
+          "explanation": "School culture and routines indirectly teach many social expectations."
+        }
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Cooperative learning को केवल group seating से अलग करने वाली अनिवार्य विशेषता क्या है?",
+      "options": [
+        "साथ बैठना",
+        "Positive interdependence और individual accountability",
+        "Competition",
+        "Teacher हट जाना"
+      ],
+      "answer": 1,
+      "explanation": "साझा लक्ष्य के साथ interdependence और individual accountability आवश्यक हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Cooperative learning को केवल group seating से अलग करने वाली अनिवार्य विशेषता क्या है?",
+          "options": [
+            "साथ बैठना",
+            "Positive interdependence और individual accountability",
+            "Competition",
+            "Teacher हट जाना"
+          ],
+          "explanation": "साझा लक्ष्य के साथ interdependence और individual accountability आवश्यक हैं।"
+        },
+        "en": {
+          "question": "What distinguishes cooperative learning from merely seating students in groups?",
+          "options": [
+            "Sitting together",
+            "Positive interdependence and individual accountability",
+            "Competition",
+            "Removing the teacher"
+          ],
+          "explanation": "Interdependence and individual accountability are essential."
+        }
+      }
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Repeated error misconception दिखाता है। पहला उचित कदम क्या है?",
+      "options": [
+        "वही worksheet दोहराना",
+        "गलत reasoning diagnose कर targeted intervention देना",
+        "दंड देना",
+        "Ignore करना"
+      ],
+      "answer": 1,
+      "explanation": "Misconception की प्रकृति जाने बिना repetition पर्याप्त नहीं है।",
+      "i18n": {
+        "hi": {
+          "question": "Repeated error misconception दिखाता है। पहला उचित कदम क्या है?",
+          "options": [
+            "वही worksheet दोहराना",
+            "गलत reasoning diagnose कर targeted intervention देना",
+            "दंड देना",
+            "Ignore करना"
+          ],
+          "explanation": "Misconception की प्रकृति जाने बिना repetition पर्याप्त नहीं है।"
+        },
+        "en": {
+          "question": "A repeated error indicates a misconception. What should be the first step?",
+          "options": [
+            "Repeat worksheet",
+            "Diagnose reasoning and provide targeted intervention",
+            "Punish",
+            "Ignore"
+          ],
+          "explanation": "Repetition alone is insufficient without diagnosing the misconception."
+        }
+      }
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Wait time बढ़ाने का प्रमुख लाभ क्या है?",
+      "options": [
+        "केवल तेज learners बोलें",
+        "सोचने और गुणवत्तापूर्ण उत्तर देने का समय",
+        "Class जल्दी खत्म",
+        "केवल discipline"
+      ],
+      "answer": 1,
+      "explanation": "उचित wait time response quality और participation बढ़ा सकता है।",
+      "i18n": {
+        "hi": {
+          "question": "Wait time बढ़ाने का प्रमुख लाभ क्या है?",
+          "options": [
+            "केवल तेज learners बोलें",
+            "सोचने और गुणवत्तापूर्ण उत्तर देने का समय",
+            "Class जल्दी खत्म",
+            "केवल discipline"
+          ],
+          "explanation": "उचित wait time response quality और participation बढ़ा सकता है।"
+        },
+        "en": {
+          "question": "What is a major benefit of increasing wait time?",
+          "options": [
+            "Only fast learners speak",
+            "Time to think and produce higher-quality answers",
+            "End class faster",
+            "Only discipline"
+          ],
+          "explanation": "Adequate wait time can improve response quality and participation."
+        }
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Backward design में सही क्रम क्या है?",
+      "options": [
+        "Activity→textbook→objective",
+        "Desired results→evidence→learning experiences",
+        "Test→punishment→lecture",
+        "Homework→attendance→syllabus"
+      ],
+      "answer": 1,
+      "explanation": "पहले desired outcomes, फिर acceptable evidence और अंत में learning experiences तय होते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Backward design में सही क्रम क्या है?",
+          "options": [
+            "Activity→textbook→objective",
+            "Desired results→evidence→learning experiences",
+            "Test→punishment→lecture",
+            "Homework→attendance→syllabus"
+          ],
+          "explanation": "पहले desired outcomes, फिर acceptable evidence और अंत में learning experiences तय होते हैं।"
+        },
+        "en": {
+          "question": "What is the correct sequence in backward design?",
+          "options": [
+            "Activity→textbook→objective",
+            "Desired results→evidence→learning experiences",
+            "Test→punishment→lecture",
+            "Homework→attendance→syllabus"
+          ],
+          "explanation": "Desired outcomes come first, then evidence, then learning experiences."
+        }
+      }
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "सबसे actionable formative feedback कौन-सा है?",
+      "options": [
+        "गलत",
+        "दूसरा चरण स्पष्ट है; तीसरे चरण में units जाँचो",
+        "केवल अंक",
+        "तुम कमजोर हो"
+      ],
+      "answer": 1,
+      "explanation": "Specific और actionable feedback अगला सुधार स्पष्ट करता है।",
+      "i18n": {
+        "hi": {
+          "question": "सबसे actionable formative feedback कौन-सा है?",
+          "options": [
+            "गलत",
+            "दूसरा चरण स्पष्ट है; तीसरे चरण में units जाँचो",
+            "केवल अंक",
+            "तुम कमजोर हो"
+          ],
+          "explanation": "Specific और actionable feedback अगला सुधार स्पष्ट करता है।"
+        },
+        "en": {
+          "question": "Which is the most actionable formative feedback?",
+          "options": [
+            "Wrong",
+            "Your second step is clear; check the units in the third step",
+            "Marks only",
+            "You are weak"
+          ],
+          "explanation": "Specific and actionable feedback identifies the next improvement."
+        }
+      }
+    },
+    {
+      "id": 20,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Portfolio assessment का विशिष्ट लाभ क्या है?",
+      "options": [
+        "एक दिन की performance",
+        "समय के साथ progress और varied evidence दिखाना",
+        "केवल objective answers",
+        "Attendance"
+      ],
+      "answer": 1,
+      "explanation": "Portfolio learning growth को longitudinal evidence से दिखाता है।",
+      "i18n": {
+        "hi": {
+          "question": "Portfolio assessment का विशिष्ट लाभ क्या है?",
+          "options": [
+            "एक दिन की performance",
+            "समय के साथ progress और varied evidence दिखाना",
+            "केवल objective answers",
+            "Attendance"
+          ],
+          "explanation": "Portfolio learning growth को longitudinal evidence से दिखाता है।"
+        },
+        "en": {
+          "question": "What is a distinctive benefit of portfolio assessment?",
+          "options": [
+            "One-day performance",
+            "Showing progress and varied evidence over time",
+            "Objective answers only",
+            "Attendance"
+          ],
+          "explanation": "A portfolio shows learning growth through longitudinal evidence."
+        }
+      }
+    },
+    {
+      "id": 21,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Rubric का प्रमुख pedagogical लाभ क्या है?",
+      "options": [
+        "Criteria और expectations स्पष्ट करना",
+        "Marks बढ़ाना",
+        "Exam समाप्त करना",
+        "सभी answers समान करना"
+      ],
+      "answer": 0,
+      "explanation": "Rubric performance criteria और levels स्पष्ट करता है।",
+      "i18n": {
+        "hi": {
+          "question": "Rubric का प्रमुख pedagogical लाभ क्या है?",
+          "options": [
+            "Criteria और expectations स्पष्ट करना",
+            "Marks बढ़ाना",
+            "Exam समाप्त करना",
+            "सभी answers समान करना"
+          ],
+          "explanation": "Rubric performance criteria और levels स्पष्ट करता है।"
+        },
+        "en": {
+          "question": "What is a key pedagogical benefit of a rubric?",
+          "options": [
+            "Clarifying criteria and expectations",
+            "Increasing marks",
+            "Ending exams",
+            "Making all answers identical"
+          ],
+          "explanation": "A rubric clarifies performance criteria and levels."
+        }
+      }
+    },
+    {
+      "id": 22,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Peer assessment को reliable बनाने के लिए क्या आवश्यक है?",
+      "options": [
+        "No criteria",
+        "स्पष्ट criteria, training और respectful feedback",
+        "Friend को full marks",
+        "Teacher हटाना"
+      ],
+      "answer": 1,
+      "explanation": "Criteria और feedback norms peer assessment की reliability बढ़ाते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Peer assessment को reliable बनाने के लिए क्या आवश्यक है?",
+          "options": [
+            "No criteria",
+            "स्पष्ट criteria, training और respectful feedback",
+            "Friend को full marks",
+            "Teacher हटाना"
+          ],
+          "explanation": "Criteria और feedback norms peer assessment की reliability बढ़ाते हैं।"
+        },
+        "en": {
+          "question": "What is necessary for reliable peer assessment?",
+          "options": [
+            "No criteria",
+            "Clear criteria, training and respectful feedback",
+            "Give friends full marks",
+            "Remove teacher"
+          ],
+          "explanation": "Criteria and feedback norms improve reliability."
+        }
+      }
+    },
+    {
+      "id": 23,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Differentiated instruction का सही अर्थ क्या है?",
+      "options": [
+        "Identical task",
+        "Readiness, interest या profile के अनुसार content/process/product में variation",
+        "Weak learners हटाना",
+        "केवल gifted को कठिन प्रश्न"
+      ],
+      "answer": 1,
+      "explanation": "Differentiation learner variability के अनुसार instruction adapt करती है।",
+      "i18n": {
+        "hi": {
+          "question": "Differentiated instruction का सही अर्थ क्या है?",
+          "options": [
+            "Identical task",
+            "Readiness, interest या profile के अनुसार content/process/product में variation",
+            "Weak learners हटाना",
+            "केवल gifted को कठिन प्रश्न"
+          ],
+          "explanation": "Differentiation learner variability के अनुसार instruction adapt करती है।"
+        },
+        "en": {
+          "question": "What does differentiated instruction mean?",
+          "options": [
+            "Identical task",
+            "Varying content, process or product based on readiness, interest or profile",
+            "Remove weak learners",
+            "Hard questions only for gifted learners"
+          ],
+          "explanation": "Differentiation adapts instruction to learner variability."
+        }
+      }
+    },
+    {
+      "id": 24,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "UDL का केंद्रीय विचार क्या है?",
+      "options": [
+        "बाद में accommodation",
+        "शुरुआत से multiple means of engagement, representation और action/expression",
+        "एक माध्यम",
+        "Special school"
+      ],
+      "answer": 1,
+      "explanation": "UDL design stage पर barriers कम करता है।",
+      "i18n": {
+        "hi": {
+          "question": "UDL का केंद्रीय विचार क्या है?",
+          "options": [
+            "बाद में accommodation",
+            "शुरुआत से multiple means of engagement, representation और action/expression",
+            "एक माध्यम",
+            "Special school"
+          ],
+          "explanation": "UDL design stage पर barriers कम करता है।"
+        },
+        "en": {
+          "question": "What is the central idea of UDL?",
+          "options": [
+            "Later accommodation",
+            "Provide multiple means of engagement, representation and action/expression from the outset",
+            "One medium",
+            "Special school"
+          ],
+          "explanation": "UDL reduces barriers at the design stage."
+        }
+      }
+    },
+    {
+      "id": 25,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "यदि objective factual recall है तो सबसे aligned question कौन-सा है?",
+      "options": [
+        "जल का chemical formula क्या है?",
+        "जल प्रदूषण policy evaluate करें",
+        "दो theories compare करें",
+        "नया model design करें"
+      ],
+      "answer": 0,
+      "explanation": "Recall objective के लिए direct recall question सबसे aligned है।",
+      "i18n": {
+        "hi": {
+          "question": "यदि objective factual recall है तो सबसे aligned question कौन-सा है?",
+          "options": [
+            "जल का chemical formula क्या है?",
+            "जल प्रदूषण policy evaluate करें",
+            "दो theories compare करें",
+            "नया model design करें"
+          ],
+          "explanation": "Recall objective के लिए direct recall question सबसे aligned है।"
+        },
+        "en": {
+          "question": "If the objective is factual recall, which question is most aligned?",
+          "options": [
+            "What is water's chemical formula?",
+            "Evaluate a water-pollution policy",
+            "Compare two theories",
+            "Design a new model"
+          ],
+          "explanation": "A direct recall question is aligned with a recall objective."
+        }
+      }
+    },
+    {
+      "id": 26,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Constructive alignment किससे संबंधित है?",
+      "options": [
+        "Objectives, activities और assessment की coherence",
+        "केवल textbook",
+        "केवल summative test",
+        "समान grades"
+      ],
+      "answer": 0,
+      "explanation": "Intended outcomes, teaching-learning activities और assessment aligned होने चाहिए।",
+      "i18n": {
+        "hi": {
+          "question": "Constructive alignment किससे संबंधित है?",
+          "options": [
+            "Objectives, activities और assessment की coherence",
+            "केवल textbook",
+            "केवल summative test",
+            "समान grades"
+          ],
+          "explanation": "Intended outcomes, teaching-learning activities और assessment aligned होने चाहिए।"
+        },
+        "en": {
+          "question": "Constructive alignment concerns:",
+          "options": [
+            "Coherence of objectives, activities and assessment",
+            "Textbook only",
+            "Summative test only",
+            "Equal grades"
+          ],
+          "explanation": "Outcomes, teaching-learning activities and assessment should be aligned."
+        }
+      }
+    },
+    {
+      "id": 27,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Remedial teaching किस evidence पर आधारित होनी चाहिए?",
+      "options": [
+        "केवल कम marks",
+        "Diagnostic evidence से specific learning gaps",
+        "Same worksheet",
+        "More homework"
+      ],
+      "answer": 1,
+      "explanation": "Remediation targeted और evidence-based होनी चाहिए।",
+      "i18n": {
+        "hi": {
+          "question": "Remedial teaching किस evidence पर आधारित होनी चाहिए?",
+          "options": [
+            "केवल कम marks",
+            "Diagnostic evidence से specific learning gaps",
+            "Same worksheet",
+            "More homework"
+          ],
+          "explanation": "Remediation targeted और evidence-based होनी चाहिए।"
+        },
+        "en": {
+          "question": "Remedial teaching should be based on:",
+          "options": [
+            "Low marks only",
+            "Specific learning gaps from diagnostic evidence",
+            "Same worksheet",
+            "More homework"
+          ],
+          "explanation": "Remediation should be targeted and evidence-based."
+        }
+      }
+    },
+    {
+      "id": 28,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Metacognition का श्रेष्ठ उदाहरण कौन-सा है?",
+      "options": [
+        "उत्तर याद करना",
+        "मैं इस strategy से गलती कर रहा हूँ; तरीका बदलना चाहिए",
+        "Copy करना",
+        "Teacher answer सुनना"
+      ],
+      "answer": 1,
+      "explanation": "अपनी thinking और strategy को monitor/regulate करना metacognition है।",
+      "i18n": {
+        "hi": {
+          "question": "Metacognition का श्रेष्ठ उदाहरण कौन-सा है?",
+          "options": [
+            "उत्तर याद करना",
+            "मैं इस strategy से गलती कर रहा हूँ; तरीका बदलना चाहिए",
+            "Copy करना",
+            "Teacher answer सुनना"
+          ],
+          "explanation": "अपनी thinking और strategy को monitor/regulate करना metacognition है।"
+        },
+        "en": {
+          "question": "Which is the best example of metacognition?",
+          "options": [
+            "Memorize answer",
+            "I am making errors with this strategy; I should change it",
+            "Copy",
+            "Listen to teacher"
+          ],
+          "explanation": "Monitoring and regulating one's thinking and strategy is metacognition."
+        }
+      }
+    },
+    {
+      "id": 29,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Transfer of learning कब दिखता है?",
+      "options": [
+        "पुराना answer याद करना",
+        "सीखे principle को नई related situation में apply करना",
+        "Notes पढ़ना",
+        "Same question repeat"
+      ],
+      "answer": 1,
+      "explanation": "Transfer में prior learning को नई context में उपयोग किया जाता है।",
+      "i18n": {
+        "hi": {
+          "question": "Transfer of learning कब दिखता है?",
+          "options": [
+            "पुराना answer याद करना",
+            "सीखे principle को नई related situation में apply करना",
+            "Notes पढ़ना",
+            "Same question repeat"
+          ],
+          "explanation": "Transfer में prior learning को नई context में उपयोग किया जाता है।"
+        },
+        "en": {
+          "question": "When is transfer of learning demonstrated?",
+          "options": [
+            "Memorize old answer",
+            "Apply a learned principle to a new related situation",
+            "Read notes",
+            "Repeat same question"
+          ],
+          "explanation": "Transfer uses prior learning in a new context."
+        }
+      }
+    },
+    {
+      "id": 30,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Open-ended task जिसमें कई valid solutions हों, विशेषतः किस thinking को बढ़ाता है?",
+      "options": [
+        "Divergent thinking",
+        "Rote recall",
+        "Conditioning",
+        "Imitation"
+      ],
+      "answer": 0,
+      "explanation": "कई संभावित solutions generate करना divergent thinking से जुड़ा है।",
+      "i18n": {
+        "hi": {
+          "question": "Open-ended task जिसमें कई valid solutions हों, विशेषतः किस thinking को बढ़ाता है?",
+          "options": [
+            "Divergent thinking",
+            "Rote recall",
+            "Conditioning",
+            "Imitation"
+          ],
+          "explanation": "कई संभावित solutions generate करना divergent thinking से जुड़ा है।"
+        },
+        "en": {
+          "question": "An open-ended task with multiple valid solutions especially promotes:",
+          "options": [
+            "Divergent thinking",
+            "Rote recall",
+            "Conditioning",
+            "Imitation"
+          ],
+          "explanation": "Generating multiple possible solutions is divergent thinking."
+        }
+      }
+    },
+    {
+      "id": 31,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Mastery learning का मूल विचार क्या है?",
+      "options": [
+        "Fixed time",
+        "पर्याप्त time, feedback और corrective instruction से mastery तक पहुँचाना",
+        "केवल top students",
+        "एक test के बाद stop"
+      ],
+      "answer": 1,
+      "explanation": "Mastery learning common mastery goals के साथ flexible support देता है।",
+      "i18n": {
+        "hi": {
+          "question": "Mastery learning का मूल विचार क्या है?",
+          "options": [
+            "Fixed time",
+            "पर्याप्त time, feedback और corrective instruction से mastery तक पहुँचाना",
+            "केवल top students",
+            "एक test के बाद stop"
+          ],
+          "explanation": "Mastery learning common mastery goals के साथ flexible support देता है।"
+        },
+        "en": {
+          "question": "What is the core idea of mastery learning?",
+          "options": [
+            "Fixed time",
+            "Use sufficient time, feedback and corrective instruction to reach mastery",
+            "Only top students",
+            "Stop after one test"
+          ],
+          "explanation": "Mastery learning provides flexible support toward common mastery goals."
+        }
+      }
+    },
+    {
+      "id": 32,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Inquiry-based learning में सबसे केंद्रीय क्या है?",
+      "options": [
+        "Question, evidence और explanation",
+        "Teacher lecture",
+        "Rote copying",
+        "Final answer"
+      ],
+      "answer": 0,
+      "explanation": "Inquiry में questioning, evidence, reasoning और explanation केंद्रीय हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Inquiry-based learning में सबसे केंद्रीय क्या है?",
+          "options": [
+            "Question, evidence और explanation",
+            "Teacher lecture",
+            "Rote copying",
+            "Final answer"
+          ],
+          "explanation": "Inquiry में questioning, evidence, reasoning और explanation केंद्रीय हैं।"
+        },
+        "en": {
+          "question": "What is most central to inquiry-based learning?",
+          "options": [
+            "Questions, evidence and explanation",
+            "Teacher lecture",
+            "Rote copying",
+            "Final answer"
+          ],
+          "explanation": "Questioning, evidence, reasoning and explanation are central."
+        }
+      }
+    },
+    {
+      "id": 33,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Teacher कहता है ‘तुम्हारा answer गलत है’ और रुक जाता है। बेहतर feedback क्या होगा?",
+      "options": [
+        "फिर से देखो",
+        "Error location और actionable next step बताना",
+        "Negative marks",
+        "Answer बता देना"
+      ],
+      "answer": 1,
+      "explanation": "Effective feedback specific और actionable होता है।",
+      "i18n": {
+        "hi": {
+          "question": "Teacher कहता है ‘तुम्हारा answer गलत है’ और रुक जाता है। बेहतर feedback क्या होगा?",
+          "options": [
+            "फिर से देखो",
+            "Error location और actionable next step बताना",
+            "Negative marks",
+            "Answer बता देना"
+          ],
+          "explanation": "Effective feedback specific और actionable होता है।"
+        },
+        "en": {
+          "question": "A teacher says 'Your answer is wrong' and stops. What is better feedback?",
+          "options": [
+            "Look again",
+            "Identify the error and give an actionable next step",
+            "Negative marks",
+            "Give the answer"
+          ],
+          "explanation": "Effective feedback is specific and actionable."
+        }
+      }
+    },
+    {
+      "id": 34,
+      "type": "single_choice",
+      "section": "teaching-methodology",
+      "question": "Positive interdependence का अर्थ क्या है?",
+      "options": [
+        "एक learner सब करे",
+        "Shared goal के लिए members को एक-दूसरे के contribution की आवश्यकता हो",
+        "Competition",
+        "No accountability"
+      ],
+      "answer": 1,
+      "explanation": "Shared goal के लिए mutual contribution positive interdependence है।",
+      "i18n": {
+        "hi": {
+          "question": "Positive interdependence का अर्थ क्या है?",
+          "options": [
+            "एक learner सब करे",
+            "Shared goal के लिए members को एक-दूसरे के contribution की आवश्यकता हो",
+            "Competition",
+            "No accountability"
+          ],
+          "explanation": "Shared goal के लिए mutual contribution positive interdependence है।"
+        },
+        "en": {
+          "question": "What does positive interdependence mean?",
+          "options": [
+            "One learner does all",
+            "Members need one another's contributions for a shared goal",
+            "Competition",
+            "No accountability"
+          ],
+          "explanation": "Mutual contribution toward a shared goal is positive interdependence."
+        }
+      }
+    },
+    {
+      "id": 35,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "बाल विकास के बारे में सबसे वैज्ञानिक कथन क्या है?",
+      "options": [
+        "केवल heredity",
+        "केवल environment",
+        "बहुआयामी और heredity-environment interaction से प्रभावित",
+        "केवल school में"
+      ],
+      "answer": 2,
+      "explanation": "विकास अनेक dimensions और interacting factors से प्रभावित होता है।",
+      "i18n": {
+        "hi": {
+          "question": "बाल विकास के बारे में सबसे वैज्ञानिक कथन क्या है?",
+          "options": [
+            "केवल heredity",
+            "केवल environment",
+            "बहुआयामी और heredity-environment interaction से प्रभावित",
+            "केवल school में"
+          ],
+          "explanation": "विकास अनेक dimensions और interacting factors से प्रभावित होता है।"
+        },
+        "en": {
+          "question": "Which is the most scientific statement about child development?",
+          "options": [
+            "Only heredity",
+            "Only environment",
+            "Multidimensional and influenced by heredity-environment interaction",
+            "Only at school"
+          ],
+          "explanation": "Development is multidimensional and influenced by interacting factors."
+        }
+      }
+    },
+    {
+      "id": 36,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Cephalocaudal principle क्या बताता है?",
+      "options": [
+        "सिर से पैर की ओर विकास",
+        "पैर से सिर",
+        "Center से बाहर",
+        "Outside से अंदर"
+      ],
+      "answer": 0,
+      "explanation": "यह developmental direction head-to-foot बताता है।",
+      "i18n": {
+        "hi": {
+          "question": "Cephalocaudal principle क्या बताता है?",
+          "options": [
+            "सिर से पैर की ओर विकास",
+            "पैर से सिर",
+            "Center से बाहर",
+            "Outside से अंदर"
+          ],
+          "explanation": "यह developmental direction head-to-foot बताता है।"
+        },
+        "en": {
+          "question": "What does the cephalocaudal principle indicate?",
+          "options": [
+            "Head to feet",
+            "Feet to head",
+            "Center outward",
+            "Outside inward"
+          ],
+          "explanation": "It describes development from head toward the feet."
+        }
+      }
+    },
+    {
+      "id": 37,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Proximodistal principle किस दिशा को दर्शाता है?",
+      "options": [
+        "Head-to-foot",
+        "Center/nearer parts से distal parts की ओर",
+        "Distal से center",
+        "Simple से complex"
+      ],
+      "answer": 1,
+      "explanation": "Development center से बाहरी हिस्सों की ओर बढ़ता है।",
+      "i18n": {
+        "hi": {
+          "question": "Proximodistal principle किस दिशा को दर्शाता है?",
+          "options": [
+            "Head-to-foot",
+            "Center/nearer parts से distal parts की ओर",
+            "Distal से center",
+            "Simple से complex"
+          ],
+          "explanation": "Development center से बाहरी हिस्सों की ओर बढ़ता है।"
+        },
+        "en": {
+          "question": "What direction does the proximodistal principle describe?",
+          "options": [
+            "Head-to-foot",
+            "From center/nearer parts toward distal parts",
+            "Distal to center",
+            "Simple to complex"
+          ],
+          "explanation": "Development proceeds from the center toward distal parts."
+        }
+      }
+    },
+    {
+      "id": 38,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Piaget में object permanence किस stage की उपलब्धि है?",
+      "options": [
+        "Sensorimotor",
+        "Preoperational",
+        "Concrete operational",
+        "Formal operational"
+      ],
+      "answer": 0,
+      "explanation": "Object permanence sensorimotor period की प्रमुख उपलब्धि है।",
+      "i18n": {
+        "hi": {
+          "question": "Piaget में object permanence किस stage की उपलब्धि है?",
+          "options": [
+            "Sensorimotor",
+            "Preoperational",
+            "Concrete operational",
+            "Formal operational"
+          ],
+          "explanation": "Object permanence sensorimotor period की प्रमुख उपलब्धि है।"
+        },
+        "en": {
+          "question": "In Piaget's theory, object permanence is an achievement of which stage?",
+          "options": [
+            "Sensorimotor",
+            "Preoperational",
+            "Concrete operational",
+            "Formal operational"
+          ],
+          "explanation": "Object permanence is a key sensorimotor achievement."
+        }
+      }
+    },
+    {
+      "id": 39,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Conservation की समझ सामान्यतः किस stage में आती है?",
+      "options": [
+        "Sensorimotor",
+        "Preoperational",
+        "Concrete operational",
+        "Formal operational"
+      ],
+      "answer": 2,
+      "explanation": "Concrete operational stage में conservation tasks पर logical operations संभव हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Conservation की समझ सामान्यतः किस stage में आती है?",
+          "options": [
+            "Sensorimotor",
+            "Preoperational",
+            "Concrete operational",
+            "Formal operational"
+          ],
+          "explanation": "Concrete operational stage में conservation tasks पर logical operations संभव हैं।"
+        },
+        "en": {
+          "question": "Conservation is generally associated with which stage?",
+          "options": [
+            "Sensorimotor",
+            "Preoperational",
+            "Concrete operational",
+            "Formal operational"
+          ],
+          "explanation": "Concrete operational learners can perform logical conservation operations."
+        }
+      }
+    },
+    {
+      "id": 40,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Assimilation और accommodation में सही अंतर क्या है?",
+      "options": [
+        "Identical",
+        "Assimilation existing schema में नई experience fit करता है; accommodation schema बदलता है",
+        "Assimilation social learning",
+        "Accommodation punishment"
+      ],
+      "answer": 1,
+      "explanation": "Piagetian adaptation में दोनों processes interact करते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Assimilation और accommodation में सही अंतर क्या है?",
+          "options": [
+            "Identical",
+            "Assimilation existing schema में नई experience fit करता है; accommodation schema बदलता है",
+            "Assimilation social learning",
+            "Accommodation punishment"
+          ],
+          "explanation": "Piagetian adaptation में दोनों processes interact करते हैं।"
+        },
+        "en": {
+          "question": "What is the correct distinction between assimilation and accommodation?",
+          "options": [
+            "Identical",
+            "Assimilation fits new experience into an existing schema; accommodation changes the schema",
+            "Social learning",
+            "Punishment"
+          ],
+          "explanation": "Both processes interact in Piagetian adaptation."
+        }
+      }
+    },
+    {
+      "id": 41,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Piaget का equilibration किससे जुड़ा है?",
+      "options": [
+        "Cognitive balance की ओर adaptation",
+        "Reward",
+        "Memory",
+        "Language imitation"
+      ],
+      "answer": 0,
+      "explanation": "Cognitive conflict को resolve कर coherent structures की ओर बढ़ना equilibration है।",
+      "i18n": {
+        "hi": {
+          "question": "Piaget का equilibration किससे जुड़ा है?",
+          "options": [
+            "Cognitive balance की ओर adaptation",
+            "Reward",
+            "Memory",
+            "Language imitation"
+          ],
+          "explanation": "Cognitive conflict को resolve कर coherent structures की ओर बढ़ना equilibration है।"
+        },
+        "en": {
+          "question": "Piaget's equilibration is related to:",
+          "options": [
+            "Adaptation toward cognitive balance",
+            "Reward",
+            "Memory",
+            "Language imitation"
+          ],
+          "explanation": "Resolving cognitive conflict toward coherent structures is equilibration."
+        }
+      }
+    },
+    {
+      "id": 42,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Vygotsky में language का cognitive role क्या है?",
+      "options": [
+        "केवल pronunciation",
+        "Social interaction, thought और self-regulation को mediate करना",
+        "केवल memory",
+        "Development से अलग"
+      ],
+      "answer": 1,
+      "explanation": "Language cultural tool के रूप में thought/self-regulation को mediate करती है।",
+      "i18n": {
+        "hi": {
+          "question": "Vygotsky में language का cognitive role क्या है?",
+          "options": [
+            "केवल pronunciation",
+            "Social interaction, thought और self-regulation को mediate करना",
+            "केवल memory",
+            "Development से अलग"
+          ],
+          "explanation": "Language cultural tool के रूप में thought/self-regulation को mediate करती है।"
+        },
+        "en": {
+          "question": "What is the cognitive role of language in Vygotsky's theory?",
+          "options": [
+            "Pronunciation only",
+            "Mediating social interaction, thought and self-regulation",
+            "Memory only",
+            "Separate from development"
+          ],
+          "explanation": "Language mediates thought and self-regulation as a cultural tool."
+        }
+      }
+    },
+    {
+      "id": 43,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Private speech का प्रमुख कार्य क्या है?",
+      "options": [
+        "Self-guidance और self-regulation",
+        "दूसरों को प्रभावित करना",
+        "Vocabulary test",
+        "Imitation"
+      ],
+      "answer": 0,
+      "explanation": "Private speech planning और self-regulation में मदद करती है।",
+      "i18n": {
+        "hi": {
+          "question": "Private speech का प्रमुख कार्य क्या है?",
+          "options": [
+            "Self-guidance और self-regulation",
+            "दूसरों को प्रभावित करना",
+            "Vocabulary test",
+            "Imitation"
+          ],
+          "explanation": "Private speech planning और self-regulation में मदद करती है।"
+        },
+        "en": {
+          "question": "What is a major function of private speech?",
+          "options": [
+            "Self-guidance and self-regulation",
+            "Influencing others",
+            "Vocabulary test",
+            "Imitation"
+          ],
+          "explanation": "Private speech supports planning and self-regulation."
+        }
+      }
+    },
+    {
+      "id": 44,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Erikson के school-age conflict का नाम क्या है?",
+      "options": [
+        "Trust vs Mistrust",
+        "Autonomy vs Shame",
+        "Industry vs Inferiority",
+        "Identity vs Role Confusion"
+      ],
+      "answer": 2,
+      "explanation": "School years में competence/productivity Industry vs Inferiority से जुड़ी है।",
+      "i18n": {
+        "hi": {
+          "question": "Erikson के school-age conflict का नाम क्या है?",
+          "options": [
+            "Trust vs Mistrust",
+            "Autonomy vs Shame",
+            "Industry vs Inferiority",
+            "Identity vs Role Confusion"
+          ],
+          "explanation": "School years में competence/productivity Industry vs Inferiority से जुड़ी है।"
+        },
+        "en": {
+          "question": "What is Erikson's school-age conflict?",
+          "options": [
+            "Trust vs Mistrust",
+            "Autonomy vs Shame",
+            "Industry vs Inferiority",
+            "Identity vs Role Confusion"
+          ],
+          "explanation": "School years involve Industry vs Inferiority around competence."
+        }
+      }
+    },
+    {
+      "id": 45,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Adolescence का Eriksonian conflict क्या है?",
+      "options": [
+        "Initiative vs Guilt",
+        "Identity vs Role Confusion",
+        "Generativity vs Stagnation",
+        "Integrity vs Despair"
+      ],
+      "answer": 1,
+      "explanation": "Adolescence में identity formation केंद्रीय task है।",
+      "i18n": {
+        "hi": {
+          "question": "Adolescence का Eriksonian conflict क्या है?",
+          "options": [
+            "Initiative vs Guilt",
+            "Identity vs Role Confusion",
+            "Generativity vs Stagnation",
+            "Integrity vs Despair"
+          ],
+          "explanation": "Adolescence में identity formation केंद्रीय task है।"
+        },
+        "en": {
+          "question": "What is the Eriksonian conflict of adolescence?",
+          "options": [
+            "Initiative vs Guilt",
+            "Identity vs Role Confusion",
+            "Generativity vs Stagnation",
+            "Integrity vs Despair"
+          ],
+          "explanation": "Identity formation is central in adolescence."
+        }
+      }
+    },
+    {
+      "id": 46,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Kohlberg के pre-conventional level में reasoning मुख्यतः किस पर आधारित है?",
+      "options": [
+        "Universal principles",
+        "Punishment, rewards and personal consequences",
+        "Social contract",
+        "Abstract societal ideals"
+      ],
+      "answer": 1,
+      "explanation": "External consequences और instrumental exchange प्रमुख हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Kohlberg के pre-conventional level में reasoning मुख्यतः किस पर आधारित है?",
+          "options": [
+            "Universal principles",
+            "Punishment, rewards and personal consequences",
+            "Social contract",
+            "Abstract societal ideals"
+          ],
+          "explanation": "External consequences और instrumental exchange प्रमुख हैं।"
+        },
+        "en": {
+          "question": "Pre-conventional moral reasoning is mainly based on:",
+          "options": [
+            "Universal principles",
+            "Punishment, rewards and personal consequences",
+            "Social contract",
+            "Abstract societal ideals"
+          ],
+          "explanation": "External consequences and instrumental exchange are central."
+        }
+      }
+    },
+    {
+      "id": 47,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "‘मैं नियम मानूँगा क्योंकि reward मिलेगा’ किस orientation का उदाहरण है?",
+      "options": [
+        "Pre-conventional",
+        "Conventional",
+        "Post-conventional",
+        "Identity achievement"
+      ],
+      "answer": 0,
+      "explanation": "Reward orientation pre-conventional reasoning का उदाहरण है।",
+      "i18n": {
+        "hi": {
+          "question": "‘मैं नियम मानूँगा क्योंकि reward मिलेगा’ किस orientation का उदाहरण है?",
+          "options": [
+            "Pre-conventional",
+            "Conventional",
+            "Post-conventional",
+            "Identity achievement"
+          ],
+          "explanation": "Reward orientation pre-conventional reasoning का उदाहरण है।"
+        },
+        "en": {
+          "question": "'I will follow the rule because I will get a reward' reflects which orientation?",
+          "options": [
+            "Pre-conventional",
+            "Conventional",
+            "Post-conventional",
+            "Identity achievement"
+          ],
+          "explanation": "Reward orientation is pre-conventional reasoning."
+        }
+      }
+    },
+    {
+      "id": 48,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "दूसरे model को reward मिलने के बाद behavior अपनाना क्या कहलाता है?",
+      "options": [
+        "Vicarious reinforcement",
+        "Extinction",
+        "Conservation",
+        "Accommodation"
+      ],
+      "answer": 0,
+      "explanation": "Observed consequences learner के behavior को प्रभावित कर सकते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "दूसरे model को reward मिलने के बाद behavior अपनाना क्या कहलाता है?",
+          "options": [
+            "Vicarious reinforcement",
+            "Extinction",
+            "Conservation",
+            "Accommodation"
+          ],
+          "explanation": "Observed consequences learner के behavior को प्रभावित कर सकते हैं।"
+        },
+        "en": {
+          "question": "Adopting a behavior after seeing another model rewarded is called:",
+          "options": [
+            "Vicarious reinforcement",
+            "Extinction",
+            "Conservation",
+            "Accommodation"
+          ],
+          "explanation": "Observed consequences can influence the learner's behavior."
+        }
+      }
+    },
+    {
+      "id": 49,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Bandura observational learning के प्रमुख processes कौन-से हैं?",
+      "options": [
+        "Attention, retention, reproduction, motivation",
+        "Maturation only",
+        "Punishment only",
+        "IQ only"
+      ],
+      "answer": 0,
+      "explanation": "Observational learning में ये चार processes केंद्रीय माने जाते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Bandura observational learning के प्रमुख processes कौन-से हैं?",
+          "options": [
+            "Attention, retention, reproduction, motivation",
+            "Maturation only",
+            "Punishment only",
+            "IQ only"
+          ],
+          "explanation": "Observational learning में ये चार processes केंद्रीय माने जाते हैं।"
+        },
+        "en": {
+          "question": "What are key processes in Bandura's observational learning?",
+          "options": [
+            "Attention, retention, reproduction, motivation",
+            "Maturation only",
+            "Punishment only",
+            "IQ only"
+          ],
+          "explanation": "These four processes are central to observational learning."
+        }
+      }
+    },
+    {
+      "id": 50,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Gardner में दूसरों की emotions/intentions समझना कौन-सी intelligence है?",
+      "options": [
+        "Intrapersonal",
+        "Interpersonal",
+        "Naturalistic",
+        "Musical"
+      ],
+      "answer": 1,
+      "explanation": "Interpersonal intelligence social understanding से संबंधित है।",
+      "i18n": {
+        "hi": {
+          "question": "Gardner में दूसरों की emotions/intentions समझना कौन-सी intelligence है?",
+          "options": [
+            "Intrapersonal",
+            "Interpersonal",
+            "Naturalistic",
+            "Musical"
+          ],
+          "explanation": "Interpersonal intelligence social understanding से संबंधित है।"
+        },
+        "en": {
+          "question": "In Gardner's theory, understanding others' emotions and intentions is which intelligence?",
+          "options": [
+            "Intrapersonal",
+            "Interpersonal",
+            "Naturalistic",
+            "Musical"
+          ],
+          "explanation": "Interpersonal intelligence concerns social understanding."
+        }
+      }
+    },
+    {
+      "id": 51,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "अपनी emotions और motives को समझना किस intelligence से जुड़ा है?",
+      "options": [
+        "Interpersonal",
+        "Intrapersonal",
+        "Spatial",
+        "Bodily-kinesthetic"
+      ],
+      "answer": 1,
+      "explanation": "Intrapersonal intelligence self-understanding से संबंधित है।",
+      "i18n": {
+        "hi": {
+          "question": "अपनी emotions और motives को समझना किस intelligence से जुड़ा है?",
+          "options": [
+            "Interpersonal",
+            "Intrapersonal",
+            "Spatial",
+            "Bodily-kinesthetic"
+          ],
+          "explanation": "Intrapersonal intelligence self-understanding से संबंधित है।"
+        },
+        "en": {
+          "question": "Understanding one's emotions and motives is associated with which intelligence?",
+          "options": [
+            "Interpersonal",
+            "Intrapersonal",
+            "Spatial",
+            "Bodily-kinesthetic"
+          ],
+          "explanation": "Intrapersonal intelligence concerns self-understanding."
+        }
+      }
+    },
+    {
+      "id": 52,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Sternberg की triarchic theory में कौन-से तीन components हैं?",
+      "options": [
+        "Analytical, creative, practical",
+        "Verbal, musical, naturalistic",
+        "Sensorimotor, concrete, formal",
+        "Memory, attention, perception"
+      ],
+      "answer": 0,
+      "explanation": "Triarchic theory analytical, creative और practical dimensions प्रस्तावित करती है।",
+      "i18n": {
+        "hi": {
+          "question": "Sternberg की triarchic theory में कौन-से तीन components हैं?",
+          "options": [
+            "Analytical, creative, practical",
+            "Verbal, musical, naturalistic",
+            "Sensorimotor, concrete, formal",
+            "Memory, attention, perception"
+          ],
+          "explanation": "Triarchic theory analytical, creative और practical dimensions प्रस्तावित करती है।"
+        },
+        "en": {
+          "question": "Which three components are in Sternberg's triarchic theory?",
+          "options": [
+            "Analytical, creative, practical",
+            "Verbal, musical, naturalistic",
+            "Sensorimotor, concrete, formal",
+            "Memory, attention, perception"
+          ],
+          "explanation": "The theory proposes analytical, creative and practical dimensions."
+        }
+      }
+    },
+    {
+      "id": 53,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Self-efficacy का सटीक अर्थ क्या है?",
+      "options": [
+        "General self-esteem",
+        "Specific task करने की अपनी capability में belief",
+        "IQ score",
+        "Others' opinion"
+      ],
+      "answer": 1,
+      "explanation": "Self-efficacy task-specific perceived capability है।",
+      "i18n": {
+        "hi": {
+          "question": "Self-efficacy का सटीक अर्थ क्या है?",
+          "options": [
+            "General self-esteem",
+            "Specific task करने की अपनी capability में belief",
+            "IQ score",
+            "Others' opinion"
+          ],
+          "explanation": "Self-efficacy task-specific perceived capability है।"
+        },
+        "en": {
+          "question": "What is the precise meaning of self-efficacy?",
+          "options": [
+            "General self-esteem",
+            "Belief in one's capability to perform a specific task",
+            "IQ score",
+            "Others' opinion"
+          ],
+          "explanation": "Self-efficacy is task-specific perceived capability."
+        }
+      }
+    },
+    {
+      "id": 54,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Intrinsic motivation का सर्वोत्तम उदाहरण क्या है?",
+      "options": [
+        "Prize के लिए पढ़ना",
+        "रुचि और satisfaction के लिए puzzle हल करना",
+        "Punishment से बचना",
+        "Certificate के लिए project"
+      ],
+      "answer": 1,
+      "explanation": "Intrinsic motivation activity की inherent interest/satisfaction से आती है।",
+      "i18n": {
+        "hi": {
+          "question": "Intrinsic motivation का सर्वोत्तम उदाहरण क्या है?",
+          "options": [
+            "Prize के लिए पढ़ना",
+            "रुचि और satisfaction के लिए puzzle हल करना",
+            "Punishment से बचना",
+            "Certificate के लिए project"
+          ],
+          "explanation": "Intrinsic motivation activity की inherent interest/satisfaction से आती है।"
+        },
+        "en": {
+          "question": "What is the best example of intrinsic motivation?",
+          "options": [
+            "Studying for a prize",
+            "Solving a puzzle for interest and satisfaction",
+            "Avoiding punishment",
+            "Project for a certificate"
+          ],
+          "explanation": "Intrinsic motivation comes from inherent interest or satisfaction."
+        }
+      }
+    },
+    {
+      "id": 55,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Failure को fixed ability का प्रमाण मानना किस mindset से जुड़ा है?",
+      "options": [
+        "Growth mindset",
+        "Fixed mindset",
+        "Mastery orientation",
+        "Metacognition"
+      ],
+      "answer": 1,
+      "explanation": "Fixed mindset ability को relatively stable मानता है।",
+      "i18n": {
+        "hi": {
+          "question": "Failure को fixed ability का प्रमाण मानना किस mindset से जुड़ा है?",
+          "options": [
+            "Growth mindset",
+            "Fixed mindset",
+            "Mastery orientation",
+            "Metacognition"
+          ],
+          "explanation": "Fixed mindset ability को relatively stable मानता है।"
+        },
+        "en": {
+          "question": "Seeing failure as proof of fixed ability is associated with:",
+          "options": [
+            "Growth mindset",
+            "Fixed mindset",
+            "Mastery orientation",
+            "Metacognition"
+          ],
+          "explanation": "A fixed mindset treats ability as relatively stable."
+        }
+      }
+    },
+    {
+      "id": 56,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Mastery-oriented learner failure के बाद सामान्यतः क्या करता है?",
+      "options": [
+        "Task छोड़ना",
+        "Strategy बदलना और feedback उपयोग करना",
+        "दूसरों को blame",
+        "केवल grade देखना"
+      ],
+      "answer": 1,
+      "explanation": "Mastery orientation improvement और strategy adjustment पर केंद्रित है।",
+      "i18n": {
+        "hi": {
+          "question": "Mastery-oriented learner failure के बाद सामान्यतः क्या करता है?",
+          "options": [
+            "Task छोड़ना",
+            "Strategy बदलना और feedback उपयोग करना",
+            "दूसरों को blame",
+            "केवल grade देखना"
+          ],
+          "explanation": "Mastery orientation improvement और strategy adjustment पर केंद्रित है।"
+        },
+        "en": {
+          "question": "What does a mastery-oriented learner typically do after failure?",
+          "options": [
+            "Quit",
+            "Change strategy and use feedback",
+            "Blame others",
+            "Focus only on grade"
+          ],
+          "explanation": "Mastery orientation focuses on improvement and strategy adjustment."
+        }
+      }
+    },
+    {
+      "id": 57,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "समान IQ के बावजूद classroom performance अलग हो सकती है क्योंकि—",
+      "options": [
+        "IQ पूर्ण predictor है",
+        "Motivation, context, instruction और अन्य factors असर डालते हैं",
+        "एक dishonest है",
+        "Intelligence irrelevant है"
+      ],
+      "answer": 1,
+      "explanation": "Achievement बहु-कारक है; IQ अकेला पर्याप्त predictor नहीं।",
+      "i18n": {
+        "hi": {
+          "question": "समान IQ के बावजूद classroom performance अलग हो सकती है क्योंकि—",
+          "options": [
+            "IQ पूर्ण predictor है",
+            "Motivation, context, instruction और अन्य factors असर डालते हैं",
+            "एक dishonest है",
+            "Intelligence irrelevant है"
+          ],
+          "explanation": "Achievement बहु-कारक है; IQ अकेला पर्याप्त predictor नहीं।"
+        },
+        "en": {
+          "question": "Why can classroom performance differ despite similar IQ?",
+          "options": [
+            "IQ perfectly predicts",
+            "Motivation, context, instruction and other factors matter",
+            "One is dishonest",
+            "Intelligence is irrelevant"
+          ],
+          "explanation": "Achievement is multifactorial; IQ alone is insufficient."
+        }
+      }
+    },
+    {
+      "id": 58,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Individual differences के लिए teacher का उचित response क्या है?",
+      "options": [
+        "हर समय identical support",
+        "Readiness, pace और needs के अनुसार adaptation",
+        "Weak learners अलग करना",
+        "केवल average learner"
+      ],
+      "answer": 1,
+      "explanation": "Learner variability के अनुसार evidence-based adaptation उचित है।",
+      "i18n": {
+        "hi": {
+          "question": "Individual differences के लिए teacher का उचित response क्या है?",
+          "options": [
+            "हर समय identical support",
+            "Readiness, pace और needs के अनुसार adaptation",
+            "Weak learners अलग करना",
+            "केवल average learner"
+          ],
+          "explanation": "Learner variability के अनुसार evidence-based adaptation उचित है।"
+        },
+        "en": {
+          "question": "What is an appropriate teacher response to individual differences?",
+          "options": [
+            "Identical support",
+            "Adapt to readiness, pace and needs",
+            "Separate weak learners",
+            "Teach only average learners"
+          ],
+          "explanation": "Evidence-based adaptation to learner variability is appropriate."
+        }
+      }
+    },
+    {
+      "id": 59,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Dyslexia के बारे में सही कथन क्या है?",
+      "options": [
+        "Low intelligence का पर्याय",
+        "Specific learning difficulty; intelligence इससे निर्धारित नहीं होती",
+        "Laziness",
+        "Only vision problem"
+      ],
+      "answer": 1,
+      "explanation": "Specific learning difficulty को general intelligence से अलग समझना चाहिए।",
+      "i18n": {
+        "hi": {
+          "question": "Dyslexia के बारे में सही कथन क्या है?",
+          "options": [
+            "Low intelligence का पर्याय",
+            "Specific learning difficulty; intelligence इससे निर्धारित नहीं होती",
+            "Laziness",
+            "Only vision problem"
+          ],
+          "explanation": "Specific learning difficulty को general intelligence से अलग समझना चाहिए।"
+        },
+        "en": {
+          "question": "Which statement about dyslexia is correct?",
+          "options": [
+            "Synonym for low intelligence",
+            "A specific learning difficulty; it does not determine intelligence",
+            "Laziness",
+            "Only a vision problem"
+          ],
+          "explanation": "A specific learning difficulty should be distinguished from general intelligence."
+        }
+      }
+    },
+    {
+      "id": 60,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Inclusive classroom में visually impaired learner के लिए सबसे उचित support क्या है?",
+      "options": [
+        "केवल oral lecture",
+        "Braille, tactile/audio और accessible materials",
+        "All assessments से हटाना",
+        "Permanent separate class"
+      ],
+      "answer": 1,
+      "explanation": "Accessible materials participation barriers घटाते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Inclusive classroom में visually impaired learner के लिए सबसे उचित support क्या है?",
+          "options": [
+            "केवल oral lecture",
+            "Braille, tactile/audio और accessible materials",
+            "All assessments से हटाना",
+            "Permanent separate class"
+          ],
+          "explanation": "Accessible materials participation barriers घटाते हैं।"
+        },
+        "en": {
+          "question": "What is appropriate support for a visually impaired learner in an inclusive classroom?",
+          "options": [
+            "Only oral lecture",
+            "Braille, tactile/audio and accessible materials",
+            "Remove from all assessments",
+            "Permanent separate class"
+          ],
+          "explanation": "Accessible materials reduce participation barriers."
+        }
+      }
+    },
+    {
+      "id": 61,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Gifted learner आसान work से bored है। सबसे उचित response क्या है?",
+      "options": [
+        "Same worksheet ज्यादा",
+        "Enrichment, depth और challenging tasks",
+        "हमेशा class teacher बनाना",
+        "Ignore"
+      ],
+      "answer": 1,
+      "explanation": "Gifted learners के लिए depth और complexity केवल quantity से अधिक उपयोगी हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Gifted learner आसान work से bored है। सबसे उचित response क्या है?",
+          "options": [
+            "Same worksheet ज्यादा",
+            "Enrichment, depth और challenging tasks",
+            "हमेशा class teacher बनाना",
+            "Ignore"
+          ],
+          "explanation": "Gifted learners के लिए depth और complexity केवल quantity से अधिक उपयोगी हैं।"
+        },
+        "en": {
+          "question": "A gifted learner is bored by easy work. What is most appropriate?",
+          "options": [
+            "More of same worksheet",
+            "Enrichment, depth and challenging tasks",
+            "Always make class teacher",
+            "Ignore"
+          ],
+          "explanation": "Depth and complexity are more appropriate than simply more work."
+        }
+      }
+    },
+    {
+      "id": 62,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "‘तुम्हें यह आता ही नहीं’ जैसा global label किस risk को बढ़ा सकता है?",
+      "options": [
+        "Growth mindset",
+        "Fixed ability beliefs",
+        "Metacognition",
+        "Mastery orientation"
+      ],
+      "answer": 1,
+      "explanation": "Global ability labels fixed beliefs और avoidance बढ़ा सकते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "‘तुम्हें यह आता ही नहीं’ जैसा global label किस risk को बढ़ा सकता है?",
+          "options": [
+            "Growth mindset",
+            "Fixed ability beliefs",
+            "Metacognition",
+            "Mastery orientation"
+          ],
+          "explanation": "Global ability labels fixed beliefs और avoidance बढ़ा सकते हैं।"
+        },
+        "en": {
+          "question": "What risk can the global label 'you simply cannot do this' increase?",
+          "options": [
+            "Growth mindset",
+            "Fixed ability beliefs",
+            "Metacognition",
+            "Mastery orientation"
+          ],
+          "explanation": "Global ability labels can reinforce fixed beliefs and avoidance."
+        }
+      }
+    },
+    {
+      "id": 63,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "बच्चा सहायता से task करता है लेकिन अकेले नहीं। Vygotsky के अनुसार?",
+      "options": [
+        "कभी नहीं सीख सकता",
+        "Task ZPD में हो सकता है",
+        "IQ निश्चित रूप से कम",
+        "Development समाप्त"
+      ],
+      "answer": 1,
+      "explanation": "Assisted performance ZPD का संकेत है।",
+      "i18n": {
+        "hi": {
+          "question": "बच्चा सहायता से task करता है लेकिन अकेले नहीं। Vygotsky के अनुसार?",
+          "options": [
+            "कभी नहीं सीख सकता",
+            "Task ZPD में हो सकता है",
+            "IQ निश्चित रूप से कम",
+            "Development समाप्त"
+          ],
+          "explanation": "Assisted performance ZPD का संकेत है।"
+        },
+        "en": {
+          "question": "A child performs a task with assistance but not independently. According to Vygotsky?",
+          "options": [
+            "Can never learn",
+            "Task may be within ZPD",
+            "IQ is definitely low",
+            "Development has ended"
+          ],
+          "explanation": "Assisted performance is an indicator of the ZPD."
+        }
+      }
+    },
+    {
+      "id": 64,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "नए अनुभव को पुराने schema में fit करना किस process का उदाहरण है?",
+      "options": [
+        "Assimilation",
+        "Accommodation",
+        "Equilibration",
+        "Scaffolding"
+      ],
+      "answer": 0,
+      "explanation": "Existing schema में experience fit करना assimilation है।",
+      "i18n": {
+        "hi": {
+          "question": "नए अनुभव को पुराने schema में fit करना किस process का उदाहरण है?",
+          "options": [
+            "Assimilation",
+            "Accommodation",
+            "Equilibration",
+            "Scaffolding"
+          ],
+          "explanation": "Existing schema में experience fit करना assimilation है।"
+        },
+        "en": {
+          "question": "Fitting a new experience into an existing schema is an example of:",
+          "options": [
+            "Assimilation",
+            "Accommodation",
+            "Equilibration",
+            "Scaffolding"
+          ],
+          "explanation": "Fitting experience into an existing schema is assimilation."
+        }
+      }
+    },
+    {
+      "id": 65,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Developmental variability के कारण teacher को क्या assume नहीं करना चाहिए?",
+      "options": [
+        "एक ही age में सभी identical होंगे",
+        "Different rates possible हैं",
+        "Context matters",
+        "Individual differences normal हैं"
+      ],
+      "answer": 0,
+      "explanation": "Age norms useful हैं लेकिन individual trajectories identical नहीं होतीं।",
+      "i18n": {
+        "hi": {
+          "question": "Developmental variability के कारण teacher को क्या assume नहीं करना चाहिए?",
+          "options": [
+            "एक ही age में सभी identical होंगे",
+            "Different rates possible हैं",
+            "Context matters",
+            "Individual differences normal हैं"
+          ],
+          "explanation": "Age norms useful हैं लेकिन individual trajectories identical नहीं होतीं।"
+        },
+        "en": {
+          "question": "Because of developmental variability, what should a teacher NOT assume?",
+          "options": [
+            "All children of the same age are identical",
+            "Different rates are possible",
+            "Context matters",
+            "Individual differences are normal"
+          ],
+          "explanation": "Age norms are useful, but individual trajectories are not identical."
+        }
+      }
+    },
+    {
+      "id": 66,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "Conventional moral reasoning मुख्यतः किस पर बल देता है?",
+      "options": [
+        "Punishment avoidance",
+        "Social approval, rules and social order",
+        "Personal reward",
+        "Universal principles only"
+      ],
+      "answer": 1,
+      "explanation": "Conventional reasoning interpersonal expectations और law/order पर बल देता है।",
+      "i18n": {
+        "hi": {
+          "question": "Conventional moral reasoning मुख्यतः किस पर बल देता है?",
+          "options": [
+            "Punishment avoidance",
+            "Social approval, rules and social order",
+            "Personal reward",
+            "Universal principles only"
+          ],
+          "explanation": "Conventional reasoning interpersonal expectations और law/order पर बल देता है।"
+        },
+        "en": {
+          "question": "Conventional moral reasoning mainly emphasizes:",
+          "options": [
+            "Punishment avoidance",
+            "Social approval, rules and social order",
+            "Personal reward",
+            "Universal principles only"
+          ],
+          "explanation": "Conventional reasoning emphasizes interpersonal expectations and law/order."
+        }
+      }
+    },
+    {
+      "id": 67,
+      "type": "single_choice",
+      "section": "child-psychology",
+      "question": "ZPD में effective scaffolding का ultimate goal क्या है?",
+      "options": [
+        "Dependency",
+        "Assisted performance को independent performance की ओर ले जाना",
+        "Task हमेशा आसान रखना",
+        "Final answer देना"
+      ],
+      "answer": 1,
+      "explanation": "Scaffolding का लक्ष्य independence है।",
+      "i18n": {
+        "hi": {
+          "question": "ZPD में effective scaffolding का ultimate goal क्या है?",
+          "options": [
+            "Dependency",
+            "Assisted performance को independent performance की ओर ले जाना",
+            "Task हमेशा आसान रखना",
+            "Final answer देना"
+          ],
+          "explanation": "Scaffolding का लक्ष्य independence है।"
+        },
+        "en": {
+          "question": "What is the ultimate goal of scaffolding within the ZPD?",
+          "options": [
+            "Dependency",
+            "Move assisted performance toward independent performance",
+            "Always keep tasks easy",
+            "Give final answer"
+          ],
+          "explanation": "The goal of scaffolding is independence."
+        }
+      }
+    },
+    {
+      "id": 68,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "WHO life-skills framework में कौन-सा skill शामिल है?",
+      "options": [
+        "Critical thinking",
+        "Handwriting",
+        "Arithmetic only",
+        "Memorization"
+      ],
+      "answer": 0,
+      "explanation": "Critical thinking WHO life-skills framework का प्रमुख skill है।",
+      "i18n": {
+        "hi": {
+          "question": "WHO life-skills framework में कौन-सा skill शामिल है?",
+          "options": [
+            "Critical thinking",
+            "Handwriting",
+            "Arithmetic only",
+            "Memorization"
+          ],
+          "explanation": "Critical thinking WHO life-skills framework का प्रमुख skill है।"
+        },
+        "en": {
+          "question": "Which skill is included in the WHO life-skills framework?",
+          "options": [
+            "Critical thinking",
+            "Handwriting",
+            "Arithmetic only",
+            "Memorization"
+          ],
+          "explanation": "Critical thinking is a core skill in the WHO life-skills framework."
+        }
+      }
+    },
+    {
+      "id": 69,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Decision-making life skill का सबसे सटीक अर्थ क्या है?",
+      "options": [
+        "हर decision तुरंत लेना",
+        "Options और consequences पर विचार कर appropriate choice करना",
+        "हमेशा agree करना",
+        "Decision avoid करना"
+      ],
+      "answer": 1,
+      "explanation": "Effective decision-making alternatives और consequences पर विचार करता है।",
+      "i18n": {
+        "hi": {
+          "question": "Decision-making life skill का सबसे सटीक अर्थ क्या है?",
+          "options": [
+            "हर decision तुरंत लेना",
+            "Options और consequences पर विचार कर appropriate choice करना",
+            "हमेशा agree करना",
+            "Decision avoid करना"
+          ],
+          "explanation": "Effective decision-making alternatives और consequences पर विचार करता है।"
+        },
+        "en": {
+          "question": "What is the most precise meaning of decision-making as a life skill?",
+          "options": [
+            "Make every decision immediately",
+            "Consider options and consequences and choose appropriately",
+            "Always agree",
+            "Avoid decisions"
+          ],
+          "explanation": "Effective decision-making considers alternatives and consequences."
+        }
+      }
+    },
+    {
+      "id": 70,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Critical और creative thinking में मुख्य अंतर क्या है?",
+      "options": [
+        "Critical evidence/evaluation पर; creative possibilities/generation पर अधिक केंद्रित",
+        "Identical",
+        "Creative केवल memory",
+        "Critical केवल emotion"
+      ],
+      "answer": 0,
+      "explanation": "दोनों complementary हैं पर उनका primary emphasis अलग है।",
+      "i18n": {
+        "hi": {
+          "question": "Critical और creative thinking में मुख्य अंतर क्या है?",
+          "options": [
+            "Critical evidence/evaluation पर; creative possibilities/generation पर अधिक केंद्रित",
+            "Identical",
+            "Creative केवल memory",
+            "Critical केवल emotion"
+          ],
+          "explanation": "दोनों complementary हैं पर उनका primary emphasis अलग है।"
+        },
+        "en": {
+          "question": "What is a key difference between critical and creative thinking?",
+          "options": [
+            "Critical focuses more on evidence/evaluation; creative on possibilities/generation",
+            "Identical",
+            "Creative is only memory",
+            "Critical is only emotion"
+          ],
+          "explanation": "They are complementary but have different primary emphases."
+        }
+      }
+    },
+    {
+      "id": 71,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Empathy का सबसे सटीक अर्थ क्या है?",
+      "options": [
+        "दूसरे का perspective/experience समझना",
+        "हर बात से agree करना",
+        "Control करना",
+        "केवल sympathy"
+      ],
+      "answer": 0,
+      "explanation": "Empathy में perspective-taking और emotional understanding शामिल है।",
+      "i18n": {
+        "hi": {
+          "question": "Empathy का सबसे सटीक अर्थ क्या है?",
+          "options": [
+            "दूसरे का perspective/experience समझना",
+            "हर बात से agree करना",
+            "Control करना",
+            "केवल sympathy"
+          ],
+          "explanation": "Empathy में perspective-taking और emotional understanding शामिल है।"
+        },
+        "en": {
+          "question": "What is the most precise meaning of empathy?",
+          "options": [
+            "Understanding another's perspective/experience",
+            "Agreeing with everything",
+            "Controlling",
+            "Only sympathy"
+          ],
+          "explanation": "Empathy involves perspective-taking and emotional understanding."
+        }
+      }
+    },
+    {
+      "id": 72,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Self-awareness में मुख्यतः क्या शामिल है?",
+      "options": [
+        "अपनी emotions, strengths, limits और values पहचानना",
+        "दूसरों की गलतियाँ",
+        "Public speaking",
+        "Memory"
+      ],
+      "answer": 0,
+      "explanation": "Self-awareness अपने internal states और patterns की समझ है।",
+      "i18n": {
+        "hi": {
+          "question": "Self-awareness में मुख्यतः क्या शामिल है?",
+          "options": [
+            "अपनी emotions, strengths, limits और values पहचानना",
+            "दूसरों की गलतियाँ",
+            "Public speaking",
+            "Memory"
+          ],
+          "explanation": "Self-awareness अपने internal states और patterns की समझ है।"
+        },
+        "en": {
+          "question": "What does self-awareness mainly include?",
+          "options": [
+            "Recognizing one's emotions, strengths, limitations and values",
+            "Finding others' faults",
+            "Public speaking",
+            "Memory"
+          ],
+          "explanation": "Self-awareness is understanding one's internal states and patterns."
+        }
+      }
+    },
+    {
+      "id": 73,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "गुस्से में message भेजने से पहले pause और breathing करना किस skill का उदाहरण है?",
+      "options": [
+        "Emotion regulation/self-management",
+        "Creativity",
+        "Empathy",
+        "Memory"
+      ],
+      "answer": 0,
+      "explanation": "Response को consciously manage करना emotional self-regulation है।",
+      "i18n": {
+        "hi": {
+          "question": "गुस्से में message भेजने से पहले pause और breathing करना किस skill का उदाहरण है?",
+          "options": [
+            "Emotion regulation/self-management",
+            "Creativity",
+            "Empathy",
+            "Memory"
+          ],
+          "explanation": "Response को consciously manage करना emotional self-regulation है।"
+        },
+        "en": {
+          "question": "Pausing and breathing before sending an angry message is an example of:",
+          "options": [
+            "Emotion regulation/self-management",
+            "Creativity",
+            "Empathy",
+            "Memory"
+          ],
+          "explanation": "Consciously managing a response is emotional self-regulation."
+        }
+      }
+    },
+    {
+      "id": 74,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Problem-solving की पहली अच्छी प्रक्रिया क्या है?",
+      "options": [
+        "Problem को clearly define करना",
+        "पहला solution लागू करना",
+        "Blame करना",
+        "Outcomes ignore करना"
+      ],
+      "answer": 0,
+      "explanation": "Problem definition के बिना solution गलत दिशा में जा सकता है।",
+      "i18n": {
+        "hi": {
+          "question": "Problem-solving की पहली अच्छी प्रक्रिया क्या है?",
+          "options": [
+            "Problem को clearly define करना",
+            "पहला solution लागू करना",
+            "Blame करना",
+            "Outcomes ignore करना"
+          ],
+          "explanation": "Problem definition के बिना solution गलत दिशा में जा सकता है।"
+        },
+        "en": {
+          "question": "What is a good first step in problem-solving?",
+          "options": [
+            "Clearly define the problem",
+            "Apply first solution",
+            "Blame",
+            "Ignore outcomes"
+          ],
+          "explanation": "Without defining the problem, solutions can be misdirected."
+        }
+      }
+    },
+    {
+      "id": 75,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Scholarship message OTP माँगता है। सबसे उचित response क्या है?",
+      "options": [
+        "OTP देना",
+        "Source verify करना और trusted channel से confirm करना",
+        "Forward करना",
+        "Blame करना"
+      ],
+      "answer": 1,
+      "explanation": "Critical thinking और consequence assessment risky action रोकते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Scholarship message OTP माँगता है। सबसे उचित response क्या है?",
+          "options": [
+            "OTP देना",
+            "Source verify करना और trusted channel से confirm करना",
+            "Forward करना",
+            "Blame करना"
+          ],
+          "explanation": "Critical thinking और consequence assessment risky action रोकते हैं।"
+        },
+        "en": {
+          "question": "A scholarship message asks for an OTP. What is the best response?",
+          "options": [
+            "Give OTP",
+            "Verify source and confirm through a trusted channel",
+            "Forward it",
+            "Blame"
+          ],
+          "explanation": "Critical thinking and consequence assessment help prevent risky action."
+        }
+      }
+    },
+    {
+      "id": 76,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Assertive communication का श्रेष्ठ उदाहरण क्या है?",
+      "options": [
+        "तुम हमेशा बेकार हो",
+        "मुझे deadline कठिन लग रही है; क्या हम timeline पर बात कर सकते हैं?",
+        "चुप रहना",
+        "धमकी देना"
+      ],
+      "answer": 1,
+      "explanation": "Assertiveness अपनी needs स्पष्ट करते हुए दूसरे के rights का सम्मान करती है।",
+      "i18n": {
+        "hi": {
+          "question": "Assertive communication का श्रेष्ठ उदाहरण क्या है?",
+          "options": [
+            "तुम हमेशा बेकार हो",
+            "मुझे deadline कठिन लग रही है; क्या हम timeline पर बात कर सकते हैं?",
+            "चुप रहना",
+            "धमकी देना"
+          ],
+          "explanation": "Assertiveness अपनी needs स्पष्ट करते हुए दूसरे के rights का सम्मान करती है।"
+        },
+        "en": {
+          "question": "Which is the best example of assertive communication?",
+          "options": [
+            "You are always useless",
+            "This deadline is difficult for me; can we discuss the timeline?",
+            "Stay silent",
+            "Threaten"
+          ],
+          "explanation": "Assertiveness states one's needs while respecting others' rights."
+        }
+      }
+    },
+    {
+      "id": 77,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Passive communication की सामान्य विशेषता क्या है?",
+      "options": [
+        "अपनी needs दबाना",
+        "चिल्लाना",
+        "Balanced boundary-setting",
+        "Respectful disagreement"
+      ],
+      "answer": 0,
+      "explanation": "Passive style में needs/rights assert नहीं किए जाते।",
+      "i18n": {
+        "hi": {
+          "question": "Passive communication की सामान्य विशेषता क्या है?",
+          "options": [
+            "अपनी needs दबाना",
+            "चिल्लाना",
+            "Balanced boundary-setting",
+            "Respectful disagreement"
+          ],
+          "explanation": "Passive style में needs/rights assert नहीं किए जाते।"
+        },
+        "en": {
+          "question": "What is a common feature of passive communication?",
+          "options": [
+            "Suppressing one's needs",
+            "Shouting",
+            "Balanced boundary-setting",
+            "Respectful disagreement"
+          ],
+          "explanation": "Passive style fails to assert needs or rights."
+        }
+      }
+    },
+    {
+      "id": 78,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Aggressive communication की मुख्य समस्या क्या है?",
+      "options": [
+        "दूसरों के rights violate/ignore करना",
+        "बहुत empathy",
+        "Silence",
+        "Self-reflection"
+      ],
+      "answer": 0,
+      "explanation": "Aggression अपनी demands को दूसरे के rights की कीमत पर रख सकती है।",
+      "i18n": {
+        "hi": {
+          "question": "Aggressive communication की मुख्य समस्या क्या है?",
+          "options": [
+            "दूसरों के rights violate/ignore करना",
+            "बहुत empathy",
+            "Silence",
+            "Self-reflection"
+          ],
+          "explanation": "Aggression अपनी demands को दूसरे के rights की कीमत पर रख सकती है।"
+        },
+        "en": {
+          "question": "What is the main problem with aggressive communication?",
+          "options": [
+            "Ignoring or violating others' rights",
+            "Too much empathy",
+            "Silence",
+            "Self-reflection"
+          ],
+          "explanation": "Aggression may assert demands at the expense of others' rights."
+        }
+      }
+    },
+    {
+      "id": 79,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Win-win conflict resolution का लक्ष्य क्या है?",
+      "options": [
+        "एक पक्ष को हराना",
+        "दोनों की important needs समझकर mutually acceptable solution",
+        "Conflict छिपाना",
+        "Blame"
+      ],
+      "answer": 1,
+      "explanation": "Win-win collaborative problem-solving और mutual needs पर आधारित है।",
+      "i18n": {
+        "hi": {
+          "question": "Win-win conflict resolution का लक्ष्य क्या है?",
+          "options": [
+            "एक पक्ष को हराना",
+            "दोनों की important needs समझकर mutually acceptable solution",
+            "Conflict छिपाना",
+            "Blame"
+          ],
+          "explanation": "Win-win collaborative problem-solving और mutual needs पर आधारित है।"
+        },
+        "en": {
+          "question": "What is the goal of win-win conflict resolution?",
+          "options": [
+            "Defeat one side",
+            "Understand both sides' needs and find a mutually acceptable solution",
+            "Hide conflict",
+            "Blame"
+          ],
+          "explanation": "Win-win is based on collaborative problem-solving and mutual needs."
+        }
+      }
+    },
+    {
+      "id": 80,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Adaptive stress management का उदाहरण क्या है?",
+      "options": [
+        "Problem हमेशा avoid करना",
+        "Stressor identify कर controllable parts पर action और coping strategy",
+        "Sleep छोड़ना",
+        "Stress दूसरों पर निकालना"
+      ],
+      "answer": 1,
+      "explanation": "Adaptive coping situation assessment और healthy coping पर आधारित है।",
+      "i18n": {
+        "hi": {
+          "question": "Adaptive stress management का उदाहरण क्या है?",
+          "options": [
+            "Problem हमेशा avoid करना",
+            "Stressor identify कर controllable parts पर action और coping strategy",
+            "Sleep छोड़ना",
+            "Stress दूसरों पर निकालना"
+          ],
+          "explanation": "Adaptive coping situation assessment और healthy coping पर आधारित है।"
+        },
+        "en": {
+          "question": "Which is an example of adaptive stress management?",
+          "options": [
+            "Always avoid problems",
+            "Identify stressor, act on controllable parts and use coping strategies",
+            "Skip sleep",
+            "Take stress out on others"
+          ],
+          "explanation": "Adaptive coping involves assessment and healthy coping."
+        }
+      }
+    },
+    {
+      "id": 81,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Resilience का सही अर्थ क्या है?",
+      "options": [
+        "कभी कठिनाई न होना",
+        "Adversity के बाद adapt, recover और आगे बढ़ना",
+        "हर problem ignore करना",
+        "Emotion न दिखाना"
+      ],
+      "answer": 1,
+      "explanation": "Resilience adversity की अनुपस्थिति नहीं बल्कि recovery/adaptation capacity है।",
+      "i18n": {
+        "hi": {
+          "question": "Resilience का सही अर्थ क्या है?",
+          "options": [
+            "कभी कठिनाई न होना",
+            "Adversity के बाद adapt, recover और आगे बढ़ना",
+            "हर problem ignore करना",
+            "Emotion न दिखाना"
+          ],
+          "explanation": "Resilience adversity की अनुपस्थिति नहीं बल्कि recovery/adaptation capacity है।"
+        },
+        "en": {
+          "question": "What is the correct meaning of resilience?",
+          "options": [
+            "Never having difficulty",
+            "Adapting, recovering and moving forward after adversity",
+            "Ignoring every problem",
+            "Never showing emotion"
+          ],
+          "explanation": "Resilience is not absence of adversity but capacity to adapt and recover."
+        }
+      }
+    },
+    {
+      "id": 82,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Consequence analysis decision-making में क्यों उपयोगी है?",
+      "options": [
+        "Short/long-term effects समझने के लिए",
+        "Decision हमेशा delay करने के लिए",
+        "Blame के लिए",
+        "Emotion suppress करने के लिए"
+      ],
+      "answer": 0,
+      "explanation": "Consequences पर विचार impulsive choices कम कर सकता है।",
+      "i18n": {
+        "hi": {
+          "question": "Consequence analysis decision-making में क्यों उपयोगी है?",
+          "options": [
+            "Short/long-term effects समझने के लिए",
+            "Decision हमेशा delay करने के लिए",
+            "Blame के लिए",
+            "Emotion suppress करने के लिए"
+          ],
+          "explanation": "Consequences पर विचार impulsive choices कम कर सकता है।"
+        },
+        "en": {
+          "question": "Why is consequence analysis useful in decision-making?",
+          "options": [
+            "To understand short- and long-term effects",
+            "To always delay decisions",
+            "For blame",
+            "To suppress emotion"
+          ],
+          "explanation": "Considering consequences can reduce impulsive choices."
+        }
+      }
+    },
+    {
+      "id": 83,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Media literacy में critical thinking का उचित उपयोग क्या है?",
+      "options": [
+        "Headline देखकर believe करना",
+        "Source, evidence, date, motive और corroboration जाँचना",
+        "हर claim false मानना",
+        "Comments only पढ़ना"
+      ],
+      "answer": 1,
+      "explanation": "Claims को evidence और source quality से evaluate करना आवश्यक है।",
+      "i18n": {
+        "hi": {
+          "question": "Media literacy में critical thinking का उचित उपयोग क्या है?",
+          "options": [
+            "Headline देखकर believe करना",
+            "Source, evidence, date, motive और corroboration जाँचना",
+            "हर claim false मानना",
+            "Comments only पढ़ना"
+          ],
+          "explanation": "Claims को evidence और source quality से evaluate करना आवश्यक है।"
+        },
+        "en": {
+          "question": "How should critical thinking be used in media literacy?",
+          "options": [
+            "Believe headline immediately",
+            "Check source, evidence, date, motive and corroboration",
+            "Assume every claim is false",
+            "Read comments only"
+          ],
+          "explanation": "Claims should be evaluated using evidence and source quality."
+        }
+      }
+    },
+    {
+      "id": 84,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "OTP के बारे में correct digital safety practice क्या है?",
+      "options": [
+        "Stranger से share करना",
+        "Confidential रखना और suspicious requests independently verify करना",
+        "Social media पर डालना",
+        "Friend को भेजना"
+      ],
+      "answer": 1,
+      "explanation": "OTP authentication secret है।",
+      "i18n": {
+        "hi": {
+          "question": "OTP के बारे में correct digital safety practice क्या है?",
+          "options": [
+            "Stranger से share करना",
+            "Confidential रखना और suspicious requests independently verify करना",
+            "Social media पर डालना",
+            "Friend को भेजना"
+          ],
+          "explanation": "OTP authentication secret है।"
+        },
+        "en": {
+          "question": "What is correct digital-safety practice regarding OTPs?",
+          "options": [
+            "Share with strangers",
+            "Keep confidential and independently verify suspicious requests",
+            "Post online",
+            "Send to a friend"
+          ],
+          "explanation": "An OTP is an authentication secret."
+        }
+      }
+    },
+    {
+      "id": 85,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Refusal skill का सबसे effective form क्या है?",
+      "options": [
+        "अस्पष्ट yes",
+        "Clear, brief and safe no; जरूरत पर alternative/exit",
+        "Insult",
+        "Blind agreement"
+      ],
+      "answer": 1,
+      "explanation": "Refusal clear boundary और safety पर आधारित होना चाहिए।",
+      "i18n": {
+        "hi": {
+          "question": "Refusal skill का सबसे effective form क्या है?",
+          "options": [
+            "अस्पष्ट yes",
+            "Clear, brief and safe no; जरूरत पर alternative/exit",
+            "Insult",
+            "Blind agreement"
+          ],
+          "explanation": "Refusal clear boundary और safety पर आधारित होना चाहिए।"
+        },
+        "en": {
+          "question": "What is the most effective form of refusal?",
+          "options": [
+            "Ambiguous yes",
+            "A clear, brief and safe no, with an alternative/exit if needed",
+            "Insult",
+            "Blind agreement"
+          ],
+          "explanation": "Refusal should establish a clear boundary and safety."
+        }
+      }
+    },
+    {
+      "id": 86,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "SMART goal में M सामान्यतः क्या है?",
+      "options": [
+        "Meaningless",
+        "Measurable",
+        "Mandatory",
+        "Maximum"
+      ],
+      "answer": 1,
+      "explanation": "SMART में M आम तौर पर Measurable होता है।",
+      "i18n": {
+        "hi": {
+          "question": "SMART goal में M सामान्यतः क्या है?",
+          "options": [
+            "Meaningless",
+            "Measurable",
+            "Mandatory",
+            "Maximum"
+          ],
+          "explanation": "SMART में M आम तौर पर Measurable होता है।"
+        },
+        "en": {
+          "question": "In a SMART goal, what does M generally mean?",
+          "options": [
+            "Meaningless",
+            "Measurable",
+            "Mandatory",
+            "Maximum"
+          ],
+          "explanation": "M generally stands for Measurable."
+        }
+      }
+    },
+    {
+      "id": 87,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "‘30 दिन तक रोज 30 मिनट और 20 questions’ किस SMART feature को सबसे स्पष्ट करता है?",
+      "options": [
+        "Measurable और time-bound",
+        "Ambiguous",
+        "Emotional",
+        "No goal"
+      ],
+      "answer": 0,
+      "explanation": "Numbers और deadline measurability/time-boundness देते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "‘30 दिन तक रोज 30 मिनट और 20 questions’ किस SMART feature को सबसे स्पष्ट करता है?",
+          "options": [
+            "Measurable और time-bound",
+            "Ambiguous",
+            "Emotional",
+            "No goal"
+          ],
+          "explanation": "Numbers और deadline measurability/time-boundness देते हैं।"
+        },
+        "en": {
+          "question": "'30 minutes and 20 questions daily for 30 days' most clearly demonstrates which SMART feature?",
+          "options": [
+            "Measurable and time-bound",
+            "Ambiguous",
+            "Emotional",
+            "No goal"
+          ],
+          "explanation": "Numbers and a deadline provide measurability and time-boundness."
+        }
+      }
+    },
+    {
+      "id": 88,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Active listening का श्रेष्ठ व्यवहार क्या है?",
+      "options": [
+        "Interrupt करना",
+        "Clarifying question, paraphrase और पूरा बोलने देना",
+        "तुरंत solution देना",
+        "Phone देखना"
+      ],
+      "answer": 1,
+      "explanation": "Active listening attention, clarification और understanding पर केंद्रित है।",
+      "i18n": {
+        "hi": {
+          "question": "Active listening का श्रेष्ठ व्यवहार क्या है?",
+          "options": [
+            "Interrupt करना",
+            "Clarifying question, paraphrase और पूरा बोलने देना",
+            "तुरंत solution देना",
+            "Phone देखना"
+          ],
+          "explanation": "Active listening attention, clarification और understanding पर केंद्रित है।"
+        },
+        "en": {
+          "question": "Which behavior best reflects active listening?",
+          "options": [
+            "Interrupt",
+            "Ask clarifying questions, paraphrase and let the speaker finish",
+            "Immediately give solution",
+            "Look at phone"
+          ],
+          "explanation": "Active listening focuses on attention, clarification and understanding."
+        }
+      }
+    },
+    {
+      "id": 89,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Empathy का अर्थ agreement नहीं है क्योंकि—",
+      "options": [
+        "Perspective समझना agreement से अलग है",
+        "Agreement ही empathy है",
+        "Empathy केवल sympathy है",
+        "Empathy cognitive नहीं"
+      ],
+      "answer": 0,
+      "explanation": "Perspective-taking के लिए agreement आवश्यक नहीं है।",
+      "i18n": {
+        "hi": {
+          "question": "Empathy का अर्थ agreement नहीं है क्योंकि—",
+          "options": [
+            "Perspective समझना agreement से अलग है",
+            "Agreement ही empathy है",
+            "Empathy केवल sympathy है",
+            "Empathy cognitive नहीं"
+          ],
+          "explanation": "Perspective-taking के लिए agreement आवश्यक नहीं है।"
+        },
+        "en": {
+          "question": "Empathy does not mean agreement because:",
+          "options": [
+            "Understanding perspective differs from agreement",
+            "Agreement is empathy",
+            "Empathy is only sympathy",
+            "Empathy is not cognitive"
+          ],
+          "explanation": "Perspective-taking does not require agreement."
+        }
+      }
+    },
+    {
+      "id": 90,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Exam failure के बाद empathetic response कौन-सा है?",
+      "options": [
+        "यह कुछ भी नहीं",
+        "मैं समझ सकता हूँ कि तुम निराश हो; चाहो तो next plan साथ सोचें",
+        "तुम्हारी गलती है",
+        "Topic बदल दो"
+      ],
+      "answer": 1,
+      "explanation": "Feeling validate करके support offer किया गया है।",
+      "i18n": {
+        "hi": {
+          "question": "Exam failure के बाद empathetic response कौन-सा है?",
+          "options": [
+            "यह कुछ भी नहीं",
+            "मैं समझ सकता हूँ कि तुम निराश हो; चाहो तो next plan साथ सोचें",
+            "तुम्हारी गलती है",
+            "Topic बदल दो"
+          ],
+          "explanation": "Feeling validate करके support offer किया गया है।"
+        },
+        "en": {
+          "question": "Which response is empathetic after exam failure?",
+          "options": [
+            "It is nothing",
+            "I understand you are disappointed; if you want, we can think through the next plan",
+            "It is your fault",
+            "Change topic"
+          ],
+          "explanation": "The feeling is validated and support is offered."
+        }
+      }
+    },
+    {
+      "id": 91,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Creative thinking में fluency का अर्थ क्या है?",
+      "options": [
+        "एक idea elaborate करना",
+        "अधिक relevant ideas generate करना",
+        "Ideas reject करना",
+        "Only correct answer"
+      ],
+      "answer": 1,
+      "explanation": "Fluency ideas की quantity से संबंधित है।",
+      "i18n": {
+        "hi": {
+          "question": "Creative thinking में fluency का अर्थ क्या है?",
+          "options": [
+            "एक idea elaborate करना",
+            "अधिक relevant ideas generate करना",
+            "Ideas reject करना",
+            "Only correct answer"
+          ],
+          "explanation": "Fluency ideas की quantity से संबंधित है।"
+        },
+        "en": {
+          "question": "What does fluency mean in creative thinking?",
+          "options": [
+            "Elaborate one idea",
+            "Generate more relevant ideas",
+            "Reject ideas",
+            "Only correct answer"
+          ],
+          "explanation": "Fluency concerns the quantity of ideas."
+        }
+      }
+    },
+    {
+      "id": 92,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Creative thinking में flexibility का अर्थ क्या है?",
+      "options": [
+        "एक category repeat करना",
+        "विभिन्न categories/approaches में ideas बदलना",
+        "Speed",
+        "Memory"
+      ],
+      "answer": 1,
+      "explanation": "Flexibility विविध categories में ideas generate करने की क्षमता है।",
+      "i18n": {
+        "hi": {
+          "question": "Creative thinking में flexibility का अर्थ क्या है?",
+          "options": [
+            "एक category repeat करना",
+            "विभिन्न categories/approaches में ideas बदलना",
+            "Speed",
+            "Memory"
+          ],
+          "explanation": "Flexibility विविध categories में ideas generate करने की क्षमता है।"
+        },
+        "en": {
+          "question": "What does flexibility mean in creative thinking?",
+          "options": [
+            "Repeat one category",
+            "Shift ideas across different categories/approaches",
+            "Speed",
+            "Memory"
+          ],
+          "explanation": "Flexibility is the ability to generate ideas across varied categories."
+        }
+      }
+    },
+    {
+      "id": 93,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Brainstorming में उचित नियम क्या है?",
+      "options": [
+        "हर idea तुरंत judge करना",
+        "पहले quantity/variety, evaluation बाद में",
+        "केवल leader का idea",
+        "एक solution"
+      ],
+      "answer": 1,
+      "explanation": "Deferred judgment divergent generation को support करता है।",
+      "i18n": {
+        "hi": {
+          "question": "Brainstorming में उचित नियम क्या है?",
+          "options": [
+            "हर idea तुरंत judge करना",
+            "पहले quantity/variety, evaluation बाद में",
+            "केवल leader का idea",
+            "एक solution"
+          ],
+          "explanation": "Deferred judgment divergent generation को support करता है।"
+        },
+        "en": {
+          "question": "What is an appropriate brainstorming rule?",
+          "options": [
+            "Judge every idea immediately",
+            "Generate quantity/variety first; evaluate later",
+            "Only leader's idea",
+            "One solution"
+          ],
+          "explanation": "Deferred judgment supports divergent generation."
+        }
+      }
+    },
+    {
+      "id": 94,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Implementation intention का उदाहरण कौन-सा है?",
+      "options": [
+        "जब 7 बजे alarm बजेगा, मैं 20 मिनट revision शुरू करूँगा",
+        "कभी पढ़ूँगा",
+        "दूसरे याद दिलाएँ",
+        "बिना plan देखूँगा"
+      ],
+      "answer": 0,
+      "explanation": "यह if/when-then action link बनाता है।",
+      "i18n": {
+        "hi": {
+          "question": "Implementation intention का उदाहरण कौन-सा है?",
+          "options": [
+            "जब 7 बजे alarm बजेगा, मैं 20 मिनट revision शुरू करूँगा",
+            "कभी पढ़ूँगा",
+            "दूसरे याद दिलाएँ",
+            "बिना plan देखूँगा"
+          ],
+          "explanation": "यह if/when-then action link बनाता है।"
+        },
+        "en": {
+          "question": "Which is an example of an implementation intention?",
+          "options": [
+            "When the 7 pm alarm rings, I will start 20 minutes of revision",
+            "I will study sometime",
+            "Others should remind me",
+            "I will see without a plan"
+          ],
+          "explanation": "It creates an if/when-then action link."
+        }
+      }
+    },
+    {
+      "id": 95,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Peer pressure में assertive refusal कौन-सा है?",
+      "options": [
+        "जो करना है करो",
+        "नहीं, मैं यह नहीं करूँगा; सुरक्षित alternative चुन सकते हैं",
+        "शायद करूँगा",
+        "तुम बेवकूफ हो"
+      ],
+      "answer": 1,
+      "explanation": "यह clear boundary और respectful alternative देता है।",
+      "i18n": {
+        "hi": {
+          "question": "Peer pressure में assertive refusal कौन-सा है?",
+          "options": [
+            "जो करना है करो",
+            "नहीं, मैं यह नहीं करूँगा; सुरक्षित alternative चुन सकते हैं",
+            "शायद करूँगा",
+            "तुम बेवकूफ हो"
+          ],
+          "explanation": "यह clear boundary और respectful alternative देता है।"
+        },
+        "en": {
+          "question": "Which is an assertive refusal under peer pressure?",
+          "options": [
+            "Do whatever you want",
+            "No, I won't do this; we can choose a safer alternative",
+            "I might do it",
+            "You are stupid"
+          ],
+          "explanation": "It sets a clear boundary and offers a respectful alternative."
+        }
+      }
+    },
+    {
+      "id": 96,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Responsible digital citizenship में क्या शामिल है?",
+      "options": [
+        "हर post forward करना",
+        "Privacy, consent, source verification और respectful communication",
+        "Fast typing",
+        "Anonymous होकर कुछ भी करना"
+      ],
+      "answer": 1,
+      "explanation": "Digital responsibility में privacy, consent, information literacy और respectful conduct शामिल हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Responsible digital citizenship में क्या शामिल है?",
+          "options": [
+            "हर post forward करना",
+            "Privacy, consent, source verification और respectful communication",
+            "Fast typing",
+            "Anonymous होकर कुछ भी करना"
+          ],
+          "explanation": "Digital responsibility में privacy, consent, information literacy और respectful conduct शामिल हैं।"
+        },
+        "en": {
+          "question": "What does responsible digital citizenship include?",
+          "options": [
+            "Forward every post",
+            "Privacy, consent, source verification and respectful communication",
+            "Fast typing",
+            "Do anything anonymously"
+          ],
+          "explanation": "Digital responsibility includes privacy, consent, information literacy and respectful conduct."
+        }
+      }
+    },
+    {
+      "id": 97,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Conflict में दोनों पक्षों की needs लिखकर common ground खोजना किस combination का उदाहरण है?",
+      "options": [
+        "Empathy + problem-solving + negotiation",
+        "Memory",
+        "Creativity only",
+        "Stress"
+      ],
+      "answer": 0,
+      "explanation": "Perspective-taking, needs analysis और solution finding इन skills को जोड़ते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Conflict में दोनों पक्षों की needs लिखकर common ground खोजना किस combination का उदाहरण है?",
+          "options": [
+            "Empathy + problem-solving + negotiation",
+            "Memory",
+            "Creativity only",
+            "Stress"
+          ],
+          "explanation": "Perspective-taking, needs analysis और solution finding इन skills को जोड़ते हैं।"
+        },
+        "en": {
+          "question": "Mapping both sides' needs and finding common ground demonstrates which combination?",
+          "options": [
+            "Empathy + problem-solving + negotiation",
+            "Memory",
+            "Creativity only",
+            "Stress"
+          ],
+          "explanation": "Perspective-taking, needs analysis and solution finding combine these skills."
+        }
+      }
+    },
+    {
+      "id": 98,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Stress के कारण concentration गिर रहा है। Adaptive immediate strategy क्या है?",
+      "options": [
+        "सब साथ करना",
+        "Task छोटे हिस्सों में बाँटना, brief break और focused plan लेना",
+        "Sleep छोड़ना",
+        "Anxiety content देखना"
+      ],
+      "answer": 1,
+      "explanation": "Chunking और focused planning cognitive load manage कर सकते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "Stress के कारण concentration गिर रहा है। Adaptive immediate strategy क्या है?",
+          "options": [
+            "सब साथ करना",
+            "Task छोटे हिस्सों में बाँटना, brief break और focused plan लेना",
+            "Sleep छोड़ना",
+            "Anxiety content देखना"
+          ],
+          "explanation": "Chunking और focused planning cognitive load manage कर सकते हैं।"
+        },
+        "en": {
+          "question": "If stress is reducing concentration, what is an adaptive immediate strategy?",
+          "options": [
+            "Do everything at once",
+            "Break the task into smaller parts, take a brief break and use a focused plan",
+            "Skip sleep",
+            "Consume anxiety-provoking content"
+          ],
+          "explanation": "Chunking and focused planning can help manage cognitive load."
+        }
+      }
+    },
+    {
+      "id": 99,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "Life-skills education का मुख्य outcome क्या होना चाहिए?",
+      "options": [
+        "Definitions याद होना",
+        "Real-life contexts में functional application",
+        "High marks",
+        "Textbook completion"
+      ],
+      "answer": 1,
+      "explanation": "Life skills का लक्ष्य वास्तविक situations में adaptive behavior है।",
+      "i18n": {
+        "hi": {
+          "question": "Life-skills education का मुख्य outcome क्या होना चाहिए?",
+          "options": [
+            "Definitions याद होना",
+            "Real-life contexts में functional application",
+            "High marks",
+            "Textbook completion"
+          ],
+          "explanation": "Life skills का लक्ष्य वास्तविक situations में adaptive behavior है।"
+        },
+        "en": {
+          "question": "What should be a major outcome of life-skills education?",
+          "options": [
+            "Memorize definitions",
+            "Functional application in real-life contexts",
+            "High marks",
+            "Textbook completion"
+          ],
+          "explanation": "The goal is adaptive functioning in real-life situations."
+        }
+      }
+    },
+    {
+      "id": 100,
+      "type": "single_choice",
+      "section": "life-skills",
+      "question": "एक शिक्षक देखता है कि एक विद्यार्थी बार-बार कठिन प्रश्न छोड़ देता है, failure को ‘मेरी क्षमता ही नहीं है’ कहता है और peer pressure में गलत विकल्प चुन लेता है। सबसे उपयुक्त संयुक्त intervention कौन-सा है?",
+      "options": [
+        "केवल अधिक homework देना और गलत उत्तर पर दंड देना",
+        "सिर्फ motivational speech देना और academic difficulty को ignore करना",
+        "task को scaffold करना, strategy-focused feedback देना, self-efficacy बढ़ाना और decision/refusal skills का rehearsal कराना",
+        "विद्यार्थी को कठिन tasks से स्थायी रूप से हटाकर आसान work देना"
+      ],
+      "answer": 2,
+      "explanation": "स्थिति में fixed mindset, low self-efficacy और life-skill vulnerability साथ दिखती हैं। सबसे उचित intervention academic scaffolding, process/strategy feedback, self-efficacy support और decision/refusal skill practice को जोड़ता है; केवल punishment, motivation या avoidance पर्याप्त नहीं हैं।",
+      "i18n": {
+        "hi": {
+          "question": "एक शिक्षक देखता है कि एक विद्यार्थी बार-बार कठिन प्रश्न छोड़ देता है, failure को ‘मेरी क्षमता ही नहीं है’ कहता है और peer pressure में गलत विकल्प चुन लेता है। सबसे उपयुक्त संयुक्त intervention कौन-सा है?",
+          "options": [
+            "केवल अधिक homework देना और गलत उत्तर पर दंड देना",
+            "सिर्फ motivational speech देना और academic difficulty को ignore करना",
+            "task को scaffold करना, strategy-focused feedback देना, self-efficacy बढ़ाना और decision/refusal skills का rehearsal कराना",
+            "विद्यार्थी को कठिन tasks से स्थायी रूप से हटाकर आसान work देना"
+          ],
+          "explanation": "स्थिति में fixed mindset, low self-efficacy और life-skill vulnerability साथ दिखती हैं। सबसे उचित intervention academic scaffolding, process/strategy feedback, self-efficacy support और decision/refusal skill practice को जोड़ता है; केवल punishment, motivation या avoidance पर्याप्त नहीं हैं।"
+        },
+        "en": {
+          "question": "A teacher notices that a learner repeatedly abandons difficult questions, says failure proves 'I simply don't have the ability,' and makes poor choices under peer pressure. Which integrated intervention is most appropriate?",
+          "options": [
+            "Give more homework and punish wrong answers",
+            "Give only a motivational speech and ignore the academic difficulty",
+            "Scaffold the task, give strategy-focused feedback, build self-efficacy, and rehearse decision/refusal skills",
+            "Permanently remove the learner from difficult tasks and give only easy work"
+          ],
+          "explanation": "The situation combines fixed-mindset beliefs, low self-efficacy and life-skill vulnerability. The appropriate intervention combines academic scaffolding, process/strategy feedback, self-efficacy support and decision/refusal-skill practice; punishment, motivation alone or avoidance are insufficient."
+        }
+      }
+    }
+  ]
+}
