@@ -1,7 +1,7 @@
 {
   "testId": "supertet-cdp-top-1-percent-100",
   "title": "SuperTET CDP — Top 1% Super Hard Test",
-  "duration": 120,
+  "duration": 60,
   "markingScheme": {
     "default": {
       "correct": 3,
