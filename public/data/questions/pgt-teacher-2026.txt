@@ -1,0 +1,3528 @@
+{
+  "testId": "upessc-pgt-english-2026-hard-mock-01",
+  "title": "UPESSC PGT English 2026 — Hard Level Mock Test 01",
+  "duration": 120,
+
+  "markingScheme": {
+    "default": {
+      "correct": 3,
+      "wrong": -1,
+      "skipped": 0
+    },
+    "multipleChoice": {
+      "allCorrect": 3,
+      "partialCredit": 0,
+      "anyWrong": -1
+    },
+    "essay": {
+      "marks": 0,
+      "autoScore": false
+    }
+  },
+
+  "sections": [
+    {
+      "id": "general-studies",
+      "title": "General Studies",
+      "color": "violet"
+    },
+    {
+      "id": "english-language",
+      "title": "English Language",
+      "color": "cyan"
+    },
+    {
+      "id": "literary-history",
+      "title": "Literary History & Periods",
+      "color": "orange"
+    },
+    {
+      "id": "literary-criticism",
+      "title": "Literary Criticism & Theory",
+      "color": "rose"
+    },
+    {
+      "id": "british-literature",
+      "title": "British Literature",
+      "color": "blue"
+    },
+    {
+      "id": "american-indian-world",
+      "title": "American, Indian & World Literature",
+      "color": "emerald"
+    },
+    {
+      "id": "prosody-figures",
+      "title": "Prosody, Rhetoric & Literary Forms",
+      "color": "amber"
+    }
+  ],
+
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "भारतीय संविधान की प्रस्तावना में 'समाजवादी' और 'पंथनिरपेक्ष' शब्द किस संविधान संशोधन द्वारा जोड़े गए थे?",
+      "options": [
+        "24वाँ संविधान संशोधन",
+        "42वाँ संविधान संशोधन",
+        "44वाँ संविधान संशोधन",
+        "52वाँ संविधान संशोधन"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "42वें संविधान संशोधन अधिनियम, 1976 द्वारा प्रस्तावना में 'समाजवादी', 'पंथनिरपेक्ष' और 'अखंडता' शब्द जोड़े गए।",
+      "i18n": {
+        "hi": {
+          "question": "भारतीय संविधान की प्रस्तावना में 'समाजवादी' और 'पंथनिरपेक्ष' शब्द किस संविधान संशोधन द्वारा जोड़े गए थे?",
+          "options": [
+            "24वाँ संविधान संशोधन",
+            "42वाँ संविधान संशोधन",
+            "44वाँ संविधान संशोधन",
+            "52वाँ संविधान संशोधन"
+          ],
+          "explanation": "42वें संविधान संशोधन अधिनियम, 1976 द्वारा प्रस्तावना में 'समाजवादी', 'पंथनिरपेक्ष' और 'अखंडता' शब्द जोड़े गए।"
+        },
+        "en": {
+          "question": "By which Constitutional Amendment were the words 'Socialist' and 'Secular' added to the Preamble of the Indian Constitution?",
+          "options": [
+            "24th Constitutional Amendment",
+            "42nd Constitutional Amendment",
+            "44th Constitutional Amendment",
+            "52nd Constitutional Amendment"
+          ],
+          "explanation": "The 42nd Constitutional Amendment Act, 1976 added the words 'Socialist', 'Secular' and 'Integrity' to the Preamble."
+        }
+      }
+    },
+
+    {
+      "id": 2,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "निम्नलिखित में से कौन-सी नदी भ्रंश घाटी से होकर बहती है?",
+      "options": [
+        "गोदावरी",
+        "यमुना",
+        "नर्मदा",
+        "महानदी"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "नर्मदा नदी मुख्यतः भ्रंश घाटी में पश्चिम की ओर बहती है।",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से कौन-सी नदी भ्रंश घाटी से होकर बहती है?",
+          "options": [
+            "गोदावरी",
+            "यमुना",
+            "नर्मदा",
+            "महानदी"
+          ],
+          "explanation": "नर्मदा नदी मुख्यतः भ्रंश घाटी में पश्चिम की ओर बहती है।"
+        },
+        "en": {
+          "question": "Which of the following rivers flows through a rift valley?",
+          "options": [
+            "Godavari",
+            "Yamuna",
+            "Narmada",
+            "Mahanadi"
+          ],
+          "explanation": "The Narmada flows westward largely through a rift valley."
+        }
+      }
+    },
+
+    {
+      "id": 3,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "प्रकाश संश्लेषण के दौरान ऑक्सीजन का प्रत्यक्ष स्रोत क्या है?",
+      "options": [
+        "कार्बन डाइऑक्साइड",
+        "जल",
+        "ग्लूकोज़",
+        "क्लोरोफिल"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "प्रकाश-निर्भर अभिक्रियाओं में जल के प्रकाश-अपघटन से ऑक्सीजन मुक्त होती है।",
+      "i18n": {
+        "hi": {
+          "question": "प्रकाश संश्लेषण के दौरान ऑक्सीजन का प्रत्यक्ष स्रोत क्या है?",
+          "options": [
+            "कार्बन डाइऑक्साइड",
+            "जल",
+            "ग्लूकोज़",
+            "क्लोरोफिल"
+          ],
+          "explanation": "प्रकाश-निर्भर अभिक्रियाओं में जल के प्रकाश-अपघटन से ऑक्सीजन मुक्त होती है।"
+        },
+        "en": {
+          "question": "What is the immediate source of oxygen released during photosynthesis?",
+          "options": [
+            "Carbon dioxide",
+            "Water",
+            "Glucose",
+            "Chlorophyll"
+          ],
+          "explanation": "Oxygen is released through the photolysis of water during the light-dependent reactions."
+        }
+      }
+    },
+
+    {
+      "id": 4,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "यदि किसी संख्या का 40% दूसरी संख्या के 60% के बराबर है, तो पहली संख्या और दूसरी संख्या का अनुपात क्या होगा?",
+      "options": [
+        "2 : 3",
+        "3 : 2",
+        "4 : 9",
+        "9 : 4"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "0.4A = 0.6B ⇒ A/B = 0.6/0.4 = 3/2।",
+      "i18n": {
+        "hi": {
+          "question": "यदि किसी संख्या का 40% दूसरी संख्या के 60% के बराबर है, तो पहली संख्या और दूसरी संख्या का अनुपात क्या होगा?",
+          "options": [
+            "2 : 3",
+            "3 : 2",
+            "4 : 9",
+            "9 : 4"
+          ],
+          "explanation": "0.4A = 0.6B ⇒ A/B = 0.6/0.4 = 3/2।"
+        },
+        "en": {
+          "question": "If 40% of one number equals 60% of another number, what is the ratio of the first number to the second?",
+          "options": [
+            "2 : 3",
+            "3 : 2",
+            "4 : 9",
+            "9 : 4"
+          ],
+          "explanation": "0.4A = 0.6B, hence A/B = 0.6/0.4 = 3/2."
+        }
+      }
+    },
+
+    {
+      "id": 5,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "भारतीय रिज़र्व बैंक द्वारा मौद्रिक नीति में 'रेपो रेट' का मूल अर्थ क्या है?",
+      "options": [
+        "बैंकों द्वारा ग्राहकों को दिए जाने वाले ऋण की न्यूनतम दर",
+        "RBI द्वारा वाणिज्यिक बैंकों को अल्पकालिक ऋण देने की दर",
+        "सरकार द्वारा RBI को भुगतान की जाने वाली दर",
+        "बैंकों द्वारा RBI में जमा राशि पर अर्जित दर"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "रेपो रेट वह दर है जिस पर RBI पात्र प्रतिभूतियों के विरुद्ध वाणिज्यिक बैंकों को अल्पकालिक धन उपलब्ध कराता है।",
+      "i18n": {
+        "hi": {
+          "question": "भारतीय रिज़र्व बैंक द्वारा मौद्रिक नीति में 'रेपो रेट' का मूल अर्थ क्या है?",
+          "options": [
+            "बैंकों द्वारा ग्राहकों को दिए जाने वाले ऋण की न्यूनतम दर",
+            "RBI द्वारा वाणिज्यिक बैंकों को अल्पकालिक ऋण देने की दर",
+            "सरकार द्वारा RBI को भुगतान की जाने वाली दर",
+            "बैंकों द्वारा RBI में जमा राशि पर अर्जित दर"
+          ],
+          "explanation": "रेपो रेट वह दर है जिस पर RBI पात्र प्रतिभूतियों के विरुद्ध वाणिज्यिक बैंकों को अल्पकालिक धन उपलब्ध कराता है।"
+        },
+        "en": {
+          "question": "What does the repo rate primarily refer to in monetary policy?",
+          "options": [
+            "The minimum rate at which banks lend to customers",
+            "The rate at which the RBI lends short-term funds to commercial banks",
+            "The rate paid by the government to the RBI",
+            "The rate earned by banks on deposits with the RBI"
+          ],
+          "explanation": "The repo rate is the rate at which the RBI provides short-term funds to eligible commercial banks against securities."
+        }
+      }
+    },
+
+    {
+      "id": 6,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "सिंधु घाटी सभ्यता के संदर्भ में 'ग्रेट बाथ' किस स्थल से संबंधित है?",
+      "options": [
+        "हड़प्पा",
+        "लोथल",
+        "मोहनजोदड़ो",
+        "धोलावीरा"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "ग्रेट बाथ मोहनजोदड़ो की प्रमुख स्थापत्य संरचनाओं में से एक है।",
+      "i18n": {
+        "hi": {
+          "question": "सिंधु घाटी सभ्यता के संदर्भ में 'ग्रेट बाथ' किस स्थल से संबंधित है?",
+          "options": [
+            "हड़प्पा",
+            "लोथल",
+            "मोहनजोदड़ो",
+            "धोलावीरा"
+          ],
+          "explanation": "ग्रेट बाथ मोहनजोदड़ो की प्रमुख स्थापत्य संरचनाओं में से एक है।"
+        },
+        "en": {
+          "question": "The 'Great Bath' of the Indus Valley Civilization is associated with which site?",
+          "options": [
+            "Harappa",
+            "Lothal",
+            "Mohenjo-daro",
+            "Dholavira"
+          ],
+          "explanation": "The Great Bath is one of the major architectural structures of Mohenjo-daro."
+        }
+      }
+    },
+
+    {
+      "id": 7,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "एक पृथक तंत्र में ऊष्मागतिकी का प्रथम नियम मुख्यतः किस संरक्षण सिद्धांत को व्यक्त करता है?",
+      "options": [
+        "द्रव्यमान संरक्षण",
+        "आवेग संरक्षण",
+        "ऊर्जा संरक्षण",
+        "आवेश संरक्षण"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "प्रथम नियम ऊर्जा संरक्षण के सिद्धांत को ऊष्मा और कार्य के संदर्भ में व्यक्त करता है।",
+      "i18n": {
+        "hi": {
+          "question": "एक पृथक तंत्र में ऊष्मागतिकी का प्रथम नियम मुख्यतः किस संरक्षण सिद्धांत को व्यक्त करता है?",
+          "options": [
+            "द्रव्यमान संरक्षण",
+            "आवेग संरक्षण",
+            "ऊर्जा संरक्षण",
+            "आवेश संरक्षण"
+          ],
+          "explanation": "प्रथम नियम ऊर्जा संरक्षण के सिद्धांत को ऊष्मा और कार्य के संदर्भ में व्यक्त करता है।"
+        },
+        "en": {
+          "question": "The first law of thermodynamics primarily expresses which conservation principle?",
+          "options": [
+            "Conservation of mass",
+            "Conservation of momentum",
+            "Conservation of energy",
+            "Conservation of charge"
+          ],
+          "explanation": "The first law expresses conservation of energy in terms of heat and work."
+        }
+      }
+    },
+
+    {
+      "id": 8,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "निम्नलिखित में से कौन-सा विटामिन मुख्यतः रक्त के थक्के बनने की प्रक्रिया से संबंधित है?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin K",
+        "Vitamin D"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Vitamin K कई clotting factors के संश्लेषण में आवश्यक है।",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से कौन-सा विटामिन मुख्यतः रक्त के थक्के बनने की प्रक्रिया से संबंधित है?",
+          "options": [
+            "Vitamin A",
+            "Vitamin C",
+            "Vitamin K",
+            "Vitamin D"
+          ],
+          "explanation": "Vitamin K कई clotting factors के संश्लेषण में आवश्यक है।"
+        },
+        "en": {
+          "question": "Which vitamin is primarily associated with blood coagulation?",
+          "options": [
+            "Vitamin A",
+            "Vitamin C",
+            "Vitamin K",
+            "Vitamin D"
+          ],
+          "explanation": "Vitamin K is required for the synthesis of several clotting factors."
+        }
+      }
+    },
+
+    {
+      "id": 9,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "भारत में हरित क्रांति का प्रारंभिक चरण मुख्यतः किन फसलों से जुड़ा था?",
+      "options": [
+        "चाय और कॉफी",
+        "गेहूँ और चावल",
+        "कपास और जूट",
+        "गन्ना और तंबाकू"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "भारत में हरित क्रांति के प्रारंभिक विस्तार में उच्च उपज वाली गेहूँ और चावल की किस्मों की प्रमुख भूमिका थी।",
+      "i18n": {
+        "hi": {
+          "question": "भारत में हरित क्रांति का प्रारंभिक चरण मुख्यतः किन फसलों से जुड़ा था?",
+          "options": [
+            "चाय और कॉफी",
+            "गेहूँ और चावल",
+            "कपास और जूट",
+            "गन्ना और तंबाकू"
+          ],
+          "explanation": "भारत में हरित क्रांति के प्रारंभिक विस्तार में उच्च उपज वाली गेहूँ और चावल की किस्मों की प्रमुख भूमिका थी।"
+        },
+        "en": {
+          "question": "The initial phase of India's Green Revolution was primarily associated with which crops?",
+          "options": [
+            "Tea and coffee",
+            "Wheat and rice",
+            "Cotton and jute",
+            "Sugarcane and tobacco"
+          ],
+          "explanation": "High-yielding varieties of wheat and rice played a major role in the initial expansion of India's Green Revolution."
+        }
+      }
+    },
+
+    {
+      "id": 10,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "निम्नलिखित में से कौन-सा युग्म सही सुमेलित है?",
+      "options": [
+        "नालंदा — मौर्यकालीन बंदरगाह",
+        "सांची — बौद्ध स्तूप परंपरा",
+        "अजंता — मुगलकालीन चित्रकला",
+        "कोणार्क — गुप्तकालीन विश्वविद्यालय"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "सांची अपने बौद्ध स्तूप और संबंधित स्थापत्य-शिल्प परंपरा के लिए प्रसिद्ध है।",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से कौन-सा युग्म सही सुमेलित है?",
+          "options": [
+            "नालंदा — मौर्यकालीन बंदरगाह",
+            "सांची — बौद्ध स्तूप परंपरा",
+            "अजंता — मुगलकालीन चित्रकला",
+            "कोणार्क — गुप्तकालीन विश्वविद्यालय"
+          ],
+          "explanation": "सांची अपने बौद्ध स्तूप और संबंधित स्थापत्य-शिल्प परंपरा के लिए प्रसिद्ध है।"
+        },
+        "en": {
+          "question": "Which of the following pairs is correctly matched?",
+          "options": [
+            "Nalanda — Mauryan port",
+            "Sanchi — Buddhist stupa tradition",
+            "Ajanta — Mughal painting",
+            "Konark — Gupta university"
+          ],
+          "explanation": "Sanchi is renowned for its Buddhist stupas and associated architectural and sculptural tradition."
+        }
+      }
+    },
+
+    {
+      "id": 11,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "यदि किसी गैस का तापमान स्थिर रखते हुए उसका आयतन आधा कर दिया जाए, तो आदर्श गैस का दाब क्या होगा?",
+      "options": [
+        "आधा",
+        "दोगुना",
+        "चार गुना",
+        "अपरिवर्तित"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Boyle's law के अनुसार स्थिर तापमान पर P ∝ 1/V; आयतन आधा होने पर दाब दोगुना होगा।",
+      "i18n": {
+        "hi": {
+          "question": "यदि किसी गैस का तापमान स्थिर रखते हुए उसका आयतन आधा कर दिया जाए, तो आदर्श गैस का दाब क्या होगा?",
+          "options": [
+            "आधा",
+            "दोगुना",
+            "चार गुना",
+            "अपरिवर्तित"
+          ],
+          "explanation": "Boyle's law के अनुसार स्थिर तापमान पर P ∝ 1/V; आयतन आधा होने पर दाब दोगुना होगा।"
+        },
+        "en": {
+          "question": "If the volume of an ideal gas is halved at constant temperature, what happens to its pressure?",
+          "options": [
+            "It becomes half",
+            "It doubles",
+            "It becomes four times",
+            "It remains unchanged"
+          ],
+          "explanation": "By Boyle's law, pressure is inversely proportional to volume at constant temperature; halving volume doubles pressure."
+        }
+      }
+    },
+
+    {
+      "id": 12,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "निम्नलिखित में से कौन-सा यौगिक उभयधर्मी (amphoteric) व्यवहार का प्रसिद्ध उदाहरण है?",
+      "options": [
+        "NaCl",
+        "Al(OH)₃",
+        "HCl",
+        "CH₄"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Al(OH)₃ अम्ल और क्षार दोनों के साथ अभिक्रिया कर सकता है, इसलिए यह उभयधर्मी है।",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से कौन-सा यौगिक उभयधर्मी (amphoteric) व्यवहार का प्रसिद्ध उदाहरण है?",
+          "options": [
+            "NaCl",
+            "Al(OH)₃",
+            "HCl",
+            "CH₄"
+          ],
+          "explanation": "Al(OH)₃ अम्ल और क्षार दोनों के साथ अभिक्रिया कर सकता है, इसलिए यह उभयधर्मी है।"
+        },
+        "en": {
+          "question": "Which of the following compounds is a well-known example of amphoteric behaviour?",
+          "options": [
+            "NaCl",
+            "Al(OH)₃",
+            "HCl",
+            "CH₄"
+          ],
+          "explanation": "Al(OH)₃ reacts with both acids and bases and is therefore amphoteric."
+        }
+      }
+    },
+
+    {
+      "id": 13,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "मानव रक्त में ऑक्सीजन के अधिकांश परिवहन के लिए कौन-सा प्रोटीन उत्तरदायी है?",
+      "options": [
+        "Albumin",
+        "Keratin",
+        "Haemoglobin",
+        "Collagen"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "हीमोग्लोबिन लाल रक्त कोशिकाओं में ऑक्सीजन के परिवहन का प्रमुख माध्यम है।",
+      "i18n": {
+        "hi": {
+          "question": "मानव रक्त में ऑक्सीजन के अधिकांश परिवहन के लिए कौन-सा प्रोटीन उत्तरदायी है?",
+          "options": [
+            "Albumin",
+            "Keratin",
+            "Haemoglobin",
+            "Collagen"
+          ],
+          "explanation": "हीमोग्लोबिन लाल रक्त कोशिकाओं में ऑक्सीजन के परिवहन का प्रमुख माध्यम है।"
+        },
+        "en": {
+          "question": "Which protein is responsible for transporting most oxygen in human blood?",
+          "options": [
+            "Albumin",
+            "Keratin",
+            "Haemoglobin",
+            "Collagen"
+          ],
+          "explanation": "Haemoglobin in red blood cells is the principal carrier of oxygen."
+        }
+      }
+    },
+
+    {
+      "id": 14,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "भारतीय मानक समय किस देशांतर पर आधारित है?",
+      "options": [
+        "68°7′ E",
+        "75° E",
+        "82°30′ E",
+        "90° E"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "भारतीय मानक समय 82°30′ पूर्वी देशांतर पर आधारित है।",
+      "i18n": {
+        "hi": {
+          "question": "भारतीय मानक समय किस देशांतर पर आधारित है?",
+          "options": [
+            "68°7′ E",
+            "75° E",
+            "82°30′ E",
+            "90° E"
+          ],
+          "explanation": "भारतीय मानक समय 82°30′ पूर्वी देशांतर पर आधारित है।"
+        },
+        "en": {
+          "question": "Indian Standard Time is based on which longitude?",
+          "options": [
+            "68°7′ E",
+            "75° E",
+            "82°30′ E",
+            "90° E"
+          ],
+          "explanation": "Indian Standard Time is based on 82°30′ east longitude."
+        }
+      }
+    },
+
+    {
+      "id": 15,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "किस प्रकार की चट्टान में जीवाश्म सामान्यतः सबसे अधिक पाए जाते हैं?",
+      "options": [
+        "आग्नेय",
+        "रूपांतरित",
+        "अवसादी",
+        "ग्रेनाइटिक"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "अवसादी चट्टानों में अवसादन की अपेक्षाकृत कम ताप-दाब वाली परिस्थितियों के कारण जीवाश्म संरक्षित रह सकते हैं।",
+      "i18n": {
+        "hi": {
+          "question": "किस प्रकार की चट्टान में जीवाश्म सामान्यतः सबसे अधिक पाए जाते हैं?",
+          "options": [
+            "आग्नेय",
+            "रूपांतरित",
+            "अवसादी",
+            "ग्रेनाइटिक"
+          ],
+          "explanation": "अवसादी चट्टानों में अवसादन की अपेक्षाकृत कम ताप-दाब वाली परिस्थितियों के कारण जीवाश्म संरक्षित रह सकते हैं।"
+        },
+        "en": {
+          "question": "Fossils are most commonly found in which type of rock?",
+          "options": [
+            "Igneous",
+            "Metamorphic",
+            "Sedimentary",
+            "Granitic"
+          ],
+          "explanation": "Sedimentary rocks can preserve fossils because deposition generally occurs under comparatively low-temperature and low-pressure conditions."
+        }
+      }
+    },
+
+    {
+      "id": 16,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "किसी वस्तु का त्वरण शून्य होने का अर्थ क्या है?",
+      "options": [
+        "वस्तु अवश्य स्थिर है",
+        "वस्तु का वेग अवश्य शून्य है",
+        "वस्तु का वेग समय के साथ स्थिर है",
+        "वस्तु पर कोई बल कार्य नहीं कर रहा"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "शून्य त्वरण का अर्थ है वेग में समय के साथ परिवर्तन नहीं हो रहा; वस्तु स्थिर भी हो सकती है या समान वेग से चल सकती है।",
+      "i18n": {
+        "hi": {
+          "question": "किसी वस्तु का त्वरण शून्य होने का अर्थ क्या है?",
+          "options": [
+            "वस्तु अवश्य स्थिर है",
+            "वस्तु का वेग अवश्य शून्य है",
+            "वस्तु का वेग समय के साथ स्थिर है",
+            "वस्तु पर कोई बल कार्य नहीं कर रहा"
+          ],
+          "explanation": "शून्य त्वरण का अर्थ है वेग में समय के साथ परिवर्तन नहीं हो रहा; वस्तु स्थिर भी हो सकती है या समान वेग से चल सकती है।"
+        },
+        "en": {
+          "question": "What does zero acceleration of an object imply?",
+          "options": [
+            "The object must be at rest",
+            "The velocity must be zero",
+            "The velocity remains constant with time",
+            "No force acts on the object"
+          ],
+          "explanation": "Zero acceleration means there is no change in velocity with time; the object may be at rest or move with constant velocity."
+        }
+      }
+    },
+
+    {
+      "id": 17,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "निम्नलिखित में से कौन-सा युग्म गलत सुमेलित है?",
+      "options": [
+        "काजीरंगा — एक-सींग वाला गैंडा",
+        "गिर — एशियाई सिंह",
+        "सुंदरबन — मैंग्रोव पारितंत्र",
+        "साइलेंट वैली — प्रवाल भित्ति"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "साइलेंट वैली केरल का उष्णकटिबंधीय सदाबहार वन क्षेत्र है; यह प्रवाल भित्ति के लिए प्रसिद्ध नहीं है।",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से कौन-सा युग्म गलत सुमेलित है?",
+          "options": [
+            "काजीरंगा — एक-सींग वाला गैंडा",
+            "गिर — एशियाई सिंह",
+            "सुंदरबन — मैंग्रोव पारितंत्र",
+            "साइलेंट वैली — प्रवाल भित्ति"
+          ],
+          "explanation": "साइलेंट वैली केरल का उष्णकटिबंधीय सदाबहार वन क्षेत्र है; यह प्रवाल भित्ति के लिए प्रसिद्ध नहीं है।"
+        },
+        "en": {
+          "question": "Which of the following pairs is incorrectly matched?",
+          "options": [
+            "Kaziranga — One-horned rhinoceros",
+            "Gir — Asiatic lion",
+            "Sundarbans — Mangrove ecosystem",
+            "Silent Valley — Coral reef"
+          ],
+          "explanation": "Silent Valley is a tropical evergreen forest region in Kerala, not a coral reef ecosystem."
+        }
+      }
+    },
+
+    {
+      "id": 18,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "DNA की द्विकुंडली संरचना के संबंध में Watson और Crick का मॉडल किस वर्ष प्रकाशित हुआ था?",
+      "options": [
+        "1948",
+        "1950",
+        "1953",
+        "1962"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "DNA double-helix मॉडल 1953 में प्रकाशित हुआ था।",
+      "i18n": {
+        "hi": {
+          "question": "DNA की द्विकुंडली संरचना के संबंध में Watson और Crick का मॉडल किस वर्ष प्रकाशित हुआ था?",
+          "options": [
+            "1948",
+            "1950",
+            "1953",
+            "1962"
+          ],
+          "explanation": "DNA double-helix मॉडल 1953 में प्रकाशित हुआ था।"
+        },
+        "en": {
+          "question": "In which year was the Watson-Crick model of the DNA double helix published?",
+          "options": [
+            "1948",
+            "1950",
+            "1953",
+            "1962"
+          ],
+          "explanation": "The Watson-Crick double-helix model was published in 1953."
+        }
+      }
+    },
+
+    {
+      "id": 19,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "किसी अर्थव्यवस्था में मुद्रास्फीति का सामान्य अर्थ क्या है?",
+      "options": [
+        "सामान्य मूल्य स्तर में लगातार वृद्धि",
+        "बेरोजगारी में हमेशा कमी",
+        "उत्पादन में अनिवार्य वृद्धि",
+        "मुद्रा आपूर्ति का शून्य होना"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "मुद्रास्फीति से सामान्यतः वस्तुओं और सेवाओं के औसत मूल्य स्तर में निरंतर वृद्धि अभिप्रेत है।",
+      "i18n": {
+        "hi": {
+          "question": "किसी अर्थव्यवस्था में मुद्रास्फीति का सामान्य अर्थ क्या है?",
+          "options": [
+            "सामान्य मूल्य स्तर में लगातार वृद्धि",
+            "बेरोजगारी में हमेशा कमी",
+            "उत्पादन में अनिवार्य वृद्धि",
+            "मुद्रा आपूर्ति का शून्य होना"
+          ],
+          "explanation": "मुद्रास्फीति से सामान्यतः वस्तुओं और सेवाओं के औसत मूल्य स्तर में निरंतर वृद्धि अभिप्रेत है।"
+        },
+        "en": {
+          "question": "What does inflation generally mean in an economy?",
+          "options": [
+            "A sustained rise in the general price level",
+            "A guaranteed fall in unemployment",
+            "A necessary rise in output",
+            "A zero money supply"
+          ],
+          "explanation": "Inflation generally refers to a sustained increase in the general price level of goods and services."
+        }
+      }
+    },
+
+    {
+      "id": 20,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "भारत में पंचायती राज संस्थाओं को संवैधानिक दर्जा किस संशोधन से मिला?",
+      "options": [
+        "61वाँ",
+        "69वाँ",
+        "73वाँ",
+        "74वाँ"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "73वें संविधान संशोधन अधिनियम, 1992 ने पंचायती राज संस्थाओं को संवैधानिक आधार प्रदान किया।",
+      "i18n": {
+        "hi": {
+          "question": "भारत में पंचायती राज संस्थाओं को संवैधानिक दर्जा किस संशोधन से मिला?",
+          "options": [
+            "61वाँ",
+            "69वाँ",
+            "73वाँ",
+            "74वाँ"
+          ],
+          "explanation": "73वें संविधान संशोधन अधिनियम, 1992 ने पंचायती राज संस्थाओं को संवैधानिक आधार प्रदान किया।"
+        },
+        "en": {
+          "question": "Which Constitutional Amendment gave constitutional status to Panchayati Raj institutions in India?",
+          "options": [
+            "61st",
+            "69th",
+            "73rd",
+            "74th"
+          ],
+          "explanation": "The 73rd Constitutional Amendment Act, 1992 provided constitutional status to Panchayati Raj institutions."
+        }
+      }
+    },
+
+    {
+      "id": 21,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "निम्नलिखित में से कौन-सी गैस प्रमुख ग्रीनहाउस गैसों में शामिल है?",
+      "options": [
+        "ऑक्सीजन",
+        "नाइट्रोजन",
+        "कार्बन डाइऑक्साइड",
+        "आर्गन"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "कार्बन डाइऑक्साइड प्रमुख मानव-प्रेरित ग्रीनहाउस गैसों में से एक है।",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से कौन-सी गैस प्रमुख ग्रीनहाउस गैसों में शामिल है?",
+          "options": [
+            "ऑक्सीजन",
+            "नाइट्रोजन",
+            "कार्बन डाइऑक्साइड",
+            "आर्गन"
+          ],
+          "explanation": "कार्बन डाइऑक्साइड प्रमुख मानव-प्रेरित ग्रीनहाउस गैसों में से एक है।"
+        },
+        "en": {
+          "question": "Which of the following is a major greenhouse gas?",
+          "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Argon"
+          ],
+          "explanation": "Carbon dioxide is one of the major anthropogenic greenhouse gases."
+        }
+      }
+    },
+
+    {
+      "id": 22,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "प्रकाश की निर्वात में चाल लगभग कितनी है?",
+      "options": [
+        "3 × 10⁶ m/s",
+        "3 × 10⁷ m/s",
+        "3 × 10⁸ m/s",
+        "3 × 10⁹ m/s"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "निर्वात में प्रकाश की चाल लगभग 3 × 10⁸ m/s है।",
+      "i18n": {
+        "hi": {
+          "question": "प्रकाश की निर्वात में चाल लगभग कितनी है?",
+          "options": [
+            "3 × 10⁶ m/s",
+            "3 × 10⁷ m/s",
+            "3 × 10⁸ m/s",
+            "3 × 10⁹ m/s"
+          ],
+          "explanation": "निर्वात में प्रकाश की चाल लगभग 3 × 10⁸ m/s है।"
+        },
+        "en": {
+          "question": "What is the approximate speed of light in vacuum?",
+          "options": [
+            "3 × 10⁶ m/s",
+            "3 × 10⁷ m/s",
+            "3 × 10⁸ m/s",
+            "3 × 10⁹ m/s"
+          ],
+          "explanation": "The speed of light in vacuum is approximately 3 × 10⁸ m/s."
+        }
+      }
+    },
+
+    {
+      "id": 23,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "मौलिक कर्तव्यों को भारतीय संविधान में किस संशोधन द्वारा जोड़ा गया?",
+      "options": [
+        "42वाँ संशोधन",
+        "44वाँ संशोधन",
+        "52वाँ संशोधन",
+        "86वाँ संशोधन"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "मौलिक कर्तव्य 42वें संविधान संशोधन अधिनियम, 1976 द्वारा जोड़े गए थे।",
+      "i18n": {
+        "hi": {
+          "question": "मौलिक कर्तव्यों को भारतीय संविधान में किस संशोधन द्वारा जोड़ा गया?",
+          "options": [
+            "42वाँ संशोधन",
+            "44वाँ संशोधन",
+            "52वाँ संशोधन",
+            "86वाँ संशोधन"
+          ],
+          "explanation": "मौलिक कर्तव्य 42वें संविधान संशोधन अधिनियम, 1976 द्वारा जोड़े गए थे।"
+        },
+        "en": {
+          "question": "Fundamental Duties were added to the Indian Constitution by which Amendment?",
+          "options": [
+            "42nd Amendment",
+            "44th Amendment",
+            "52nd Amendment",
+            "86th Amendment"
+          ],
+          "explanation": "Fundamental Duties were introduced by the 42nd Constitutional Amendment Act, 1976."
+        }
+      }
+    },
+
+    {
+      "id": 24,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "निम्नलिखित में से कौन-सा युग्म सही है?",
+      "options": [
+        "DNA — Deoxyribonucleic Acid",
+        "RNA — Ribosomal Nuclear Acid",
+        "ATP — Adenine Transfer Protein",
+        "NAD — Nitrogen Adenosine Derivative"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "DNA का पूर्ण रूप Deoxyribonucleic Acid है।",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से कौन-सा युग्म सही है?",
+          "options": [
+            "DNA — Deoxyribonucleic Acid",
+            "RNA — Ribosomal Nuclear Acid",
+            "ATP — Adenine Transfer Protein",
+            "NAD — Nitrogen Adenosine Derivative"
+          ],
+          "explanation": "DNA का पूर्ण रूप Deoxyribonucleic Acid है।"
+        },
+        "en": {
+          "question": "Which of the following expansions is correct?",
+          "options": [
+            "DNA — Deoxyribonucleic Acid",
+            "RNA — Ribosomal Nuclear Acid",
+            "ATP — Adenine Transfer Protein",
+            "NAD — Nitrogen Adenosine Derivative"
+          ],
+          "explanation": "DNA stands for Deoxyribonucleic Acid."
+        }
+      }
+    },
+
+    {
+      "id": 25,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "भारत का सबसे बड़ा पठार कौन-सा है?",
+      "options": [
+        "मालवा पठार",
+        "दक्कन का पठार",
+        "छोटानागपुर पठार",
+        "मेघालय पठार"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "दक्कन का पठार भारतीय प्रायद्वीप के विशाल क्षेत्र में फैला हुआ है।",
+      "i18n": {
+        "hi": {
+          "question": "भारत का सबसे बड़ा पठार कौन-सा है?",
+          "options": [
+            "मालवा पठार",
+            "दक्कन का पठार",
+            "छोटानागपुर पठार",
+            "मेघालय पठार"
+          ],
+          "explanation": "दक्कन का पठार भारतीय प्रायद्वीप के विशाल क्षेत्र में फैला हुआ है।"
+        },
+        "en": {
+          "question": "Which is the largest plateau in India?",
+          "options": [
+            "Malwa Plateau",
+            "Deccan Plateau",
+            "Chota Nagpur Plateau",
+            "Meghalaya Plateau"
+          ],
+          "explanation": "The Deccan Plateau covers a vast part of peninsular India."
+        }
+      }
+    },
+
+    {
+      "id": 26,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "किस प्रक्रिया में DNA से RNA का निर्माण होता है?",
+      "options": [
+        "Translation",
+        "Transcription",
+        "Replication",
+        "Mutation"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "DNA template से RNA के निर्माण को transcription कहा जाता है।",
+      "i18n": {
+        "hi": {
+          "question": "किस प्रक्रिया में DNA से RNA का निर्माण होता है?",
+          "options": [
+            "Translation",
+            "Transcription",
+            "Replication",
+            "Mutation"
+          ],
+          "explanation": "DNA template से RNA के निर्माण को transcription कहा जाता है।"
+        },
+        "en": {
+          "question": "What is the process by which RNA is synthesized from DNA?",
+          "options": [
+            "Translation",
+            "Transcription",
+            "Replication",
+            "Mutation"
+          ],
+          "explanation": "The synthesis of RNA using a DNA template is called transcription."
+        }
+      }
+    },
+
+    {
+      "id": 27,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "भारतीय संविधान में न्यायिक पुनरावलोकन की शक्ति मुख्यतः किससे संबंधित है?",
+      "options": [
+        "न्यायपालिका द्वारा कानूनों की संवैधानिकता की समीक्षा",
+        "कार्यपालिका द्वारा न्यायालयों का नियंत्रण",
+        "संसद द्वारा न्यायाधीशों के निर्णय बदलना",
+        "निर्वाचन आयोग द्वारा कानून बनाना"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Judicial review न्यायालयों को कानूनों और सरकारी कार्रवाइयों की संवैधानिक वैधता की समीक्षा करने की शक्ति देता है।",
+      "i18n": {
+        "hi": {
+          "question": "भारतीय संविधान में न्यायिक पुनरावलोकन की शक्ति मुख्यतः किससे संबंधित है?",
+          "options": [
+            "न्यायपालिका द्वारा कानूनों की संवैधानिकता की समीक्षा",
+            "कार्यपालिका द्वारा न्यायालयों का नियंत्रण",
+            "संसद द्वारा न्यायाधीशों के निर्णय बदलना",
+            "निर्वाचन आयोग द्वारा कानून बनाना"
+          ],
+          "explanation": "Judicial review न्यायालयों को कानूनों और सरकारी कार्रवाइयों की संवैधानिक वैधता की समीक्षा करने की शक्ति देता है।"
+        },
+        "en": {
+          "question": "Judicial review in India primarily refers to what?",
+          "options": [
+            "Judicial examination of the constitutional validity of laws",
+            "Executive control over courts",
+            "Parliament changing judicial decisions",
+            "The Election Commission making laws"
+          ],
+          "explanation": "Judicial review enables courts to examine the constitutional validity of laws and governmental actions."
+        }
+      }
+    },
+
+    {
+      "id": 28,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "निम्नलिखित में से कौन-सा प्राथमिक ऊर्जा स्रोत है?",
+      "options": [
+        "विद्युत ऊर्जा",
+        "पेट्रोल",
+        "कोयला",
+        "बैटरी ऊर्जा"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "कोयला प्राकृतिक रूप से उपलब्ध प्राथमिक ऊर्जा स्रोत है; विद्युत द्वितीयक ऊर्जा का उदाहरण है।",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से कौन-सा प्राथमिक ऊर्जा स्रोत है?",
+          "options": [
+            "विद्युत ऊर्जा",
+            "पेट्रोल",
+            "कोयला",
+            "बैटरी ऊर्जा"
+          ],
+          "explanation": "कोयला प्राकृतिक रूप से उपलब्ध प्राथमिक ऊर्जा स्रोत है; विद्युत द्वितीयक ऊर्जा का उदाहरण है।"
+        },
+        "en": {
+          "question": "Which of the following is a primary energy source?",
+          "options": [
+            "Electrical energy",
+            "Petrol",
+            "Coal",
+            "Battery energy"
+          ],
+          "explanation": "Coal is a naturally occurring primary energy source; electricity is a secondary form of energy."
+        }
+      }
+    },
+
+    {
+      "id": 29,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "किसी समतल दर्पण में बनने वाला प्रतिबिंब सामान्यतः कैसा होता है?",
+      "options": [
+        "वास्तविक और उल्टा",
+        "आभासी और सीधा",
+        "वास्तविक और सीधा",
+        "आभासी और उल्टा"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "समतल दर्पण आभासी, सीधा और वस्तु के समान आकार का प्रतिबिंब बनाता है।",
+      "i18n": {
+        "hi": {
+          "question": "किसी समतल दर्पण में बनने वाला प्रतिबिंब सामान्यतः कैसा होता है?",
+          "options": [
+            "वास्तविक और उल्टा",
+            "आभासी और सीधा",
+            "वास्तविक और सीधा",
+            "आभासी और उल्टा"
+          ],
+          "explanation": "समतल दर्पण आभासी, सीधा और वस्तु के समान आकार का प्रतिबिंब बनाता है।"
+        },
+        "en": {
+          "question": "What is the usual nature of the image formed by a plane mirror?",
+          "options": [
+            "Real and inverted",
+            "Virtual and erect",
+            "Real and erect",
+            "Virtual and inverted"
+          ],
+          "explanation": "A plane mirror forms a virtual, erect image of the same size as the object."
+        }
+      }
+    },
+
+    {
+      "id": 30,
+      "type": "single_choice",
+      "section": "general-studies",
+      "question": "मानव शरीर में इंसुलिन का प्रमुख उत्पादन किस अंग में होता है?",
+      "options": [
+        "यकृत",
+        "अग्न्याशय",
+        "थायरॉयड",
+        "अधिवृक्क ग्रंथि"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "अग्न्याशय की लैंगरहैंस की द्वीपिकाओं की बीटा कोशिकाएँ इंसुलिन का उत्पादन करती हैं।",
+      "i18n": {
+        "hi": {
+          "question": "मानव शरीर में इंसुलिन का प्रमुख उत्पादन किस अंग में होता है?",
+          "options": [
+            "यकृत",
+            "अग्न्याशय",
+            "थायरॉयड",
+            "अधिवृक्क ग्रंथि"
+          ],
+          "explanation": "अग्न्याशय की लैंगरहैंस की द्वीपिकाओं की बीटा कोशिकाएँ इंसुलिन का उत्पादन करती हैं।"
+        },
+        "en": {
+          "question": "Which organ primarily produces insulin in the human body?",
+          "options": [
+            "Liver",
+            "Pancreas",
+            "Thyroid",
+            "Adrenal gland"
+          ],
+          "explanation": "Insulin is produced by beta cells in the islets of Langerhans of the pancreas."
+        }
+      }
+    },
+
+    {
+      "id": 31,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Choose the sentence in which the subjunctive mood is used correctly.",
+      "options": [
+        "It is essential that every candidate is present.",
+        "It is essential that every candidate be present.",
+        "It is essential that every candidate was present.",
+        "It is essential that every candidate has been present."
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "After a mandative expression such as 'it is essential that', formal English permits the base-form subjunctive: 'be present'.",
+      "i18n": {
+        "hi": {
+          "question": "उस वाक्य का चयन कीजिए जिसमें subjunctive mood का सही प्रयोग हुआ है।",
+          "options": [
+            "It is essential that every candidate is present.",
+            "It is essential that every candidate be present.",
+            "It is essential that every candidate was present.",
+            "It is essential that every candidate has been present."
+          ],
+          "explanation": "'It is essential that' जैसे mandative expression के बाद formal English में base-form subjunctive 'be present' सही है।"
+        },
+        "en": {
+          "question": "Choose the sentence in which the subjunctive mood is used correctly.",
+          "options": [
+            "It is essential that every candidate is present.",
+            "It is essential that every candidate be present.",
+            "It is essential that every candidate was present.",
+            "It is essential that every candidate has been present."
+          ],
+          "explanation": "After a mandative expression such as 'it is essential that', formal English permits the base-form subjunctive: 'be present'."
+        }
+      }
+    },
+
+    {
+      "id": 32,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Identify the sentence containing a dangling modifier.",
+      "options": [
+        "Having finished the examination, the candidate left the hall.",
+        "Having finished the examination, the bell was rung.",
+        "After finishing the examination, the candidate checked the answers.",
+        "While reading the poem, the student noted its imagery."
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "In option B, 'having finished' logically refers to the candidate, but the grammatical subject is 'the bell'.",
+      "i18n": {
+        "hi": {
+          "question": "उस वाक्य की पहचान कीजिए जिसमें dangling modifier है।",
+          "options": [
+            "Having finished the examination, the candidate left the hall.",
+            "Having finished the examination, the bell was rung.",
+            "After finishing the examination, the candidate checked the answers.",
+            "While reading the poem, the student noted its imagery."
+          ],
+          "explanation": "विकल्प B में 'having finished' का logical subject candidate होना चाहिए, लेकिन grammatical subject 'the bell' है।"
+        },
+        "en": {
+          "question": "Identify the sentence containing a dangling modifier.",
+          "options": [
+            "Having finished the examination, the candidate left the hall.",
+            "Having finished the examination, the bell was rung.",
+            "After finishing the examination, the candidate checked the answers.",
+            "While reading the poem, the student noted its imagery."
+          ],
+          "explanation": "In option B, 'having finished' logically refers to the candidate, but the grammatical subject is 'the bell'."
+        }
+      }
+    },
+
+    {
+      "id": 33,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Choose the option that best preserves the meaning: 'No sooner had the lecture begun than the power failed.'",
+      "options": [
+        "As soon as the lecture began, the power failed.",
+        "The lecture began long after the power failed.",
+        "The power failed because the lecture began.",
+        "The power had failed before the lecture was planned."
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'No sooner...than' expresses that the second event occurred immediately after the first.",
+      "i18n": {
+        "hi": {
+          "question": "उस विकल्प का चयन कीजिए जो 'No sooner had the lecture begun than the power failed.' का अर्थ सर्वोत्तम रूप से बनाए रखता है।",
+          "options": [
+            "As soon as the lecture began, the power failed.",
+            "The lecture began long after the power failed.",
+            "The power failed because the lecture began.",
+            "The power had failed before the lecture was planned."
+          ],
+          "explanation": "'No sooner...than' का प्रयोग यह बताने के लिए होता है कि दूसरी घटना पहली के तुरंत बाद हुई।"
+        },
+        "en": {
+          "question": "Choose the option that best preserves the meaning: 'No sooner had the lecture begun than the power failed.'",
+          "options": [
+            "As soon as the lecture began, the power failed.",
+            "The lecture began long after the power failed.",
+            "The power failed because the lecture began.",
+            "The power had failed before the lecture was planned."
+          ],
+          "explanation": "'No sooner...than' expresses that the second event occurred immediately after the first."
+        }
+      }
+    },
+
+    {
+      "id": 34,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which sentence demonstrates correct parallelism?",
+      "options": [
+        "The course aims to develop reading, writing and students who think critically.",
+        "The course aims at reading, to write and critical thinking.",
+        "The course aims to develop reading, writing and critical thinking.",
+        "The course aims developing reading, writing and to think critically."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The three coordinated elements are parallel gerund/noun phrases: reading, writing and critical thinking.",
+      "i18n": {
+        "hi": {
+          "question": "कौन-सा वाक्य सही parallelism प्रदर्शित करता है?",
+          "options": [
+            "The course aims to develop reading, writing and students who think critically.",
+            "The course aims at reading, to write and critical thinking.",
+            "The course aims to develop reading, writing and critical thinking.",
+            "The course aims developing reading, writing and to think critically."
+          ],
+          "explanation": "तीनों coordinated elements समान grammatical रूप में हैं: reading, writing और critical thinking।"
+        },
+        "en": {
+          "question": "Which sentence demonstrates correct parallelism?",
+          "options": [
+            "The course aims to develop reading, writing and students who think critically.",
+            "The course aims at reading, to write and critical thinking.",
+            "The course aims to develop reading, writing and critical thinking.",
+            "The course aims developing reading, writing and to think critically."
+          ],
+          "explanation": "The three coordinated elements are parallel gerund/noun phrases: reading, writing and critical thinking."
+        }
+      }
+    },
+
+    {
+      "id": 35,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "In the sentence 'Had I known, I would have acted differently', the initial clause is an example of:",
+      "options": [
+        "Inverted third conditional",
+        "Inverted first conditional",
+        "Subjunctive present",
+        "Reduced relative clause"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'Had I known' is an inverted form of 'If I had known', representing a third conditional.",
+      "i18n": {
+        "hi": {
+          "question": "'Had I known, I would have acted differently' वाक्य में प्रारंभिक clause किसका उदाहरण है?",
+          "options": [
+            "Inverted third conditional",
+            "Inverted first conditional",
+            "Subjunctive present",
+            "Reduced relative clause"
+          ],
+          "explanation": "'Had I known' वास्तव में 'If I had known' का inverted रूप है और third conditional को दर्शाता है।"
+        },
+        "en": {
+          "question": "In the sentence 'Had I known, I would have acted differently', the initial clause is an example of:",
+          "options": [
+            "Inverted third conditional",
+            "Inverted first conditional",
+            "Subjunctive present",
+            "Reduced relative clause"
+          ],
+          "explanation": "'Had I known' is an inverted form of 'If I had known', representing a third conditional."
+        }
+      }
+    },
+
+    {
+      "id": 36,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Choose the grammatically most precise sentence.",
+      "options": [
+        "Neither the teacher nor the students was aware of the change.",
+        "Neither the teacher nor the students were aware of the change.",
+        "Neither the teacher or the students were aware of the change.",
+        "Neither teacher nor students was aware about the change."
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "With 'neither...nor', the verb generally agrees with the nearer subject; 'students' is plural, hence 'were'.",
+      "i18n": {
+        "hi": {
+          "question": "सबसे अधिक व्याकरणिक रूप से सटीक वाक्य चुनिए।",
+          "options": [
+            "Neither the teacher nor the students was aware of the change.",
+            "Neither the teacher nor the students were aware of the change.",
+            "Neither the teacher or the students were aware of the change.",
+            "Neither teacher nor students was aware about the change."
+          ],
+          "explanation": "'Neither...nor' में verb सामान्यतः निकटतम subject के अनुसार आता है; यहाँ 'students' plural है, इसलिए 'were' सही है।"
+        },
+        "en": {
+          "question": "Choose the grammatically most precise sentence.",
+          "options": [
+            "Neither the teacher nor the students was aware of the change.",
+            "Neither the teacher nor the students were aware of the change.",
+            "Neither the teacher or the students were aware of the change.",
+            "Neither teacher nor students was aware about the change."
+          ],
+          "explanation": "With 'neither...nor', the verb generally agrees with the nearer subject; 'students' is plural, hence 'were'."
+        }
+      }
+    },
+
+    {
+      "id": 37,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "The word 'disinterested' in its traditional prescriptive sense means:",
+      "options": [
+        "Bored or uninterested",
+        "Impartial and free from personal interest",
+        "Hostile to an argument",
+        "Unable to understand an issue"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Traditionally, 'disinterested' means impartial or free from personal stake, whereas 'uninterested' means lacking interest.",
+      "i18n": {
+        "hi": {
+          "question": "'disinterested' शब्द का पारंपरिक prescriptive अर्थ क्या है?",
+          "options": [
+            "ऊबा हुआ या अरुचिकर",
+            "निष्पक्ष और निजी स्वार्थ से मुक्त",
+            "किसी तर्क का विरोधी",
+            "किसी विषय को समझने में असमर्थ"
+          ],
+          "explanation": "पारंपरिक अर्थ में 'disinterested' का अर्थ impartial या personal stake से मुक्त होता है; 'uninterested' का अर्थ interest का अभाव है।"
+        },
+        "en": {
+          "question": "The word 'disinterested' in its traditional prescriptive sense means:",
+          "options": [
+            "Bored or uninterested",
+            "Impartial and free from personal interest",
+            "Hostile to an argument",
+            "Unable to understand an issue"
+          ],
+          "explanation": "Traditionally, 'disinterested' means impartial or free from personal stake, whereas 'uninterested' means lacking interest."
+        }
+      }
+    },
+
+    {
+      "id": 38,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which sentence contains a restrictive relative clause?",
+      "options": [
+        "My brother, who lives in Delhi, is a teacher.",
+        "The book that you recommended is out of print.",
+        "John, who is a poet, teaches here.",
+        "The principal, who arrived late, apologized."
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The clause 'that you recommended' restricts and identifies which book is meant and therefore is restrictive.",
+      "i18n": {
+        "hi": {
+          "question": "किस वाक्य में restrictive relative clause है?",
+          "options": [
+            "My brother, who lives in Delhi, is a teacher.",
+            "The book that you recommended is out of print.",
+            "John, who is a poet, teaches here.",
+            "The principal, who arrived late, apologized."
+          ],
+          "explanation": "'that you recommended' यह निर्धारित करता है कि किस book की बात हो रही है, इसलिए यह restrictive clause है।"
+        },
+        "en": {
+          "question": "Which sentence contains a restrictive relative clause?",
+          "options": [
+            "My brother, who lives in Delhi, is a teacher.",
+            "The book that you recommended is out of print.",
+            "John, who is a poet, teaches here.",
+            "The principal, who arrived late, apologized."
+          ],
+          "explanation": "The clause 'that you recommended' restricts and identifies which book is meant and therefore is restrictive."
+        }
+      }
+    },
+
+    {
+      "id": 39,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "In 'The committee recommended that the policy be revised', the verb 'be' is best classified as:",
+      "options": [
+        "Indicative",
+        "Mandative subjunctive",
+        "Past subjunctive",
+        "Infinitive"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The base-form 'be' following 'recommended that' is a mandative subjunctive construction.",
+      "i18n": {
+        "hi": {
+          "question": "'The committee recommended that the policy be revised' में 'be' का सही grammatical classification क्या है?",
+          "options": [
+            "Indicative",
+            "Mandative subjunctive",
+            "Past subjunctive",
+            "Infinitive"
+          ],
+          "explanation": "'recommended that' के बाद base-form 'be' mandative subjunctive construction है।"
+        },
+        "en": {
+          "question": "In 'The committee recommended that the policy be revised', the verb 'be' is best classified as:",
+          "options": [
+            "Indicative",
+            "Mandative subjunctive",
+            "Past subjunctive",
+            "Infinitive"
+          ],
+          "explanation": "The base-form 'be' following 'recommended that' is a mandative subjunctive construction."
+        }
+      }
+    },
+
+    {
+      "id": 40,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which word is closest in meaning to 'pellucid'?",
+      "options": [
+        "Obscure",
+        "Transparent or lucid",
+        "Aggressive",
+        "Ephemeral"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'Pellucid' means exceptionally clear, transparent, or easy to understand.",
+      "i18n": {
+        "hi": {
+          "question": "'pellucid' का निकटतम अर्थ क्या है?",
+          "options": [
+            "अस्पष्ट",
+            "पारदर्शी या अत्यंत स्पष्ट",
+            "आक्रामक",
+            "क्षणभंगुर"
+          ],
+          "explanation": "'Pellucid' का अर्थ अत्यंत स्पष्ट, पारदर्शी या आसानी से समझ आने वाला होता है।"
+        },
+        "en": {
+          "question": "Which word is closest in meaning to 'pellucid'?",
+          "options": [
+            "Obscure",
+            "Transparent or lucid",
+            "Aggressive",
+            "Ephemeral"
+          ],
+          "explanation": "'Pellucid' means exceptionally clear, transparent, or easy to understand."
+        }
+      }
+    },
+
+    {
+      "id": 41,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which sentence contains an example of zeugma?",
+      "options": [
+        "She opened the door and the window.",
+        "He lost his coat and his temper.",
+        "The child ran quickly across the field.",
+        "The moon was bright and beautiful."
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "In 'lost his coat and his temper', one verb governs two objects in different semantic senses.",
+      "i18n": {
+        "hi": {
+          "question": "किस वाक्य में zeugma का उदाहरण है?",
+          "options": [
+            "She opened the door and the window.",
+            "He lost his coat and his temper.",
+            "The child ran quickly across the field.",
+            "The moon was bright and beautiful."
+          ],
+          "explanation": "'lost his coat and his temper' में एक ही verb दो objects को अलग-अलग semantic senses में govern करता है।"
+        },
+        "en": {
+          "question": "Which sentence contains an example of zeugma?",
+          "options": [
+            "She opened the door and the window.",
+            "He lost his coat and his temper.",
+            "The child ran quickly across the field.",
+            "The moon was bright and beautiful."
+          ],
+          "explanation": "In 'lost his coat and his temper', one verb governs two objects in different semantic senses."
+        }
+      }
+    },
+
+    {
+      "id": 42,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which of the following is a contronym?",
+      "options": [
+        "Transparent",
+        "Sanction",
+        "Fragile",
+        "Benevolent"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'Sanction' can mean either to authorize or to penalize, making it a contronym/auto-antonym.",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से कौन-सा contronym है?",
+          "options": [
+            "Transparent",
+            "Sanction",
+            "Fragile",
+            "Benevolent"
+          ],
+          "explanation": "'Sanction' का अर्थ authorize करना भी हो सकता है और penalty लगाना भी; इसलिए यह contronym है।"
+        },
+        "en": {
+          "question": "Which of the following is a contronym?",
+          "options": [
+            "Transparent",
+            "Sanction",
+            "Fragile",
+            "Benevolent"
+          ],
+          "explanation": "'Sanction' can mean either to authorize or to penalize, making it a contronym/auto-antonym."
+        }
+      }
+    },
+
+    {
+      "id": 43,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Choose the correctly punctuated sentence.",
+      "options": [
+        "The critic asked, 'What is poetry?'",
+        "The critic asked 'What is poetry?'",
+        "The critic, asked 'What is poetry?'",
+        "The critic asked: what is poetry?"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The direct question is introduced after the reporting verb with a comma and enclosed in quotation marks.",
+      "i18n": {
+        "hi": {
+          "question": "सही punctuation वाला वाक्य चुनिए।",
+          "options": [
+            "The critic asked, 'What is poetry?'",
+            "The critic asked 'What is poetry?'",
+            "The critic, asked 'What is poetry?'",
+            "The critic asked: what is poetry?"
+          ],
+          "explanation": "Direct question को reporting verb के बाद comma से introduce करके quotation marks में रखा गया है।"
+        },
+        "en": {
+          "question": "Choose the correctly punctuated sentence.",
+          "options": [
+            "The critic asked, 'What is poetry?'",
+            "The critic asked 'What is poetry?'",
+            "The critic, asked 'What is poetry?'",
+            "The critic asked: what is poetry?"
+          ],
+          "explanation": "The direct question is introduced after the reporting verb with a comma and enclosed in quotation marks."
+        }
+      }
+    },
+
+    {
+      "id": 44,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "The phrase 'to beg the question' traditionally means:",
+      "options": [
+        "To ask an extremely difficult question",
+        "To assume the conclusion within the premises",
+        "To avoid answering a question",
+        "To ask a question repeatedly"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "In its logical sense, begging the question is circular reasoning in which the conclusion is presupposed by the argument.",
+      "i18n": {
+        "hi": {
+          "question": "'to beg the question' का पारंपरिक logical अर्थ क्या है?",
+          "options": [
+            "बहुत कठिन प्रश्न पूछना",
+            "निष्कर्ष को premises में पहले से मान लेना",
+            "प्रश्न का उत्तर देने से बचना",
+            "एक ही प्रश्न बार-बार पूछना"
+          ],
+          "explanation": "Logical sense में begging the question circular reasoning है जिसमें conclusion को argument में पहले ही presuppose कर लिया जाता है।"
+        },
+        "en": {
+          "question": "The phrase 'to beg the question' traditionally means:",
+          "options": [
+            "To ask an extremely difficult question",
+            "To assume the conclusion within the premises",
+            "To avoid answering a question",
+            "To ask a question repeatedly"
+          ],
+          "explanation": "In its logical sense, begging the question is circular reasoning in which the conclusion is presupposed by the argument."
+        }
+      }
+    },
+
+    {
+      "id": 45,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which pair consists of heteronyms?",
+      "options": [
+        "lead / lead",
+        "flower / flour",
+        "principle / principal",
+        "accept / except"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'Lead' can be pronounced /liːd/ as a verb and /lɛd/ as the metal, making the pair heteronymous.",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से कौन-सा pair heteronyms का है?",
+          "options": [
+            "lead / lead",
+            "flower / flour",
+            "principle / principal",
+            "accept / except"
+          ],
+          "explanation": "'Lead' verb के रूप में /liːd/ और metal के अर्थ में /lɛd/ उच्चरित होता है; इसलिए यह heteronym है।"
+        },
+        "en": {
+          "question": "Which pair consists of heteronyms?",
+          "options": [
+            "lead / lead",
+            "flower / flour",
+            "principle / principal",
+            "accept / except"
+          ],
+          "explanation": "'Lead' can be pronounced /liːd/ as a verb and /lɛd/ as the metal, making the pair heteronymous."
+        }
+      }
+    },
+
+    {
+      "id": 46,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which sentence illustrates litotes?",
+      "options": [
+        "The poem is absolutely magnificent.",
+        "The poem is not without merit.",
+        "The poem screams with colour.",
+        "The poem is a thunderbolt."
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Litotes is understatement through negation of the contrary; 'not without merit' implies that the poem has merit.",
+      "i18n": {
+        "hi": {
+          "question": "कौन-सा वाक्य litotes का उदाहरण है?",
+          "options": [
+            "The poem is absolutely magnificent.",
+            "The poem is not without merit.",
+            "The poem screams with colour.",
+            "The poem is a thunderbolt."
+          ],
+          "explanation": "Litotes में contrary को negate करके understatement किया जाता है; 'not without merit' का अर्थ है कि poem में merit है।"
+        },
+        "en": {
+          "question": "Which sentence illustrates litotes?",
+          "options": [
+            "The poem is absolutely magnificent.",
+            "The poem is not without merit.",
+            "The poem screams with colour.",
+            "The poem is a thunderbolt."
+          ],
+          "explanation": "Litotes is understatement through negation of the contrary; 'not without merit' implies that the poem has merit."
+        }
+      }
+    },
+
+    {
+      "id": 47,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which option contains a correctly used absolute construction?",
+      "options": [
+        "The work completed, the researchers left.",
+        "The work completing, the researchers left.",
+        "The work was completed, the researchers leaving.",
+        "The work completed the researchers, they left."
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'The work completed' is an absolute construction functioning adverbially and modifying the main clause.",
+      "i18n": {
+        "hi": {
+          "question": "किस विकल्प में absolute construction का सही प्रयोग हुआ है?",
+          "options": [
+            "The work completed, the researchers left.",
+            "The work completing, the researchers left.",
+            "The work was completed, the researchers leaving.",
+            "The work completed the researchers, they left."
+          ],
+          "explanation": "'The work completed' एक absolute construction है जो मुख्य clause को adverbially modify करता है।"
+        },
+        "en": {
+          "question": "Which option contains a correctly used absolute construction?",
+          "options": [
+            "The work completed, the researchers left.",
+            "The work completing, the researchers left.",
+            "The work was completed, the researchers leaving.",
+            "The work completed the researchers, they left."
+          ],
+          "explanation": "'The work completed' is an absolute construction functioning adverbially and modifying the main clause."
+        }
+      }
+    },
+
+    {
+      "id": 48,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which word is the best antonym of 'equivocal' in the sense of being ambiguous?",
+      "options": [
+        "Obscure",
+        "Ambivalent",
+        "Unequivocal",
+        "Circumlocutory"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'Unequivocal' means clear, unambiguous and leaving no room for doubt.",
+      "i18n": {
+        "hi": {
+          "question": "Ambiguous के अर्थ में 'equivocal' का सर्वोत्तम antonym क्या है?",
+          "options": [
+            "Obscure",
+            "Ambivalent",
+            "Unequivocal",
+            "Circumlocutory"
+          ],
+          "explanation": "'Unequivocal' का अर्थ स्पष्ट और ambiguity से मुक्त होता है।"
+        },
+        "en": {
+          "question": "Which word is the best antonym of 'equivocal' in the sense of being ambiguous?",
+          "options": [
+            "Obscure",
+            "Ambivalent",
+            "Unequivocal",
+            "Circumlocutory"
+          ],
+          "explanation": "'Unequivocal' means clear, unambiguous and leaving no room for doubt."
+        }
+      }
+    },
+
+    {
+      "id": 49,
+      "type": "single_choice",
+      "section": "literary-history",
+      "question": "The term 'Renaissance' in English literary history most directly signifies:",
+      "options": [
+        "A revival of classical learning and humanist thought",
+        "The rejection of classical antiquity",
+        "The dominance of medieval scholasticism",
+        "The rise of industrial realism"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The Renaissance involved renewed engagement with classical Greek and Roman learning alongside humanist intellectual developments.",
+      "i18n": {
+        "hi": {
+          "question": "English literary history में 'Renaissance' का सबसे सीधा अर्थ क्या है?",
+          "options": [
+            "Classical learning और humanist thought का पुनरुत्थान",
+            "Classical antiquity का पूर्ण rejection",
+            "Medieval scholasticism का प्रभुत्व",
+            "Industrial realism का उदय"
+          ],
+          "explanation": "Renaissance में Greek और Roman classical learning के साथ humanist intellectual developments का पुनरुत्थान हुआ।"
+        },
+        "en": {
+          "question": "The term 'Renaissance' in English literary history most directly signifies:",
+          "options": [
+            "A revival of classical learning and humanist thought",
+            "The rejection of classical antiquity",
+            "The dominance of medieval scholasticism",
+            "The rise of industrial realism"
+          ],
+          "explanation": "The Renaissance involved renewed engagement with classical Greek and Roman learning alongside humanist intellectual developments."
+        }
+      }
+    },
+
+    {
+      "id": 50,
+      "type": "single_choice",
+      "section": "literary-history",
+      "question": "The 'University Wits' are most closely associated with:",
+      "options": [
+        "Late Victorian prose",
+        "Elizabethan drama before Shakespeare's full dominance",
+        "Restoration satire",
+        "Modernist poetry"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The University Wits were a group of educated Elizabethan playwrights including Marlowe, Greene and others.",
+      "i18n": {
+        "hi": {
+          "question": "'University Wits' किससे सबसे अधिक संबंधित हैं?",
+          "options": [
+            "Late Victorian prose",
+            "Shakespeare के पूर्ण प्रभुत्व से पहले का Elizabethan drama",
+            "Restoration satire",
+            "Modernist poetry"
+          ],
+          "explanation": "University Wits educated Elizabethan playwrights का समूह था, जिसमें Marlowe और Greene प्रमुख थे।"
+        },
+        "en": {
+          "question": "The 'University Wits' are most closely associated with:",
+          "options": [
+            "Late Victorian prose",
+            "Elizabethan drama before Shakespeare's full dominance",
+            "Restoration satire",
+            "Modernist poetry"
+          ],
+          "explanation": "The University Wits were a group of educated Elizabethan playwrights including Marlowe, Greene and others."
+        }
+      }
+    },
+
+    {
+      "id": 51,
+      "type": "single_choice",
+      "section": "literary-history",
+      "question": "Which work is most characteristically associated with the metaphysical poetic tradition?",
+      "options": [
+        "The Faerie Queene",
+        "To His Coy Mistress",
+        "Elegy Written in a Country Churchyard",
+        "The Deserted Village"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Marvell's 'To His Coy Mistress' uses wit, conceits and argumentative structure characteristic of metaphysical poetry.",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से कौन-सी रचना metaphysical poetic tradition से सबसे अधिक जुड़ी है?",
+          "options": [
+            "The Faerie Queene",
+            "To His Coy Mistress",
+            "Elegy Written in a Country Churchyard",
+            "The Deserted Village"
+          ],
+          "explanation": "Marvell की 'To His Coy Mistress' में wit, conceit और argumentative structure metaphysical poetry की विशेषताएँ हैं।"
+        },
+        "en": {
+          "question": "Which work is most characteristically associated with the metaphysical poetic tradition?",
+          "options": [
+            "The Faerie Queene",
+            "To His Coy Mistress",
+            "Elegy Written in a Country Churchyard",
+            "The Deserted Village"
+          ],
+          "explanation": "Marvell's 'To His Coy Mistress' uses wit, conceits and argumentative structure characteristic of metaphysical poetry."
+        }
+      }
+    },
+
+    {
+      "id": 52,
+      "type": "single_choice",
+      "section": "literary-history",
+      "question": "The heroic couplet is most strongly associated with which literary period in English?",
+      "options": [
+        "Anglo-Saxon",
+        "Augustan/Neoclassical",
+        "Early Romantic",
+        "High Modernist"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The closed heroic couplet became especially prominent in Restoration and Augustan poetry, notably in Dryden and Pope.",
+      "i18n": {
+        "hi": {
+          "question": "English में heroic couplet किस literary period से सबसे अधिक जुड़ा है?",
+          "options": [
+            "Anglo-Saxon",
+            "Augustan/Neoclassical",
+            "Early Romantic",
+            "High Modernist"
+          ],
+          "explanation": "Closed heroic couplet Restoration और Augustan poetry में विशेष रूप से prominent हुआ, खासकर Dryden और Pope के यहाँ।"
+        },
+        "en": {
+          "question": "The heroic couplet is most strongly associated with which literary period in English?",
+          "options": [
+            "Anglo-Saxon",
+            "Augustan/Neoclassical",
+            "Early Romantic",
+            "High Modernist"
+          ],
+          "explanation": "The closed heroic couplet became especially prominent in Restoration and Augustan poetry, notably in Dryden and Pope."
+        }
+      }
+    },
+
+    {
+      "id": 53,
+      "type": "single_choice",
+      "section": "literary-history",
+      "question": "Which statement best distinguishes Romanticism from Neoclassicism?",
+      "options": [
+        "Romanticism privileged imagination and individual experience over strict classical order.",
+        "Romanticism rejected nature as a poetic subject.",
+        "Neoclassicism emphasized spontaneity and emotional intensity above form.",
+        "Neoclassicism was primarily concerned with medieval folklore."
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Romantic writers generally emphasized imagination, emotion, nature and individual experience, contrasting with neoclassical emphasis on order and decorum.",
+      "i18n": {
+        "hi": {
+          "question": "Romanticism और Neoclassicism में सबसे उपयुक्त अंतर कौन-सा है?",
+          "options": [
+            "Romanticism ने strict classical order की तुलना में imagination और individual experience को अधिक महत्व दिया।",
+            "Romanticism ने nature को poetic subject मानने से इनकार किया।",
+            "Neoclassicism ने form की तुलना में spontaneity और emotion को अधिक महत्व दिया।",
+            "Neoclassicism मुख्यतः medieval folklore से संबंधित था।"
+          ],
+          "explanation": "Romantic writers ने imagination, emotion, nature और individual experience पर जोर दिया, जबकि neoclassicism order और decorum से जुड़ा था।"
+        },
+        "en": {
+          "question": "Which statement best distinguishes Romanticism from Neoclassicism?",
+          "options": [
+            "Romanticism privileged imagination and individual experience over strict classical order.",
+            "Romanticism rejected nature as a poetic subject.",
+            "Neoclassicism emphasized spontaneity and emotional intensity above form.",
+            "Neoclassicism was primarily concerned with medieval folklore."
+          ],
+          "explanation": "Romantic writers generally emphasized imagination, emotion, nature and individual experience, contrasting with neoclassical emphasis on order and decorum."
+        }
+      }
+    },
+
+    {
+      "id": 54,
+      "type": "single_choice",
+      "section": "literary-history",
+      "question": "Which Victorian novelist created the fictional county of Wessex?",
+      "options": [
+        "George Eliot",
+        "Thomas Hardy",
+        "Charles Dickens",
+        "Anthony Trollope"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Thomas Hardy repeatedly used the fictionalized geographical region of Wessex as a setting for his novels.",
+      "i18n": {
+        "hi": {
+          "question": "किस Victorian novelist ने fictional county Wessex की रचना की?",
+          "options": [
+            "George Eliot",
+            "Thomas Hardy",
+            "Charles Dickens",
+            "Anthony Trollope"
+          ],
+          "explanation": "Thomas Hardy ने अपनी अनेक novels में fictionalized geographical region Wessex को setting के रूप में प्रयोग किया।"
+        },
+        "en": {
+          "question": "Which Victorian novelist created the fictional county of Wessex?",
+          "options": [
+            "George Eliot",
+            "Thomas Hardy",
+            "Charles Dickens",
+            "Anthony Trollope"
+          ],
+          "explanation": "Thomas Hardy repeatedly used the fictionalized geographical region of Wessex as a setting for his novels."
+        }
+      }
+    },
+
+    {
+      "id": 55,
+      "type": "single_choice",
+      "section": "literary-history",
+      "question": "Which term is most closely associated with Modernist narrative technique?",
+      "options": [
+        "Stream of consciousness",
+        "Heroic couplet",
+        "Morality play",
+        "Pastoral elegy"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Stream-of-consciousness techniques are strongly associated with Modernist writers such as Joyce and Woolf.",
+      "i18n": {
+        "hi": {
+          "question": "Modernist narrative technique से कौन-सा term सबसे अधिक जुड़ा है?",
+          "options": [
+            "Stream of consciousness",
+            "Heroic couplet",
+            "Morality play",
+            "Pastoral elegy"
+          ],
+          "explanation": "Stream-of-consciousness techniques Joyce और Woolf जैसे Modernist writers से विशेष रूप से जुड़ी हैं।"
+        },
+        "en": {
+          "question": "Which term is most closely associated with Modernist narrative technique?",
+          "options": [
+            "Stream of consciousness",
+            "Heroic couplet",
+            "Morality play",
+            "Pastoral elegy"
+          ],
+          "explanation": "Stream-of-consciousness techniques are strongly associated with Modernist writers such as Joyce and Woolf."
+        }
+      }
+    },
+
+    {
+      "id": 56,
+      "type": "single_choice",
+      "section": "literary-history",
+      "question": "Which sequence correctly places the following periods chronologically?",
+      "options": [
+        "Romantic → Restoration → Victorian → Modern",
+        "Restoration → Romantic → Victorian → Modern",
+        "Victorian → Restoration → Romantic → Modern",
+        "Modern → Victorian → Romantic → Restoration"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The broad chronological order is Restoration, Romantic, Victorian, and Modern.",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित periods को सही chronological order में कौन-सा विकल्प रखता है?",
+          "options": [
+            "Romantic → Restoration → Victorian → Modern",
+            "Restoration → Romantic → Victorian → Modern",
+            "Victorian → Restoration → Romantic → Modern",
+            "Modern → Victorian → Romantic → Restoration"
+          ],
+          "explanation": "Broad chronological order Restoration, Romantic, Victorian और Modern है।"
+        },
+        "en": {
+          "question": "Which sequence correctly places the following periods chronologically?",
+          "options": [
+            "Romantic → Restoration → Victorian → Modern",
+            "Restoration → Romantic → Victorian → Modern",
+            "Victorian → Restoration → Romantic → Modern",
+            "Modern → Victorian → Romantic → Restoration"
+          ],
+          "explanation": "The broad chronological order is Restoration, Romantic, Victorian, and Modern."
+        }
+      }
+    },
+
+    {
+      "id": 57,
+      "type": "single_choice",
+      "section": "literary-history",
+      "question": "Which writer is most closely associated with the concept of the 'dramatic monologue' in Victorian poetry?",
+      "options": [
+        "Robert Browning",
+        "Matthew Arnold",
+        "Gerard Manley Hopkins",
+        "D. G. Rossetti"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Browning developed the dramatic monologue into a major Victorian poetic form, as seen in 'My Last Duchess'.",
+      "i18n": {
+        "hi": {
+          "question": "Victorian poetry में 'dramatic monologue' से कौन सबसे अधिक जुड़ा है?",
+          "options": [
+            "Robert Browning",
+            "Matthew Arnold",
+            "Gerard Manley Hopkins",
+            "D. G. Rossetti"
+          ],
+          "explanation": "Browning ने dramatic monologue को प्रमुख Victorian poetic form के रूप में विकसित किया; 'My Last Duchess' इसका प्रसिद्ध उदाहरण है।"
+        },
+        "en": {
+          "question": "Which writer is most closely associated with the concept of the 'dramatic monologue' in Victorian poetry?",
+          "options": [
+            "Robert Browning",
+            "Matthew Arnold",
+            "Gerard Manley Hopkins",
+            "D. G. Rossetti"
+          ],
+          "explanation": "Browning developed the dramatic monologue into a major Victorian poetic form, as seen in 'My Last Duchess'."
+        }
+      }
+    },
+
+    {
+      "id": 58,
+      "type": "single_choice",
+      "section": "literary-history",
+      "question": "Which literary movement is characterized by deliberate fragmentation, mythic allusion and formal experimentation?",
+      "options": [
+        "Puritanism",
+        "Modernism",
+        "Sentimentalism",
+        "Medievalism"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Modernist writing frequently employs fragmentation, allusion, multiple perspectives and experimental forms.",
+      "i18n": {
+        "hi": {
+          "question": "कौन-सा literary movement deliberate fragmentation, mythic allusion और formal experimentation से जुड़ा है?",
+          "options": [
+            "Puritanism",
+            "Modernism",
+            "Sentimentalism",
+            "Medievalism"
+          ],
+          "explanation": "Modernist writing में fragmentation, allusion, multiple perspectives और experimental forms का व्यापक प्रयोग मिलता है।"
+        },
+        "en": {
+          "question": "Which literary movement is characterized by deliberate fragmentation, mythic allusion and formal experimentation?",
+          "options": [
+            "Puritanism",
+            "Modernism",
+            "Sentimentalism",
+            "Medievalism"
+          ],
+          "explanation": "Modernist writing frequently employs fragmentation, allusion, multiple perspectives and experimental forms."
+        }
+      }
+    },
+
+    {
+      "id": 59,
+      "type": "single_choice",
+      "section": "literary-history",
+      "question": "The term 'comedy of manners' is particularly associated with:",
+      "options": [
+        "Restoration drama",
+        "Anglo-Saxon epic",
+        "Romantic lyric",
+        "Modernist tragedy"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Restoration comedy is particularly associated with witty dialogue, sexual intrigue and satire of fashionable social behaviour.",
+      "i18n": {
+        "hi": {
+          "question": "'comedy of manners' term विशेष रूप से किससे संबंधित है?",
+          "options": [
+            "Restoration drama",
+            "Anglo-Saxon epic",
+            "Romantic lyric",
+            "Modernist tragedy"
+          ],
+          "explanation": "Restoration comedy witty dialogue, sexual intrigue और fashionable social behaviour की satire से जुड़ी है।"
+        },
+        "en": {
+          "question": "The term 'comedy of manners' is particularly associated with:",
+          "options": [
+            "Restoration drama",
+            "Anglo-Saxon epic",
+            "Romantic lyric",
+            "Modernist tragedy"
+          ],
+          "explanation": "Restoration comedy is particularly associated with witty dialogue, sexual intrigue and satire of fashionable social behaviour."
+        }
+      }
+    },
+
+    {
+      "id": 60,
+      "type": "single_choice",
+      "section": "literary-history",
+      "question": "The term 'objective correlative' is most famously associated with:",
+      "options": [
+        "T. S. Eliot",
+        "I. A. Richards",
+        "F. R. Leavis",
+        "Northrop Frye"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "T. S. Eliot discusses the objective correlative in his essay 'Hamlet and His Problems'.",
+      "i18n": {
+        "hi": {
+          "question": "'objective correlative' term सबसे प्रसिद्ध रूप से किस आलोचक से जुड़ा है?",
+          "options": [
+            "T. S. Eliot",
+            "I. A. Richards",
+            "F. R. Leavis",
+            "Northrop Frye"
+          ],
+          "explanation": "T. S. Eliot ने 'Hamlet and His Problems' में objective correlative की चर्चा की।"
+        },
+        "en": {
+          "question": "The term 'objective correlative' is most famously associated with:",
+          "options": [
+            "T. S. Eliot",
+            "I. A. Richards",
+            "F. R. Leavis",
+            "Northrop Frye"
+          ],
+          "explanation": "T. S. Eliot discusses the objective correlative in his essay 'Hamlet and His Problems'."
+        }
+      }
+    },
+
+    {
+      "id": 61,
+      "type": "single_choice",
+      "section": "literary-criticism",
+      "question": "For Aristotle, the most important element of tragedy is:",
+      "options": [
+        "Spectacle",
+        "Character",
+        "Plot",
+        "Diction"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "In the Poetics, Aristotle regards plot (mythos) as the soul of tragedy and gives it primacy over character.",
+      "i18n": {
+        "hi": {
+          "question": "Aristotle के अनुसार tragedy का सबसे महत्वपूर्ण element कौन-सा है?",
+          "options": [
+            "Spectacle",
+            "Character",
+            "Plot",
+            "Diction"
+          ],
+          "explanation": "Poetics में Aristotle plot (mythos) को tragedy की soul मानते हैं और इसे character से अधिक प्राथमिकता देते हैं।"
+        },
+        "en": {
+          "question": "For Aristotle, the most important element of tragedy is:",
+          "options": [
+            "Spectacle",
+            "Character",
+            "Plot",
+            "Diction"
+          ],
+          "explanation": "In the Poetics, Aristotle regards plot (mythos) as the soul of tragedy and gives it primacy over character."
+        }
+      }
+    },
+
+    {
+      "id": 62,
+      "type": "single_choice",
+      "section": "literary-criticism",
+      "question": "In Aristotle's theory, catharsis is most directly connected with:",
+      "options": [
+        "The purgation or purification of pity and fear",
+        "The rejection of imitation",
+        "The comic resolution of conflict",
+        "The use of heroic couplets"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Aristotle defines tragedy partly through its effect of catharsis of pity and fear, although the exact meaning of catharsis remains debated.",
+      "i18n": {
+        "hi": {
+          "question": "Aristotle के सिद्धांत में catharsis किससे सबसे सीधे संबंधित है?",
+          "options": [
+            "Pity और fear की purgation/purification",
+            "Imitation का rejection",
+            "Conflict का comic resolution",
+            "Heroic couplets का प्रयोग"
+          ],
+          "explanation": "Aristotle tragedy को pity और fear की catharsis से जोड़ते हैं, हालांकि catharsis के सटीक अर्थ पर scholarly debate है।"
+        },
+        "en": {
+          "question": "In Aristotle's theory, catharsis is most directly connected with:",
+          "options": [
+            "The purgation or purification of pity and fear",
+            "The rejection of imitation",
+            "The comic resolution of conflict",
+            "The use of heroic couplets"
+          ],
+          "explanation": "Aristotle defines tragedy partly through its effect of catharsis of pity and fear, although the exact meaning of catharsis remains debated."
+        }
+      }
+    },
+
+    {
+      "id": 63,
+      "type": "single_choice",
+      "section": "literary-criticism",
+      "question": "Sidney's Defence of Poesy responds primarily to:",
+      "options": [
+        "Puritan and Platonic attacks on poetry",
+        "Victorian realism",
+        "Modernist fragmentation",
+        "Postcolonial theory"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Sidney defends poetry against objections concerning its moral and epistemological value, drawing on classical arguments.",
+      "i18n": {
+        "hi": {
+          "question": "Sidney की Defence of Poesy मुख्यतः किसके response में लिखी गई?",
+          "options": [
+            "Poetry पर Puritan और Platonic attacks",
+            "Victorian realism",
+            "Modernist fragmentation",
+            "Postcolonial theory"
+          ],
+          "explanation": "Sidney poetry के moral और epistemological value पर लगाए गए objections का उत्तर देते हैं और classical arguments का उपयोग करते हैं।"
+        },
+        "en": {
+          "question": "Sidney's Defence of Poesy responds primarily to:",
+          "options": [
+            "Puritan and Platonic attacks on poetry",
+            "Victorian realism",
+            "Modernist fragmentation",
+            "Postcolonial theory"
+          ],
+          "explanation": "Sidney defends poetry against objections concerning its moral and epistemological value, drawing on classical arguments."
+        }
+      }
+    },
+
+    {
+      "id": 64,
+      "type": "single_choice",
+      "section": "literary-criticism",
+      "question": "Wordsworth's Preface to Lyrical Ballads places special emphasis on:",
+      "options": [
+        "The language of ordinary people and powerful emotion",
+        "The strict rules of classical decorum",
+        "The superiority of heroic couplets",
+        "The rejection of nature"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Wordsworth advocates ordinary language and explores poetry as arising from powerful feelings recollected in tranquillity.",
+      "i18n": {
+        "hi": {
+          "question": "Wordsworth की Preface to Lyrical Ballads में किस पर विशेष जोर है?",
+          "options": [
+            "साधारण लोगों की भाषा और powerful emotion",
+            "Classical decorum के strict rules",
+            "Heroic couplets की superiority",
+            "Nature का rejection"
+          ],
+          "explanation": "Wordsworth ordinary language का समर्थन करते हैं और poetry को powerful feelings recollected in tranquillity से जोड़ते हैं।"
+        },
+        "en": {
+          "question": "Wordsworth's Preface to Lyrical Ballads places special emphasis on:",
+          "options": [
+            "The language of ordinary people and powerful emotion",
+            "The strict rules of classical decorum",
+            "The superiority of heroic couplets",
+            "The rejection of nature"
+          ],
+          "explanation": "Wordsworth advocates ordinary language and explores poetry as arising from powerful feelings recollected in tranquillity."
+        }
+      }
+    },
+
+    {
+      "id": 65,
+      "type": "single_choice",
+      "section": "literary-criticism",
+      "question": "Coleridge distinguishes imagination from fancy primarily by treating imagination as:",
+      "options": [
+        "A mechanical process of memory",
+        "A vital, shaping and synthesizing power",
+        "A mere synonym for ornament",
+        "A rejection of poetic creativity"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "For Coleridge, imagination is an organic, shaping power, while fancy is more mechanical and associative.",
+      "i18n": {
+        "hi": {
+          "question": "Coleridge imagination और fancy में मुख्य अंतर कैसे करते हैं?",
+          "options": [
+            "Imagination को memory की mechanical process मानकर",
+            "Imagination को vital, shaping और synthesizing power मानकर",
+            "Imagination को ornament का synonym मानकर",
+            "Imagination को poetic creativity का rejection मानकर"
+          ],
+          "explanation": "Coleridge के अनुसार imagination organic और shaping power है, जबकि fancy अधिक mechanical और associative है।"
+        },
+        "en": {
+          "question": "Coleridge distinguishes imagination from fancy primarily by treating imagination as:",
+          "options": [
+            "A mechanical process of memory",
+            "A vital, shaping and synthesizing power",
+            "A mere synonym for ornament",
+            "A rejection of poetic creativity"
+          ],
+          "explanation": "For Coleridge, imagination is an organic, shaping power, while fancy is more mechanical and associative."
+        }
+      }
+    },
+
+    {
+      "id": 66,
+      "type": "single_choice",
+      "section": "literary-criticism",
+      "question": "Arnold's 'touchstone method' proposes that poetry may be judged by:",
+      "options": [
+        "Its commercial popularity",
+        "Comparing passages with acknowledged poetic excellence",
+        "The author's political office",
+        "The number of characters it contains"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Arnold recommends using short passages from acknowledged masters as touchstones for testing poetic excellence.",
+      "i18n": {
+        "hi": {
+          "question": "Arnold की 'touchstone method' के अनुसार poetry का मूल्यांकन कैसे किया जा सकता है?",
+          "options": [
+            "उसकी commercial popularity से",
+            "मान्य poetic excellence वाले passages से तुलना करके",
+            "Author के political office से",
+            "उसमें characters की संख्या से"
+          ],
+          "explanation": "Arnold acknowledged masters के short passages को touchstones के रूप में लेकर poetic excellence की जाँच करने की बात करते हैं।"
+        },
+        "en": {
+          "question": "Arnold's 'touchstone method' proposes that poetry may be judged by:",
+          "options": [
+            "Its commercial popularity",
+            "Comparing passages with acknowledged poetic excellence",
+            "The author's political office",
+            "The number of characters it contains"
+          ],
+          "explanation": "Arnold recommends using short passages from acknowledged masters as touchstones for testing poetic excellence."
+        }
+      }
+    },
+
+    {
+      "id": 67,
+      "type": "single_choice",
+      "section": "literary-criticism",
+      "question": "T. S. Eliot's 'Tradition and the Individual Talent' argues that poetic creation should be understood partly through:",
+      "options": [
+        "Complete separation from literary tradition",
+        "An interaction between individual talent and historical tradition",
+        "The poet's private biography alone",
+        "The rejection of impersonality"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Eliot argues that the individual poet's work exists in relation to a historical order of literature and emphasizes impersonality.",
+      "i18n": {
+        "hi": {
+          "question": "T. S. Eliot की 'Tradition and the Individual Talent' के अनुसार poetic creation को किसके माध्यम से समझना चाहिए?",
+          "options": [
+            "Literary tradition से complete separation",
+            "Individual talent और historical tradition के interaction के माध्यम से",
+            "केवल poet की private biography के माध्यम से",
+            "Impersonality के rejection के माध्यम से"
+          ],
+          "explanation": "Eliot के अनुसार individual poet का work historical literary order से संबंधित होता है और वे impersonality पर जोर देते हैं।"
+        },
+        "en": {
+          "question": "T. S. Eliot's 'Tradition and the Individual Talent' argues that poetic creation should be understood partly through:",
+          "options": [
+            "Complete separation from literary tradition",
+            "An interaction between individual talent and historical tradition",
+            "The poet's private biography alone",
+            "The rejection of impersonality"
+          ],
+          "explanation": "Eliot argues that the individual poet's work exists in relation to a historical order of literature and emphasizes impersonality."
+        }
+      }
+    },
+
+    {
+      "id": 68,
+      "type": "single_choice",
+      "section": "literary-criticism",
+      "question": "The 'intentional fallacy' is primarily the error of:",
+      "options": [
+        "Treating authorial intention as the definitive criterion of textual meaning",
+        "Ignoring rhyme schemes",
+        "Confusing tragedy with comedy",
+        "Rejecting historical evidence in all circumstances"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Wimsatt and Beardsley argue against making the author's intended meaning the final standard for evaluating a literary work.",
+      "i18n": {
+        "hi": {
+          "question": "'intentional fallacy' मुख्यतः किस त्रुटि को कहते हैं?",
+          "options": [
+            "Authorial intention को textual meaning का definitive criterion मानना",
+            "Rhyme schemes को ignore करना",
+            "Tragedy और comedy को confuse करना",
+            "हर परिस्थिति में historical evidence को reject करना"
+          ],
+          "explanation": "Wimsatt और Beardsley author की intended meaning को literary work की अंतिम interpretive authority मानने का विरोध करते हैं।"
+        },
+        "en": {
+          "question": "The 'intentional fallacy' is primarily the error of:",
+          "options": [
+            "Treating authorial intention as the definitive criterion of textual meaning",
+            "Ignoring rhyme schemes",
+            "Confusing tragedy with comedy",
+            "Rejecting historical evidence in all circumstances"
+          ],
+          "explanation": "Wimsatt and Beardsley argue against making the author's intended meaning the final standard for evaluating a literary work."
+        }
+      }
+    },
+
+    {
+      "id": 69,
+      "type": "single_choice",
+      "section": "literary-criticism",
+      "question": "New Criticism primarily privileges:",
+      "options": [
+        "Close reading of the autonomous text",
+        "The author's childhood history",
+        "Book-sales statistics",
+        "The reader's political biography"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "New Critics emphasize close textual analysis, internal relations and the relative autonomy of the literary work.",
+      "i18n": {
+        "hi": {
+          "question": "New Criticism मुख्यतः किसे प्राथमिकता देता है?",
+          "options": [
+            "Autonomous text की close reading",
+            "Author की childhood history",
+            "Book-sales statistics",
+            "Reader की political biography"
+          ],
+          "explanation": "New Critics close textual analysis, internal relations और literary work की relative autonomy पर जोर देते हैं।"
+        },
+        "en": {
+          "question": "New Criticism primarily privileges:",
+          "options": [
+            "Close reading of the autonomous text",
+            "The author's childhood history",
+            "Book-sales statistics",
+            "The reader's political biography"
+          ],
+          "explanation": "New Critics emphasize close textual analysis, internal relations and the relative autonomy of the literary work."
+        }
+      }
+    },
+
+    {
+      "id": 70,
+      "type": "single_choice",
+      "section": "literary-criticism",
+      "question": "Which concept is most closely associated with structuralism?",
+      "options": [
+        "Signifier and signified",
+        "Objective correlative",
+        "Touchstone",
+        "Negative capability"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Saussure's distinction between signifier and signified became foundational to structuralist approaches.",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से कौन-सा concept structuralism से सबसे अधिक संबंधित है?",
+          "options": [
+            "Signifier और signified",
+            "Objective correlative",
+            "Touchstone",
+            "Negative capability"
+          ],
+          "explanation": "Saussure का signifier और signified का distinction structuralist approaches के लिए foundational बना।"
+        },
+        "en": {
+          "question": "Which concept is most closely associated with structuralism?",
+          "options": [
+            "Signifier and signified",
+            "Objective correlative",
+            "Touchstone",
+            "Negative capability"
+          ],
+          "explanation": "Saussure's distinction between signifier and signified became foundational to structuralist approaches."
+        }
+      }
+    },
+
+    {
+      "id": 71,
+      "type": "single_choice",
+      "section": "literary-criticism",
+      "question": "Deconstruction is most closely associated with:",
+      "options": [
+        "Jacques Derrida",
+        "Cleanth Brooks",
+        "Matthew Arnold",
+        "Samuel Johnson"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Jacques Derrida is the central theorist associated with deconstruction.",
+      "i18n": {
+        "hi": {
+          "question": "Deconstruction किस theorist से सबसे अधिक जुड़ा है?",
+          "options": [
+            "Jacques Derrida",
+            "Cleanth Brooks",
+            "Matthew Arnold",
+            "Samuel Johnson"
+          ],
+          "explanation": "Jacques Derrida deconstruction से सबसे प्रमुख रूप से जुड़े theorist हैं।"
+        },
+        "en": {
+          "question": "Deconstruction is most closely associated with:",
+          "options": [
+            "Jacques Derrida",
+            "Cleanth Brooks",
+            "Matthew Arnold",
+            "Samuel Johnson"
+          ],
+          "explanation": "Jacques Derrida is the central theorist associated with deconstruction."
+        }
+      }
+    },
+
+    {
+      "id": 72,
+      "type": "single_choice",
+      "section": "literary-criticism",
+      "question": "In feminist literary criticism, the term 'gynocriticism' is associated with:",
+      "options": [
+        "Elaine Showalter",
+        "Judith Butler",
+        "Gayatri Spivak",
+        "Julia Kristeva"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Elaine Showalter used 'gynocriticism' for the study of women's writing and female literary traditions.",
+      "i18n": {
+        "hi": {
+          "question": "Feminist literary criticism में 'gynocriticism' किससे संबंधित है?",
+          "options": [
+            "Elaine Showalter",
+            "Judith Butler",
+            "Gayatri Spivak",
+            "Julia Kristeva"
+          ],
+          "explanation": "Elaine Showalter ने women's writing और female literary traditions के अध्ययन के लिए 'gynocriticism' term का प्रयोग किया।"
+        },
+        "en": {
+          "question": "In feminist literary criticism, the term 'gynocriticism' is associated with:",
+          "options": [
+            "Elaine Showalter",
+            "Judith Butler",
+            "Gayatri Spivak",
+            "Julia Kristeva"
+          ],
+          "explanation": "Elaine Showalter used 'gynocriticism' for the study of women's writing and female literary traditions."
+        }
+      }
+    },
+
+    {
+      "id": 73,
+      "type": "single_choice",
+      "section": "literary-criticism",
+      "question": "The term 'Orientalism' in postcolonial criticism is most closely associated with:",
+      "options": [
+        "Edward Said",
+        "Homi K. Bhabha",
+        "Frantz Fanon",
+        "Ngũgĩ wa Thiong'o"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Edward Said's Orientalism examines Western representations and constructions of the 'Orient'.",
+      "i18n": {
+        "hi": {
+          "question": "Postcolonial criticism में 'Orientalism' किससे सबसे अधिक जुड़ा है?",
+          "options": [
+            "Edward Said",
+            "Homi K. Bhabha",
+            "Frantz Fanon",
+            "Ngũgĩ wa Thiong'o"
+          ],
+          "explanation": "Edward Said की Orientalism Western representations और 'Orient' की constructions का अध्ययन करती है।"
+        },
+        "en": {
+          "question": "The term 'Orientalism' in postcolonial criticism is most closely associated with:",
+          "options": [
+            "Edward Said",
+            "Homi K. Bhabha",
+            "Frantz Fanon",
+            "Ngũgĩ wa Thiong'o"
+          ],
+          "explanation": "Edward Said's Orientalism examines Western representations and constructions of the 'Orient'."
+        }
+      }
+    },
+
+    {
+      "id": 74,
+      "type": "single_choice",
+      "section": "literary-criticism",
+      "question": "The 'intentional fallacy' and 'affective fallacy' are associated with:",
+      "options": [
+        "W. K. Wimsatt and Monroe Beardsley",
+        "I. A. Richards and F. R. Leavis",
+        "T. S. Eliot and Ezra Pound",
+        "Cleanth Brooks and Allen Tate"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Wimsatt and Beardsley formulated both concepts in influential New Critical essays.",
+      "i18n": {
+        "hi": {
+          "question": "'intentional fallacy' और 'affective fallacy' किससे संबंधित हैं?",
+          "options": [
+            "W. K. Wimsatt और Monroe Beardsley",
+            "I. A. Richards और F. R. Leavis",
+            "T. S. Eliot और Ezra Pound",
+            "Cleanth Brooks और Allen Tate"
+          ],
+          "explanation": "Wimsatt और Beardsley ने दोनों concepts को influential New Critical essays में विकसित किया।"
+        },
+        "en": {
+          "question": "The 'intentional fallacy' and 'affective fallacy' are associated with:",
+          "options": [
+            "W. K. Wimsatt and Monroe Beardsley",
+            "I. A. Richards and F. R. Leavis",
+            "T. S. Eliot and Ezra Pound",
+            "Cleanth Brooks and Allen Tate"
+          ],
+          "explanation": "Wimsatt and Beardsley formulated both concepts in influential New Critical essays."
+        }
+      }
+    },
+
+    {
+      "id": 75,
+      "type": "single_choice",
+      "section": "literary-criticism",
+      "question": "Bakhtin's concept of 'heteroglossia' refers broadly to:",
+      "options": [
+        "The coexistence of multiple social voices and speech types",
+        "The rejection of dialogue in fiction",
+        "A single authoritative narrative voice",
+        "The use of only archaic vocabulary"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Bakhtin uses heteroglossia to describe the interaction and coexistence of diverse social languages and voices.",
+      "i18n": {
+        "hi": {
+          "question": "Bakhtin का 'heteroglossia' concept broadly किसे दर्शाता है?",
+          "options": [
+            "Multiple social voices और speech types का coexistence",
+            "Fiction में dialogue का rejection",
+            "एक single authoritative narrative voice",
+            "केवल archaic vocabulary का प्रयोग"
+          ],
+          "explanation": "Bakhtin heteroglossia के माध्यम से diverse social languages और voices के interaction और coexistence को व्यक्त करते हैं।"
+        },
+        "en": {
+          "question": "Bakhtin's concept of 'heteroglossia' refers broadly to:",
+          "options": [
+            "The coexistence of multiple social voices and speech types",
+            "The rejection of dialogue in fiction",
+            "A single authoritative narrative voice",
+            "The use of only archaic vocabulary"
+          ],
+          "explanation": "Bakhtin uses heteroglossia to describe the interaction and coexistence of diverse social languages and voices."
+        }
+      }
+    },
+
+    {
+      "id": 76,
+      "type": "single_choice",
+      "section": "british-literature",
+      "question": "In Paradise Lost, Satan's statement 'The mind is its own place' most clearly expresses the poem's complex treatment of:",
+      "options": [
+        "Psychological self-fashioning and subjective freedom",
+        "Pastoral innocence",
+        "Comic reconciliation",
+        "Medieval courtly love"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Satan's rhetoric presents the mind as capable of constructing its own condition, contributing to the poem's complex characterization of him.",
+      "i18n": {
+        "hi": {
+          "question": "Paradise Lost में 'The mind is its own place' Satan के किस complex treatment को सबसे स्पष्ट रूप से व्यक्त करता है?",
+          "options": [
+            "Psychological self-fashioning और subjective freedom",
+            "Pastoral innocence",
+            "Comic reconciliation",
+            "Medieval courtly love"
+          ],
+          "explanation": "Satan की rhetoric mind को अपनी condition construct करने में सक्षम बताती है और उसके complex characterization में योगदान देती है।"
+        },
+        "en": {
+          "question": "In Paradise Lost, Satan's statement 'The mind is its own place' most clearly expresses the poem's complex treatment of:",
+          "options": [
+            "Psychological self-fashioning and subjective freedom",
+            "Pastoral innocence",
+            "Comic reconciliation",
+            "Medieval courtly love"
+          ],
+          "explanation": "Satan's rhetoric presents the mind as capable of constructing its own condition, contributing to the poem's complex characterization of him."
+        }
+      }
+    },
+
+    {
+      "id": 77,
+      "type": "single_choice",
+      "section": "british-literature",
+      "question": "Which Shakespearean tragedy most directly revolves around the conflict between appearance and reality through the motif of 'seeming'?",
+      "options": [
+        "Hamlet",
+        "The Comedy of Errors",
+        "The Tempest",
+        "A Midsummer Night's Dream"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Hamlet repeatedly explores uncertainty between appearance and reality, including performance, deception and feigned madness.",
+      "i18n": {
+        "hi": {
+          "question": "कौन-सी Shakespearean tragedy 'seeming' के motif के माध्यम से appearance और reality के conflict को विशेष रूप से explore करती है?",
+          "options": [
+            "Hamlet",
+            "The Comedy of Errors",
+            "The Tempest",
+            "A Midsummer Night's Dream"
+          ],
+          "explanation": "Hamlet appearance और reality के बीच uncertainty, performance, deception और feigned madness को बार-बार explore करता है।"
+        },
+        "en": {
+          "question": "Which Shakespearean tragedy most directly revolves around the conflict between appearance and reality through the motif of 'seeming'?",
+          "options": [
+            "Hamlet",
+            "The Comedy of Errors",
+            "The Tempest",
+            "A Midsummer Night's Dream"
+          ],
+          "explanation": "Hamlet repeatedly explores uncertainty between appearance and reality, including performance, deception and feigned madness."
+        }
+      }
+    },
+
+    {
+      "id": 78,
+      "type": "single_choice",
+      "section": "british-literature",
+      "question": "In 'The Rime of the Ancient Mariner', the albatross functions most significantly as:",
+      "options": [
+        "A symbol within the poem's moral and supernatural structure",
+        "A comic character",
+        "A historical monarch",
+        "A representation of industrial progress"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The albatross is central to the poem's symbolic, supernatural and moral architecture, particularly through the Mariner's act of killing it.",
+      "i18n": {
+        "hi": {
+          "question": "'The Rime of the Ancient Mariner' में albatross का सबसे महत्वपूर्ण function क्या है?",
+          "options": [
+            "Poem की moral और supernatural structure में symbol",
+            "Comic character",
+            "Historical monarch",
+            "Industrial progress का representation"
+          ],
+          "explanation": "Albatross poem की symbolic, supernatural और moral architecture का केंद्रीय भाग है, विशेषकर Mariner द्वारा उसे मारने के कारण।"
+        },
+        "en": {
+          "question": "In 'The Rime of the Ancient Mariner', the albatross functions most significantly as:",
+          "options": [
+            "A symbol within the poem's moral and supernatural structure",
+            "A comic character",
+            "A historical monarch",
+            "A representation of industrial progress"
+          ],
+          "explanation": "The albatross is central to the poem's symbolic, supernatural and moral architecture, particularly through the Mariner's act of killing it."
+        }
+      }
+    },
+
+    {
+      "id": 79,
+      "type": "single_choice",
+      "section": "british-literature",
+      "question": "The central dramatic irony of 'My Last Duchess' arises chiefly because:",
+      "options": [
+        "The Duke inadvertently reveals characteristics that undermine his self-presentation",
+        "The Duchess narrates the entire poem",
+        "The listener openly contradicts the Duke",
+        "The poem has no identifiable speaker"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The Duke attempts to present himself as controlled and authoritative but inadvertently exposes jealousy, possessiveness and cruelty.",
+      "i18n": {
+        "hi": {
+          "question": "'My Last Duchess' की central dramatic irony मुख्यतः किस कारण उत्पन्न होती है?",
+          "options": [
+            "Duke स्वयं ऐसी बातें reveal करता है जो उसकी self-presentation को undermine करती हैं",
+            "Duchess पूरी poem narrate करती है",
+            "Listener खुले रूप से Duke का विरोध करता है",
+            "Poem में कोई identifiable speaker नहीं है"
+          ],
+          "explanation": "Duke controlled और authoritative दिखना चाहता है, लेकिन उसकी speech jealousy, possessiveness और cruelty को उजागर करती है।"
+        },
+        "en": {
+          "question": "The central dramatic irony of 'My Last Duchess' arises chiefly because:",
+          "options": [
+            "The Duke inadvertently reveals characteristics that undermine his self-presentation",
+            "The Duchess narrates the entire poem",
+            "The listener openly contradicts the Duke",
+            "The poem has no identifiable speaker"
+          ],
+          "explanation": "The Duke attempts to present himself as controlled and authoritative but inadvertently exposes jealousy, possessiveness and cruelty."
+        }
+      }
+    },
+
+    {
+      "id": 80,
+      "type": "single_choice",
+      "section": "british-literature",
+      "question": "Which novel is constructed around the Bildungsroman development of Pip?",
+      "options": [
+        "Middlemarch",
+        "Great Expectations",
+        "Tess of the d'Urbervilles",
+        "North and South"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Great Expectations traces Pip's moral, social and psychological development from childhood into adulthood.",
+      "i18n": {
+        "hi": {
+          "question": "किस novel में Pip का Bildungsroman development केंद्रीय है?",
+          "options": [
+            "Middlemarch",
+            "Great Expectations",
+            "Tess of the d'Urbervilles",
+            "North and South"
+          ],
+          "explanation": "Great Expectations Pip के childhood से adulthood तक moral, social और psychological development को trace करता है।"
+        },
+        "en": {
+          "question": "Which novel is constructed around the Bildungsroman development of Pip?",
+          "options": [
+            "Middlemarch",
+            "Great Expectations",
+            "Tess of the d'Urbervilles",
+            "North and South"
+          ],
+          "explanation": "Great Expectations traces Pip's moral, social and psychological development from childhood into adulthood."
+        }
+      }
+    },
+
+    {
+      "id": 81,
+      "type": "single_choice",
+      "section": "british-literature",
+      "question": "In Middlemarch, the narrative technique is notable for:",
+      "options": [
+        "A broad omniscient perspective moving among multiple consciousnesses",
+        "A single first-person detective narrator",
+        "An exclusively epistolary structure",
+        "A purely dramatic monologue form"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "George Eliot's narrator moves across several characters and provides broad social and psychological commentary.",
+      "i18n": {
+        "hi": {
+          "question": "Middlemarch में narrative technique की प्रमुख विशेषता क्या है?",
+          "options": [
+            "Multiple consciousnesses के बीच movement करने वाला broad omniscient perspective",
+            "Single first-person detective narrator",
+            "Exclusively epistolary structure",
+            "Purely dramatic monologue form"
+          ],
+          "explanation": "George Eliot का narrator अनेक characters के बीच move करता है और व्यापक social तथा psychological commentary देता है।"
+        },
+        "en": {
+          "question": "In Middlemarch, the narrative technique is notable for:",
+          "options": [
+            "A broad omniscient perspective moving among multiple consciousnesses",
+            "A single first-person detective narrator",
+            "An exclusively epistolary structure",
+            "A purely dramatic monologue form"
+          ],
+          "explanation": "George Eliot's narrator moves across several characters and provides broad social and psychological commentary."
+        }
+      }
+    },
+
+    {
+      "id": 82,
+      "type": "single_choice",
+      "section": "british-literature",
+      "question": "The title 'The Waste Land' most strongly invokes a modern condition of:",
+      "options": [
+        "Cultural fragmentation and spiritual sterility",
+        "Pastoral abundance",
+        "Medieval chivalric unity",
+        "Comic domestic harmony"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Eliot's poem uses fragmentation, myth and multiple voices to represent cultural and spiritual dislocation.",
+      "i18n": {
+        "hi": {
+          "question": "'The Waste Land' का title modern condition में किससे सबसे अधिक जुड़ा है?",
+          "options": [
+            "Cultural fragmentation और spiritual sterility",
+            "Pastoral abundance",
+            "Medieval chivalric unity",
+            "Comic domestic harmony"
+          ],
+          "explanation": "Eliot fragmentation, myth और multiple voices के माध्यम से cultural और spiritual dislocation को प्रस्तुत करते हैं।"
+        },
+        "en": {
+          "question": "The title 'The Waste Land' most strongly invokes a modern condition of:",
+          "options": [
+            "Cultural fragmentation and spiritual sterility",
+            "Pastoral abundance",
+            "Medieval chivalric unity",
+            "Comic domestic harmony"
+          ],
+          "explanation": "Eliot's poem uses fragmentation, myth and multiple voices to represent cultural and spiritual dislocation."
+        }
+      }
+    },
+
+    {
+      "id": 83,
+      "type": "single_choice",
+      "section": "british-literature",
+      "question": "Which Shakespeare play contains the line 'All the world's a stage'?",
+      "options": [
+        "As You Like It",
+        "Twelfth Night",
+        "King Lear",
+        "Measure for Measure"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Jaques speaks the famous 'All the world's a stage' speech in As You Like It.",
+      "i18n": {
+        "hi": {
+          "question": "'All the world's a stage' line किस Shakespeare play में है?",
+          "options": [
+            "As You Like It",
+            "Twelfth Night",
+            "King Lear",
+            "Measure for Measure"
+          ],
+          "explanation": "Jaques यह प्रसिद्ध speech As You Like It में बोलता है।"
+        },
+        "en": {
+          "question": "Which Shakespeare play contains the line 'All the world's a stage'?",
+          "options": [
+            "As You Like It",
+            "Twelfth Night",
+            "King Lear",
+            "Measure for Measure"
+          ],
+          "explanation": "Jaques speaks the famous 'All the world's a stage' speech in As You Like It."
+        }
+      }
+    },
+
+    {
+      "id": 84,
+      "type": "single_choice",
+      "section": "british-literature",
+      "question": "Which poem is associated with Keats's concept of 'negative capability'?",
+      "options": [
+        "Ode to a Nightingale",
+        "The Eve of St Agnes",
+        "Hyperion",
+        "To Autumn"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Although negative capability is a concept from Keats's letters rather than a single poem, Ode to a Nightingale is often discussed in relation to it because of its openness to uncertainty.",
+      "i18n": {
+        "hi": {
+          "question": "Keats की 'negative capability' concept से निम्नलिखित में से कौन-सी poem विशेष रूप से discuss की जाती है?",
+          "options": [
+            "Ode to a Nightingale",
+            "The Eve of St Agnes",
+            "Hyperion",
+            "To Autumn"
+          ],
+          "explanation": "Negative capability Keats के letters का concept है, लेकिन Ode to a Nightingale को uncertainty के प्रति openness के कारण इससे जोड़ा जाता है।"
+        },
+        "en": {
+          "question": "Which poem is associated with Keats's concept of 'negative capability'?",
+          "options": [
+            "Ode to a Nightingale",
+            "The Eve of St Agnes",
+            "Hyperion",
+            "To Autumn"
+          ],
+          "explanation": "Although negative capability is a concept from Keats's letters rather than a single poem, Ode to a Nightingale is often discussed in relation to it because of its openness to uncertainty."
+        }
+      }
+    },
+
+    {
+      "id": 85,
+      "type": "single_choice",
+      "section": "british-literature",
+      "question": "In 'The Love Song of J. Alfred Prufrock', the speaker's repeated self-questioning primarily contributes to a sense of:",
+      "options": [
+        "Modern alienation and paralysis",
+        "Heroic confidence",
+        "Pastoral tranquillity",
+        "Comic triumph"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Prufrock's hesitation, self-consciousness and fragmented perceptions are central to the poem's representation of modern alienation.",
+      "i18n": {
+        "hi": {
+          "question": "'The Love Song of J. Alfred Prufrock' में speaker की repeated self-questioning मुख्यतः किस भावना को उत्पन्न करती है?",
+          "options": [
+            "Modern alienation और paralysis",
+            "Heroic confidence",
+            "Pastoral tranquillity",
+            "Comic triumph"
+          ],
+          "explanation": "Prufrock की hesitation, self-consciousness और fragmented perceptions modern alienation के representation का केंद्र हैं।"
+        },
+        "en": {
+          "question": "In 'The Love Song of J. Alfred Prufrock', the speaker's repeated self-questioning primarily contributes to a sense of:",
+          "options": [
+            "Modern alienation and paralysis",
+            "Heroic confidence",
+            "Pastoral tranquillity",
+            "Comic triumph"
+          ],
+          "explanation": "Prufrock's hesitation, self-consciousness and fragmented perceptions are central to the poem's representation of modern alienation."
+        }
+      }
+    },
+
+    {
+      "id": 86,
+      "type": "single_choice",
+      "section": "british-literature",
+      "question": "Which novel is most directly associated with the stream-of-consciousness technique?",
+      "options": [
+        "Mrs Dalloway",
+        "The Mayor of Casterbridge",
+        "Hard Times",
+        "The Vicar of Wakefield"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Virginia Woolf's Mrs Dalloway extensively renders characters' inner consciousness through free indirect discourse and related techniques.",
+      "i18n": {
+        "hi": {
+          "question": "कौन-सा novel stream-of-consciousness technique से सबसे अधिक सीधे जुड़ा है?",
+          "options": [
+            "Mrs Dalloway",
+            "The Mayor of Casterbridge",
+            "Hard Times",
+            "The Vicar of Wakefield"
+          ],
+          "explanation": "Virginia Woolf का Mrs Dalloway free indirect discourse और related techniques के माध्यम से inner consciousness को extensively प्रस्तुत करता है।"
+        },
+        "en": {
+          "question": "Which novel is most directly associated with the stream-of-consciousness technique?",
+          "options": [
+            "Mrs Dalloway",
+            "The Mayor of Casterbridge",
+            "Hard Times",
+            "The Vicar of Wakefield"
+          ],
+          "explanation": "Virginia Woolf's Mrs Dalloway extensively renders characters' inner consciousness through free indirect discourse and related techniques."
+        }
+      }
+    },
+
+    {
+      "id": 87,
+      "type": "single_choice",
+      "section": "british-literature",
+      "question": "Which of the following is a central concern of Blake's Songs of Innocence and of Experience?",
+      "options": [
+        "Contrasting states of innocence and experience",
+        "Scientific empiricism",
+        "Restoration manners",
+        "Industrial economics alone"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Blake deliberately juxtaposes innocence and experience as contrasting but interconnected states of human consciousness.",
+      "i18n": {
+        "hi": {
+          "question": "Blake की Songs of Innocence and of Experience की central concern क्या है?",
+          "options": [
+            "Innocence और experience की contrasting states",
+            "Scientific empiricism",
+            "Restoration manners",
+            "केवल industrial economics"
+          ],
+          "explanation": "Blake innocence और experience को human consciousness की contrasting लेकिन interconnected states के रूप में juxtapose करते हैं।"
+        },
+        "en": {
+          "question": "Which of the following is a central concern of Blake's Songs of Innocence and of Experience?",
+          "options": [
+            "Contrasting states of innocence and experience",
+            "Scientific empiricism",
+            "Restoration manners",
+            "Industrial economics alone"
+          ],
+          "explanation": "Blake deliberately juxtaposes innocence and experience as contrasting but interconnected states of human consciousness."
+        }
+      }
+    },
+
+    {
+      "id": 88,
+      "type": "single_choice",
+      "section": "british-literature",
+      "question": "Which character is the narrator of Jane Eyre?",
+      "options": [
+        "Jane Eyre herself",
+        "Edward Rochester",
+        "St John Rivers",
+        "Mrs Fairfax"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Charlotte Brontë's novel is narrated retrospectively in the first person by Jane Eyre.",
+      "i18n": {
+        "hi": {
+          "question": "Jane Eyre का narrator कौन है?",
+          "options": [
+            "Jane Eyre स्वयं",
+            "Edward Rochester",
+            "St John Rivers",
+            "Mrs Fairfax"
+          ],
+          "explanation": "Charlotte Brontë का novel Jane Eyre द्वारा retrospective first-person narration में लिखा गया है।"
+        },
+        "en": {
+          "question": "Which character is the narrator of Jane Eyre?",
+          "options": [
+            "Jane Eyre herself",
+            "Edward Rochester",
+            "St John Rivers",
+            "Mrs Fairfax"
+          ],
+          "explanation": "Charlotte Brontë's novel is narrated retrospectively in the first person by Jane Eyre."
+        }
+      }
+    },
+
+    {
+      "id": 89,
+      "type": "single_choice",
+      "section": "british-literature",
+      "question": "Which work is a mock-epic?",
+      "options": [
+        "The Rape of the Lock",
+        "Lycidas",
+        "In Memoriam",
+        "The Prelude"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Pope's The Rape of the Lock applies elevated epic conventions to a trivial social incident, producing a mock-epic effect.",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से कौन-सी work mock-epic है?",
+          "options": [
+            "The Rape of the Lock",
+            "Lycidas",
+            "In Memoriam",
+            "The Prelude"
+          ],
+          "explanation": "Pope की The Rape of the Lock trivial social incident पर epic conventions लागू करती है और mock-epic effect पैदा करती है।"
+        },
+        "en": {
+          "question": "Which work is a mock-epic?",
+          "options": [
+            "The Rape of the Lock",
+            "Lycidas",
+            "In Memoriam",
+            "The Prelude"
+          ],
+          "explanation": "Pope's The Rape of the Lock applies elevated epic conventions to a trivial social incident, producing a mock-epic
