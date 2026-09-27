@@ -4,7 +4,7 @@
     "tagline": "Crack your dream exam with smart preparation",
     "logo": null,
     "stats": {
-      "courses": 1,
+      "courses": 3,
       "questions": 2000,
       "students": 50000
     },
@@ -52,22 +52,9 @@
           "duration": 120,
           "maxScore": 20,
           "difficulty": "Medium",
-          "isFree": false,
+          "isFree": true,
           "tags": ["GK", "Math", "Hindi", "Teaching"],
           "questionsUrl": "/data/questions/supertet-test-1.json"
-        },{
-          "id": "supertet-cdp-top-1-percent-100",
-          "title": "Super TET Top 100 CDP CRACK QUESTIONS",
-          "description": "Full-length style mock test covering all subjects",
-          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_U5Ki-jD86H3Vl5adUkRzPbpu6WjIXzq9_KnF2_0tXg&s=10",
-          "datePublished": "2026-09-26",
-          "totalQuestions": 100,
-          "duration": 60,
-          "maxScore": 360,
-          "difficulty": "Hard",
-          "isFree": true,
-          "tags": ["Child Psychology", "Teaching", "Life Skills", "PYQ"],
-          "questionsUrl": "/data/questions/supertet_cdp_top_1_percent_100.json"
         },
         {
           "id": "supertet-pyq-based-100-1",
@@ -114,20 +101,452 @@
           "isFree": true,
           "tags": ["Hindi", "Sanskrit", "English", "Grammar"],
           "questionsUrl": "/data/questions/super-tet-2026-sanskrit-hindi-englsih.json"
+        }
+      ]
+    },
+    {
+      "id": "neet-crack-down",
+      "title": "NEET Crack Down 2026",
+      "subtitle": "NEET UG — Medical Entrance (MBBS / BDS / AYUSH)",
+      "img": "/images/course-neet-crack-down.jpg",
+      "color": "from-emerald-600 to-teal-700",
+      "description": "Complete NEET UG preparation on the latest NMC syllabus — chapter-wise tests, full-length mocks and PYQs for Physics, Chemistry and Biology. 180 questions, 720 marks, +4/-1.",
+      "language": "English + Hindi",
+      "active": true,
+      "about": [
+        "NEET UG is conducted by the National Testing Agency (NTA) for admission to MBBS, BDS and AYUSH (BAMS, BUMS, BSMS, BHMS) courses across India",
+        "Syllabus is based on NCERT Class 11 & 12, as notified by the National Medical Commission (NMC)",
+        "All 180 questions are compulsory — no optional questions",
+        "Chapter-wise practice tests, full-length mock tests and previous-year question (PYQ) sets",
+        "Questions in English and Hindi with detailed solutions and section-wise analysis"
+      ],
+      "examPattern": [
+        {
+          "label": "Conducting Body",
+          "value": "National Testing Agency (NTA)"
         },
-         {
-          "id": "reasoning-it-50",
-          "title": "Super TET 2026 Primary-Reasoning & ICT — Top 50 Questions",
-          "description": "Language section practice: Hindi grammar, Sanskrit vyakaran and English grammar & usage",
-          "img": "https://tse4.mm.bing.net/th/id/OIP.EAlpXaveuSL9g_5AW5mH-AHaEK?r=0&pid=Api&h=220&P=0",
-          "datePublished": "2026-09-25",
-          "totalQuestions": 50,
-          "duration": 60,
-          "maxScore": 50,
-          "difficulty": "Easy",
+        {
+          "label": "Mode",
+          "value": "Pen & Paper (OMR)"
+        },
+        {
+          "label": "Total Questions",
+          "value": "180 (all compulsory)"
+        },
+        {
+          "label": "Total Marks",
+          "value": "720"
+        },
+        {
+          "label": "Duration",
+          "value": "3 hours (180 minutes)"
+        },
+        {
+          "label": "Marking",
+          "value": "+4 correct, −1 wrong, 0 unattempted"
+        },
+        {
+          "label": "Physics",
+          "value": "45 questions · 180 marks"
+        },
+        {
+          "label": "Chemistry",
+          "value": "45 questions · 180 marks"
+        },
+        {
+          "label": "Biology",
+          "value": "90 questions · 360 marks (Botany 45 + Zoology 45)"
+        },
+        {
+          "label": "Languages",
+          "value": "13 languages including English and Hindi"
+        }
+      ],
+      "syllabusNote": "Unit-wise syllabus as per the NMC NEET UG syllabus. Always check the latest NTA information bulletin before the exam.",
+      "syllabus": [
+        {
+          "title": "Physics",
+          "badge": "45 Q · 180 marks",
+          "points": [
+            "Units and Measurements — SI units, dimensions, errors in measurement",
+            "Kinematics — motion in a straight line and in a plane, projectile motion, relative velocity",
+            "Laws of Motion — Newton's laws, friction, circular motion",
+            "Work, Energy and Power — work-energy theorem, conservation of energy, collisions",
+            "Rotational Motion — centre of mass, torque, moment of inertia, angular momentum",
+            "Gravitation — Kepler's laws, acceleration due to gravity, orbital velocity, escape velocity",
+            "Properties of Solids and Liquids — elasticity, fluid pressure, viscosity, surface tension, heat transfer",
+            "Thermodynamics — laws of thermodynamics, heat engines, thermodynamic processes",
+            "Kinetic Theory of Gases — ideal gas equation, RMS speed, degrees of freedom",
+            "Oscillations and Waves — SHM, simple pendulum, wave motion, standing waves, beats",
+            "Electrostatics — Coulomb's law, electric field, Gauss's law, potential, capacitors",
+            "Current Electricity — Ohm's law, Kirchhoff's laws, Wheatstone bridge, meter bridge, potentiometer",
+            "Magnetic Effects of Current and Magnetism — Biot-Savart law, Ampere's law, moving coil galvanometer, magnetic materials",
+            "Electromagnetic Induction and Alternating Currents — Faraday's and Lenz's laws, AC circuits, LCR resonance, transformers",
+            "Electromagnetic Waves — displacement current, EM spectrum and its uses",
+            "Optics — reflection, refraction, lenses, optical instruments, interference, diffraction, polarisation",
+            "Dual Nature of Matter and Radiation — photoelectric effect, de Broglie wavelength",
+            "Atoms and Nuclei — Bohr model, hydrogen spectrum, radioactivity, nuclear fission and fusion",
+            "Electronic Devices — semiconductors, p-n junction diode, Zener diode, logic gates",
+            "Experimental Skills — Vernier callipers, screw gauge, simple pendulum, meter bridge and other practicals"
+          ]
+        },
+        {
+          "title": "Chemistry — Physical",
+          "badge": "Part of 45 Q",
+          "points": [
+            "Some Basic Concepts in Chemistry — mole concept, stoichiometry, empirical and molecular formula",
+            "Atomic Structure — Bohr model, quantum numbers, orbitals, electronic configuration",
+            "Chemical Bonding and Molecular Structure — ionic and covalent bonds, VSEPR, hybridisation, MOT",
+            "Chemical Thermodynamics — enthalpy, entropy, Gibbs energy, Hess's law",
+            "Solutions — concentration terms, Raoult's law, colligative properties",
+            "Equilibrium — chemical and ionic equilibrium, pH, buffers, solubility product",
+            "Redox Reactions and Electrochemistry — oxidation number, electrochemical cells, Nernst equation, conductance",
+            "Chemical Kinetics — rate of reaction, order and molecularity, Arrhenius equation"
+          ]
+        },
+        {
+          "title": "Chemistry — Inorganic",
+          "badge": "Part of 45 Q",
+          "points": [
+            "Classification of Elements and Periodicity in Properties — periodic trends",
+            "p-Block Elements — Groups 13 to 18",
+            "d- and f-Block Elements — transition elements, lanthanoids and actinoids",
+            "Coordination Compounds — Werner's theory, nomenclature, isomerism, VBT and CFT"
+          ]
+        },
+        {
+          "title": "Chemistry — Organic",
+          "badge": "Part of 45 Q",
+          "points": [
+            "Purification and Characterisation of Organic Compounds",
+            "Some Basic Principles of Organic Chemistry — IUPAC nomenclature, isomerism, electronic effects, reaction intermediates",
+            "Hydrocarbons — alkanes, alkenes, alkynes, aromatic hydrocarbons",
+            "Organic Compounds Containing Halogens — haloalkanes and haloarenes",
+            "Organic Compounds Containing Oxygen — alcohols, phenols, ethers, aldehydes, ketones, carboxylic acids",
+            "Organic Compounds Containing Nitrogen — amines, diazonium salts",
+            "Biomolecules — carbohydrates, proteins, vitamins, nucleic acids, hormones",
+            "Principles Related to Practical Chemistry — detection of elements and functional groups, titrations, salt analysis"
+          ]
+        },
+        {
+          "title": "Biology (Botany + Zoology)",
+          "badge": "90 Q · 360 marks",
+          "points": [
+            "Diversity in Living World — classification, five-kingdom system, plant and animal kingdoms",
+            "Structural Organisation in Plants and Animals — morphology and anatomy of flowering plants, animal tissues",
+            "Cell Structure and Function — cell organelles, biomolecules, cell cycle and cell division",
+            "Plant Physiology — photosynthesis, respiration in plants, plant growth and development",
+            "Human Physiology — breathing, body fluids and circulation, excretion, locomotion, neural control, chemical coordination",
+            "Reproduction — sexual reproduction in flowering plants, human reproduction, reproductive health",
+            "Genetics and Evolution — principles of inheritance, molecular basis of inheritance, evolution",
+            "Biology and Human Welfare — human health and disease, microbes in human welfare",
+            "Biotechnology and Its Applications — principles, processes and applications of biotechnology",
+            "Ecology and Environment — organisms and populations, ecosystem, biodiversity and conservation"
+          ]
+        }
+      ],
+      "markingScheme": {
+        "default": {
+          "correct": 4,
+          "wrong": -1,
+          "skipped": 0
+        },
+        "multipleChoice": {
+          "allCorrect": 4,
+          "partialCredit": 0,
+          "anyWrong": -1
+        },
+        "essay": {
+          "marks": 5,
+          "autoScore": false
+        }
+      },
+      "testSeries": [
+        {
+          "id": "neet-hard-pyq-100",
+          "title": "NEET — Most Hard Paper | PYQ Based 2014–2024",
+          "description": "100 toughest NEET-level PYQ-based questions: Physics, Chemistry, Botany and Zoology (25 each) with step-by-step solutions",
+          "img": "/images/neet-hard-pyq.jpg",
+          "datePublished": "2026-09-27",
+          "totalQuestions": 100,
+          "duration": 200,
+          "maxScore": 400,
+          "difficulty": "Hard",
           "isFree": true,
-          "tags": ["reasoning", "it"],
-          "questionsUrl": "/data/questions/supertet-2026-reasoning-ict-top-50.json"
+          "tags": [
+            "Physics",
+            "Chemistry",
+            "Botany",
+            "Zoology",
+            "PYQ"
+          ],
+          "questionsUrl": "/data/questions/neet-top-100.json"
+        }
+      ]
+    },
+    {
+      "id": "upessc-pgt-2026",
+      "title": "UPESSC PGT Teacher 2026",
+      "subtitle": "UP Post Graduate Teacher (Pravakta) — Aided Secondary Schools",
+      "img": "/images/course-upessc-pgt.jpg",
+      "color": "from-orange-600 to-amber-700",
+      "description": "Subject-wise preparation for UPESSC PGT 2026 (Lecturer, Class 11–12). Post-graduate level subject tests, full-length mocks and previous-year questions in Hindi & English.",
+      "language": "Hindi + English",
+      "active": true,
+      "about": [
+        "Conducted by the Uttar Pradesh Education Service Selection Commission (UPESSC) for PGT (Pravakta / Lecturer) posts in government-aided secondary schools of UP",
+        "The written exam is subject-specific — you appear in the subject of your post-graduation",
+        "Eligibility (generally): Master's degree in the relevant subject + B.Ed — confirm in the official notification",
+        "Questions are mostly at graduation and post-graduation level of the subject",
+        "Subject-wise topic tests, full-length mocks and PYQ sets with detailed solutions in Hindi & English"
+      ],
+      "examPattern": [
+        {
+          "label": "Conducting Body",
+          "value": "UP Education Service Selection Commission (UPESSC)"
+        },
+        {
+          "label": "Post",
+          "value": "PGT / Pravakta (Class 11–12)"
+        },
+        {
+          "label": "Mode",
+          "value": "Offline (OMR based)"
+        },
+        {
+          "label": "Total Questions",
+          "value": "125 MCQs"
+        },
+        {
+          "label": "Total Marks",
+          "value": "425"
+        },
+        {
+          "label": "Duration",
+          "value": "2 hours"
+        },
+        {
+          "label": "Marking",
+          "value": "+3.4 per correct answer, no negative marking"
+        },
+        {
+          "label": "Paper",
+          "value": "Single paper of the chosen subject"
+        }
+      ],
+      "syllabusNote": "Exam pattern and topics are based on previous UPSESSB/UPESSC PGT exams. The commission publishes the official subject-wise syllabus with each notification — always verify with the latest notification.",
+      "syllabus": [
+        {
+          "title": "Subjects Available",
+          "badge": "Choose one",
+          "points": [
+            "Hindi",
+            "English",
+            "Sanskrit",
+            "Urdu",
+            "Mathematics",
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "History",
+            "Geography",
+            "Civics (Political Science)",
+            "Economics",
+            "Sociology",
+            "Psychology",
+            "Education (Shiksha Shastra)",
+            "Home Science",
+            "Commerce",
+            "Computer",
+            "Agriculture",
+            "Art / Drawing",
+            "Music"
+          ]
+        },
+        {
+          "title": "हिंदी (Hindi)",
+          "badge": "Topic outline",
+          "points": [
+            "हिंदी साहित्य का इतिहास — आदिकाल, भक्तिकाल, रीतिकाल, आधुनिक काल",
+            "प्रमुख कवि, लेखक और उनकी रचनाएँ",
+            "काव्यशास्त्र — रस, छंद, अलंकार, शब्द-शक्ति, काव्य गुण और दोष",
+            "गद्य विधाएँ — कहानी, उपन्यास, नाटक, एकांकी, निबंध, आलोचना",
+            "हिंदी भाषा का उद्भव और विकास, देवनागरी लिपि",
+            "हिंदी व्याकरण — संधि, समास, कारक, वाच्य, शब्द-भेद",
+            "भारतीय और पाश्चात्य काव्यशास्त्र के प्रमुख सिद्धांत"
+          ]
+        },
+        {
+          "title": "English",
+          "badge": "Topic outline",
+          "points": [
+            "History of English Literature — Chaucer to the Modern age",
+            "Poetry — major poets and poetic forms",
+            "Drama — Shakespeare and major dramatists",
+            "Novel and Prose — major novelists and essayists",
+            "Literary terms, forms and criticism",
+            "Indian Writing in English",
+            "Grammar, usage and vocabulary",
+            "Phonetics and linguistics basics"
+          ]
+        },
+        {
+          "title": "संस्कृत (Sanskrit)",
+          "badge": "Topic outline",
+          "points": [
+            "व्याकरण — संधि, समास, कारक, प्रत्यय, लकार (लघुसिद्धान्तकौमुदी आधारित)",
+            "वैदिक साहित्य — संहिता, ब्राह्मण, आरण्यक, उपनिषद्",
+            "लौकिक साहित्य — महाकाव्य, नाटक, गद्यकाव्य",
+            "साहित्यशास्त्र — रस, अलंकार, ध्वनि, छंद",
+            "भारतीय दर्शन — प्रमुख दर्शन और सिद्धान्त",
+            "भाषा विज्ञान और अनुवाद"
+          ]
+        },
+        {
+          "title": "Mathematics",
+          "badge": "Topic outline",
+          "points": [
+            "Algebra — groups, rings, fields, matrices and determinants",
+            "Linear Algebra — vector spaces, linear transformations, eigenvalues",
+            "Real Analysis — sequences, series, continuity, differentiability, integrability",
+            "Complex Analysis — analytic functions, complex integration",
+            "Calculus and Differential Equations — ordinary and partial differential equations",
+            "Coordinate Geometry (2D and 3D) and Vector Analysis",
+            "Statics and Dynamics (Mechanics)",
+            "Probability, Statistics and Numerical Methods"
+          ]
+        },
+        {
+          "title": "Physics",
+          "badge": "Topic outline",
+          "points": [
+            "Mechanics — Newtonian mechanics, rigid body dynamics, Lagrangian basics",
+            "Thermodynamics and Statistical Physics",
+            "Electricity and Magnetism, Electromagnetic theory",
+            "Waves, Oscillations and Optics",
+            "Quantum Mechanics",
+            "Atomic, Molecular and Nuclear Physics",
+            "Solid State Physics",
+            "Electronics — semiconductors, devices, digital electronics"
+          ]
+        },
+        {
+          "title": "Chemistry",
+          "badge": "Topic outline",
+          "points": [
+            "Physical Chemistry — thermodynamics, kinetics, electrochemistry, quantum chemistry, solutions",
+            "Inorganic Chemistry — periodic properties, chemical bonding, coordination chemistry, s-, p-, d- and f-block elements",
+            "Organic Chemistry — reaction mechanisms, stereochemistry, named reactions, biomolecules, polymers",
+            "Spectroscopy and analytical methods — UV, IR, NMR basics",
+            "Environmental and industrial chemistry"
+          ]
+        },
+        {
+          "title": "Biology",
+          "badge": "Topic outline",
+          "points": [
+            "Botany — plant diversity, anatomy, morphology, plant physiology",
+            "Zoology — animal diversity, animal physiology",
+            "Cell Biology and Molecular Biology",
+            "Genetics and Evolution",
+            "Ecology and Environment",
+            "Biotechnology and Microbiology",
+            "Human health and diseases"
+          ]
+        },
+        {
+          "title": "History",
+          "badge": "Topic outline",
+          "points": [
+            "Ancient India — Indus Valley, Vedic age, Mauryas, Guptas, post-Gupta period",
+            "Medieval India — Delhi Sultanate, Vijayanagar, Mughal Empire, Bhakti and Sufi movements",
+            "Modern India — British rule, 1857, social reform movements, national movement",
+            "World History — Renaissance, Reformation, revolutions, World Wars, UNO",
+            "Historiography and sources of history"
+          ]
+        },
+        {
+          "title": "Civics (Political Science)",
+          "badge": "Topic outline",
+          "points": [
+            "Political theory — state, sovereignty, rights, liberty, equality, justice",
+            "Indian Constitution and government — Parliament, executive, judiciary, federalism",
+            "Indian and Western political thought",
+            "Comparative politics",
+            "International relations and India's foreign policy",
+            "Public administration and local self-government"
+          ]
+        },
+        {
+          "title": "Economics",
+          "badge": "Topic outline",
+          "points": [
+            "Micro Economics — demand, supply, consumer behaviour, production, market structures",
+            "Macro Economics — national income, employment, inflation, business cycles",
+            "Money, Banking and Public Finance",
+            "International Trade and Balance of Payments",
+            "Indian Economy — planning, agriculture, industry, economic reforms",
+            "Statistics for Economics"
+          ]
+        },
+        {
+          "title": "Geography",
+          "badge": "Topic outline",
+          "points": [
+            "Physical Geography — geomorphology, climatology, oceanography, biogeography",
+            "Human and Economic Geography — population, settlements, resources, industries",
+            "Geography of India — physiography, climate, soils, agriculture, regions",
+            "World Geography — continents and major regions",
+            "Cartography, maps, remote sensing and GIS basics"
+          ]
+        }
+      ],
+      "markingScheme": {
+        "default": {
+          "correct": 3.4,
+          "wrong": 0,
+          "skipped": 0
+        },
+        "multipleChoice": {
+          "allCorrect": 3.4,
+          "partialCredit": 0,
+          "anyWrong": 0
+        },
+        "essay": {
+          "marks": 5,
+          "autoScore": false
+        }
+      },
+      "testSeries": [
+        {
+          "id": "upessc-pgt-english-hard-mock-01",
+          "title": "UPESSC PGT English 2026 — Extreme Difficulty Mock Test 01",
+          "description": "Full PGT English mock: General Knowledge, English Language (grammar, linguistics, phonetics) and English Literature & criticism",
+          "img": "/images/pgt-english-mock-01.jpg",
+          "datePublished": "2026-09-27",
+          "totalQuestions": 120,
+          "duration": 120,
+          "maxScore": 360,
+          "difficulty": "Hard",
+          "isFree": true,
+          "tags": [
+            "English",
+            "Literature",
+            "Grammar",
+            "GK"
+          ],
+          "markingScheme": {
+            "default": {
+              "correct": 3,
+              "wrong": -1
+            },
+            "multipleChoice": {
+              "allCorrect": 3,
+              "partialCredit": 1,
+              "anyWrong": -1
+            }
+          },
+          "questionsUrl": "/data/questions/upessc-pgt-level-1.json"
         }
       ]
     }
