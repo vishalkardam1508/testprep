@@ -43,6 +43,20 @@
       },
       "testSeries": [
         {
+          "id": "supertet_top_cd_level_1", 
+          "title": "SUPER TET Top 100 CDP Questions Level 1",
+          "description": "Full-length style mock test covering all CDP subjects",
+          "img": "https://tse1.mm.bing.net/th/id/OIP.74BLrtxc29QvQQrewQAkXQHaHa?r=0&pid=Api&h=220&P=0",
+          "datePublished": "2026-10-27",
+          "totalQuestions": 100,
+          "duration": 60,
+          "maxScore": 300,
+          "difficulty": "Medium-1",
+          "isFree": true,
+          "tags": ["Child Psychology", "Teaching", "Life Skills", "PYQ"],
+          "questionsUrl": "/data/questions/supertet_cdp_level_1.json"
+        },
+        {
           "id": "supertet-test-1",
           "title": "Super TET Full Mock Test 1",
           "description": "Full-length style mock test covering all subjects",
