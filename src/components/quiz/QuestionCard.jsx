@@ -121,18 +121,20 @@ export default function QuestionCard({ question, answer, onChange, index, total,
   }[type] || { label: type, color: 'text-gray-400 bg-gray-800' }
 
   return (
-    <div className="card p-6 md:p-8">
+    <div className="card p-4 sm:p-6 md:p-8">
       {/* Section label */}
       {section && (
-        <div className={`flex items-center gap-2 text-xs font-semibold mb-4 ${sc.text}`}>
-          <span className={`w-2 h-2 rounded-full ${sc.dot}`} />
-          Section {section.number} of {section.count}: {section.title}
-          <span className="text-gray-500 font-normal">— Question {section.position} of {section.items.length}</span>
+        <div className={`flex flex-wrap items-center gap-x-2 gap-y-1 text-xs font-semibold mb-4 ${sc.text}`}>
+          <span className="inline-flex items-center gap-2">
+            <span className={`w-2 h-2 rounded-full flex-shrink-0 ${sc.dot}`} />
+            Section {section.number} of {section.count}: {section.title}
+          </span>
+          <span className="text-gray-500 font-normal">Question {section.position} of {section.items.length}</span>
         </div>
       )}
 
       {/* Question header */}
-      <div className="flex flex-wrap items-center gap-3 mb-6">
+      <div className="flex flex-wrap items-center gap-2 sm:gap-3 mb-5 sm:mb-6">
         <span className="text-xs font-bold text-gray-400 bg-gray-800 px-3 py-1.5 rounded-lg">
           Q {index + 1} / {total}
         </span>
@@ -148,7 +150,7 @@ export default function QuestionCard({ question, answer, onChange, index, total,
       </div>
 
       {/* Question text */}
-      <p className="text-white text-base md:text-lg font-medium leading-relaxed mb-6">
+      <p className="text-white text-base md:text-lg font-medium leading-relaxed mb-5 sm:mb-6">
         {question.question}
       </p>
 

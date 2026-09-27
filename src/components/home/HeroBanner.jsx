@@ -4,7 +4,7 @@ export default function HeroBanner({ appInfo, courseCount }) {
   const stats = appInfo?.stats || {}
 
   return (
-    <div className="relative min-h-[90vh] flex flex-col items-center justify-center overflow-hidden pt-16">
+    <div className="relative min-h-[90vh] flex flex-col items-center justify-center overflow-hidden pt-24 pb-12 sm:pt-16 sm:pb-0">
 
       {/* Background effects */}
       <div className="absolute inset-0 bg-gradient-to-br from-gray-950 via-violet-950/10 to-gray-950" />
@@ -40,7 +40,7 @@ export default function HeroBanner({ appInfo, courseCount }) {
         </p>
 
         {/* CTA buttons */}
-        <div className="flex flex-wrap items-center justify-center gap-4 mb-16">
+        <div className="flex flex-col sm:flex-row sm:flex-wrap items-stretch sm:items-center justify-center gap-3 sm:gap-4 mb-12 sm:mb-16">
           <a href="#courses" className="btn-primary text-base px-8 py-4 rounded-2xl shadow-lg shadow-violet-500/25 hover:shadow-violet-500/40 hover:-translate-y-0.5 transition-all">
             Start Practicing →
           </a>
@@ -50,7 +50,7 @@ export default function HeroBanner({ appInfo, courseCount }) {
         </div>
 
         {/* Stats */}
-        <div className="flex flex-wrap items-center justify-center gap-8 md:gap-16">
+        <div className="grid grid-cols-2 gap-y-6 gap-x-4 sm:flex sm:flex-wrap sm:items-center sm:justify-center sm:gap-8 md:gap-16">
           {[
             { value: courseCount || stats.courses || '—', label: 'Exams Covered' },
             { value: `${stats.questions ? (stats.questions/1000).toFixed(0)+'K+' : '2K+'}`, label: 'Questions' },
@@ -66,7 +66,7 @@ export default function HeroBanner({ appInfo, courseCount }) {
       </div>
 
       {/* Scroll indicator */}
-      <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-gray-600">
+      <div className="hidden md:flex absolute bottom-8 left-1/2 -translate-x-1/2 flex-col items-center gap-2 text-gray-600">
         <span className="text-xs tracking-widest uppercase">Scroll</span>
         <div className="w-px h-8 bg-gradient-to-b from-gray-600 to-transparent" />
       </div>

@@ -56,7 +56,8 @@ const num = (n) => String(Math.round(n * 100) / 100)
 // "+3 / -1"
 export function formatScheme(scheme) {
   const d = scheme?.default || {}
-  return `+${num(d.correct ?? 1)} / -${num(Math.abs(d.wrong ?? 0))}`
+  const wrong = Math.abs(d.wrong ?? 0)
+  return `+${num(d.correct ?? 1)} / ${wrong ? '-' + num(wrong) : '0'}`
 }
 
 export const totalMarks = (questions, scheme) =>

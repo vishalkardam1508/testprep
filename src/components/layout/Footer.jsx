@@ -32,10 +32,10 @@ export default function Footer() {
 
   return (
     <footer className="border-t border-gray-800 bg-gray-950">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14 grid gap-10 sm:grid-cols-2 lg:grid-cols-4">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 sm:py-14 grid grid-cols-2 gap-x-6 gap-y-10 lg:grid-cols-4">
 
         {/* Brand */}
-        <div>
+        <div className="col-span-2 lg:col-span-1">
           <Link to="/" className="flex items-center gap-3 mb-4">
             <div className="w-9 h-9 bg-gradient-to-br from-violet-600 to-purple-700 rounded-xl flex items-center justify-center">
               <span className="text-white font-black text-base">T</span>
@@ -76,7 +76,7 @@ export default function Footer() {
 
         {/* Contact */}
         {founder && (
-          <div>
+          <div className="col-span-2 lg:col-span-1">
             <h4 className="text-white font-semibold text-sm mb-4">Contact</h4>
             <div className="flex items-center gap-3 mb-4">
               <SafeImage

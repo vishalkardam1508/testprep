@@ -3,13 +3,19 @@
 @tailwind utilities;
 
 @layer base {
+  html, body {
+    overflow-x: clip;   /* unlike hidden, clip keeps sticky headers working */
+  }
   body {
     @apply bg-gray-950 text-white font-sans;
+    -webkit-tap-highlight-color: transparent;
   }
   * { box-sizing: border-box; }
 }
 
 @layer utilities {
+  .no-scrollbar { scrollbar-width: none; }
+  .no-scrollbar::-webkit-scrollbar { display: none; }
   .gradient-text {
     @apply text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-cyan-400;
   }

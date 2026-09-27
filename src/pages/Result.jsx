@@ -203,9 +203,9 @@ export default function Result() {
 
             {/* Main score */}
             <div className="mb-6">
-              <div className="text-8xl font-black text-white leading-none mb-2">
+              <div className="text-6xl sm:text-8xl font-black text-white leading-none mb-2">
                 {result.score}
-                <span className="text-4xl text-gray-600 font-normal">/{result.maxScore}</span>
+                <span className="text-3xl sm:text-4xl text-gray-600 font-normal">/{result.maxScore}</span>
               </div>
               <div className={`text-3xl font-bold ${grade.color}`}>{pct}%</div>
               <div className={`inline-block mt-2 text-sm font-semibold px-4 py-1.5 rounded-full ${grade.color} bg-gray-800`}>

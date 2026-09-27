@@ -43,7 +43,7 @@ export default function Summary() {
             </div>
             <div>
               <h1 className="text-xl font-bold text-white">{student?.name || 'Student'}</h1>
-              <p className="text-gray-500 text-sm">{results.length} tests taken</p>
+              <p className="text-gray-500 text-sm">{results.length} {results.length === 1 ? 'test' : 'tests'} taken</p>
             </div>
           </div>
         </div>
@@ -83,7 +83,7 @@ export default function Summary() {
                 const pct   = parseFloat(r.percentage)
                 const ring  = Math.min(100, Math.max(0, pct))
                 return (
-                  <Link key={r.id} to={`/result/${r.id}`} className="card p-5 flex items-center gap-4 hover:border-gray-700 transition-all group block">
+                  <Link key={r.id} to={`/result/${r.id}`} className="card p-4 sm:p-5 flex items-center gap-3 sm:gap-4 hover:border-gray-700 transition-all group">
                     {/* Score circle */}
                     <div className="relative w-14 h-14 flex-shrink-0">
                       <svg className="w-full h-full -rotate-90" viewBox="0 0 100 100">
@@ -100,7 +100,7 @@ export default function Summary() {
 
                     {/* Info */}
                     <div className="flex-1 min-w-0">
-                      <p className="text-white font-semibold text-sm truncate group-hover:text-violet-400 transition-colors">
+                      <p className="text-white font-semibold text-sm line-clamp-2 group-hover:text-violet-400 transition-colors">
                         {r.testTitle}
                       </p>
                       <p className="text-gray-500 text-xs mt-0.5">{r.courseTitle} • {date}</p>
@@ -113,8 +113,8 @@ export default function Summary() {
 
                     {/* Score */}
                     <div className="text-right flex-shrink-0">
-                      <div className={`text-lg font-black ${grade.color}`}>{r.score}/{r.maxScore}</div>
-                      <div className={`text-xs font-semibold ${grade.color}`}>{grade.label}</div>
+                      <div className={`text-base sm:text-lg font-black whitespace-nowrap ${grade.color}`}>{r.score}/{r.maxScore}</div>
+                      <div className={`hidden sm:block text-xs font-semibold ${grade.color}`}>{grade.label}</div>
                     </div>
 
                     <svg className="w-4 h-4 text-gray-600 group-hover:text-gray-400 transition-colors flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">

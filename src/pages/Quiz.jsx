@@ -154,6 +154,7 @@ export default function Quiz() {
     setCurrentIdx(idx)
     setVisited(v => new Set(v).add(q.id))
     setShowPalette(false)
+    window.scrollTo({ top: 0, behavior: 'smooth' })
   }, [questions])
 
   const toggleMark = () => {
@@ -201,6 +202,13 @@ export default function Quiz() {
     clearProgress(testId)
     navigate(`/result/${id}`, { replace: true })
   }, [questions, answers, scheme, testInfo, testId, startedAt, duration, navigate])
+
+  // Keep the active section tab centred in the scrollable tab bar
+  useEffect(() => {
+    const tab = document.querySelector(`[data-section-tab="${sectionOf[currentIdx] ?? 0}"]`)
+    const bar = tab?.parentElement
+    if (bar) bar.scrollTo({ left: tab.offsetLeft - bar.clientWidth / 2 + tab.clientWidth / 2, behavior: 'smooth' })
+  }, [currentIdx, sectionOf])
 
   // ── Guards ────────────────────────────────────────────────
   if (masterLoading) return (
@@ -299,23 +307,41 @@ export default function Quiz() {
 
       {/* Quiz header */}
       <div className="sticky top-0 z-40 bg-gray-950/95 backdrop-blur-xl border-b border-gray-800">
-        <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
-          <div className="min-w-0">
-            <h1 className="text-sm font-bold text-white truncate">{testInfo.test.title}</h1>
-            <p className="text-xs text-gray-500">{studentName && `${studentName} • `}{attempted}/{questions.length} Attempted</p>
-          </div>
-          <div className="flex items-center gap-2 flex-shrink-0">
-            {bilingual && <LangToggle lang={lang} onChange={changeLang} />}
-            <Timer
-              endTime={startedAt ? startedAt + duration * 60 * 1000 : null}
-              durationMinutes={duration}
-              onExpire={handleSubmit}
-            />
-            <button onClick={() => setShowPalette(p => !p)} className="btn-secondary py-2 px-3 text-sm md:hidden">
-              ☰
+        <div className="max-w-6xl mx-auto px-3 sm:px-4 py-2.5 sm:py-3">
+          <div className="flex items-center gap-2 sm:gap-4">
+            <button
+              onClick={() => setShowPalette(p => !p)}
+              aria-label="Open question palette"
+              className="md:hidden flex-shrink-0 w-10 h-10 rounded-xl bg-gray-800 hover:bg-gray-700 text-gray-300 flex items-center justify-center"
+            >
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+              </svg>
             </button>
-            <button onClick={confirmSubmit} disabled={submitted} className="btn-primary py-2 px-4 text-sm disabled:opacity-50">
+            <div className="min-w-0 flex-1">
+              <h1 className="text-sm font-bold text-white truncate">{testInfo.test.title}</h1>
+              <p className="text-xs text-gray-500 truncate">{studentName && `${studentName} • `}{attempted}/{questions.length} Attempted</p>
+            </div>
+            <div className="hidden sm:block flex-shrink-0">
+              {bilingual && <LangToggle lang={lang} onChange={changeLang} />}
+            </div>
+            <div className="flex-shrink-0">
+              <Timer
+                endTime={startedAt ? startedAt + duration * 60 * 1000 : null}
+                durationMinutes={duration}
+                onExpire={handleSubmit}
+              />
+            </div>
+            <button onClick={confirmSubmit} disabled={submitted} className="hidden sm:inline-flex btn-primary py-2 px-4 text-sm flex-shrink-0 disabled:opacity-50">
               Submit
+            </button>
+          </div>
+
+          {/* Second row on phones */}
+          <div className="sm:hidden flex items-center justify-between gap-2 mt-2">
+            {bilingual ? <LangToggle lang={lang} onChange={changeLang} /> : <span />}
+            <button onClick={confirmSubmit} disabled={submitted} className="btn-primary py-1.5 px-4 text-sm disabled:opacity-50">
+              Submit Test
             </button>
           </div>
         </div>
@@ -330,7 +356,7 @@ export default function Quiz() {
       </div>
 
       {/* Main layout */}
-      <div className="max-w-6xl mx-auto px-4 py-6">
+      <div className="max-w-6xl mx-auto px-3 sm:px-4 py-4 sm:py-6 pb-28 md:pb-6">
         <div className="flex gap-6">
 
           {/* Sidebar palette (left) */}
@@ -350,7 +376,7 @@ export default function Quiz() {
 
             {/* Section tabs */}
             {showSectionTabs && (
-              <div className="flex gap-2 overflow-x-auto pb-1">
+              <div className="flex gap-2 overflow-x-auto no-scrollbar -mx-3 px-3 sm:mx-0 sm:px-0 pb-1">
                 {groups.map((g, gi) => {
                   const c      = sectionColor(g.color)
                   const active = gi === curGroupIdx
@@ -358,6 +384,7 @@ export default function Quiz() {
                   return (
                     <button
                       key={g.id}
+                      data-section-tab={gi}
                       onClick={() => goTo(g.items[0].index)}
                       className={`flex items-center gap-2 px-4 py-2 rounded-xl text-sm font-medium whitespace-nowrap border transition-all ${
                         active ? `${c.bg} ${c.border} ${c.text}` : 'bg-gray-900 border-gray-800 text-gray-400 hover:border-gray-700'
@@ -389,15 +416,15 @@ export default function Quiz() {
               />
             )}
 
-            {/* Navigation */}
-            <div className="flex items-center justify-between gap-3">
+            {/* Navigation — fixed bottom bar on phones, inline on desktop */}
+            <div className="fixed md:static bottom-0 inset-x-0 z-30 bg-gray-950/95 md:bg-transparent backdrop-blur-xl md:backdrop-blur-none border-t border-gray-800 md:border-0 px-3 md:px-0 pt-3 md:pt-0 pb-[max(0.75rem,env(safe-area-inset-bottom))] md:pb-0 flex items-center justify-between gap-2 sm:gap-3">
               <button onClick={() => goTo(currentIdx - 1)} disabled={isFirst}
-                className="btn-secondary py-2.5 px-5 text-sm disabled:opacity-30 disabled:cursor-not-allowed">
+                className="btn-secondary py-2.5 px-4 sm:px-5 text-sm disabled:opacity-30 disabled:cursor-not-allowed">
                 ← Prev
               </button>
 
               <button onClick={toggleMark}
-                className={`py-2.5 px-5 rounded-xl text-sm font-medium transition-all border ${
+                className={`py-2.5 px-4 sm:px-5 rounded-xl text-sm font-medium transition-all border ${
                   marked.has(q?.id)
                     ? 'bg-violet-600/20 border-violet-500 text-violet-400'
                     : 'bg-gray-800 border-gray-700 text-gray-400 hover:border-gray-600'
@@ -406,14 +433,16 @@ export default function Quiz() {
               </button>
 
               {!isLast ? (
-                <button onClick={() => goTo(currentIdx + 1)} className="btn-primary py-2.5 px-5 text-sm">
-                  {nextGroup ? `Next Section: ${nextGroup.title} →` : 'Next →'}
+                <button onClick={() => goTo(currentIdx + 1)} className="btn-primary py-2.5 px-4 sm:px-5 text-sm whitespace-nowrap">
+                  {nextGroup
+                    ? <><span className="sm:hidden">Next Section →</span><span className="hidden sm:inline">Next Section: {nextGroup.title} →</span></>
+                    : 'Next →'}
                 </button>
               ) : (
                 <button
                   onClick={confirmSubmit}
                   disabled={submitted}
-                  className="bg-emerald-600 hover:bg-emerald-500 text-white font-semibold py-2.5 px-5 rounded-xl text-sm transition-all disabled:opacity-50">
+                  className="bg-emerald-600 hover:bg-emerald-500 text-white font-semibold py-2.5 px-4 sm:px-5 rounded-xl text-sm transition-all disabled:opacity-50">
                   Submit ✓
                 </button>
               )}
@@ -422,8 +451,12 @@ export default function Quiz() {
 
           {/* Mobile palette overlay (slides in from the left) */}
           {showPalette && (
-            <div className="fixed inset-0 bg-black/70 z-40 md:hidden" onClick={() => setShowPalette(false)}>
-              <div className="absolute left-0 top-0 bottom-0 w-72 bg-gray-950 border-r border-gray-800 p-4 overflow-y-auto" onClick={e => e.stopPropagation()}>
+            <div className="fixed inset-0 bg-black/70 z-50 md:hidden" onClick={() => setShowPalette(false)}>
+              <div className="absolute left-0 top-0 bottom-0 w-[85vw] max-w-xs bg-gray-950 border-r border-gray-800 p-4 overflow-y-auto" onClick={e => e.stopPropagation()}>
+                <div className="flex items-center justify-between mb-3">
+                  <span className="text-sm font-semibold text-white">Questions</span>
+                  <button onClick={() => setShowPalette(false)} aria-label="Close" className="w-9 h-9 rounded-lg bg-gray-800 text-gray-400 hover:text-white flex items-center justify-center">✕</button>
+                </div>
                 <QuestionPalette
                   groups={groups}
                   answers={answers}

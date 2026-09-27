@@ -33,7 +33,7 @@ export default function Timer({ endTime, durationMinutes, onExpire }) {
   const isLow = endTime && secs <= 300
 
   return (
-    <div className={`flex items-center gap-2 px-4 py-2 rounded-xl font-mono font-bold text-base transition-all ${
+    <div className={`flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-4 py-2 rounded-xl font-mono font-bold text-sm sm:text-base tabular-nums whitespace-nowrap transition-all ${
       isLow ? 'bg-red-500/10 border border-red-500/30 text-red-400 animate-pulse' : 'bg-gray-800 text-white'
     }`}>
       <svg className="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
