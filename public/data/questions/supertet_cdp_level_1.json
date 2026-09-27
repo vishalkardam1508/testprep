@@ -1,0 +1,1842 @@
+{
+  "testId": "supertet_top_1_percent_100_bilingual_v2",
+  "title": "SUPER TET Top 1% Difficulty — 100 Questions (Bilingual)",
+  "duration": 120,
+  "markingScheme": {
+    "correct": 3,
+    "incorrect": -1,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "teaching-methodology",
+      "title": "Teaching Methodology",
+      "questionCount": 34
+    },
+    {
+      "id": "child-psychology",
+      "title": "Child Psychology",
+      "questionCount": 33
+    },
+    {
+      "id": "life-skills",
+      "title": "Life Skills",
+      "questionCount": 33
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "A teacher notices that a child always compares fractions by looking only at denominators. Which move is MOST diagnostic? / शिक्षक को denominator-based persistent misconception दिखती है; सबसे diagnostic कदम?",
+      "options": [
+        "Contrasting examples देकर reasoning elicitation / Elicit reasoning with contrasting examples",
+        "Rule फिर से याद कराना / Re-teach the rule",
+        "और कठिन worksheet / Harder worksheet",
+        "उत्तर बताकर practice / Give answer and practice"
+      ],
+      "answer": 0,
+      "explanation": "Diagnostic teaching begins by exposing the learner's underlying reasoning.",
+      "i18n": {
+        "hi": "निदानात्मक शिक्षण में पहले बच्चे की underlying reasoning सामने लाई जाती है।",
+        "en": "Diagnostic teaching first exposes the learner's underlying reasoning."
+      }
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "ZPD-based scaffolding में 'fading' का सबसे सटीक अर्थ क्या है? / What is fading?",
+      "options": [
+        "हर task में समान सहायता / Same help every time",
+        "Competence बढ़ने पर support धीरे-धीरे हटाना / Gradually withdraw support",
+        "Peer को हटाना / Remove peers",
+        "Difficulty अचानक बढ़ाना / Suddenly increase difficulty"
+      ],
+      "answer": 1,
+      "explanation": "Fading transfers control from teacher/scaffold to learner.",
+      "i18n": {
+        "hi": "Fading में competence बढ़ने के साथ support हटाया जाता है।",
+        "en": "Fading gradually transfers control to the learner."
+      }
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Learning outcome है: 'evidence के आधार पर claim justify करना'. कौन-सा assessment सबसे aligned है?",
+      "options": [
+        "Definition recall",
+        "Single factual MCQ",
+        "Two sources से claim justify करना / Justify a claim using two sources",
+        "Spelling test"
+      ],
+      "answer": 2,
+      "explanation": "The assessment must sample the same cognitive performance as the outcome.",
+      "i18n": {
+        "hi": "Evidence-based justification को सीधे assess करने वाला task aligned है।",
+        "en": "The task directly samples evidence-based justification."
+      }
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Revised Bloom में 'evaluate' और 'create' का सही distinction क्या है?",
+      "options": [
+        "दोनों recall हैं / Both are recall",
+        "Create केवल drawing है",
+        "Evaluate हमेशा lower-order है",
+        "Evaluate = criteria से judgment; Create = नया coherent product generate करना"
+      ],
+      "answer": 3,
+      "explanation": "Evaluate involves judgment by criteria; create involves generating/constructing something new.",
+      "i18n": {
+        "hi": "Evaluate में criteria-based judgment, create में नया product generation होता है।",
+        "en": "Evaluate is criteria-based judgment; create is generation/construction."
+      }
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Class participation high है लेकिन transfer low. सबसे उपयुक्त response?",
+      "options": [
+        "Varied contexts में application + explanation tasks",
+        "और lecture",
+        "और terminology",
+        "Participation कम करना"
+      ],
+      "answer": 0,
+      "explanation": "Transfer improves through varied-context application and explanation.",
+      "i18n": {
+        "hi": "Transfer के लिए varied contexts में application जरूरी है।",
+        "en": "Transfer is strengthened by varied-context application."
+      }
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Constructive alignment का core क्या है?",
+      "options": [
+        "Teacher personality",
+        "Outcomes, learning activities और assessment की coherence",
+        "Textbook coverage",
+        "Only difficult testing"
+      ],
+      "answer": 1,
+      "explanation": "Constructive alignment makes outcomes, pedagogy and assessment mutually supportive.",
+      "i18n": {
+        "hi": "Outcomes, activities और assessment coherent होने चाहिए।",
+        "en": "Outcomes, activities and assessment should reinforce one another."
+      }
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Student सही answer देता है लेकिन reason नहीं बता पाता. Best next assessment move?",
+      "options": [
+        "Same MCQ repeat",
+        "Marks double",
+        "'Why does your answer follow?' reasoning prompt",
+        "Speed test"
+      ],
+      "answer": 2,
+      "explanation": "A reasoning prompt distinguishes conceptual understanding from guessing.",
+      "i18n": {
+        "hi": "Reasoning prompt conceptual understanding को probe करता है।",
+        "en": "A reasoning prompt probes understanding beyond answer accuracy."
+      }
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Wait-time का strongest pedagogic effect?",
+      "options": [
+        "Marks equal करना",
+        "Rote memory खत्म करना",
+        "Noise हमेशा बढ़ाना",
+        "Processing और response quality बढ़ाना"
+      ],
+      "answer": 3,
+      "explanation": "Adequate wait time supports deeper processing and broader participation.",
+      "i18n": {
+        "hi": "Wait-time processing और response quality बढ़ाता है।",
+        "en": "Adequate wait time supports processing and thoughtful participation."
+      }
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Readiness बहुत अलग है लेकिन learning goal common है. Differentiation का defensible form?",
+      "options": [
+        "Same core goal, varied process/support/product",
+        "Same support for all",
+        "Weak learners को permanent low goals",
+        "Fast learners को punishment work"
+      ],
+      "answer": 0,
+      "explanation": "Differentiation varies access or demonstration while preserving meaningful goals.",
+      "i18n": {
+        "hi": "Core goal रखते हुए process/support/product vary करना उचित है।",
+        "en": "Vary access, support or product while preserving meaningful goals."
+      }
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Formative assessment का strongest use?",
+      "options": [
+        "Final certification",
+        "Evidence के आधार पर ongoing instruction adjust करना",
+        "Peer ranking",
+        "Attendance"
+      ],
+      "answer": 1,
+      "explanation": "Formative assessment is assessment for learning and informs instructional adjustment.",
+      "i18n": {
+        "hi": "Formative assessment ongoing instruction को adjust करने के लिए है।",
+        "en": "It informs adjustment during the learning process."
+      }
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Multiple valid solutions वाले task में best rubric?",
+      "options": [
+        "Exact answer only",
+        "No criteria",
+        "Common quality criteria + descriptors",
+        "Handwriting only"
+      ],
+      "answer": 2,
+      "explanation": "Rubrics should score quality dimensions without forcing one valid form.",
+      "i18n": {
+        "hi": "Rubric multiple valid solutions को common quality criteria से assess करे।",
+        "en": "Use shared quality criteria while allowing valid variation."
+      }
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Inquiry teaching में teacher की सबसे उपयुक्त role?",
+      "options": [
+        "Conclusion पहले बताना",
+        "Only observer",
+        "Only textbook reader",
+        "Questions, evidence, resources और reflection structure करना"
+      ],
+      "answer": 3,
+      "explanation": "The teacher structures inquiry without replacing learner reasoning.",
+      "i18n": {
+        "hi": "Teacher inquiry को structure करता है, conclusion impose नहीं करता।",
+        "en": "The teacher structures inquiry without replacing learner reasoning."
+      }
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Negative reinforcement का सही अर्थ?",
+      "options": [
+        "Aversive condition हटाकर behavior की संभावना बढ़ाना",
+        "Punishment",
+        "Reward हटाना",
+        "Negative comment"
+      ],
+      "answer": 0,
+      "explanation": "Negative reinforcement increases behavior by removing an aversive condition.",
+      "i18n": {
+        "hi": "Aversive condition हटने से desired behavior बढ़ता है।",
+        "en": "It increases behavior by removing an aversive condition."
+      }
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Growth-oriented feedback में किस पर जोर होगा?",
+      "options": [
+        "Fixed intelligence",
+        "Strategy, evidence, revision और next step",
+        "Only praise",
+        "Comparison with topper"
+      ],
+      "answer": 1,
+      "explanation": "Process-linked feedback makes improvement actionable.",
+      "i18n": {
+        "hi": "Strategy और next step पर specific feedback growth-oriented है।",
+        "en": "Strategy-linked feedback makes improvement actionable."
+      }
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Prompting और scaffolding का सही relation?",
+      "options": [
+        "Identical",
+        "Prompt punishment है",
+        "Prompt एक targeted cue हो सकता है; scaffolding broader temporary support है",
+        "Scaffolding केवल technology है"
+      ],
+      "answer": 2,
+      "explanation": "A prompt can be one scaffold; scaffolding is the broader support system.",
+      "i18n": {
+        "hi": "Prompt scaffolding का एक targeted form हो सकता है।",
+        "en": "A prompt can be one scaffold within a broader scaffold."
+      }
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Objective में compare/justify/critique हैं लेकिन test mostly recall है. Main concern?",
+      "options": [
+        "Perfect alignment",
+        "Reliability impossible",
+        "Objectivity impossible",
+        "Constructive alignment/validity concern"
+      ],
+      "answer": 3,
+      "explanation": "Recall-heavy testing underrepresents the intended cognitive demand.",
+      "i18n": {
+        "hi": "Recall-heavy test intended higher-order demand को underrepresent करता है।",
+        "en": "Recall-heavy testing underrepresents the intended cognitive demand."
+      }
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Hidden curriculum किसे कहते हैं?",
+      "options": [
+        "Implicit norms/values learned through routines and structures",
+        "Secret textbook",
+        "Deleted syllabus",
+        "Hidden exam"
+      ],
+      "answer": 0,
+      "explanation": "Institutional routines teach norms beyond the formal curriculum.",
+      "i18n": {
+        "hi": "School routines/structures से implicit norms सीखना hidden curriculum है।",
+        "en": "Implicit norms learned through school structures form the hidden curriculum."
+      }
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Cooperative learning में groups बना देना पर्याप्त क्यों नहीं?",
+      "options": [
+        "Groups illegal हैं",
+        "Positive interdependence और individual accountability चाहिए",
+        "हर group में teacher चाहिए",
+        "Competition पूरी तरह जरूरी है"
+      ],
+      "answer": 1,
+      "explanation": "Effective cooperation requires structured interdependence and accountability.",
+      "i18n": {
+        "hi": "सिर्फ grouping नहीं; interdependence और accountability भी चाहिए।",
+        "en": "Effective cooperation requires structured interdependence and accountability."
+      }
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "UDL का central principle?",
+      "options": [
+        "One medium for all",
+        "Only special educator",
+        "Multiple means of engagement, representation, action/expression",
+        "Remove standards"
+      ],
+      "answer": 2,
+      "explanation": "UDL anticipates learner variability through multiple pathways.",
+      "i18n": {
+        "hi": "UDL multiple engagement, representation और expression pathways देता है।",
+        "en": "UDL anticipates learner variability through multiple pathways."
+      }
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Writing weak है, oral strong है. Fair assessment का principle?",
+      "options": [
+        "Writing हमेशा हटाएँ",
+        "Marks double",
+        "Oral responses कभी नहीं",
+        "यदि writing construct नहीं है तो alternative response mode; यदि goal है तो writing assess करें"
+      ],
+      "answer": 3,
+      "explanation": "Fairness depends on whether the response mode is part of the construct.",
+      "i18n": {
+        "hi": "Response mode को construct के अनुसार चुनना चाहिए।",
+        "en": "Choose response modes according to the construct being assessed."
+      }
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Criterion-referenced assessment में interpretation किससे होता है?",
+      "options": [
+        "Predefined criteria/standards",
+        "Peer rank",
+        "Class average only",
+        "Teacher preference"
+      ],
+      "answer": 0,
+      "explanation": "Performance is interpreted against defined criteria rather than peers.",
+      "i18n": {
+        "hi": "Performance predefined standard के विरुद्ध interpret होता है।",
+        "en": "Performance is interpreted against predefined standards."
+      }
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Reliability और validity में सही distinction?",
+      "options": [
+        "Same thing",
+        "Reliability = consistency; validity = evidence supporting intended interpretation/use",
+        "Validity = speed",
+        "Reliability = syllabus coverage"
+      ],
+      "answer": 1,
+      "explanation": "Consistency and validity evidence answer different questions.",
+      "i18n": {
+        "hi": "Reliability consistency है; validity intended interpretation के evidence से जुड़ी है।",
+        "en": "Reliability concerns consistency; validity concerns the intended interpretation/use."
+      }
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Almost everyone gets an item correct. Item-level discrimination concern क्या हो सकता है?",
+      "options": [
+        "High discrimination guaranteed",
+        "Validity automatically perfect",
+        "Limited ability to distinguish learners",
+        "Reliability zero"
+      ],
+      "answer": 2,
+      "explanation": "Very easy items may provide little separation among examinees.",
+      "i18n": {
+        "hi": "बहुत आसान item candidates को distinguish कम कर सकता है।",
+        "en": "Very easy items may provide limited discrimination."
+      }
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Metacognition का clearest classroom indicator?",
+      "options": [
+        "Copying",
+        "Fast handwriting",
+        "Attendance",
+        "Plan-monitor-evaluate strategy and change it when needed"
+      ],
+      "answer": 3,
+      "explanation": "Metacognition includes planning, monitoring and evaluating cognition.",
+      "i18n": {
+        "hi": "Planning, monitoring और strategy change metacognition के संकेत हैं।",
+        "en": "Planning, monitoring and evaluating strategy are metacognitive behaviors."
+      }
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Peer assessment को stronger बनाने के लिए?",
+      "options": [
+        "Clear rubric + exemplars/calibration",
+        "No criteria",
+        "Secret marks",
+        "Competition only"
+      ],
+      "answer": 0,
+      "explanation": "Shared criteria and examples improve judgment quality.",
+      "i18n": {
+        "hi": "Clear rubric और exemplars peer judgment को बेहतर बनाते हैं।",
+        "en": "Shared criteria and exemplars improve peer judgments."
+      }
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Project-based learning में driving question का role?",
+      "options": [
+        "Trivia",
+        "Sustained inquiry को organize करने वाला authentic open-ended question",
+        "Attendance",
+        "Answer पहले देना"
+      ],
+      "answer": 1,
+      "explanation": "A driving question sustains inquiry around a meaningful challenge.",
+      "i18n": {
+        "hi": "Driving question sustained inquiry को organize करता है।",
+        "en": "A driving question sustains inquiry around a meaningful challenge."
+      }
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Remedial teaching का evidence-based starting point?",
+      "options": [
+        "Same worksheet for all",
+        "Random homework",
+        "Diagnostic evidence से specific gap identify करना",
+        "Only memorization"
+      ],
+      "answer": 2,
+      "explanation": "Remediation should target a diagnosed learning gap.",
+      "i18n": {
+        "hi": "Remedial teaching diagnosed gap पर आधारित होना चाहिए।",
+        "en": "Remediation should target a diagnosed gap."
+      }
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Same conceptual error repeatedly appears. Best feedback?",
+      "options": [
+        "'Wrong'",
+        "Answer immediately",
+        "Ignore",
+        "Misconception identify + contrasting case + revise reasoning"
+      ],
+      "answer": 3,
+      "explanation": "The learner needs help reconstructing the underlying concept.",
+      "i18n": {
+        "hi": "Misconception को identify करके contrasting case से reasoning revise करानी चाहिए।",
+        "en": "Feedback should target the misconception and reconstruction of reasoning."
+      }
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Authentic assessment सबसे accurately क्या sample करता है?",
+      "options": [
+        "Meaningful real-world-like application",
+        "Decontextualized recall",
+        "Only oral exam",
+        "Only project"
+      ],
+      "answer": 0,
+      "explanation": "Authenticity concerns meaningful context and application.",
+      "i18n": {
+        "hi": "Authenticity meaningful context में application से जुड़ी है।",
+        "en": "Authenticity concerns meaningful context and application."
+      }
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Leading questions until the expected answer is given: main inquiry threat?",
+      "options": [
+        "Too much autonomy",
+        "Teacher-directed confirmation/closure",
+        "High validity",
+        "Peer assessment"
+      ],
+      "answer": 1,
+      "explanation": "Leading questions can steer inquiry toward a predetermined conclusion.",
+      "i18n": {
+        "hi": "Leading questions predetermined conclusion की ओर steer कर सकती हैं।",
+        "en": "Leading questions can create predetermined closure."
+      }
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Differentiation by product का example?",
+      "options": [
+        "Same format for all",
+        "Different standards for each",
+        "Same target shown through report/presentation/model",
+        "Only extra time"
+      ],
+      "answer": 2,
+      "explanation": "Product differentiation changes the demonstration format while retaining the target.",
+      "i18n": {
+        "hi": "Same target को अलग valid formats में demonstrate करना product differentiation है।",
+        "en": "It varies the demonstration format while retaining the target."
+      }
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Math test में unnecessary language complexity reasoning को distort करती है. Threat?",
+      "options": [
+        "Inter-rater reliability",
+        "Positive washback",
+        "Perfect validity",
+        "Construct-irrelevant variance"
+      ],
+      "answer": 3,
+      "explanation": "Unintended language demands add variance unrelated to mathematical reasoning.",
+      "i18n": {
+        "hi": "अनावश्यक language demand construct-irrelevant variance जोड़ सकती है।",
+        "en": "Unintended language demands can add construct-irrelevant variance."
+      }
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "Best feedback principle?",
+      "options": [
+        "Specific, actionable, task-linked next step",
+        "Praise first always",
+        "Only grade",
+        "Public comparison"
+      ],
+      "answer": 0,
+      "explanation": "Actionable feedback points to what can be improved next.",
+      "i18n": {
+        "hi": "Feedback specific, actionable और next-step oriented होना चाहिए।",
+        "en": "Useful feedback is specific, actionable and future-oriented."
+      }
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "section": "Teaching Methodology",
+      "question": "A teacher wants to distinguish 'knows a formula' from 'can select and use it in novel contexts'. Best assessment?",
+      "options": [
+        "Formula recitation",
+        "Novel contextual problem requiring choice and justification",
+        "Copy worked example",
+        "True/false definition"
+      ],
+      "answer": 1,
+      "explanation": "Transfer requires selection and application, not recall alone.",
+      "i18n": {
+        "hi": "Novel context में selection + justification transfer को assess करता है।",
+        "en": "Novel contextual application tests transfer beyond recall."
+      }
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Piaget के formal operational thought का strongest indicator कौन-सा है?",
+      "options": [
+        "Object permanence",
+        "Transductive reasoning",
+        "Systematic hypothesis testing with propositional reasoning",
+        "Only conservation"
+      ],
+      "answer": 2,
+      "explanation": "Formal operations include systematic hypothesis testing and abstract/propositional reasoning.",
+      "i18n": {
+        "hi": "Formal operations में systematic hypothesis testing और abstract reasoning शामिल हैं।",
+        "en": "Formal operations include systematic hypothesis testing and abstract reasoning."
+      }
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Piagetian assimilation vs accommodation: child uses an old schema for a new case without changing it. This is?",
+      "options": [
+        "Accommodation",
+        "Equilibration only",
+        "Decentration",
+        "Assimilation"
+      ],
+      "answer": 3,
+      "explanation": "Assimilation fits new experience into an existing schema.",
+      "i18n": {
+        "hi": "नई experience को existing schema में fit करना assimilation है।",
+        "en": "Assimilation fits new experience into an existing schema."
+      }
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Vygotsky के अनुसार private speech का developmental significance क्या है?",
+      "options": [
+        "Self-regulation/problem-solving का internalization pathway",
+        "Always meaningless",
+        "Only imitation",
+        "Language delay का proof"
+      ],
+      "answer": 0,
+      "explanation": "Private speech supports self-guidance and can become inner speech.",
+      "i18n": {
+        "hi": "Private speech self-regulation और problem solving में सहायक है।",
+        "en": "Private speech supports self-regulation and can be internalized as inner speech."
+      }
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Erikson के अनुसार school-age period का central psychosocial conflict?",
+      "options": [
+        "Trust vs mistrust",
+        "Industry vs inferiority",
+        "Autonomy vs shame",
+        "Identity vs role confusion"
+      ],
+      "answer": 1,
+      "explanation": "School-age development centers on competence through industry versus inferiority.",
+      "i18n": {
+        "hi": "School-age stage में industry vs inferiority central है।",
+        "en": "School-age development centers on industry versus inferiority."
+      }
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Kohlberg के conventional morality में 'good boy/good girl' orientation primarily किस concern से जुड़ी है?",
+      "options": [
+        "Punishment avoidance only",
+        "Universal principles",
+        "Interpersonal approval and maintaining relationships",
+        "Self-interest exchange"
+      ],
+      "answer": 2,
+      "explanation": "Stage 3 emphasizes interpersonal approval and being seen as good.",
+      "i18n": {
+        "hi": "Stage 3 interpersonal approval और relationship expectations पर केंद्रित है।",
+        "en": "Stage 3 emphasizes interpersonal approval and relationships."
+      }
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Bandura के observational learning में vicarious reinforcement का अर्थ?",
+      "options": [
+        "Observer को direct reward",
+        "Punishment only",
+        "No learning",
+        "Model के consequence देखकर behavior probability बदलना"
+      ],
+      "answer": 3,
+      "explanation": "Observed consequences can alter the observer's likelihood of reproducing behavior.",
+      "i18n": {
+        "hi": "Model के consequences देखकर observer का behavior बदल सकता है।",
+        "en": "Observed consequences can alter the observer's behavior likelihood."
+      }
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Self-efficacy और self-esteem में सही distinction?",
+      "options": [
+        "Self-efficacy = belief in capability for a task; self-esteem = broader self-worth evaluation",
+        "Identical",
+        "Self-esteem task-specific only",
+        "Self-efficacy is IQ"
+      ],
+      "answer": 0,
+      "explanation": "Self-efficacy is capability belief; self-esteem concerns overall self-evaluation.",
+      "i18n": {
+        "hi": "Self-efficacy task capability belief है; self-esteem broader self-worth evaluation है।",
+        "en": "Self-efficacy is task-capability belief; self-esteem is broader self-worth."
+      }
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Attribution theory में student कहता है 'मैं fail हुआ क्योंकि strategy गलत थी'. यह relatively?",
+      "options": [
+        "External, uncontrollable",
+        "Internal, controllable attribution",
+        "Stable uncontrollable",
+        "Random"
+      ],
+      "answer": 1,
+      "explanation": "Strategy is internal and generally controllable, so it can support adaptive change.",
+      "i18n": {
+        "hi": "Strategy internal और relatively controllable factor है।",
+        "en": "Strategy is an internal and relatively controllable attribution."
+      }
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Growth mindset का strongest teacher behavior?",
+      "options": [
+        "Ability labels",
+        "Praise intelligence",
+        "Normalize effort plus strategy revision and challenge",
+        "Avoid difficult tasks"
+      ],
+      "answer": 2,
+      "explanation": "Growth-oriented practice links improvement to strategies, effort and learning conditions.",
+      "i18n": {
+        "hi": "Growth mindset में strategy revision और productive challenge पर जोर है।",
+        "en": "Growth-oriented teaching emphasizes strategy, effort and challenge."
+      }
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "A child can solve a conservation task only with concrete objects, not verbally. Piagetian interpretation?",
+      "options": [
+        "Formal operational mastery",
+        "No cognition",
+        "Moral reasoning",
+        "Concrete operational understanding may be emerging/context-dependent"
+      ],
+      "answer": 3,
+      "explanation": "Performance may depend on representational demands and concrete support.",
+      "i18n": {
+        "hi": "Concrete support के साथ conservation performance concrete operational reasoning से consistent हो सकता है।",
+        "en": "Concrete support can be consistent with concrete operational reasoning."
+      }
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Scaffolding की Vygotskian logic में assessment का useful form?",
+      "options": [
+        "Dynamic assessment that examines learning with mediated assistance",
+        "Only final score",
+        "Only IQ",
+        "Speed test"
+      ],
+      "answer": 0,
+      "explanation": "Dynamic assessment probes modifiability through guided assistance.",
+      "i18n": {
+        "hi": "Dynamic assessment guided assistance के साथ learning potential को probe करता है।",
+        "en": "Dynamic assessment examines modifiability with assistance."
+      }
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "‘Egocentrism’ in Piaget does NOT simply mean selfishness; it primarily refers to difficulty in?",
+      "options": [
+        "Sharing food",
+        "Taking another person's perspective",
+        "Remembering names",
+        "Following rules"
+      ],
+      "answer": 1,
+      "explanation": "Piagetian egocentrism concerns perspective-taking limitations.",
+      "i18n": {
+        "hi": "Piagetian egocentrism perspective-taking difficulty से संबंधित है।",
+        "en": "Piagetian egocentrism concerns difficulty taking another perspective."
+      }
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "A child obeys rules mainly to avoid punishment. Kohlberg level/stage?",
+      "options": [
+        "Conventional, law-and-order",
+        "Postconventional",
+        "Preconventional, punishment-obedience orientation",
+        "Stage 5"
+      ],
+      "answer": 2,
+      "explanation": "Punishment-obedience is the first preconventional orientation.",
+      "i18n": {
+        "hi": "Punishment-obedience preconventional morality का शुरुआती orientation है।",
+        "en": "Punishment-obedience is preconventional morality."
+      }
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Executive function में inhibition का classroom example?",
+      "options": [
+        "Remembering a poem",
+        "Drawing",
+        "Reading aloud",
+        "Suppressing an impulsive response to follow task rules"
+      ],
+      "answer": 3,
+      "explanation": "Inhibitory control suppresses a prepotent response.",
+      "i18n": {
+        "hi": "Impulsive response को रोककर rule-follow करना inhibitory control है।",
+        "en": "Inhibitory control suppresses a prepotent response."
+      }
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Working memory की classroom relevance सबसे directly किसमें दिखती है?",
+      "options": [
+        "Holding and manipulating information while solving a multi-step task",
+        "Long-term identity",
+        "Height",
+        "Temperament only"
+      ],
+      "answer": 0,
+      "explanation": "Working memory temporarily maintains and manipulates information.",
+      "i18n": {
+        "hi": "Multi-step problem में information hold/manipulate करना working memory demand है।",
+        "en": "Working memory supports holding and manipulating information."
+      }
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Intrinsic motivation के सबसे compatible classroom design?",
+      "options": [
+        "Controlling rewards only",
+        "Meaningful choice, optimal challenge, competence feedback",
+        "Threats",
+        "Constant public ranking"
+      ],
+      "answer": 1,
+      "explanation": "Autonomy, competence and meaningful engagement support intrinsic motivation.",
+      "i18n": {
+        "hi": "Meaningful choice और competence-supportive feedback intrinsic motivation को support करते हैं।",
+        "en": "Meaningful choice and competence support intrinsic motivation."
+      }
+    },
+    {
+      "id": 51,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "‘Learned helplessness’ के risk pattern में repeated uncontrollable failure का likely effect?",
+      "options": [
+        "Higher agency always",
+        "Better transfer",
+        "Expectations of lack of control and reduced persistence",
+        "Automatic mastery"
+      ],
+      "answer": 2,
+      "explanation": "Repeated uncontrollable outcomes can reduce perceived control and persistence.",
+      "i18n": {
+        "hi": "Uncontrollable failure perceived control और persistence घटा सकता है।",
+        "en": "Repeated uncontrollable failure can reduce perceived control and persistence."
+      }
+    },
+    {
+      "id": 52,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Temperament और personality के संबंध में safest statement?",
+      "options": [
+        "They are identical",
+        "Temperament begins only at adulthood",
+        "Personality is entirely genetic",
+        "Temperament refers to early-emerging reactivity/self-regulation tendencies; personality is broader"
+      ],
+      "answer": 3,
+      "explanation": "Temperament is a narrower early-emerging dispositional construct within broader personality development.",
+      "i18n": {
+        "hi": "Temperament early-emerging reactivity/self-regulation tendencies को दर्शाता है; personality broader है।",
+        "en": "Temperament is a narrower early-emerging construct than personality."
+      }
+    },
+    {
+      "id": 53,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Attachment theory में secure base behavior का example?",
+      "options": [
+        "Child explores, returns to caregiver for reassurance, then resumes exploration",
+        "Child never explores",
+        "Child avoids all adults",
+        "Child cannot separate"
+      ],
+      "answer": 0,
+      "explanation": "A secure attachment supports exploration while the caregiver serves as a reliable base.",
+      "i18n": {
+        "hi": "Secure attachment में caregiver reliable base की तरह काम करता है।",
+        "en": "Secure attachment supports exploration with the caregiver as a reliable base."
+      }
+    },
+    {
+      "id": 54,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "A teacher labels a child 'lazy' after repeated incomplete work. Why is this psychologically risky?",
+      "options": [
+        "Labels always improve self-efficacy",
+        "It can shift attention from modifiable causes/strategies to fixed identity",
+        "It guarantees motivation",
+        "It increases metacognition"
+      ],
+      "answer": 1,
+      "explanation": "Trait labels can obscure task, strategy, context and support variables.",
+      "i18n": {
+        "hi": "Fixed label modifiable strategy/context causes को छिपा सकता है।",
+        "en": "Trait labels can obscure modifiable strategy and contextual causes."
+      }
+    },
+    {
+      "id": 55,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Developmental principle 'cephalocaudal' means development proceeds broadly?",
+      "options": [
+        "From center outward",
+        "From feet to head",
+        "From head toward lower parts",
+        "Randomly"
+      ],
+      "answer": 2,
+      "explanation": "Cephalocaudal describes a head-to-lower-body developmental direction.",
+      "i18n": {
+        "hi": "Cephalocaudal दिशा head से lower body की ओर है।",
+        "en": "Cephalocaudal means development proceeds broadly from head downward."
+      }
+    },
+    {
+      "id": 56,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "'Proximodistal' development refers broadly to movement?",
+      "options": [
+        "From head downward",
+        "From social to moral",
+        "From language to math",
+        "From center/core toward extremities"
+      ],
+      "answer": 3,
+      "explanation": "Proximodistal describes development from the body's center outward.",
+      "i18n": {
+        "hi": "Proximodistal development center/core से extremities की ओर है।",
+        "en": "Proximodistal development proceeds from the center outward."
+      }
+    },
+    {
+      "id": 57,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "A child knows a rule but violates it when peers watch. Which distinction is most relevant?",
+      "options": [
+        "Knowledge and self-regulation are not identical",
+        "IQ and height",
+        "Memory and hearing",
+        "Attachment and nutrition"
+      ],
+      "answer": 0,
+      "explanation": "Knowing a rule does not guarantee inhibitory control, monitoring or social regulation.",
+      "i18n": {
+        "hi": "Rule knowledge और self-regulation अलग constructs हैं।",
+        "en": "Rule knowledge does not guarantee self-regulation."
+      }
+    },
+    {
+      "id": 58,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Executive function is best understood as?",
+      "options": [
+        "One single skill",
+        "A set of control processes including inhibition, working memory and cognitive flexibility",
+        "Only IQ",
+        "Only language"
+      ],
+      "answer": 1,
+      "explanation": "Executive function is a family of interrelated control processes.",
+      "i18n": {
+        "hi": "Executive function multiple control processes का समूह है।",
+        "en": "Executive function is a set of interrelated control processes."
+      }
+    },
+    {
+      "id": 59,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Cognitive flexibility is most directly shown when a child?",
+      "options": [
+        "Repeats one strategy",
+        "Memorizes a list",
+        "Switches strategy/rule when task demands change",
+        "Copies a diagram"
+      ],
+      "answer": 2,
+      "explanation": "Flexibility involves shifting perspectives, rules or strategies when needed.",
+      "i18n": {
+        "hi": "Task demand बदलने पर strategy बदलना cognitive flexibility है।",
+        "en": "Cognitive flexibility involves shifting strategies or rules."
+      }
+    },
+    {
+      "id": 60,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "A student says 'I am bad at maths' after one failure. A growth-oriented attributional reframe is?",
+      "options": [
+        "You are not a maths person",
+        "Maths is impossible",
+        "Ignore the result",
+        "That strategy did not work yet; let's identify what to change"
+      ],
+      "answer": 3,
+      "explanation": "The reframe moves from fixed identity to modifiable strategy.",
+      "i18n": {
+        "hi": "Reframe identity से हटकर modifiable strategy पर focus करता है।",
+        "en": "The reframe shifts from fixed identity to a modifiable strategy."
+      }
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Which memory process most directly converts attended information into a durable long-term trace?",
+      "options": [
+        "Encoding",
+        "Extinction",
+        "Punishment",
+        "Accommodation"
+      ],
+      "answer": 0,
+      "explanation": "Encoding is the process by which information is transformed for storage.",
+      "i18n": {
+        "hi": "Encoding information को memory storage के लिए transform करता है।",
+        "en": "Encoding transforms information for storage."
+      }
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Retrieval practice improves learning primarily because it?",
+      "options": [
+        "Eliminates forgetting permanently",
+        "Strengthens access pathways by actively recalling information",
+        "Makes reading unnecessary",
+        "Only increases handwriting speed"
+      ],
+      "answer": 1,
+      "explanation": "Active retrieval strengthens later access more effectively than passive rereading alone.",
+      "i18n": {
+        "hi": "Active recall later retrieval को मजबूत करता है।",
+        "en": "Active recall strengthens later access."
+      }
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "A teacher uses spaced review rather than one long cram session. The main learning principle?",
+      "options": [
+        "Primacy only",
+        "Punishment",
+        "Spacing effect",
+        "Habituation"
+      ],
+      "answer": 2,
+      "explanation": "Spacing distributes practice across time and generally improves retention.",
+      "i18n": {
+        "hi": "Spacing practice को समय में distribute करके retention improve करता है।",
+        "en": "Spacing distributes practice over time and supports retention."
+      }
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "Interleaving differs from blocked practice because interleaving?",
+      "options": [
+        "Never repeats skills",
+        "Is only group work",
+        "Eliminates feedback",
+        "Mixes related problem types/skills rather than practicing one type in a block"
+      ],
+      "answer": 3,
+      "explanation": "Interleaving requires learners to discriminate among strategies while switching problem types.",
+      "i18n": {
+        "hi": "Interleaving different problem types mix करता है, जिससे strategy discrimination बढ़ती है।",
+        "en": "Interleaving mixes problem types and strengthens strategy discrimination."
+      }
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "A child can explain a concept to a peer but not reproduce the teacher's exact wording. This most directly suggests?",
+      "options": [
+        "Conceptual understanding can exist without rote verbal reproduction",
+        "Understanding must equal verbatim recall",
+        "No learning",
+        "Low intelligence"
+      ],
+      "answer": 0,
+      "explanation": "Conceptual knowledge need not depend on reproducing exact wording.",
+      "i18n": {
+        "hi": "Conceptual understanding verbatim wording पर निर्भर नहीं होती।",
+        "en": "Conceptual understanding does not require verbatim reproduction."
+      }
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "‘Scaffolding’ should ideally be removed when?",
+      "options": [
+        "Immediately regardless of competence",
+        "As independent performance becomes possible",
+        "Never",
+        "Only at final exam"
+      ],
+      "answer": 1,
+      "explanation": "Support should fade as learner control and competence increase.",
+      "i18n": {
+        "hi": "Independent performance संभव होने पर scaffold हटना चाहिए।",
+        "en": "Support should fade as independent performance develops."
+      }
+    },
+    {
+      "id": 67,
+      "type": "mcq",
+      "section": "Child Psychology",
+      "question": "A child attributes success to luck and failure to fixed ability. Which intervention best increases adaptive agency?",
+      "options": [
+        "Reinforce luck attribution",
+        "Avoid feedback",
+        "Highlight controllable strategies, preparation and feedback",
+        "Public ranking"
+      ],
+      "answer": 2,
+      "explanation": "Controllable attributions make improvement pathways visible.",
+      "i18n": {
+        "hi": "Controllable strategies और preparation agency बढ़ाते हैं।",
+        "en": "Controllable strategy-based attributions support agency."
+      }
+    },
+    {
+      "id": 68,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "WHO-style life skills framework में 'decision making' का core क्या है?",
+      "options": [
+        "Only choosing quickly",
+        "Avoiding all risk",
+        "Following peers",
+        "Selecting among alternatives after considering consequences and information"
+      ],
+      "answer": 3,
+      "explanation": "Decision making involves informed choice among alternatives with consequences considered.",
+      "i18n": {
+        "hi": "Decision making में alternatives, information और consequences consider होते हैं।",
+        "en": "Decision making involves informed choice among alternatives and consequences."
+      }
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Problem-solving और decision-making में best distinction?",
+      "options": [
+        "Problem-solving addresses a gap/problem; decision-making selects among alternatives",
+        "Identical",
+        "Problem-solving only maths",
+        "Decision-making never uses evidence"
+      ],
+      "answer": 0,
+      "explanation": "Problem solving targets resolution; decision making selects a course of action.",
+      "i18n": {
+        "hi": "Problem-solving problem resolve करता है; decision-making alternatives में choice करता है।",
+        "en": "Problem solving addresses a problem; decision making selects an action."
+      }
+    },
+    {
+      "id": 70,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Assertive communication सबसे accurately क्या है?",
+      "options": [
+        "Aggressive domination",
+        "Clear, respectful expression of needs/rights while respecting others",
+        "Passive silence",
+        "Avoiding disagreement"
+      ],
+      "answer": 1,
+      "explanation": "Assertiveness balances self-expression with respect for others.",
+      "i18n": {
+        "hi": "Assertive communication clear और respectful self-expression है।",
+        "en": "Assertiveness expresses needs clearly while respecting others."
+      }
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "A student refuses a risky peer invitation by saying, 'No, I don't want to do that; let's leave.' This is primarily?",
+      "options": [
+        "Passive",
+        "Aggressive",
+        "Assertive refusal",
+        "Manipulative"
+      ],
+      "answer": 2,
+      "explanation": "The response is clear, direct and respectful without attacking the peer.",
+      "i18n": {
+        "hi": "यह clear, direct और respectful refusal है।",
+        "en": "It is a clear, direct and respectful refusal."
+      }
+    },
+    {
+      "id": 72,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Empathy differs from sympathy because empathy primarily involves?",
+      "options": [
+        "Feeling superior",
+        "Giving money",
+        "Avoiding emotion",
+        "Understanding/experiencing another's perspective without necessarily sharing the same judgment"
+      ],
+      "answer": 3,
+      "explanation": "Empathy seeks perspective and emotional understanding rather than pity alone.",
+      "i18n": {
+        "hi": "Empathy दूसरे के perspective और feelings को समझने पर केंद्रित है।",
+        "en": "Empathy focuses on understanding another's perspective and feelings."
+      }
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Active listening का strongest indicator?",
+      "options": [
+        "Paraphrasing, clarifying and checking understanding",
+        "Preparing your reply while they speak",
+        "Interrupting",
+        "Changing topic quickly"
+      ],
+      "answer": 0,
+      "explanation": "Active listening uses attention, paraphrase and clarification to verify meaning.",
+      "i18n": {
+        "hi": "Paraphrase और clarification understanding verify करते हैं।",
+        "en": "Paraphrasing and clarification verify understanding."
+      }
+    },
+    {
+      "id": 74,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Conflict में 'I-message' का purpose क्या है?",
+      "options": [
+        "Blame intensify करना",
+        "Behavior और अपनी feeling/need को non-accusatory तरीके से express करना",
+        "Threat देना",
+        "Conversation end करना"
+      ],
+      "answer": 1,
+      "explanation": "I-messages reduce blame by describing one's experience and need.",
+      "i18n": {
+        "hi": "I-message blame घटाकर अपनी feeling/need को express करता है।",
+        "en": "I-messages reduce blame and express one's experience/need."
+      }
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Stress और distress में best distinction?",
+      "options": [
+        "Every stress is harmful",
+        "Distress is always physical",
+        "Stress is a response to demands; distress refers to stress experienced as harmful/overwhelming",
+        "Stress never helps"
+      ],
+      "answer": 2,
+      "explanation": "Stress can be adaptive; distress denotes excessive or harmful stress experience.",
+      "i18n": {
+        "hi": "Stress adaptive हो सकता है; distress harmful/overwhelming experience को दर्शाता है।",
+        "en": "Stress can be adaptive; distress is excessive or harmful stress."
+      }
+    },
+    {
+      "id": 76,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Problem-focused coping is most suitable when?",
+      "options": [
+        "Situation is wholly uncontrollable",
+        "Emotion must be denied",
+        "No information exists",
+        "A controllable aspect of the stressor can be changed"
+      ],
+      "answer": 3,
+      "explanation": "Problem-focused coping targets changeable aspects of the stressor.",
+      "i18n": {
+        "hi": "Controllable aspects होने पर problem-focused coping उपयोगी है।",
+        "en": "Problem-focused coping targets controllable aspects of a stressor."
+      }
+    },
+    {
+      "id": 77,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Emotion-focused coping is particularly useful when?",
+      "options": [
+        "The situation cannot be immediately changed and emotional regulation is needed",
+        "Nothing emotional is involved",
+        "Only facts matter",
+        "A decision has already been made"
+      ],
+      "answer": 0,
+      "explanation": "When the stressor cannot be quickly changed, regulating emotional response can be adaptive.",
+      "i18n": {
+        "hi": "Unchangeable situation में emotional regulation उपयोगी हो सकती है।",
+        "en": "When a stressor cannot be changed immediately, emotional regulation can help."
+      }
+    },
+    {
+      "id": 78,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "SMART goal में 'M' का अर्थ?",
+      "options": [
+        "Moral",
+        "Measurable",
+        "Maximum",
+        "Mental"
+      ],
+      "answer": 1,
+      "explanation": "SMART commonly uses Measurable for M.",
+      "i18n": {
+        "hi": "SMART में M = Measurable.",
+        "en": "M stands for Measurable."
+      }
+    },
+    {
+      "id": 79,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "A goal 'I will improve maths' is weakest because it lacks primarily?",
+      "options": [
+        "Any motivation",
+        "Difficulty",
+        "Specificity and measurable indicators",
+        "Emotion"
+      ],
+      "answer": 2,
+      "explanation": "The statement is broad and lacks observable success criteria.",
+      "i18n": {
+        "hi": "Goal broad है और measurable indicator नहीं देता।",
+        "en": "It lacks specific and measurable success criteria."
+      }
+    },
+    {
+      "id": 80,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Time management में Eisenhower-style urgent/important matrix का key idea?",
+      "options": [
+        "All urgent tasks are important",
+        "Never schedule",
+        "Do only easy tasks",
+        "Prioritize by urgency and importance rather than treating them as identical"
+      ],
+      "answer": 3,
+      "explanation": "The matrix separates urgency from importance for prioritization.",
+      "i18n": {
+        "hi": "Urgency और importance को अलग करके priority तय की जाती है।",
+        "en": "It separates urgency from importance to prioritize tasks."
+      }
+    },
+    {
+      "id": 81,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Digital literacy में phishing पहचानने का strongest clue?",
+      "options": [
+        "Unexpected request for credentials/payment plus suspicious sender/link",
+        "Any email with text",
+        "Long email",
+        "Professional logo"
+      ],
+      "answer": 0,
+      "explanation": "Credential/payment requests and suspicious links are common phishing indicators.",
+      "i18n": {
+        "hi": "Unexpected credential/payment request और suspicious link red flags हैं।",
+        "en": "Unexpected credential/payment requests and suspicious links are common phishing indicators."
+      }
+    },
+    {
+      "id": 82,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Two-factor authentication improves account security primarily by?",
+      "options": [
+        "Making passwords longer automatically",
+        "Adding a second independent verification factor",
+        "Removing the password",
+        "Making phishing impossible"
+      ],
+      "answer": 1,
+      "explanation": "A second factor adds another layer beyond password knowledge.",
+      "i18n": {
+        "hi": "Second factor password के अलावा अतिरिक्त verification layer देता है।",
+        "en": "A second factor adds an additional verification layer."
+      }
+    },
+    {
+      "id": 83,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Media literacy में 'source triangulation' का अर्थ?",
+      "options": [
+        "Reading one source repeatedly",
+        "Using only social media",
+        "Checking a claim against multiple credible and independent sources",
+        "Ignoring primary sources"
+      ],
+      "answer": 2,
+      "explanation": "Triangulation compares evidence across credible sources.",
+      "i18n": {
+        "hi": "Multiple credible independent sources से claim verify करना triangulation है।",
+        "en": "Triangulation checks claims across multiple credible sources."
+      }
+    },
+    {
+      "id": 84,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Confirmation bias का example?",
+      "options": [
+        "Changing view after evidence",
+        "Random sampling",
+        "Checking opposing evidence",
+        "Only seeking information that supports an existing belief"
+      ],
+      "answer": 3,
+      "explanation": "Confirmation bias favors information consistent with existing beliefs.",
+      "i18n": {
+        "hi": "Existing belief को support करने वाली information चुनना confirmation bias है।",
+        "en": "Confirmation bias favors information consistent with prior beliefs."
+      }
+    },
+    {
+      "id": 85,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Financial literacy में 'needs vs wants' distinction का practical use?",
+      "options": [
+        "It helps prioritize essential spending before discretionary spending",
+        "Needs are always cheap",
+        "Wants are immoral",
+        "Needs never change"
+      ],
+      "answer": 0,
+      "explanation": "The distinction supports budgeting and prioritization.",
+      "i18n": {
+        "hi": "Needs-vs-wants budgeting में essential spending को prioritize करने में मदद करता है।",
+        "en": "It helps prioritize essential over discretionary spending."
+      }
+    },
+    {
+      "id": 86,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Compound interest का key feature?",
+      "options": [
+        "Interest only on principal forever",
+        "Interest can earn further interest as it accumulates",
+        "Always negative",
+        "No time effect"
+      ],
+      "answer": 1,
+      "explanation": "Compounding means accumulated interest can itself become part of the earning base.",
+      "i18n": {
+        "hi": "Accumulated interest आगे interest earn कर सकता है।",
+        "en": "Accumulated interest can itself earn further interest."
+      }
+    },
+    {
+      "id": 87,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Emergency fund का primary purpose?",
+      "options": [
+        "Maximize luxury spending",
+        "Avoid all investing",
+        "Provide liquidity for unexpected essential expenses",
+        "Increase debt"
+      ],
+      "answer": 2,
+      "explanation": "An emergency fund is a liquidity buffer for unforeseen essential costs.",
+      "i18n": {
+        "hi": "Emergency fund unexpected essential expenses के लिए liquidity buffer है।",
+        "en": "It provides liquidity for unexpected essential expenses."
+      }
+    },
+    {
+      "id": 88,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "A learner sees a viral financial claim and forwards it without checking. Best life-skill response?",
+      "options": [
+        "Forward faster",
+        "Trust follower count",
+        "Delete all apps",
+        "Pause, verify source/evidence and check context"
+      ],
+      "answer": 3,
+      "explanation": "Digital decision-making requires verification before amplification.",
+      "i18n": {
+        "hi": "Forward करने से पहले source/evidence/context verify करना चाहिए।",
+        "en": "Verify source, evidence and context before amplifying a claim."
+      }
+    },
+    {
+      "id": 89,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Negotiation में BATNA का practical meaning?",
+      "options": [
+        "Best Alternative To a Negotiated Agreement",
+        "Basic Agreement To Negotiate Always",
+        "Buyer Approval Total Negotiated Amount",
+        "None"
+      ],
+      "answer": 0,
+      "explanation": "BATNA is the best alternative available if no agreement is reached.",
+      "i18n": {
+        "hi": "BATNA = agreement न होने पर available best alternative.",
+        "en": "BATNA is the best alternative if no agreement is reached."
+      }
+    },
+    {
+      "id": 90,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "A conflict escalates because both sides repeat positions. Which move best shifts toward interest-based negotiation?",
+      "options": [
+        "Repeat louder",
+        "Ask underlying needs/interests behind positions",
+        "Threaten",
+        "End all communication"
+      ],
+      "answer": 1,
+      "explanation": "Interest-based negotiation explores why each side wants its stated position.",
+      "i18n": {
+        "hi": "Underlying interests पूछना positions से needs की ओर shift करता है।",
+        "en": "Exploring underlying interests moves negotiation beyond fixed positions."
+      }
+    },
+    {
+      "id": 91,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Resilience is best understood as?",
+      "options": [
+        "Never feeling stress",
+        "Ignoring problems",
+        "Capacity to adapt/recover while using support and learning from adversity",
+        "Always being positive"
+      ],
+      "answer": 2,
+      "explanation": "Resilience includes adaptation and recovery, not absence of difficulty.",
+      "i18n": {
+        "hi": "Resilience difficulty की absence नहीं, adaptation/recovery की capacity है।",
+        "en": "Resilience is adaptation and recovery, not absence of difficulty."
+      }
+    },
+    {
+      "id": 92,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Self-awareness in life skills most directly involves?",
+      "options": [
+        "Knowing only strengths",
+        "Avoiding feedback",
+        "Predicting future perfectly",
+        "Recognizing one's emotions, strengths, limits, values and patterns"
+      ],
+      "answer": 3,
+      "explanation": "Self-awareness includes internal states, strengths, limitations and patterns.",
+      "i18n": {
+        "hi": "Self-awareness emotions, strengths, limits और patterns को पहचानना है।",
+        "en": "Self-awareness includes emotions, strengths, limits and patterns."
+      }
+    },
+    {
+      "id": 93,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Critical thinking differs from mere skepticism because critical thinking?",
+      "options": [
+        "Uses evidence, reasoning and alternative explanations before judgment",
+        "Rejects every claim",
+        "Believes experts blindly",
+        "Avoids conclusions forever"
+      ],
+      "answer": 0,
+      "explanation": "Critical thinking evaluates claims using evidence and reasoning rather than rejecting by default.",
+      "i18n": {
+        "hi": "Critical thinking evidence और reasoning से claims evaluate करता है।",
+        "en": "Critical thinking evaluates claims using evidence and reasoning."
+      }
+    },
+    {
+      "id": 94,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "A student receives conflicting instructions from two people. Best first life-skill move?",
+      "options": [
+        "Choose randomly",
+        "Clarify the goal, constraints and authority/source before acting",
+        "Ignore both",
+        "Blame one person"
+      ],
+      "answer": 1,
+      "explanation": "Clarification reduces ambiguity before commitment.",
+      "i18n": {
+        "hi": "Goal, constraints और source clarify करना पहला उचित कदम है।",
+        "en": "Clarify goals, constraints and authority before acting."
+      }
+    },
+    {
+      "id": 95,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Goal-setting and implementation intention differ because an implementation intention specifies?",
+      "options": [
+        "Only desire",
+        "A reward only",
+        "A cue and planned response: 'If X happens, I will do Y'",
+        "A deadline only"
+      ],
+      "answer": 2,
+      "explanation": "Implementation intentions link a situational cue to a planned action.",
+      "i18n": {
+        "hi": "Implementation intention cue और planned response को जोड़ता है।",
+        "en": "An implementation intention links a cue to a planned response."
+      }
+    },
+    {
+      "id": 96,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Healthy digital boundaries most directly include?",
+      "options": [
+        "Sharing passwords with friends",
+        "Never using internet",
+        "Accepting every request",
+        "Managing notifications, privacy settings and screen routines intentionally"
+      ],
+      "answer": 3,
+      "explanation": "Digital boundaries involve deliberate control over access, attention and privacy.",
+      "i18n": {
+        "hi": "Notifications, privacy और screen routines को intentionally manage करना digital boundaries है।",
+        "en": "Digital boundaries involve intentional control of privacy and attention."
+      }
+    },
+    {
+      "id": 97,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "A person becomes angry during disagreement and immediately posts publicly. Best self-regulation sequence?",
+      "options": [
+        "Pause, regulate arousal, clarify intent, then communicate",
+        "Post first, reflect later",
+        "Delete account",
+        "Attack opponent"
+      ],
+      "answer": 0,
+      "explanation": "A pause reduces impulsive action and allows deliberate communication.",
+      "i18n": {
+        "hi": "Pause और regulation के बाद intent clarify करके communicate करना बेहतर है।",
+        "en": "Pausing and regulating arousal enables deliberate communication."
+      }
+    },
+    {
+      "id": 98,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "'Perspective taking' in conflict resolution helps because it?",
+      "options": [
+        "Proves one side wrong",
+        "Makes another person's constraints/needs cognitively visible",
+        "Removes disagreement automatically",
+        "Avoids evidence"
+      ],
+      "answer": 1,
+      "explanation": "Perspective taking broadens the representation of the problem and possible solutions.",
+      "i18n": {
+        "hi": "दूसरे की needs/constraints समझने से problem representation broaden होती है।",
+        "en": "Perspective taking makes others' needs and constraints visible."
+      }
+    },
+    {
+      "id": 99,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "Which is the strongest sign of responsible decision-making under uncertainty?",
+      "options": [
+        "Pretending certainty",
+        "Follow majority always",
+        "Identify options, risks, evidence gaps and choose/review accordingly",
+        "Avoid every decision"
+      ],
+      "answer": 2,
+      "explanation": "Responsible decisions acknowledge uncertainty and include monitoring/review.",
+      "i18n": {
+        "hi": "Uncertainty, risks और evidence gaps पहचानकर decision/review करना responsible है।",
+        "en": "Responsible decisions acknowledge uncertainty and include review."
+      }
+    },
+    {
+      "id": 100,
+      "type": "mcq",
+      "section": "Life Skills",
+      "question": "A student keeps a weekly reflection: 'What worked? What failed? What will I change next week?' This is primarily?",
+      "options": [
+        "Passive learning",
+        "Aggressive communication",
+        "External locus only",
+        "Metacognitive self-regulation"
+      ],
+      "answer": 3,
+      "explanation": "Reflection links monitoring to strategy adjustment.",
+      "i18n": {
+        "hi": "यह monitoring और strategy adjustment वाली self-regulation है।",
+        "en": "It links monitoring with strategy adjustment."
+      }
+    }
+  ],
+  "_meta": {
+    "difficulty": "Top 1% / very hard",
+    "language": "Bilingual Hindi + English; mixed exam-style stems plus full i18n",
+    "coverage": "Teaching Methodology, Child Psychology, Life Skills",
+    "questionCount": 100,
+    "answerDistribution": {
+      "0": 25,
+      "1": 25,
+      "2": 25,
+      "3": 25
+    },
+    "note": "Newly authored high-difficulty questions inspired by documented Super TET-style/PYQ themes; not claimed as verbatim previous-year questions."
+  }
+}
