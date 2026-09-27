@@ -547,6 +547,24 @@
             }
           },
           "questionsUrl": "/data/questions/upessc-pgt-level-1.json"
+        },
+         {
+          "id": "upessc-pgt-english-2026-hard-mock-01",
+          "title": "UPESSC PGT English 2026 — Hard Level Mock Test 01",
+          "description": "PGT English hard mock: General Studies, English Language, Literary History, Literary Criticism & Theory and British Literature",
+          "img": "/images/pgt-english-hard-mock-01.jpg",
+          "datePublished": "2026-09-27",
+          "totalQuestions": 89,
+          "duration": 120,
+          "maxScore": 267,
+          "difficulty": "Hard",
+          "isFree": true,
+          "tags": ["English", "Literature", "Criticism", "GS"],
+          "markingScheme": {
+            "default": { "correct": 3, "wrong": -1 },
+            "multipleChoice": { "allCorrect": 3, "partialCredit": 0, "anyWrong": -1 }
+          },
+          "questionsUrl": "/data/questions/pgt-teacher-2026.json"
         }
       ]
     }
