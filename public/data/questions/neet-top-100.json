@@ -1,0 +1,3845 @@
+{
+  "testId": "neet-hard-pyq-100",
+  "title": "NEET — Most Hard Paper | PYQ Based 2014-2024 | Hindi + English",
+  "duration": 200,
+  "markingScheme": {
+    "default": {
+      "correct": 4,
+      "wrong": -1,
+      "skipped": 0
+    },
+    "multipleChoice": {
+      "allCorrect": 4,
+      "partialCredit": 0,
+      "anyWrong": -1
+    },
+    "essay": {
+      "marks": 0,
+      "autoScore": false
+    }
+  },
+  "sections": [
+    {
+      "id": "physics",
+      "title": "Physics / भौतिकी",
+      "color": "blue"
+    },
+    {
+      "id": "chemistry",
+      "title": "Chemistry / रसायन विज्ञान",
+      "color": "violet"
+    },
+    {
+      "id": "botany",
+      "title": "Botany / वनस्पति विज्ञान",
+      "color": "emerald"
+    },
+    {
+      "id": "zoology",
+      "title": "Zoology / प्राणि विज्ञान",
+      "color": "orange"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "section": "physics",
+      "question": "A photon of wavelength 4000 Å falls on a metal surface with work function 1.68 eV. The kinetic energy of emitted photoelectron is: (h=6.6×10⁻³⁴ J·s, c=3×10⁸ m/s, 1eV=1.6×10⁻¹⁹ J)",
+      "options": [
+        "0.50 eV",
+        "1.41 eV",
+        "2.10 eV",
+        "3.09 eV"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "E = hc/λ = (6.6×10⁻³⁴×3×10⁸)/(4×10⁻⁷) = 4.95×10⁻¹⁹ J = 3.09 eV. KE = E − φ = 3.09 − 1.68 = 1.41 eV.",
+      "i18n": {
+        "hi": {
+          "question": "4000 Å तरंगदैर्ध्य का फोटॉन 1.68 eV कार्य-फलन वाली धातु पर पड़ता है। उत्सर्जित प्रकाश-इलेक्ट्रॉन की गतिज ऊर्जा होगी:",
+          "options": [
+            "0.50 eV",
+            "1.41 eV",
+            "2.10 eV",
+            "3.09 eV"
+          ],
+          "explanation": "E = hc/λ = (6.6×10⁻³⁴×3×10⁸)/(4×10⁻⁷) = 4.95×10⁻¹⁹ J = 3.09 eV. KE = E − φ = 3.09 − 1.68 = 1.41 eV."
+        },
+        "en": {
+          "question": "A photon of wavelength 4000 Å falls on a metal surface with work function 1.68 eV. The kinetic energy of emitted photoelectron is: (h=6.6×10⁻³⁴ J·s, c=3×10⁸ m/s, 1eV=1.6×10⁻¹⁹ J)",
+          "options": [
+            "0.50 eV",
+            "1.41 eV",
+            "2.10 eV",
+            "3.09 eV"
+          ],
+          "explanation": "E = hc/λ = (6.6×10⁻³⁴×3×10⁸)/(4×10⁻⁷) = 4.95×10⁻¹⁹ J = 3.09 eV. KE = E − φ = 3.09 − 1.68 = 1.41 eV."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "section": "physics",
+      "question": "An electron is accelerated through a potential difference of 100 V. Its de Broglie wavelength is approximately: (m=9.1×10⁻³¹ kg, e=1.6×10⁻¹⁹ C, h=6.6×10⁻³⁴ J·s)",
+      "options": [
+        "0.82 Å",
+        "2.46 Å",
+        "1.23 Å",
+        "1.64 Å"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "λ = h/√(2meV) = 6.6×10⁻³⁴/√(2×9.1×10⁻³¹×1.6×10⁻¹⁹×100) = 1.23×10⁻¹⁰ m = 1.23 Å. (NEET PYQ 2020 type)",
+      "i18n": {
+        "hi": {
+          "question": "एक इलेक्ट्रॉन को 100 V विभवान्तर से त्वरित किया जाता है। उसकी डी-ब्रॉग्ली तरंगदैर्ध्य लगभग होगी:",
+          "options": [
+            "0.82 Å",
+            "2.46 Å",
+            "1.23 Å",
+            "1.64 Å"
+          ],
+          "explanation": "λ = h/√(2meV) = 6.6×10⁻³⁴/√(2×9.1×10⁻³¹×1.6×10⁻¹⁹×100) = 1.23×10⁻¹⁰ m = 1.23 Å. (NEET PYQ 2020 type)"
+        },
+        "en": {
+          "question": "An electron is accelerated through a potential difference of 100 V. Its de Broglie wavelength is approximately: (m=9.1×10⁻³¹ kg, e=1.6×10⁻¹⁹ C, h=6.6×10⁻³⁴ J·s)",
+          "options": [
+            "0.82 Å",
+            "2.46 Å",
+            "1.23 Å",
+            "1.64 Å"
+          ],
+          "explanation": "λ = h/√(2meV) = 6.6×10⁻³⁴/√(2×9.1×10⁻³¹×1.6×10⁻¹⁹×100) = 1.23×10⁻¹⁰ m = 1.23 Å. (NEET PYQ 2020 type)"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "section": "physics",
+      "question": "A radioactive nucleus has half-life of 5 years. The fraction remaining after 20 years is:",
+      "options": [
+        "1/8",
+        "1/16",
+        "1/4",
+        "1/32"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "n = t/t½ = 20/5 = 4 half-lives. Remaining fraction = (1/2)⁴ = 1/16.",
+      "i18n": {
+        "hi": {
+          "question": "एक रेडियोधर्मी नाभिक की अर्धायु 5 वर्ष है। 20 वर्षों के बाद शेष अंश होगा:",
+          "options": [
+            "1/8",
+            "1/16",
+            "1/4",
+            "1/32"
+          ],
+          "explanation": "n = t/t½ = 20/5 = 4 half-lives. Remaining fraction = (1/2)⁴ = 1/16."
+        },
+        "en": {
+          "question": "A radioactive nucleus has half-life of 5 years. The fraction remaining after 20 years is:",
+          "options": [
+            "1/8",
+            "1/16",
+            "1/4",
+            "1/32"
+          ],
+          "explanation": "n = t/t½ = 20/5 = 4 half-lives. Remaining fraction = (1/2)⁴ = 1/16."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "section": "physics",
+      "question": "Two capacitors of 4μF and 6μF are connected in series across 100 V. The charge on 6μF capacitor is:",
+      "options": [
+        "60 μC",
+        "150 μC",
+        "100 μC",
+        "240 μC"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "C_series = (4×6)/(4+6) = 2.4 μF. Q = CV = 2.4×100 = 240 μC. In series, charge is same on both capacitors.",
+      "i18n": {
+        "hi": {
+          "question": "4μF और 6μF के दो संधारित्र 100 V के आर-पार श्रेणी में जुड़े हैं। 6μF पर आवेश होगा:",
+          "options": [
+            "60 μC",
+            "150 μC",
+            "100 μC",
+            "240 μC"
+          ],
+          "explanation": "C_series = (4×6)/(4+6) = 2.4 μF. Q = CV = 2.4×100 = 240 μC. In series, charge is same on both capacitors."
+        },
+        "en": {
+          "question": "Two capacitors of 4μF and 6μF are connected in series across 100 V. The charge on 6μF capacitor is:",
+          "options": [
+            "60 μC",
+            "150 μC",
+            "100 μC",
+            "240 μC"
+          ],
+          "explanation": "C_series = (4×6)/(4+6) = 2.4 μF. Q = CV = 2.4×100 = 240 μC. In series, charge is same on both capacitors."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "section": "physics",
+      "question": "A solid sphere (mass M, radius R) rolls without slipping down an incline of angle θ. Its acceleration is:",
+      "options": [
+        "g sinθ",
+        "2g sinθ/3",
+        "3g sinθ/5",
+        "5g sinθ/7"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "For a solid sphere, a = g sinθ / (1 + I/MR²). I = 2MR²/5, so a = g sinθ/(1+2/5) = 5g sinθ/7.",
+      "i18n": {
+        "hi": {
+          "question": "एक ठोस गोला (द्रव्यमान M, त्रिज्या R) कोण θ के नत तल पर बिना फिसले लुढ़कता है। इसका त्वरण होगा:",
+          "options": [
+            "g sinθ",
+            "2g sinθ/3",
+            "3g sinθ/5",
+            "5g sinθ/7"
+          ],
+          "explanation": "For a solid sphere, a = g sinθ / (1 + I/MR²). I = 2MR²/5, so a = g sinθ/(1+2/5) = 5g sinθ/7."
+        },
+        "en": {
+          "question": "A solid sphere (mass M, radius R) rolls without slipping down an incline of angle θ. Its acceleration is:",
+          "options": [
+            "g sinθ",
+            "2g sinθ/3",
+            "3g sinθ/5",
+            "5g sinθ/7"
+          ],
+          "explanation": "For a solid sphere, a = g sinθ / (1 + I/MR²). I = 2MR²/5, so a = g sinθ/(1+2/5) = 5g sinθ/7."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "section": "physics",
+      "question": "A coil of 100 turns and area 0.01 m² is placed in a magnetic field changing at 10 T/s. The induced EMF is:",
+      "options": [
+        "10 V",
+        "100 V",
+        "1 V",
+        "0.1 V"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "EMF = N × dΦ/dt = N × A × dB/dt = 100 × 0.01 × 10 = 10 V. (Faraday's law)",
+      "i18n": {
+        "hi": {
+          "question": "100 फेरों और 0.01 m² क्षेत्रफल की एक कुंडली में चुंबकीय क्षेत्र 10 T/s की दर से बदल रहा है। प्रेरित EMF होगी:",
+          "options": [
+            "10 V",
+            "100 V",
+            "1 V",
+            "0.1 V"
+          ],
+          "explanation": "EMF = N × dΦ/dt = N × A × dB/dt = 100 × 0.01 × 10 = 10 V. (Faraday's law)"
+        },
+        "en": {
+          "question": "A coil of 100 turns and area 0.01 m² is placed in a magnetic field changing at 10 T/s. The induced EMF is:",
+          "options": [
+            "10 V",
+            "100 V",
+            "1 V",
+            "0.1 V"
+          ],
+          "explanation": "EMF = N × dΦ/dt = N × A × dB/dt = 100 × 0.01 × 10 = 10 V. (Faraday's law)"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "section": "physics",
+      "question": "In Young's double slit experiment, fringe width is 0.2 mm. If the wavelength is doubled and slit separation is halved, new fringe width is:",
+      "options": [
+        "0.4 mm",
+        "0.8 mm",
+        "0.1 mm",
+        "0.6 mm"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "β = λD/d. If λ→2λ and d→d/2, new β = 2λD/(d/2) = 4λD/d = 4β = 4×0.2 = 0.8 mm.",
+      "i18n": {
+        "hi": {
+          "question": "Young के द्विस्लिट प्रयोग में फ्रिन्ज चौड़ाई 0.2 mm है। यदि तरंगदैर्ध्य दोगुनी और स्लिट दूरी आधी हो, तो नई फ्रिन्ज चौड़ाई होगी:",
+          "options": [
+            "0.4 mm",
+            "0.8 mm",
+            "0.1 mm",
+            "0.6 mm"
+          ],
+          "explanation": "β = λD/d. If λ→2λ and d→d/2, new β = 2λD/(d/2) = 4λD/d = 4β = 4×0.2 = 0.8 mm."
+        },
+        "en": {
+          "question": "In Young's double slit experiment, fringe width is 0.2 mm. If the wavelength is doubled and slit separation is halved, new fringe width is:",
+          "options": [
+            "0.4 mm",
+            "0.8 mm",
+            "0.1 mm",
+            "0.6 mm"
+          ],
+          "explanation": "β = λD/d. If λ→2λ and d→d/2, new β = 2λD/(d/2) = 4λD/d = 4β = 4×0.2 = 0.8 mm."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "section": "physics",
+      "question": "A convex lens of focal length 20 cm is placed in contact with a concave lens of focal length 30 cm. The power of the combination is:",
+      "options": [
+        "+5 D",
+        "-1.67 D",
+        "+1.67 D",
+        "-5 D"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "P = P₁+P₂ = 1/f₁+1/f₂ = 1/0.2 + 1/(-0.3) = 5 - 3.33 = +1.67 D.",
+      "i18n": {
+        "hi": {
+          "question": "20 cm फोकस दूरी का उत्तल लेंस 30 cm फोकस दूरी के अवतल लेंस के संपर्क में रखा है। संयोजन की क्षमता होगी:",
+          "options": [
+            "+5 D",
+            "-1.67 D",
+            "+1.67 D",
+            "-5 D"
+          ],
+          "explanation": "P = P₁+P₂ = 1/f₁+1/f₂ = 1/0.2 + 1/(-0.3) = 5 - 3.33 = +1.67 D."
+        },
+        "en": {
+          "question": "A convex lens of focal length 20 cm is placed in contact with a concave lens of focal length 30 cm. The power of the combination is:",
+          "options": [
+            "+5 D",
+            "-1.67 D",
+            "+1.67 D",
+            "-5 D"
+          ],
+          "explanation": "P = P₁+P₂ = 1/f₁+1/f₂ = 1/0.2 + 1/(-0.3) = 5 - 3.33 = +1.67 D."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "section": "physics",
+      "question": "In the Bohr model, the radius of the nth orbit of hydrogen atom is proportional to:",
+      "options": [
+        "1/n",
+        "n",
+        "1/n²",
+        "n²"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "rₙ = 0.529 × n² Å. The radius of nth Bohr orbit is proportional to n². For hydrogen, r₁=0.529 Å, r₂=2.116 Å.",
+      "i18n": {
+        "hi": {
+          "question": "बोर मॉडल में, हाइड्रोजन परमाणु की nवीं कक्षा की त्रिज्या किसके अनुक्रमानुपाती है?",
+          "options": [
+            "1/n",
+            "n",
+            "1/n²",
+            "n²"
+          ],
+          "explanation": "rₙ = 0.529 × n² Å. The radius of nth Bohr orbit is proportional to n². For hydrogen, r₁=0.529 Å, r₂=2.116 Å."
+        },
+        "en": {
+          "question": "In the Bohr model, the radius of the nth orbit of hydrogen atom is proportional to:",
+          "options": [
+            "1/n",
+            "n",
+            "1/n²",
+            "n²"
+          ],
+          "explanation": "rₙ = 0.529 × n² Å. The radius of nth Bohr orbit is proportional to n². For hydrogen, r₁=0.529 Å, r₂=2.116 Å."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "section": "physics",
+      "question": "A particle executes SHM with amplitude A. At displacement x = A/2, the ratio of KE to PE is:",
+      "options": [
+        "1:3",
+        "3:1",
+        "1:1",
+        "2:1"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "KE = ½mω²(A²-x²) = ½mω²(A²-A²/4) = ½mω²(3A²/4). PE = ½mω²x² = ½mω²A²/4. KE:PE = 3:1.",
+      "i18n": {
+        "hi": {
+          "question": "एक कण A आयाम के साथ SHM करता है। x = A/2 विस्थापन पर KE : PE का अनुपात होगा:",
+          "options": [
+            "1:3",
+            "3:1",
+            "1:1",
+            "2:1"
+          ],
+          "explanation": "KE = ½mω²(A²-x²) = ½mω²(A²-A²/4) = ½mω²(3A²/4). PE = ½mω²x² = ½mω²A²/4. KE:PE = 3:1."
+        },
+        "en": {
+          "question": "A particle executes SHM with amplitude A. At displacement x = A/2, the ratio of KE to PE is:",
+          "options": [
+            "1:3",
+            "3:1",
+            "1:1",
+            "2:1"
+          ],
+          "explanation": "KE = ½mω²(A²-x²) = ½mω²(A²-A²/4) = ½mω²(3A²/4). PE = ½mω²x² = ½mω²A²/4. KE:PE = 3:1."
+        }
+      }
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "section": "physics",
+      "question": "A Carnot engine operates between 500 K and 300 K. Its efficiency is:",
+      "options": [
+        "50%",
+        "60%",
+        "30%",
+        "40%"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "η = 1 - T₂/T₁ = 1 - 300/500 = 1 - 0.6 = 0.4 = 40%.",
+      "i18n": {
+        "hi": {
+          "question": "एक कार्नो इंजन 500 K और 300 K के बीच कार्य करता है। इसकी दक्षता होगी:",
+          "options": [
+            "50%",
+            "60%",
+            "30%",
+            "40%"
+          ],
+          "explanation": "η = 1 - T₂/T₁ = 1 - 300/500 = 1 - 0.6 = 0.4 = 40%."
+        },
+        "en": {
+          "question": "A Carnot engine operates between 500 K and 300 K. Its efficiency is:",
+          "options": [
+            "50%",
+            "60%",
+            "30%",
+            "40%"
+          ],
+          "explanation": "η = 1 - T₂/T₁ = 1 - 300/500 = 1 - 0.6 = 0.4 = 40%."
+        }
+      }
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "section": "physics",
+      "question": "A source of sound moves towards a stationary observer at 34 m/s. If the source frequency is 400 Hz and speed of sound is 340 m/s, the observed frequency is:",
+      "options": [
+        "400 Hz",
+        "360 Hz",
+        "444 Hz",
+        "480 Hz"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "f' = f × v/(v − vs) = 400 × 340/(340 − 34) = 400 × 340/306 ≈ 444 Hz. (Doppler effect — source moving towards the observer)",
+      "i18n": {
+        "hi": {
+          "question": "ध्वनि का एक स्रोत स्थिर श्रोता की ओर 34 m/s से चलता है। स्रोत की आवृत्ति 400 Hz और ध्वनि की चाल 340 m/s है। सुनाई देने वाली आवृत्ति होगी:",
+          "options": [
+            "400 Hz",
+            "360 Hz",
+            "444 Hz",
+            "480 Hz"
+          ],
+          "explanation": "f' = f × v/(v − vs) = 400 × 340/(340 − 34) = 400 × 340/306 ≈ 444 Hz. (Doppler effect — source moving towards the observer)"
+        },
+        "en": {
+          "question": "A source of sound moves towards a stationary observer at 34 m/s. If the source frequency is 400 Hz and speed of sound is 340 m/s, the observed frequency is:",
+          "options": [
+            "400 Hz",
+            "360 Hz",
+            "444 Hz",
+            "480 Hz"
+          ],
+          "explanation": "f' = f × v/(v − vs) = 400 × 340/(340 − 34) = 400 × 340/306 ≈ 444 Hz. (Doppler effect — source moving towards the observer)"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "section": "physics",
+      "question": "The electric field inside a uniformly charged hollow spherical shell is:",
+      "options": [
+        "Inversely proportional to r²",
+        "Uniform",
+        "Zero",
+        "Directly proportional to r"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "By Gauss's law, the electric field inside a uniformly charged hollow spherical shell is zero. All charge resides on the surface.",
+      "i18n": {
+        "hi": {
+          "question": "एकसमान रूप से आवेशित खोखले गोलाकार शेल के अंदर विद्युत क्षेत्र होता है:",
+          "options": [
+            "r² के व्युत्क्रमानुपाती",
+            "एकसमान",
+            "शून्य",
+            "r के अनुक्रमानुपाती"
+          ],
+          "explanation": "By Gauss's law, the electric field inside a uniformly charged hollow spherical shell is zero. All charge resides on the surface."
+        },
+        "en": {
+          "question": "The electric field inside a uniformly charged hollow spherical shell is:",
+          "options": [
+            "Inversely proportional to r²",
+            "Uniform",
+            "Zero",
+            "Directly proportional to r"
+          ],
+          "explanation": "By Gauss's law, the electric field inside a uniformly charged hollow spherical shell is zero. All charge resides on the surface."
+        }
+      }
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "section": "physics",
+      "question": "The dimension of coefficient of viscosity is:",
+      "options": [
+        "[ML⁻¹T⁻¹]",
+        "[MLT⁻²]",
+        "[ML²T⁻²]",
+        "[M⁰L⁰T⁻¹]"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "η = F/(A × dv/dy). Dimension = [MLT⁻²]/([L²][LT⁻¹/L]) = [MLT⁻²]/[LT⁻¹] = [ML⁻¹T⁻¹].",
+      "i18n": {
+        "hi": {
+          "question": "श्यानता गुणांक की विमा है:",
+          "options": [
+            "[ML⁻¹T⁻¹]",
+            "[MLT⁻²]",
+            "[ML²T⁻²]",
+            "[M⁰L⁰T⁻¹]"
+          ],
+          "explanation": "η = F/(A × dv/dy). Dimension = [MLT⁻²]/([L²][LT⁻¹/L]) = [MLT⁻²]/[LT⁻¹] = [ML⁻¹T⁻¹]."
+        },
+        "en": {
+          "question": "The dimension of coefficient of viscosity is:",
+          "options": [
+            "[ML⁻¹T⁻¹]",
+            "[MLT⁻²]",
+            "[ML²T⁻²]",
+            "[M⁰L⁰T⁻¹]"
+          ],
+          "explanation": "η = F/(A × dv/dy). Dimension = [MLT⁻²]/([L²][LT⁻¹/L]) = [MLT⁻²]/[LT⁻¹] = [ML⁻¹T⁻¹]."
+        }
+      }
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "section": "physics",
+      "question": "In a common emitter transistor, if α = 0.98, the value of β (current amplification factor) is:",
+      "options": [
+        "49",
+        "50",
+        "98",
+        "0.98"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "β = α/(1-α) = 0.98/(1-0.98) = 0.98/0.02 = 49.",
+      "i18n": {
+        "hi": {
+          "question": "एक उभयनिष्ठ उत्सर्जक ट्रांजिस्टर में α = 0.98 है। β का मान होगा:",
+          "options": [
+            "49",
+            "50",
+            "98",
+            "0.98"
+          ],
+          "explanation": "β = α/(1-α) = 0.98/(1-0.98) = 0.98/0.02 = 49."
+        },
+        "en": {
+          "question": "In a common emitter transistor, if α = 0.98, the value of β (current amplification factor) is:",
+          "options": [
+            "49",
+            "50",
+            "98",
+            "0.98"
+          ],
+          "explanation": "β = α/(1-α) = 0.98/(1-0.98) = 0.98/0.02 = 49."
+        }
+      }
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "section": "physics",
+      "question": "In a Wheatstone bridge, P=2Ω, Q=3Ω, R=6Ω. For balanced condition, S is:",
+      "options": [
+        "4 Ω",
+        "9 Ω",
+        "6 Ω",
+        "3 Ω"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Balanced condition: P/Q = R/S → 2/3 = 6/S → S = 18/2 = 9 Ω.",
+      "i18n": {
+        "hi": {
+          "question": "Wheatstone सेतु में P=2Ω, Q=3Ω, R=6Ω है। संतुलित स्थिति के लिए S होगा:",
+          "options": [
+            "4 Ω",
+            "9 Ω",
+            "6 Ω",
+            "3 Ω"
+          ],
+          "explanation": "Balanced condition: P/Q = R/S → 2/3 = 6/S → S = 18/2 = 9 Ω."
+        },
+        "en": {
+          "question": "In a Wheatstone bridge, P=2Ω, Q=3Ω, R=6Ω. For balanced condition, S is:",
+          "options": [
+            "4 Ω",
+            "9 Ω",
+            "6 Ω",
+            "3 Ω"
+          ],
+          "explanation": "Balanced condition: P/Q = R/S → 2/3 = 6/S → S = 18/2 = 9 Ω."
+        }
+      }
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "section": "physics",
+      "question": "Velocity of electromagnetic waves in free space is determined by:",
+      "options": [
+        "Only μ₀",
+        "μ₀ and ε₀",
+        "Only ε₀",
+        "Neither μ₀ nor ε₀"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "c = 1/√(μ₀ε₀) where μ₀ = permeability of free space and ε₀ = permittivity of free space. c = 3×10⁸ m/s.",
+      "i18n": {
+        "hi": {
+          "question": "निर्वात में विद्युतचुंबकीय तरंगों की चाल किससे निर्धारित होती है?",
+          "options": [
+            "Only μ₀",
+            "μ₀ and ε₀",
+            "Only ε₀",
+            "Neither μ₀ nor ε₀"
+          ],
+          "explanation": "c = 1/√(μ₀ε₀) where μ₀ = permeability of free space and ε₀ = permittivity of free space. c = 3×10⁸ m/s."
+        },
+        "en": {
+          "question": "Velocity of electromagnetic waves in free space is determined by:",
+          "options": [
+            "Only μ₀",
+            "μ₀ and ε₀",
+            "Only ε₀",
+            "Neither μ₀ nor ε₀"
+          ],
+          "explanation": "c = 1/√(μ₀ε₀) where μ₀ = permeability of free space and ε₀ = permittivity of free space. c = 3×10⁸ m/s."
+        }
+      }
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "section": "physics",
+      "question": "A standing wave has nodes and antinodes. In a closed pipe, at the closed end there is always:",
+      "options": [
+        "Node",
+        "Antinode",
+        "Either",
+        "Neither"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "At a closed end, air molecules cannot vibrate (displacement = 0), so there is always a displacement NODE. At an open end, there is an antinode.",
+      "i18n": {
+        "hi": {
+          "question": "एक बंद नलिका में बंद सिरे पर सदैव होता है:",
+          "options": [
+            "निस्पंद",
+            "प्रस्पंद",
+            "कोई भी",
+            "दोनों नहीं"
+          ],
+          "explanation": "At a closed end, air molecules cannot vibrate (displacement = 0), so there is always a displacement NODE. At an open end, there is an antinode."
+        },
+        "en": {
+          "question": "A standing wave has nodes and antinodes. In a closed pipe, at the closed end there is always:",
+          "options": [
+            "Node",
+            "Antinode",
+            "Either",
+            "Neither"
+          ],
+          "explanation": "At a closed end, air molecules cannot vibrate (displacement = 0), so there is always a displacement NODE. At an open end, there is an antinode."
+        }
+      }
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "section": "physics",
+      "question": "Two point charges +4q and +q are separated by distance d. A third charge is placed on the line between them so that it experiences no net force. It should be placed at:",
+      "options": [
+        "d/3 from +4q",
+        "2d/3 from +4q",
+        "d/2 from +4q",
+        "d/4 from +q"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Let the third charge be at distance x from +4q. For zero net force: k(4q)/x² = k(q)/(d − x)² → 2/x = 1/(d − x) → x = 2d/3. So it is placed 2d/3 from +4q (i.e. d/3 from +q).",
+      "i18n": {
+        "hi": {
+          "question": "+4q और +q दो बिंदु आवेश d दूरी पर हैं। एक तीसरा आवेश इनके बीच की रेखा पर इस प्रकार रखा जाए कि उस पर कोई नेट बल न लगे। तीसरा आवेश कहाँ रखें:",
+          "options": [
+            "+4q से d/3",
+            "+4q से 2d/3",
+            "+4q से d/2",
+            "+q से d/4"
+          ],
+          "explanation": "Let the third charge be at distance x from +4q. For zero net force: k(4q)/x² = k(q)/(d − x)² → 2/x = 1/(d − x) → x = 2d/3. So it is placed 2d/3 from +4q (i.e. d/3 from +q)."
+        },
+        "en": {
+          "question": "Two point charges +4q and +q are separated by distance d. A third charge is placed on the line between them so that it experiences no net force. It should be placed at:",
+          "options": [
+            "d/3 from +4q",
+            "2d/3 from +4q",
+            "d/2 from +4q",
+            "d/4 from +q"
+          ],
+          "explanation": "Let the third charge be at distance x from +4q. For zero net force: k(4q)/x² = k(q)/(d − x)² → 2/x = 1/(d − x) → x = 2d/3. So it is placed 2d/3 from +4q (i.e. d/3 from +q)."
+        }
+      }
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "section": "physics",
+      "question": "The work done in moving a charge q along an equipotential surface is:",
+      "options": [
+        "Zero",
+        "qV",
+        "q²V",
+        "depends on path"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "On an equipotential surface, potential is same everywhere. Work = q(V₂-V₁) = q×0 = 0. No work is done.",
+      "i18n": {
+        "hi": {
+          "question": "समविभव पृष्ठ पर आवेश q को गतिशील करने में किया गया कार्य:",
+          "options": [
+            "शून्य",
+            "qV",
+            "q²V",
+            "पथ पर निर्भर"
+          ],
+          "explanation": "On an equipotential surface, potential is same everywhere. Work = q(V₂-V₁) = q×0 = 0. No work is done."
+        },
+        "en": {
+          "question": "The work done in moving a charge q along an equipotential surface is:",
+          "options": [
+            "Zero",
+            "qV",
+            "q²V",
+            "depends on path"
+          ],
+          "explanation": "On an equipotential surface, potential is same everywhere. Work = q(V₂-V₁) = q×0 = 0. No work is done."
+        }
+      }
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "section": "physics",
+      "question": "Intensity of light from a point source varies with distance r as:",
+      "options": [
+        "1/r",
+        "1/r²",
+        "r²",
+        "r"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "I = P/(4πr²). Intensity follows inverse square law: I ∝ 1/r². This is why far sources appear dimmer.",
+      "i18n": {
+        "hi": {
+          "question": "एक बिंदु स्रोत से प्रकाश की तीव्रता दूरी r के साथ कैसे बदलती है?",
+          "options": [
+            "1/r",
+            "1/r²",
+            "r²",
+            "r"
+          ],
+          "explanation": "I = P/(4πr²). Intensity follows inverse square law: I ∝ 1/r². This is why far sources appear dimmer."
+        },
+        "en": {
+          "question": "Intensity of light from a point source varies with distance r as:",
+          "options": [
+            "1/r",
+            "1/r²",
+            "r²",
+            "r"
+          ],
+          "explanation": "I = P/(4πr²). Intensity follows inverse square law: I ∝ 1/r². This is why far sources appear dimmer."
+        }
+      }
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "section": "physics",
+      "question": "Which logic gate is equivalent to a NAND gate followed by a NOT gate?",
+      "options": [
+        "AND gate",
+        "OR gate",
+        "NOR gate",
+        "XNOR gate"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "NAND output = NOT(A·B). Applying NOT again gives NOT(NOT(A·B)) = A·B = AND gate output.",
+      "i18n": {
+        "hi": {
+          "question": "NAND गेट के बाद NOT गेट लगाने पर कौन-सा लॉजिक गेट बनता है?",
+          "options": [
+            "AND gate",
+            "OR gate",
+            "NOR gate",
+            "XNOR gate"
+          ],
+          "explanation": "NAND output = NOT(A·B). Applying NOT again gives NOT(NOT(A·B)) = A·B = AND gate output."
+        },
+        "en": {
+          "question": "Which logic gate is equivalent to a NAND gate followed by a NOT gate?",
+          "options": [
+            "AND gate",
+            "OR gate",
+            "NOR gate",
+            "XNOR gate"
+          ],
+          "explanation": "NAND output = NOT(A·B). Applying NOT again gives NOT(NOT(A·B)) = A·B = AND gate output."
+        }
+      }
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "section": "physics",
+      "question": "An object is projected at 45° with velocity 20 m/s. The range is: (g = 10 m/s²)",
+      "options": [
+        "10 m",
+        "20 m",
+        "80 m",
+        "40 m"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "R = u²sin2θ/g = (20)²×sin90°/10 = 400/10 = 40 m. Range is maximum at 45°.",
+      "i18n": {
+        "hi": {
+          "question": "20 m/s वेग से 45° पर प्रक्षेपित वस्तु की परास होगी: (g=10 m/s²)",
+          "options": [
+            "10 m",
+            "20 m",
+            "80 m",
+            "40 m"
+          ],
+          "explanation": "R = u²sin2θ/g = (20)²×sin90°/10 = 400/10 = 40 m. Range is maximum at 45°."
+        },
+        "en": {
+          "question": "An object is projected at 45° with velocity 20 m/s. The range is: (g = 10 m/s²)",
+          "options": [
+            "10 m",
+            "20 m",
+            "80 m",
+            "40 m"
+          ],
+          "explanation": "R = u²sin2θ/g = (20)²×sin90°/10 = 400/10 = 40 m. Range is maximum at 45°."
+        }
+      }
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "section": "physics",
+      "question": "In photoelectric effect, stopping potential depends on:",
+      "options": [
+        "Number of photons",
+        "Intensity of light",
+        "Both frequency and intensity",
+        "Frequency of light only"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Stopping potential depends only on the frequency of incident light, not on intensity. V₀ = (hν - φ)/e.",
+      "i18n": {
+        "hi": {
+          "question": "प्रकाश-विद्युत प्रभाव में निरोधी विभव किस पर निर्भर करता है?",
+          "options": [
+            "फोटॉनों की संख्या",
+            "प्रकाश की तीव्रता",
+            "दोनों पर",
+            "केवल प्रकाश की आवृत्ति"
+          ],
+          "explanation": "Stopping potential depends only on the frequency of incident light, not on intensity. V₀ = (hν - φ)/e."
+        },
+        "en": {
+          "question": "In photoelectric effect, stopping potential depends on:",
+          "options": [
+            "Number of photons",
+            "Intensity of light",
+            "Both frequency and intensity",
+            "Frequency of light only"
+          ],
+          "explanation": "Stopping potential depends only on the frequency of incident light, not on intensity. V₀ = (hν - φ)/e."
+        }
+      }
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "section": "physics",
+      "question": "The escape velocity from Earth's surface is 11.2 km/s. If Earth's radius is doubled keeping mass same, escape velocity becomes:",
+      "options": [
+        "11.2 km/s",
+        "5.6 km/s",
+        "22.4 km/s",
+        "7.92 km/s"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "ve = √(2GM/R). If R→2R, ve = √(2GM/2R) = ve/√2 = 11.2/√2 ≈ 7.92 km/s.",
+      "i18n": {
+        "hi": {
+          "question": "पृथ्वी की सतह से पलायन वेग 11.2 km/s है। यदि द्रव्यमान समान रखते हुए पृथ्वी की त्रिज्या दोगुनी हो जाए, तो पलायन वेग होगा:",
+          "options": [
+            "11.2 km/s",
+            "5.6 km/s",
+            "22.4 km/s",
+            "7.92 km/s"
+          ],
+          "explanation": "ve = √(2GM/R). If R→2R, ve = √(2GM/2R) = ve/√2 = 11.2/√2 ≈ 7.92 km/s."
+        },
+        "en": {
+          "question": "The escape velocity from Earth's surface is 11.2 km/s. If Earth's radius is doubled keeping mass same, escape velocity becomes:",
+          "options": [
+            "11.2 km/s",
+            "5.6 km/s",
+            "22.4 km/s",
+            "7.92 km/s"
+          ],
+          "explanation": "ve = √(2GM/R). If R→2R, ve = √(2GM/2R) = ve/√2 = 11.2/√2 ≈ 7.92 km/s."
+        }
+      }
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "The EMF of a cell using the Nernst equation at 298 K: Zn|Zn²⁺(0.1M)||Cu²⁺(0.01M)|Cu. Given E°cell = 1.10 V:",
+      "options": [
+        "0.98 V",
+        "1.16 V",
+        "1.10 V",
+        "1.07 V"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "E = E° − (0.0592/n) log([Zn²⁺]/[Cu²⁺]) = 1.10 − (0.0592/2) log(0.1/0.01) = 1.10 − 0.0296 × 1 ≈ 1.07 V.",
+      "i18n": {
+        "hi": {
+          "question": "Zn|Zn²⁺(0.1M)||Cu²⁺(0.01M)|Cu सेल के लिए 298 K पर Nernst समीकरण से EMF (E°cell=1.10V):",
+          "options": [
+            "0.98 V",
+            "1.16 V",
+            "1.10 V",
+            "1.07 V"
+          ],
+          "explanation": "E = E° − (0.0592/n) log([Zn²⁺]/[Cu²⁺]) = 1.10 − (0.0592/2) log(0.1/0.01) = 1.10 − 0.0296 × 1 ≈ 1.07 V."
+        },
+        "en": {
+          "question": "The EMF of a cell using the Nernst equation at 298 K: Zn|Zn²⁺(0.1M)||Cu²⁺(0.01M)|Cu. Given E°cell = 1.10 V:",
+          "options": [
+            "0.98 V",
+            "1.16 V",
+            "1.10 V",
+            "1.07 V"
+          ],
+          "explanation": "E = E° − (0.0592/n) log([Zn²⁺]/[Cu²⁺]) = 1.10 − (0.0592/2) log(0.1/0.01) = 1.10 − 0.0296 × 1 ≈ 1.07 V."
+        }
+      }
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "A first-order reaction has rate constant k = 6.93×10⁻³ min⁻¹. The half-life is:",
+      "options": [
+        "200 min",
+        "50 min",
+        "100 min",
+        "10 min"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "t½ = 0.693/k = 0.693/(6.93×10⁻³) = 100 min. For first-order: t½ = 0.693/k.",
+      "i18n": {
+        "hi": {
+          "question": "एक प्रथम कोटि अभिक्रिया की दर स्थिरांक k = 6.93×10⁻³ min⁻¹ है। अर्धायु होगी:",
+          "options": [
+            "200 min",
+            "50 min",
+            "100 min",
+            "10 min"
+          ],
+          "explanation": "t½ = 0.693/k = 0.693/(6.93×10⁻³) = 100 min. For first-order: t½ = 0.693/k."
+        },
+        "en": {
+          "question": "A first-order reaction has rate constant k = 6.93×10⁻³ min⁻¹. The half-life is:",
+          "options": [
+            "200 min",
+            "50 min",
+            "100 min",
+            "10 min"
+          ],
+          "explanation": "t½ = 0.693/k = 0.693/(6.93×10⁻³) = 100 min. For first-order: t½ = 0.693/k."
+        }
+      }
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "The pH of 0.001 M HCl solution is:",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "11"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "[H⁺] = 0.001 M = 10⁻³ M. pH = -log[H⁺] = -log(10⁻³) = 3.",
+      "i18n": {
+        "hi": {
+          "question": "0.001 M HCl विलयन का pH है:",
+          "options": [
+            "3",
+            "4",
+            "2",
+            "11"
+          ],
+          "explanation": "[H⁺] = 0.001 M = 10⁻³ M. pH = -log[H⁺] = -log(10⁻³) = 3."
+        },
+        "en": {
+          "question": "The pH of 0.001 M HCl solution is:",
+          "options": [
+            "3",
+            "4",
+            "2",
+            "11"
+          ],
+          "explanation": "[H⁺] = 0.001 M = 10⁻³ M. pH = -log[H⁺] = -log(10⁻³) = 3."
+        }
+      }
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "The hybridization of central atom in SF₆ is:",
+      "options": [
+        "sp³",
+        "sp³d²",
+        "sp³d",
+        "sp²"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "SF₆ has 6 bond pairs around S and no lone pairs. Hybridization = sp³d². Geometry = octahedral.",
+      "i18n": {
+        "hi": {
+          "question": "SF₆ में केंद्रीय परमाणु की संकरण अवस्था है:",
+          "options": [
+            "sp³",
+            "sp³d²",
+            "sp³d",
+            "sp²"
+          ],
+          "explanation": "SF₆ has 6 bond pairs around S and no lone pairs. Hybridization = sp³d². Geometry = octahedral."
+        },
+        "en": {
+          "question": "The hybridization of central atom in SF₆ is:",
+          "options": [
+            "sp³",
+            "sp³d²",
+            "sp³d",
+            "sp²"
+          ],
+          "explanation": "SF₆ has 6 bond pairs around S and no lone pairs. Hybridization = sp³d². Geometry = octahedral."
+        }
+      }
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "Which of the following is aromatic? (Hückel's rule: 4n+2 π electrons)",
+      "options": [
+        "Cyclobutadiene (4 π e⁻)",
+        "Cyclooctatetraene (8 π e⁻)",
+        "Cyclopentadiene (4 π e⁻)",
+        "Benzene (6 π e⁻)"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Benzene has 6 π electrons (n=1, 4×1+2=6). It satisfies Hückel's rule. Others do not satisfy 4n+2 rule.",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से कौन-सा सुगंधित है? (Hückel's नियम: 4n+2 π इलेक्ट्रॉन)",
+          "options": [
+            "Cyclobutadiene (4 π e⁻)",
+            "Cyclooctatetraene (8 π e⁻)",
+            "Cyclopentadiene (4 π e⁻)",
+            "Benzene (6 π e⁻)"
+          ],
+          "explanation": "Benzene has 6 π electrons (n=1, 4×1+2=6). It satisfies Hückel's rule. Others do not satisfy 4n+2 rule."
+        },
+        "en": {
+          "question": "Which of the following is aromatic? (Hückel's rule: 4n+2 π electrons)",
+          "options": [
+            "Cyclobutadiene (4 π e⁻)",
+            "Cyclooctatetraene (8 π e⁻)",
+            "Cyclopentadiene (4 π e⁻)",
+            "Benzene (6 π e⁻)"
+          ],
+          "explanation": "Benzene has 6 π electrons (n=1, 4×1+2=6). It satisfies Hückel's rule. Others do not satisfy 4n+2 rule."
+        }
+      }
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "For the reaction N₂ + 3H₂ ⇌ 2NH₃, if Kc = 0.5 and the reaction is at equilibrium with [N₂]=2M, [H₂]=1M, [NH₃] is:",
+      "options": [
+        "1 M",
+        "2 M",
+        "0.5 M",
+        "0.25 M"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Kc = [NH₃]²/([N₂][H₂]³) = [NH₃]²/(2×1) = 0.5. [NH₃]² = 1, [NH₃] = 1 M.",
+      "i18n": {
+        "hi": {
+          "question": "N₂+3H₂⇌2NH₃ अभिक्रिया में Kc=0.5, [N₂]=2M, [H₂]=1M हो तो [NH₃] होगी:",
+          "options": [
+            "1 M",
+            "2 M",
+            "0.5 M",
+            "0.25 M"
+          ],
+          "explanation": "Kc = [NH₃]²/([N₂][H₂]³) = [NH₃]²/(2×1) = 0.5. [NH₃]² = 1, [NH₃] = 1 M."
+        },
+        "en": {
+          "question": "For the reaction N₂ + 3H₂ ⇌ 2NH₃, if Kc = 0.5 and the reaction is at equilibrium with [N₂]=2M, [H₂]=1M, [NH₃] is:",
+          "options": [
+            "1 M",
+            "2 M",
+            "0.5 M",
+            "0.25 M"
+          ],
+          "explanation": "Kc = [NH₃]²/([N₂][H₂]³) = [NH₃]²/(2×1) = 0.5. [NH₃]² = 1, [NH₃] = 1 M."
+        }
+      }
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "The IUPAC name of CH₃−CH=CH−CHO is:",
+      "options": [
+        "But-2-en-1-al",
+        "But-2-enal",
+        "2-butenal",
+        "But-3-en-1-al"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "4C chain with CHO at C1 (principal group) and double bond at C2-C3 position. Name: But-2-enal.",
+      "i18n": {
+        "hi": {
+          "question": "CH₃−CH=CH−CHO का IUPAC नाम है:",
+          "options": [
+            "But-2-en-1-al",
+            "But-2-enal",
+            "2-butenal",
+            "But-3-en-1-al"
+          ],
+          "explanation": "4C chain with CHO at C1 (principal group) and double bond at C2-C3 position. Name: But-2-enal."
+        },
+        "en": {
+          "question": "The IUPAC name of CH₃−CH=CH−CHO is:",
+          "options": [
+            "But-2-en-1-al",
+            "But-2-enal",
+            "2-butenal",
+            "But-3-en-1-al"
+          ],
+          "explanation": "4C chain with CHO at C1 (principal group) and double bond at C2-C3 position. Name: But-2-enal."
+        }
+      }
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "Which reagent is used to distinguish between aldehyde and ketone?",
+      "options": [
+        "HCN",
+        "Tollens' reagent (ammoniacal AgNO₃)",
+        "NaHSO₃",
+        "Grignard reagent"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Tollens' reagent gives silver mirror test only with aldehydes (not ketones). Fehling's solution is also used for this purpose.",
+      "i18n": {
+        "hi": {
+          "question": "एल्डिहाइड और कीटोन में अंतर करने के लिए कौन-सा अभिकर्मक प्रयुक्त होता है?",
+          "options": [
+            "HCN",
+            "Tollens' reagent (ammoniacal AgNO₃)",
+            "NaHSO₃",
+            "Grignard reagent"
+          ],
+          "explanation": "Tollens' reagent gives silver mirror test only with aldehydes (not ketones). Fehling's solution is also used for this purpose."
+        },
+        "en": {
+          "question": "Which reagent is used to distinguish between aldehyde and ketone?",
+          "options": [
+            "HCN",
+            "Tollens' reagent (ammoniacal AgNO₃)",
+            "NaHSO₃",
+            "Grignard reagent"
+          ],
+          "explanation": "Tollens' reagent gives silver mirror test only with aldehydes (not ketones). Fehling's solution is also used for this purpose."
+        }
+      }
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "In SN2 reaction, the stereochemistry is:",
+      "options": [
+        "No stereospecificity",
+        "Retention of configuration",
+        "Racemization",
+        "Inversion of configuration"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "SN2 proceeds via backside attack, resulting in Walden inversion (inversion of configuration). This is called Walden inversion.",
+      "i18n": {
+        "hi": {
+          "question": "SN2 अभिक्रिया में त्रिविम रसायन होता है:",
+          "options": [
+            "कोई त्रिविम विशिष्टता नहीं",
+            "विन्यास का बनाए रखना",
+            "रेसमीकरण",
+            "विन्यास का उलटाव"
+          ],
+          "explanation": "SN2 proceeds via backside attack, resulting in Walden inversion (inversion of configuration). This is called Walden inversion."
+        },
+        "en": {
+          "question": "In SN2 reaction, the stereochemistry is:",
+          "options": [
+            "No stereospecificity",
+            "Retention of configuration",
+            "Racemization",
+            "Inversion of configuration"
+          ],
+          "explanation": "SN2 proceeds via backside attack, resulting in Walden inversion (inversion of configuration). This is called Walden inversion."
+        }
+      }
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "The Van't Hoff factor (i) for Al₂(SO₄)₃ assuming complete dissociation is:",
+      "options": [
+        "5",
+        "3",
+        "4",
+        "7"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Al₂(SO₄)₃ → 2Al³⁺ + 3SO₄²⁻. Total ions = 2+3 = 5. So i = 5.",
+      "i18n": {
+        "hi": {
+          "question": "पूर्ण वियोजन मानते हुए Al₂(SO₄)₃ के लिए Van't Hoff गुणांक (i) है:",
+          "options": [
+            "5",
+            "3",
+            "4",
+            "7"
+          ],
+          "explanation": "Al₂(SO₄)₃ → 2Al³⁺ + 3SO₄²⁻. Total ions = 2+3 = 5. So i = 5."
+        },
+        "en": {
+          "question": "The Van't Hoff factor (i) for Al₂(SO₄)₃ assuming complete dissociation is:",
+          "options": [
+            "5",
+            "3",
+            "4",
+            "7"
+          ],
+          "explanation": "Al₂(SO₄)₃ → 2Al³⁺ + 3SO₄²⁻. Total ions = 2+3 = 5. So i = 5."
+        }
+      }
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "Which d-block element has anomalous electronic configuration [Ar] 3d¹⁰ 4s¹?",
+      "options": [
+        "Cr (Z=24)",
+        "Zn (Z=30)",
+        "Cu (Z=29)",
+        "Fe (Z=26)"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Copper (Cu, Z=29) has [Ar]3d¹⁰4s¹ instead of expected 3d⁹4s². This is due to extra stability of completely filled d-orbital.",
+      "i18n": {
+        "hi": {
+          "question": "कौन-सा d-ब्लॉक तत्व [Ar] 3d¹⁰ 4s¹ असामान्य इलेक्ट्रॉनिक विन्यास रखता है?",
+          "options": [
+            "Cr (Z=24)",
+            "Zn (Z=30)",
+            "Cu (Z=29)",
+            "Fe (Z=26)"
+          ],
+          "explanation": "Copper (Cu, Z=29) has [Ar]3d¹⁰4s¹ instead of expected 3d⁹4s². This is due to extra stability of completely filled d-orbital."
+        },
+        "en": {
+          "question": "Which d-block element has anomalous electronic configuration [Ar] 3d¹⁰ 4s¹?",
+          "options": [
+            "Cr (Z=24)",
+            "Zn (Z=30)",
+            "Cu (Z=29)",
+            "Fe (Z=26)"
+          ],
+          "explanation": "Copper (Cu, Z=29) has [Ar]3d¹⁰4s¹ instead of expected 3d⁹4s². This is due to extra stability of completely filled d-orbital."
+        }
+      }
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "Crystal field splitting energy (Δ) is greater in:",
+      "options": [
+        "Tetrahedral complexes",
+        "Octahedral strong field complexes",
+        "Square planar weak field",
+        "All are equal"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Δoct > Δtet. Octahedral complexes with strong field ligands (CN⁻, CO) have the largest crystal field splitting energy.",
+      "i18n": {
+        "hi": {
+          "question": "क्रिस्टल क्षेत्र विभाजन ऊर्जा (Δ) किसमें अधिक होती है?",
+          "options": [
+            "चतुष्फलकीय संकुल",
+            "अष्टफलकीय प्रबल क्षेत्र संकुल",
+            "वर्गाकार तल दुर्बल क्षेत्र",
+            "सभी समान"
+          ],
+          "explanation": "Δoct > Δtet. Octahedral complexes with strong field ligands (CN⁻, CO) have the largest crystal field splitting energy."
+        },
+        "en": {
+          "question": "Crystal field splitting energy (Δ) is greater in:",
+          "options": [
+            "Tetrahedral complexes",
+            "Octahedral strong field complexes",
+            "Square planar weak field",
+            "All are equal"
+          ],
+          "explanation": "Δoct > Δtet. Octahedral complexes with strong field ligands (CN⁻, CO) have the largest crystal field splitting energy."
+        }
+      }
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "ΔG = ΔH - TΔS. For a reaction spontaneous at all temperatures:",
+      "options": [
+        "ΔH < 0, ΔS < 0",
+        "ΔH > 0, ΔS < 0",
+        "ΔH < 0, ΔS > 0",
+        "ΔH > 0, ΔS > 0"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "For ΔG < 0 at all T: need ΔH < 0 (exothermic) and ΔS > 0 (increased entropy). Then -TΔS is always negative, making ΔG always negative.",
+      "i18n": {
+        "hi": {
+          "question": "ΔG = ΔH - TΔS। किस स्थिति में अभिक्रिया सभी तापमानों पर स्वतःस्फूर्त होगी?",
+          "options": [
+            "ΔH < 0, ΔS < 0",
+            "ΔH > 0, ΔS < 0",
+            "ΔH < 0, ΔS > 0",
+            "ΔH > 0, ΔS > 0"
+          ],
+          "explanation": "For ΔG < 0 at all T: need ΔH < 0 (exothermic) and ΔS > 0 (increased entropy). Then -TΔS is always negative, making ΔG always negative."
+        },
+        "en": {
+          "question": "ΔG = ΔH - TΔS. For a reaction spontaneous at all temperatures:",
+          "options": [
+            "ΔH < 0, ΔS < 0",
+            "ΔH > 0, ΔS < 0",
+            "ΔH < 0, ΔS > 0",
+            "ΔH > 0, ΔS > 0"
+          ],
+          "explanation": "For ΔG < 0 at all T: need ΔH < 0 (exothermic) and ΔS > 0 (increased entropy). Then -TΔS is always negative, making ΔG always negative."
+        }
+      }
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "The coordination number of Na⁺ in NaCl crystal is:",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "In NaCl (face-centred cubic, rock salt structure), each Na⁺ is surrounded by 6 Cl⁻ ions and each Cl⁻ by 6 Na⁺. Coordination number = 6:6.",
+      "i18n": {
+        "hi": {
+          "question": "NaCl क्रिस्टल में Na⁺ की उपसहसंयोजन संख्या है:",
+          "options": [
+            "4",
+            "6",
+            "8",
+            "12"
+          ],
+          "explanation": "In NaCl (face-centred cubic, rock salt structure), each Na⁺ is surrounded by 6 Cl⁻ ions and each Cl⁻ by 6 Na⁺. Coordination number = 6:6."
+        },
+        "en": {
+          "question": "The coordination number of Na⁺ in NaCl crystal is:",
+          "options": [
+            "4",
+            "6",
+            "8",
+            "12"
+          ],
+          "explanation": "In NaCl (face-centred cubic, rock salt structure), each Na⁺ is surrounded by 6 Cl⁻ ions and each Cl⁻ by 6 Na⁺. Coordination number = 6:6."
+        }
+      }
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "Nylon-6 is formed by the polymerization of:",
+      "options": [
+        "Adipic acid + Hexamethylene diamine",
+        "Caprolactam",
+        "Ethylene",
+        "Styrene"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Nylon-6 is formed by ring-opening polymerization of caprolactam. Nylon-6,6 is formed from adipic acid + hexamethylene diamine.",
+      "i18n": {
+        "hi": {
+          "question": "Nylon-6 किसके बहुलकीकरण से बनता है?",
+          "options": [
+            "Adipic acid + Hexamethylene diamine",
+            "Caprolactam",
+            "Ethylene",
+            "Styrene"
+          ],
+          "explanation": "Nylon-6 is formed by ring-opening polymerization of caprolactam. Nylon-6,6 is formed from adipic acid + hexamethylene diamine."
+        },
+        "en": {
+          "question": "Nylon-6 is formed by the polymerization of:",
+          "options": [
+            "Adipic acid + Hexamethylene diamine",
+            "Caprolactam",
+            "Ethylene",
+            "Styrene"
+          ],
+          "explanation": "Nylon-6 is formed by ring-opening polymerization of caprolactam. Nylon-6,6 is formed from adipic acid + hexamethylene diamine."
+        }
+      }
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "Ozone layer is depleted mainly by:",
+      "options": [
+        "CFCs (Chlorofluorocarbons)",
+        "CO₂",
+        "NO₂",
+        "SO₂"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "CFCs release Cl• radicals in stratosphere. Cl• + O₃ → ClO + O₂; ClO + O₃ → Cl• + 2O₂. Chain reaction depletes ozone.",
+      "i18n": {
+        "hi": {
+          "question": "ओजोन परत मुख्यतः किसके द्वारा ह्रासित होती है?",
+          "options": [
+            "CFCs (Chlorofluorocarbons)",
+            "CO₂",
+            "NO₂",
+            "SO₂"
+          ],
+          "explanation": "CFCs release Cl• radicals in stratosphere. Cl• + O₃ → ClO + O₂; ClO + O₃ → Cl• + 2O₂. Chain reaction depletes ozone."
+        },
+        "en": {
+          "question": "Ozone layer is depleted mainly by:",
+          "options": [
+            "CFCs (Chlorofluorocarbons)",
+            "CO₂",
+            "NO₂",
+            "SO₂"
+          ],
+          "explanation": "CFCs release Cl• radicals in stratosphere. Cl• + O₃ → ClO + O₂; ClO + O₃ → Cl• + 2O₂. Chain reaction depletes ozone."
+        }
+      }
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "Which type of colloid is milk?",
+      "options": [
+        "Gel (liquid in solid)",
+        "Sol (solid in liquid)",
+        "Foam (gas in liquid)",
+        "Emulsion (liquid in liquid)"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Milk is an emulsion — fat droplets (dispersed phase) dispersed in water (dispersion medium). Both dispersed phase and medium are liquids.",
+      "i18n": {
+        "hi": {
+          "question": "दूध किस प्रकार का कोलॉइड है?",
+          "options": [
+            "Gel (liquid in solid)",
+            "Sol (solid in liquid)",
+            "Foam (gas in liquid)",
+            "Emulsion (liquid in liquid)"
+          ],
+          "explanation": "Milk is an emulsion — fat droplets (dispersed phase) dispersed in water (dispersion medium). Both dispersed phase and medium are liquids."
+        },
+        "en": {
+          "question": "Which type of colloid is milk?",
+          "options": [
+            "Gel (liquid in solid)",
+            "Sol (solid in liquid)",
+            "Foam (gas in liquid)",
+            "Emulsion (liquid in liquid)"
+          ],
+          "explanation": "Milk is an emulsion — fat droplets (dispersed phase) dispersed in water (dispersion medium). Both dispersed phase and medium are liquids."
+        }
+      }
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "The correct decreasing order of acidity is:",
+      "options": [
+        "Alcohol > Phenol > Carboxylic acid > Water",
+        "Carboxylic acid > Phenol > Water > Alcohol",
+        "Water > Alcohol > Phenol > Carboxylic acid",
+        "Carboxylic acid > Water > Phenol > Alcohol"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "pKa values: carboxylic acid (~4–5) < phenol (~10) < water (15.7) < alcohol (~16–18). Lower pKa means a stronger acid, so the order is RCOOH > C₆H₅OH > H₂O > ROH.",
+      "i18n": {
+        "hi": {
+          "question": "अम्लता का सही घटता क्रम है:",
+          "options": [
+            "Alcohol > Phenol > Carboxylic acid > Water",
+            "Carboxylic acid > Phenol > Water > Alcohol",
+            "Water > Alcohol > Phenol > Carboxylic acid",
+            "Carboxylic acid > Water > Phenol > Alcohol"
+          ],
+          "explanation": "pKa values: carboxylic acid (~4–5) < phenol (~10) < water (15.7) < alcohol (~16–18). Lower pKa means a stronger acid, so the order is RCOOH > C₆H₅OH > H₂O > ROH."
+        },
+        "en": {
+          "question": "The correct decreasing order of acidity is:",
+          "options": [
+            "Alcohol > Phenol > Carboxylic acid > Water",
+            "Carboxylic acid > Phenol > Water > Alcohol",
+            "Water > Alcohol > Phenol > Carboxylic acid",
+            "Carboxylic acid > Water > Phenol > Alcohol"
+          ],
+          "explanation": "pKa values: carboxylic acid (~4–5) < phenol (~10) < water (15.7) < alcohol (~16–18). Lower pKa means a stronger acid, so the order is RCOOH > C₆H₅OH > H₂O > ROH."
+        }
+      }
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "Chargaff's rule states that in DNA:",
+      "options": [
+        "[A]=[C] and [G]=[T]",
+        "[A]=[G] and [T]=[C]",
+        "[A]=[T] and [G]=[C]",
+        "[A]+[T]=[G]+[C]"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Chargaff's rule: A pairs with T (A=T) and G pairs with C (G=C). This was crucial evidence for the double helix model by Watson and Crick.",
+      "i18n": {
+        "hi": {
+          "question": "Chargaff के नियम के अनुसार DNA में:",
+          "options": [
+            "[A]=[C] and [G]=[T]",
+            "[A]=[G] and [T]=[C]",
+            "[A]=[T] and [G]=[C]",
+            "[A]+[T]=[G]+[C]"
+          ],
+          "explanation": "Chargaff's rule: A pairs with T (A=T) and G pairs with C (G=C). This was crucial evidence for the double helix model by Watson and Crick."
+        },
+        "en": {
+          "question": "Chargaff's rule states that in DNA:",
+          "options": [
+            "[A]=[C] and [G]=[T]",
+            "[A]=[G] and [T]=[C]",
+            "[A]=[T] and [G]=[C]",
+            "[A]+[T]=[G]+[C]"
+          ],
+          "explanation": "Chargaff's rule: A pairs with T (A=T) and G pairs with C (G=C). This was crucial evidence for the double helix model by Watson and Crick."
+        }
+      }
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "Which of the following is an essential amino acid?",
+      "options": [
+        "Lysine",
+        "Glycine",
+        "Alanine",
+        "Serine"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Essential amino acids cannot be synthesized by the body and must come from diet. They include: Phenylalanine, Valine, Threonine, Tryptophan, Methionine, Leucine, Isoleucine, Lysine, Histidine.",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से कौन-सा एक आवश्यक अमीनो अम्ल है?",
+          "options": [
+            "Lysine",
+            "Glycine",
+            "Alanine",
+            "Serine"
+          ],
+          "explanation": "Essential amino acids cannot be synthesized by the body and must come from diet. They include: Phenylalanine, Valine, Threonine, Tryptophan, Methionine, Leucine, Isoleucine, Lysine, Histidine."
+        },
+        "en": {
+          "question": "Which of the following is an essential amino acid?",
+          "options": [
+            "Lysine",
+            "Glycine",
+            "Alanine",
+            "Serine"
+          ],
+          "explanation": "Essential amino acids cannot be synthesized by the body and must come from diet. They include: Phenylalanine, Valine, Threonine, Tryptophan, Methionine, Leucine, Isoleucine, Lysine, Histidine."
+        }
+      }
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "The compound with maximum number of atoms is:",
+      "options": [
+        "1 mole of H₂O",
+        "1 mole of NaCl",
+        "1 mole of HNO₃",
+        "1 mole of CO₂"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "HNO₃ has 5 atoms per molecule (1H+1N+3O). H₂O=3, NaCl=2, CO₂=3 atoms. So 1 mole HNO₃ = 5 × 6.022×10²³ = maximum atoms.",
+      "i18n": {
+        "hi": {
+          "question": "सर्वाधिक परमाणुओं वाला यौगिक है:",
+          "options": [
+            "1 mole of H₂O",
+            "1 mole of NaCl",
+            "1 mole of HNO₃",
+            "1 mole of CO₂"
+          ],
+          "explanation": "HNO₃ has 5 atoms per molecule (1H+1N+3O). H₂O=3, NaCl=2, CO₂=3 atoms. So 1 mole HNO₃ = 5 × 6.022×10²³ = maximum atoms."
+        },
+        "en": {
+          "question": "The compound with maximum number of atoms is:",
+          "options": [
+            "1 mole of H₂O",
+            "1 mole of NaCl",
+            "1 mole of HNO₃",
+            "1 mole of CO₂"
+          ],
+          "explanation": "HNO₃ has 5 atoms per molecule (1H+1N+3O). H₂O=3, NaCl=2, CO₂=3 atoms. So 1 mole HNO₃ = 5 × 6.022×10²³ = maximum atoms."
+        }
+      }
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "Aldol condensation occurs between:",
+      "options": [
+        "Aldehydes or ketones having α-hydrogen",
+        "All aldehydes",
+        "Only ketones",
+        "Phenols"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Aldol condensation requires α-hydrogen (H on carbon adjacent to C=O). Formaldehyde (no α-H) cannot undergo aldol condensation.",
+      "i18n": {
+        "hi": {
+          "question": "ऐल्डॉल संघनन होता है:",
+          "options": [
+            "α-हाइड्रोजन युक्त एल्डिहाइड/कीटोन",
+            "सभी एल्डिहाइड",
+            "केवल कीटोन",
+            "फीनॉल"
+          ],
+          "explanation": "Aldol condensation requires α-hydrogen (H on carbon adjacent to C=O). Formaldehyde (no α-H) cannot undergo aldol condensation."
+        },
+        "en": {
+          "question": "Aldol condensation occurs between:",
+          "options": [
+            "Aldehydes or ketones having α-hydrogen",
+            "All aldehydes",
+            "Only ketones",
+            "Phenols"
+          ],
+          "explanation": "Aldol condensation requires α-hydrogen (H on carbon adjacent to C=O). Formaldehyde (no α-H) cannot undergo aldol condensation."
+        }
+      }
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "BCC unit cell contains how many atoms per unit cell?",
+      "options": [
+        "4",
+        "2",
+        "1",
+        "6"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "BCC (Body-centred cubic) = 8 corner atoms × (1/8) + 1 body centre atom = 1 + 1 = 2 atoms per unit cell.",
+      "i18n": {
+        "hi": {
+          "question": "BCC एकक कोष्ठिका में परमाणुओं की संख्या होती है:",
+          "options": [
+            "4",
+            "2",
+            "1",
+            "6"
+          ],
+          "explanation": "BCC (Body-centred cubic) = 8 corner atoms × (1/8) + 1 body centre atom = 1 + 1 = 2 atoms per unit cell."
+        },
+        "en": {
+          "question": "BCC unit cell contains how many atoms per unit cell?",
+          "options": [
+            "4",
+            "2",
+            "1",
+            "6"
+          ],
+          "explanation": "BCC (Body-centred cubic) = 8 corner atoms × (1/8) + 1 body centre atom = 1 + 1 = 2 atoms per unit cell."
+        }
+      }
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "The packing efficiency of FCC unit cell is:",
+      "options": [
+        "52%",
+        "68%",
+        "74%",
+        "90%"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "FCC (face-centred cubic) packing efficiency = 74%. BCC = 68%, Simple cubic = 52.4%.",
+      "i18n": {
+        "hi": {
+          "question": "FCC एकक कोष्ठिका की पैकिंग दक्षता है:",
+          "options": [
+            "52%",
+            "68%",
+            "74%",
+            "90%"
+          ],
+          "explanation": "FCC (face-centred cubic) packing efficiency = 74%. BCC = 68%, Simple cubic = 52.4%."
+        },
+        "en": {
+          "question": "The packing efficiency of FCC unit cell is:",
+          "options": [
+            "52%",
+            "68%",
+            "74%",
+            "90%"
+          ],
+          "explanation": "FCC (face-centred cubic) packing efficiency = 74%. BCC = 68%, Simple cubic = 52.4%."
+        }
+      }
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "section": "chemistry",
+      "question": "Gabriel phthalimide synthesis is used to prepare:",
+      "options": [
+        "Tertiary amines",
+        "Secondary amines",
+        "Primary amines",
+        "Quaternary ammonium salts"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Gabriel phthalimide synthesis selectively gives primary amines (only aliphatic). It cannot prepare aromatic primary amines.",
+      "i18n": {
+        "hi": {
+          "question": "Gabriel थैलिमाइड संश्लेषण का उपयोग किसके निर्माण में होता है?",
+          "options": [
+            "तृतीयक अमीन",
+            "द्वितीयक अमीन",
+            "प्राथमिक अमीन",
+            "चतुर्थक अमोनियम लवण"
+          ],
+          "explanation": "Gabriel phthalimide synthesis selectively gives primary amines (only aliphatic). It cannot prepare aromatic primary amines."
+        },
+        "en": {
+          "question": "Gabriel phthalimide synthesis is used to prepare:",
+          "options": [
+            "Tertiary amines",
+            "Secondary amines",
+            "Primary amines",
+            "Quaternary ammonium salts"
+          ],
+          "explanation": "Gabriel phthalimide synthesis selectively gives primary amines (only aliphatic). It cannot prepare aromatic primary amines."
+        }
+      }
+    },
+    {
+      "id": 51,
+      "type": "mcq",
+      "section": "botany",
+      "question": "The first stable product of CO₂ fixation in C3 plants (Calvin cycle) is:",
+      "options": [
+        "Ribulose-1,5-bisphosphate (RuBP)",
+        "Oxaloacetate (OAA)",
+        "3-Phosphoglycerate (3-PGA)",
+        "Glyceraldehyde-3-phosphate (G3P)"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "In the Calvin cycle (C3 pathway), CO₂ combines with RuBP (5C) via RuBisCO enzyme to form two molecules of 3-PGA (3C). 3-PGA is the first stable product.",
+      "i18n": {
+        "hi": {
+          "question": "C3 पौधों में CO₂ स्थिरीकरण का पहला स्थिर उत्पाद (Calvin चक्र) है:",
+          "options": [
+            "Ribulose-1,5-bisphosphate (RuBP)",
+            "Oxaloacetate (OAA)",
+            "3-Phosphoglycerate (3-PGA)",
+            "Glyceraldehyde-3-phosphate (G3P)"
+          ],
+          "explanation": "In the Calvin cycle (C3 pathway), CO₂ combines with RuBP (5C) via RuBisCO enzyme to form two molecules of 3-PGA (3C). 3-PGA is the first stable product."
+        },
+        "en": {
+          "question": "The first stable product of CO₂ fixation in C3 plants (Calvin cycle) is:",
+          "options": [
+            "Ribulose-1,5-bisphosphate (RuBP)",
+            "Oxaloacetate (OAA)",
+            "3-Phosphoglycerate (3-PGA)",
+            "Glyceraldehyde-3-phosphate (G3P)"
+          ],
+          "explanation": "In the Calvin cycle (C3 pathway), CO₂ combines with RuBP (5C) via RuBisCO enzyme to form two molecules of 3-PGA (3C). 3-PGA is the first stable product."
+        }
+      }
+    },
+    {
+      "id": 52,
+      "type": "mcq",
+      "section": "botany",
+      "question": "Kranz anatomy is associated with:",
+      "options": [
+        "Hydrophytes",
+        "C3 plants",
+        "CAM plants",
+        "C4 plants"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Kranz anatomy is a special leaf structure in C4 plants (sugarcane, maize). It has bundle sheath cells with numerous chloroplasts surrounding vascular bundles.",
+      "i18n": {
+        "hi": {
+          "question": "Kranz शारीरिकी किससे संबंधित है?",
+          "options": [
+            "जलोद्भिद",
+            "C3 पौधे",
+            "CAM पौधे",
+            "C4 पौधे"
+          ],
+          "explanation": "Kranz anatomy is a special leaf structure in C4 plants (sugarcane, maize). It has bundle sheath cells with numerous chloroplasts surrounding vascular bundles."
+        },
+        "en": {
+          "question": "Kranz anatomy is associated with:",
+          "options": [
+            "Hydrophytes",
+            "C3 plants",
+            "CAM plants",
+            "C4 plants"
+          ],
+          "explanation": "Kranz anatomy is a special leaf structure in C4 plants (sugarcane, maize). It has bundle sheath cells with numerous chloroplasts surrounding vascular bundles."
+        }
+      }
+    },
+    {
+      "id": 53,
+      "type": "mcq",
+      "section": "botany",
+      "question": "In cyclic photophosphorylation, which photosystem is involved?",
+      "options": [
+        "Photosystem I (PS I) only",
+        "Photosystem II (PS II) only",
+        "Both PS I and PS II",
+        "Neither"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "In cyclic photophosphorylation, only PS I (P700) is involved. Only ATP is produced, no NADPH or O₂. Electrons cycle back to PS I.",
+      "i18n": {
+        "hi": {
+          "question": "चक्रीय प्रकाश-फास्फोरीलेशन में कौन-सा प्रकाशतंत्र भाग लेता है?",
+          "options": [
+            "केवल PS I",
+            "केवल PS II",
+            "PS I और PS II दोनों",
+            "कोई नहीं"
+          ],
+          "explanation": "In cyclic photophosphorylation, only PS I (P700) is involved. Only ATP is produced, no NADPH or O₂. Electrons cycle back to PS I."
+        },
+        "en": {
+          "question": "In cyclic photophosphorylation, which photosystem is involved?",
+          "options": [
+            "Photosystem I (PS I) only",
+            "Photosystem II (PS II) only",
+            "Both PS I and PS II",
+            "Neither"
+          ],
+          "explanation": "In cyclic photophosphorylation, only PS I (P700) is involved. Only ATP is produced, no NADPH or O₂. Electrons cycle back to PS I."
+        }
+      }
+    },
+    {
+      "id": 54,
+      "type": "mcq",
+      "section": "botany",
+      "question": "Photorespiration occurs in:",
+      "options": [
+        "C3 plants in high O₂",
+        "C4 plants only",
+        "CAM plants only",
+        "All plants equally"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Photorespiration occurs in C3 plants when O₂ concentration is high. RuBisCO acts as oxygenase instead of carboxylase, wasting energy. C4 plants suppress photorespiration.",
+      "i18n": {
+        "hi": {
+          "question": "प्रकाश-श्वसन किसमें होता है?",
+          "options": [
+            "उच्च O₂ में C3 पौधे",
+            "केवल C4 पौधे",
+            "केवल CAM पौधे",
+            "सभी पौधों में समान रूप से"
+          ],
+          "explanation": "Photorespiration occurs in C3 plants when O₂ concentration is high. RuBisCO acts as oxygenase instead of carboxylase, wasting energy. C4 plants suppress photorespiration."
+        },
+        "en": {
+          "question": "Photorespiration occurs in:",
+          "options": [
+            "C3 plants in high O₂",
+            "C4 plants only",
+            "CAM plants only",
+            "All plants equally"
+          ],
+          "explanation": "Photorespiration occurs in C3 plants when O₂ concentration is high. RuBisCO acts as oxygenase instead of carboxylase, wasting energy. C4 plants suppress photorespiration."
+        }
+      }
+    },
+    {
+      "id": 55,
+      "type": "mcq",
+      "section": "botany",
+      "question": "Which hormone promotes fruit ripening?",
+      "options": [
+        "Cytokinin",
+        "Auxin",
+        "Ethylene",
+        "ABA (Abscisic acid)"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Ethylene is a gaseous plant hormone that promotes fruit ripening, senescence and leaf abscission. It's used commercially to ripen bananas.",
+      "i18n": {
+        "hi": {
+          "question": "कौन-सा हॉर्मोन फल पकने को बढ़ावा देता है?",
+          "options": [
+            "साइटोकाइनिन",
+            "Auxin",
+            "एथिलीन",
+            "ABA (Abscisic acid)"
+          ],
+          "explanation": "Ethylene is a gaseous plant hormone that promotes fruit ripening, senescence and leaf abscission. It's used commercially to ripen bananas."
+        },
+        "en": {
+          "question": "Which hormone promotes fruit ripening?",
+          "options": [
+            "Cytokinin",
+            "Auxin",
+            "Ethylene",
+            "ABA (Abscisic acid)"
+          ],
+          "explanation": "Ethylene is a gaseous plant hormone that promotes fruit ripening, senescence and leaf abscission. It's used commercially to ripen bananas."
+        }
+      }
+    },
+    {
+      "id": 56,
+      "type": "mcq",
+      "section": "botany",
+      "question": "Vernalization is the process by which:",
+      "options": [
+        "Cold treatment promotes flowering",
+        "Light promotes flowering",
+        "Auxin promotes flowering",
+        "Grafting promotes flowering"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Vernalization is the process where low temperature treatment hastens flowering in plants. Examples: winter wheat, biennial plants.",
+      "i18n": {
+        "hi": {
+          "question": "वर्नलीकरण वह प्रक्रिया है जिसमें:",
+          "options": [
+            "शीत उपचार से पुष्पन होता है",
+            "प्रकाश से पुष्पन होता है",
+            "ऑक्सिन से पुष्पन होता है",
+            "कलम से पुष्पन होता है"
+          ],
+          "explanation": "Vernalization is the process where low temperature treatment hastens flowering in plants. Examples: winter wheat, biennial plants."
+        },
+        "en": {
+          "question": "Vernalization is the process by which:",
+          "options": [
+            "Cold treatment promotes flowering",
+            "Light promotes flowering",
+            "Auxin promotes flowering",
+            "Grafting promotes flowering"
+          ],
+          "explanation": "Vernalization is the process where low temperature treatment hastens flowering in plants. Examples: winter wheat, biennial plants."
+        }
+      }
+    },
+    {
+      "id": 57,
+      "type": "mcq",
+      "section": "botany",
+      "question": "Apomixis is:",
+      "options": [
+        "Fusion of gametes",
+        "Vegetative reproduction",
+        "Parthenogenesis in animals",
+        "Seed formation without fertilization"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Apomixis is the production of seeds without fertilization. It is found in Asteraceae and grasses. Seeds are produced from unreduced eggs.",
+      "i18n": {
+        "hi": {
+          "question": "अपयुग्मन (Apomixis) है:",
+          "options": [
+            "युग्मकों का संयोजन",
+            "वनस्पति प्रजनन",
+            "जंतुओं में अनिषेकजनन",
+            "निषेचन के बिना बीज निर्माण"
+          ],
+          "explanation": "Apomixis is the production of seeds without fertilization. It is found in Asteraceae and grasses. Seeds are produced from unreduced eggs."
+        },
+        "en": {
+          "question": "Apomixis is:",
+          "options": [
+            "Fusion of gametes",
+            "Vegetative reproduction",
+            "Parthenogenesis in animals",
+            "Seed formation without fertilization"
+          ],
+          "explanation": "Apomixis is the production of seeds without fertilization. It is found in Asteraceae and grasses. Seeds are produced from unreduced eggs."
+        }
+      }
+    },
+    {
+      "id": 58,
+      "type": "mcq",
+      "section": "botany",
+      "question": "Double fertilization was discovered by:",
+      "options": [
+        "Mendel",
+        "Nawaschin",
+        "Watson & Crick",
+        "Robert Hooke"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Double fertilization (characteristic of angiosperms) was discovered by Nawaschin (1898). One sperm fertilizes egg (zygote), another fuses with polar nuclei (endosperm).",
+      "i18n": {
+        "hi": {
+          "question": "द्विनिषेचन की खोज किसने की?",
+          "options": [
+            "Mendel",
+            "Nawaschin",
+            "Watson & Crick",
+            "Robert Hooke"
+          ],
+          "explanation": "Double fertilization (characteristic of angiosperms) was discovered by Nawaschin (1898). One sperm fertilizes egg (zygote), another fuses with polar nuclei (endosperm)."
+        },
+        "en": {
+          "question": "Double fertilization was discovered by:",
+          "options": [
+            "Mendel",
+            "Nawaschin",
+            "Watson & Crick",
+            "Robert Hooke"
+          ],
+          "explanation": "Double fertilization (characteristic of angiosperms) was discovered by Nawaschin (1898). One sperm fertilizes egg (zygote), another fuses with polar nuclei (endosperm)."
+        }
+      }
+    },
+    {
+      "id": 59,
+      "type": "mcq",
+      "section": "botany",
+      "question": "The polyploidy of primary endosperm nucleus (PEN) in angiosperms is:",
+      "options": [
+        "Haploid (n)",
+        "Diploid (2n)",
+        "Triploid (3n)",
+        "Tetraploid (4n)"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "PEN = 2 polar nuclei (n each) + 1 male gamete (n) = 3n (triploid). The endosperm formed from this is also triploid.",
+      "i18n": {
+        "hi": {
+          "question": "आवृतबीजी में प्राथमिक भ्रूणपोष केंद्रक (PEN) की गुणसूत्रता होती है:",
+          "options": [
+            "Haploid (n)",
+            "Diploid (2n)",
+            "Triploid (3n)",
+            "Tetraploid (4n)"
+          ],
+          "explanation": "PEN = 2 polar nuclei (n each) + 1 male gamete (n) = 3n (triploid). The endosperm formed from this is also triploid."
+        },
+        "en": {
+          "question": "The polyploidy of primary endosperm nucleus (PEN) in angiosperms is:",
+          "options": [
+            "Haploid (n)",
+            "Diploid (2n)",
+            "Triploid (3n)",
+            "Tetraploid (4n)"
+          ],
+          "explanation": "PEN = 2 polar nuclei (n each) + 1 male gamete (n) = 3n (triploid). The endosperm formed from this is also triploid."
+        }
+      }
+    },
+    {
+      "id": 60,
+      "type": "mcq",
+      "section": "botany",
+      "question": "Crossing over occurs at which stage of meiosis?",
+      "options": [
+        "Anaphase II",
+        "Zygotene",
+        "Metaphase I",
+        "Pachytene of Prophase I"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Crossing over occurs during Pachytene of Prophase I of meiosis I. Chiasmata are visible during Diplotene. Crossing over increases genetic variability.",
+      "i18n": {
+        "hi": {
+          "question": "जीन विनिमय (Crossing over) अर्धसूत्री विभाजन की किस अवस्था में होता है?",
+          "options": [
+            "Anaphase II",
+            "Zygotene",
+            "Metaphase I",
+            "Pachytene of Prophase I"
+          ],
+          "explanation": "Crossing over occurs during Pachytene of Prophase I of meiosis I. Chiasmata are visible during Diplotene. Crossing over increases genetic variability."
+        },
+        "en": {
+          "question": "Crossing over occurs at which stage of meiosis?",
+          "options": [
+            "Anaphase II",
+            "Zygotene",
+            "Metaphase I",
+            "Pachytene of Prophase I"
+          ],
+          "explanation": "Crossing over occurs during Pachytene of Prophase I of meiosis I. Chiasmata are visible during Diplotene. Crossing over increases genetic variability."
+        }
+      }
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "section": "botany",
+      "question": "In a dihybrid cross AaBb × AaBb, the ratio of plants showing both dominant traits is:",
+      "options": [
+        "9/16",
+        "3/16",
+        "1/16",
+        "6/16"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "In 9:3:3:1 ratio: 9 show both dominant traits. So 9/16 plants show A_B_ phenotype.",
+      "i18n": {
+        "hi": {
+          "question": "AaBb × AaBb द्विसंकर क्रॉस में दोनों प्रभावी लक्षणों वाले पौधों का अनुपात होगा:",
+          "options": [
+            "9/16",
+            "3/16",
+            "1/16",
+            "6/16"
+          ],
+          "explanation": "In 9:3:3:1 ratio: 9 show both dominant traits. So 9/16 plants show A_B_ phenotype."
+        },
+        "en": {
+          "question": "In a dihybrid cross AaBb × AaBb, the ratio of plants showing both dominant traits is:",
+          "options": [
+            "9/16",
+            "3/16",
+            "1/16",
+            "6/16"
+          ],
+          "explanation": "In 9:3:3:1 ratio: 9 show both dominant traits. So 9/16 plants show A_B_ phenotype."
+        }
+      }
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "section": "botany",
+      "question": "The promoter in lac operon binds with:",
+      "options": [
+        "RNA polymerase",
+        "Repressor protein",
+        "Inducer",
+        "Operator"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "The promoter sequence binds with RNA polymerase to initiate transcription. The operator binds with the repressor protein. Inducer (allolactose) binds with repressor.",
+      "i18n": {
+        "hi": {
+          "question": "Lac operon में प्रवर्तक (promoter) किससे बंधता है?",
+          "options": [
+            "RNA polymerase",
+            "दमनकारी प्रोटीन",
+            "प्रेरक",
+            "Operator"
+          ],
+          "explanation": "The promoter sequence binds with RNA polymerase to initiate transcription. The operator binds with the repressor protein. Inducer (allolactose) binds with repressor."
+        },
+        "en": {
+          "question": "The promoter in lac operon binds with:",
+          "options": [
+            "RNA polymerase",
+            "Repressor protein",
+            "Inducer",
+            "Operator"
+          ],
+          "explanation": "The promoter sequence binds with RNA polymerase to initiate transcription. The operator binds with the repressor protein. Inducer (allolactose) binds with repressor."
+        }
+      }
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "section": "botany",
+      "question": "Restriction endonucleases cut DNA at specific sequences called:",
+      "options": [
+        "CG-rich regions",
+        "AT-rich regions",
+        "Palindromic sequences",
+        "Random sites"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Restriction enzymes recognize palindromic sequences (sequences that read the same on both strands in 5'→3' direction). e.g., EcoRI recognizes GAATTC.",
+      "i18n": {
+        "hi": {
+          "question": "प्रतिबंध एंडोन्यूक्लिएज DNA को किन विशिष्ट अनुक्रमों पर काटते हैं?",
+          "options": [
+            "CG-समृद्ध क्षेत्र",
+            "AT-समृद्ध क्षेत्र",
+            "पैलिंड्रोमिक अनुक्रम",
+            "यादृच्छिक स्थान"
+          ],
+          "explanation": "Restriction enzymes recognize palindromic sequences (sequences that read the same on both strands in 5'→3' direction). e.g., EcoRI recognizes GAATTC."
+        },
+        "en": {
+          "question": "Restriction endonucleases cut DNA at specific sequences called:",
+          "options": [
+            "CG-rich regions",
+            "AT-rich regions",
+            "Palindromic sequences",
+            "Random sites"
+          ],
+          "explanation": "Restriction enzymes recognize palindromic sequences (sequences that read the same on both strands in 5'→3' direction). e.g., EcoRI recognizes GAATTC."
+        }
+      }
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "section": "botany",
+      "question": "Semi-conservative replication of DNA was proved by:",
+      "options": [
+        "Watson and Crick",
+        "Meselson and Stahl",
+        "Hershey and Chase",
+        "Griffith"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Meselson and Stahl (1958) proved semi-conservative DNA replication using ¹⁵N heavy isotope and CsCl density gradient centrifugation.",
+      "i18n": {
+        "hi": {
+          "question": "DNA के अर्ध-संरक्षी प्रतिकृतिकरण को किसने सिद्ध किया?",
+          "options": [
+            "Watson and Crick",
+            "Meselson and Stahl",
+            "Hershey and Chase",
+            "Griffith"
+          ],
+          "explanation": "Meselson and Stahl (1958) proved semi-conservative DNA replication using ¹⁵N heavy isotope and CsCl density gradient centrifugation."
+        },
+        "en": {
+          "question": "Semi-conservative replication of DNA was proved by:",
+          "options": [
+            "Watson and Crick",
+            "Meselson and Stahl",
+            "Hershey and Chase",
+            "Griffith"
+          ],
+          "explanation": "Meselson and Stahl (1958) proved semi-conservative DNA replication using ¹⁵N heavy isotope and CsCl density gradient centrifugation."
+        }
+      }
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "section": "botany",
+      "question": "tRNA has which unique structure?",
+      "options": [
+        "Triple helix",
+        "Double helix",
+        "Single strand",
+        "Cloverleaf"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "tRNA has a cloverleaf secondary structure with 4 stems. Its 3D structure is L-shaped. The anticodon loop reads mRNA codons during translation.",
+      "i18n": {
+        "hi": {
+          "question": "tRNA में कौन-सी अनूठी संरचना पाई जाती है?",
+          "options": [
+            "त्रिकुंडली",
+            "द्विकुंडली",
+            "एकल रज्जु",
+            "क्लोवरलीफ"
+          ],
+          "explanation": "tRNA has a cloverleaf secondary structure with 4 stems. Its 3D structure is L-shaped. The anticodon loop reads mRNA codons during translation."
+        },
+        "en": {
+          "question": "tRNA has which unique structure?",
+          "options": [
+            "Triple helix",
+            "Double helix",
+            "Single strand",
+            "Cloverleaf"
+          ],
+          "explanation": "tRNA has a cloverleaf secondary structure with 4 stems. Its 3D structure is L-shaped. The anticodon loop reads mRNA codons during translation."
+        }
+      }
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "section": "botany",
+      "question": "The hotspot of biodiversity in India includes:",
+      "options": [
+        "Deccan Plateau",
+        "Thar Desert",
+        "Western Ghats and Himalayas",
+        "Indo-Gangetic Plain"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "India has 4 biodiversity hotspots: Western Ghats, Eastern Himalayas, Indo-Burma region, and Sundaland (includes Andaman & Nicobar Islands).",
+      "i18n": {
+        "hi": {
+          "question": "भारत में जैव-विविधता के हॉटस्पॉट में शामिल है:",
+          "options": [
+            "दक्कन पठार",
+            "थार मरुस्थल",
+            "पश्चिमी घाट और हिमालय",
+            "इंडो-गैंजेटिक मैदान"
+          ],
+          "explanation": "India has 4 biodiversity hotspots: Western Ghats, Eastern Himalayas, Indo-Burma region, and Sundaland (includes Andaman & Nicobar Islands)."
+        },
+        "en": {
+          "question": "The hotspot of biodiversity in India includes:",
+          "options": [
+            "Deccan Plateau",
+            "Thar Desert",
+            "Western Ghats and Himalayas",
+            "Indo-Gangetic Plain"
+          ],
+          "explanation": "India has 4 biodiversity hotspots: Western Ghats, Eastern Himalayas, Indo-Burma region, and Sundaland (includes Andaman & Nicobar Islands)."
+        }
+      }
+    },
+    {
+      "id": 67,
+      "type": "mcq",
+      "section": "botany",
+      "question": "The pyramid of energy in an ecosystem is always:",
+      "options": [
+        "Spindle-shaped",
+        "Inverted",
+        "Either upright or inverted",
+        "Upright"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "The pyramid of energy is always upright because energy decreases at each trophic level (10% rule / Lindeman's efficiency). It can never be inverted.",
+      "i18n": {
+        "hi": {
+          "question": "पारिस्थितिक तंत्र में ऊर्जा का पिरामिड सदैव होता है:",
+          "options": [
+            "धुरी के आकार का",
+            "उल्टा",
+            "सीधा या उल्टा कोई भी",
+            "सीधा"
+          ],
+          "explanation": "The pyramid of energy is always upright because energy decreases at each trophic level (10% rule / Lindeman's efficiency). It can never be inverted."
+        },
+        "en": {
+          "question": "The pyramid of energy in an ecosystem is always:",
+          "options": [
+            "Spindle-shaped",
+            "Inverted",
+            "Either upright or inverted",
+            "Upright"
+          ],
+          "explanation": "The pyramid of energy is always upright because energy decreases at each trophic level (10% rule / Lindeman's efficiency). It can never be inverted."
+        }
+      }
+    },
+    {
+      "id": 68,
+      "type": "mcq",
+      "section": "botany",
+      "question": "In primary succession on a bare rock, the pioneer (first) colonizers are:",
+      "options": [
+        "Lichens",
+        "Mosses",
+        "Grasses",
+        "Trees"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "In primary succession on bare rock, Lichens are pioneer species (they break down rock to soil). Then mosses → grasses → shrubs → trees.",
+      "i18n": {
+        "hi": {
+          "question": "नंगी चट्टान पर प्राथमिक अनुक्रमण में अग्रणी (पहले) उपनिवेशक होते हैं:",
+          "options": [
+            "लाइकेन",
+            "मॉस",
+            "घास",
+            "वृक्ष"
+          ],
+          "explanation": "In primary succession on bare rock, Lichens are pioneer species (they break down rock to soil). Then mosses → grasses → shrubs → trees."
+        },
+        "en": {
+          "question": "In primary succession on a bare rock, the pioneer (first) colonizers are:",
+          "options": [
+            "Lichens",
+            "Mosses",
+            "Grasses",
+            "Trees"
+          ],
+          "explanation": "In primary succession on bare rock, Lichens are pioneer species (they break down rock to soil). Then mosses → grasses → shrubs → trees."
+        }
+      }
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "section": "botany",
+      "question": "Water potential (Ψw) = Solute potential (Ψs) + Pressure potential (Ψp). For a turgid cell:",
+      "options": [
+        "Ψs = 0",
+        "Ψp = 0",
+        "Ψp is negative",
+        "Ψp is maximum positive"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "In a fully turgid cell, Ψp (turgor pressure) is maximum and positive. Ψs is always negative. In a flaccid cell, Ψp = 0.",
+      "i18n": {
+        "hi": {
+          "question": "जल विभव (Ψw) = विलेय विभव (Ψs) + दाब विभव (Ψp)। एक स्फीत (turgid) कोशिका के लिए:",
+          "options": [
+            "Ψs = 0",
+            "Ψp = 0",
+            "Ψp ऋणात्मक",
+            "Ψp अधिकतम धनात्मक"
+          ],
+          "explanation": "In a fully turgid cell, Ψp (turgor pressure) is maximum and positive. Ψs is always negative. In a flaccid cell, Ψp = 0."
+        },
+        "en": {
+          "question": "Water potential (Ψw) = Solute potential (Ψs) + Pressure potential (Ψp). For a turgid cell:",
+          "options": [
+            "Ψs = 0",
+            "Ψp = 0",
+            "Ψp is negative",
+            "Ψp is maximum positive"
+          ],
+          "explanation": "In a fully turgid cell, Ψp (turgor pressure) is maximum and positive. Ψs is always negative. In a flaccid cell, Ψp = 0."
+        }
+      }
+    },
+    {
+      "id": 70,
+      "type": "mcq",
+      "section": "botany",
+      "question": "Bioremediation uses:",
+      "options": [
+        "Pesticides",
+        "Chemical fertilizers",
+        "UV radiation",
+        "Microorganisms to clean up pollution"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Bioremediation uses microorganisms (bacteria, fungi) to detoxify/degrade pollutants in soil, water and air. Example: Pseudomonas for oil spill cleanup.",
+      "i18n": {
+        "hi": {
+          "question": "जैव-उपचारण (Bioremediation) में प्रयुक्त होते हैं:",
+          "options": [
+            "कीटनाशक",
+            "रासायनिक उर्वरक",
+            "पराबैंगनी विकिरण",
+            "प्रदूषण सफाई के लिए सूक्ष्मजीव"
+          ],
+          "explanation": "Bioremediation uses microorganisms (bacteria, fungi) to detoxify/degrade pollutants in soil, water and air. Example: Pseudomonas for oil spill cleanup."
+        },
+        "en": {
+          "question": "Bioremediation uses:",
+          "options": [
+            "Pesticides",
+            "Chemical fertilizers",
+            "UV radiation",
+            "Microorganisms to clean up pollution"
+          ],
+          "explanation": "Bioremediation uses microorganisms (bacteria, fungi) to detoxify/degrade pollutants in soil, water and air. Example: Pseudomonas for oil spill cleanup."
+        }
+      }
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "section": "botany",
+      "question": "The enzyme responsible for CO₂ fixation in C3 plants is:",
+      "options": [
+        "Pyruvate kinase",
+        "PEP carboxylase",
+        "RuBisCO (Ribulose-1,5-bisphosphate carboxylase/oxygenase)",
+        "ATP synthase"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "RuBisCO catalyzes CO₂ fixation in C3 plants (Calvin cycle). In C4 plants, PEP carboxylase initially fixes CO₂ in mesophyll cells with higher affinity for CO₂.",
+      "i18n": {
+        "hi": {
+          "question": "C3 पौधों में CO₂ स्थिरीकरण के लिए उत्तरदायी एंजाइम है:",
+          "options": [
+            "Pyruvate kinase",
+            "PEP carboxylase",
+            "RuBisCO (Ribulose-1,5-bisphosphate carboxylase/oxygenase)",
+            "ATP synthase"
+          ],
+          "explanation": "RuBisCO catalyzes CO₂ fixation in C3 plants (Calvin cycle). In C4 plants, PEP carboxylase initially fixes CO₂ in mesophyll cells with higher affinity for CO₂."
+        },
+        "en": {
+          "question": "The enzyme responsible for CO₂ fixation in C3 plants is:",
+          "options": [
+            "Pyruvate kinase",
+            "PEP carboxylase",
+            "RuBisCO (Ribulose-1,5-bisphosphate carboxylase/oxygenase)",
+            "ATP synthase"
+          ],
+          "explanation": "RuBisCO catalyzes CO₂ fixation in C3 plants (Calvin cycle). In C4 plants, PEP carboxylase initially fixes CO₂ in mesophyll cells with higher affinity for CO₂."
+        }
+      }
+    },
+    {
+      "id": 72,
+      "type": "mcq",
+      "section": "botany",
+      "question": "Totipotency means:",
+      "options": [
+        "Cellular differentiation",
+        "Ability of stem cells only",
+        "Division of meristematic cells",
+        "Ability of a cell to develop into a complete organism"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Totipotency (Haberlandt's concept) is the ability of a single cell to divide and differentiate into a complete organism. Forms the basis of plant tissue culture.",
+      "i18n": {
+        "hi": {
+          "question": "टोटीपोटेंसी का अर्थ है:",
+          "options": [
+            "कोशिका विभेदन",
+            "केवल स्टेम कोशिकाओं की क्षमता",
+            "विभज्योतक कोशिकाओं का विभाजन",
+            "एक कोशिका की पूर्ण जीव में विकसित होने की क्षमता"
+          ],
+          "explanation": "Totipotency (Haberlandt's concept) is the ability of a single cell to divide and differentiate into a complete organism. Forms the basis of plant tissue culture."
+        },
+        "en": {
+          "question": "Totipotency means:",
+          "options": [
+            "Cellular differentiation",
+            "Ability of stem cells only",
+            "Division of meristematic cells",
+            "Ability of a cell to develop into a complete organism"
+          ],
+          "explanation": "Totipotency (Haberlandt's concept) is the ability of a single cell to divide and differentiate into a complete organism. Forms the basis of plant tissue culture."
+        }
+      }
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "section": "botany",
+      "question": "In angiosperms, microsporogenesis results in formation of:",
+      "options": [
+        "4 haploid microspores",
+        "2 diploid cells",
+        "8 nuclei",
+        "1 pollen grain"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "One microspore mother cell (2n) undergoes meiosis to produce 4 haploid microspores (n). Each microspore develops into a mature pollen grain.",
+      "i18n": {
+        "hi": {
+          "question": "आवृतबीजी में लघुबीजाणुजनन से बनता है:",
+          "options": [
+            "4 अगुणित लघुबीजाणु",
+            "2 द्विगुणित कोशिकाएं",
+            "8 केंद्रक",
+            "1 परागकण"
+          ],
+          "explanation": "One microspore mother cell (2n) undergoes meiosis to produce 4 haploid microspores (n). Each microspore develops into a mature pollen grain."
+        },
+        "en": {
+          "question": "In angiosperms, microsporogenesis results in formation of:",
+          "options": [
+            "4 haploid microspores",
+            "2 diploid cells",
+            "8 nuclei",
+            "1 pollen grain"
+          ],
+          "explanation": "One microspore mother cell (2n) undergoes meiosis to produce 4 haploid microspores (n). Each microspore develops into a mature pollen grain."
+        }
+      }
+    },
+    {
+      "id": 74,
+      "type": "mcq",
+      "section": "botany",
+      "question": "Nitrogen fixation by biological means is carried out by:",
+      "options": [
+        "Nitrifying bacteria like Nitrosomonas",
+        "Rhizobium",
+        "Denitrifying bacteria",
+        "Decomposers"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Rhizobium fixes N₂ symbiotically in root nodules of legumes using nitrogenase enzyme. Free-living fixers: Azotobacter, Anabaena, Nostoc.",
+      "i18n": {
+        "hi": {
+          "question": "जैविक नाइट्रोजन स्थिरीकरण किसके द्वारा किया जाता है?",
+          "options": [
+            "Nitrifying bacteria like Nitrosomonas",
+            "Rhizobium",
+            "Denitrifying bacteria",
+            "Decomposers"
+          ],
+          "explanation": "Rhizobium fixes N₂ symbiotically in root nodules of legumes using nitrogenase enzyme. Free-living fixers: Azotobacter, Anabaena, Nostoc."
+        },
+        "en": {
+          "question": "Nitrogen fixation by biological means is carried out by:",
+          "options": [
+            "Nitrifying bacteria like Nitrosomonas",
+            "Rhizobium",
+            "Denitrifying bacteria",
+            "Decomposers"
+          ],
+          "explanation": "Rhizobium fixes N₂ symbiotically in root nodules of legumes using nitrogenase enzyme. Free-living fixers: Azotobacter, Anabaena, Nostoc."
+        }
+      }
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "section": "botany",
+      "question": "Which of the following has the highest genetic diversity?",
+      "options": [
+        "Tropical rainforests",
+        "Polar regions",
+        "Temperate forests",
+        "Deserts"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Tropical rainforests have the highest biodiversity and genetic diversity. They cover 10% of Earth's surface but contain >50% of all species.",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से सर्वाधिक आनुवंशिक विविधता किसमें है?",
+          "options": [
+            "उष्णकटिबंधीय वर्षावन",
+            "ध्रुवीय क्षेत्र",
+            "शीतोष्ण वन",
+            "मरुस्थल"
+          ],
+          "explanation": "Tropical rainforests have the highest biodiversity and genetic diversity. They cover 10% of Earth's surface but contain >50% of all species."
+        },
+        "en": {
+          "question": "Which of the following has the highest genetic diversity?",
+          "options": [
+            "Tropical rainforests",
+            "Polar regions",
+            "Temperate forests",
+            "Deserts"
+          ],
+          "explanation": "Tropical rainforests have the highest biodiversity and genetic diversity. They cover 10% of Earth's surface but contain >50% of all species."
+        }
+      }
+    },
+    {
+      "id": 76,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "Which enzyme digests proteins in the stomach?",
+      "options": [
+        "Trypsin",
+        "Pepsin",
+        "Lipase",
+        "Amylase"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Pepsin (activated from pepsinogen by HCl) digests proteins in the stomach. Trypsin works in the small intestine. Pepsin works at pH 1.5-2.",
+      "i18n": {
+        "hi": {
+          "question": "आमाशय में प्रोटीन को पचाने वाला एंजाइम है:",
+          "options": [
+            "Trypsin",
+            "Pepsin",
+            "Lipase",
+            "Amylase"
+          ],
+          "explanation": "Pepsin (activated from pepsinogen by HCl) digests proteins in the stomach. Trypsin works in the small intestine. Pepsin works at pH 1.5-2."
+        },
+        "en": {
+          "question": "Which enzyme digests proteins in the stomach?",
+          "options": [
+            "Trypsin",
+            "Pepsin",
+            "Lipase",
+            "Amylase"
+          ],
+          "explanation": "Pepsin (activated from pepsinogen by HCl) digests proteins in the stomach. Trypsin works in the small intestine. Pepsin works at pH 1.5-2."
+        }
+      }
+    },
+    {
+      "id": 77,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "The total lung capacity = Vital capacity + ?",
+      "options": [
+        "Residual Volume",
+        "Tidal Volume",
+        "Inspiratory Reserve Volume",
+        "Expiratory Reserve Volume"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Total Lung Capacity (TLC) = Vital Capacity (VC) + Residual Volume (RV) = ~4800 mL + ~1200 mL = ~6000 mL.",
+      "i18n": {
+        "hi": {
+          "question": "फुफ्फुस की कुल क्षमता = जैव क्षमता + ?",
+          "options": [
+            "अवशिष्ट आयतन",
+            "ज्वारीय आयतन",
+            "प्रेरणात्मक आरक्षित आयतन",
+            "निःश्वसन आरक्षित आयतन"
+          ],
+          "explanation": "Total Lung Capacity (TLC) = Vital Capacity (VC) + Residual Volume (RV) = ~4800 mL + ~1200 mL = ~6000 mL."
+        },
+        "en": {
+          "question": "The total lung capacity = Vital capacity + ?",
+          "options": [
+            "Residual Volume",
+            "Tidal Volume",
+            "Inspiratory Reserve Volume",
+            "Expiratory Reserve Volume"
+          ],
+          "explanation": "Total Lung Capacity (TLC) = Vital Capacity (VC) + Residual Volume (RV) = ~4800 mL + ~1200 mL = ~6000 mL."
+        }
+      }
+    },
+    {
+      "id": 78,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "The pacemaker of the human heart is:",
+      "options": [
+        "AV node (Atrioventricular node)",
+        "SA node (Sinoatrial node)",
+        "Bundle of His",
+        "Purkinje fibres"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "The SA node (in right atrium wall) is the natural pacemaker that generates impulses at ~72/min. It initiates each cardiac cycle.",
+      "i18n": {
+        "hi": {
+          "question": "मानव हृदय का पेसमेकर है:",
+          "options": [
+            "AV node (Atrioventricular node)",
+            "SA node (Sinoatrial node)",
+            "Bundle of His",
+            "Purkinje fibres"
+          ],
+          "explanation": "The SA node (in right atrium wall) is the natural pacemaker that generates impulses at ~72/min. It initiates each cardiac cycle."
+        },
+        "en": {
+          "question": "The pacemaker of the human heart is:",
+          "options": [
+            "AV node (Atrioventricular node)",
+            "SA node (Sinoatrial node)",
+            "Bundle of His",
+            "Purkinje fibres"
+          ],
+          "explanation": "The SA node (in right atrium wall) is the natural pacemaker that generates impulses at ~72/min. It initiates each cardiac cycle."
+        }
+      }
+    },
+    {
+      "id": 79,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "The countercurrent mechanism in nephron occurs in:",
+      "options": [
+        "Loop of Henle",
+        "Proximal convoluted tubule",
+        "Bowman's capsule",
+        "Collecting duct only"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "The Loop of Henle establishes the countercurrent multiplier system for concentrating urine. Ascending limb is impermeable to water, descending limb is permeable.",
+      "i18n": {
+        "hi": {
+          "question": "वृक्काणु में प्रतिधारा तंत्र किसमें होता है?",
+          "options": [
+            "हेनले का पाश",
+            "समीपस्थ संकुचित नलिका",
+            "Bowman's capsule",
+            "केवल संग्रहण नलिका"
+          ],
+          "explanation": "The Loop of Henle establishes the countercurrent multiplier system for concentrating urine. Ascending limb is impermeable to water, descending limb is permeable."
+        },
+        "en": {
+          "question": "The countercurrent mechanism in nephron occurs in:",
+          "options": [
+            "Loop of Henle",
+            "Proximal convoluted tubule",
+            "Bowman's capsule",
+            "Collecting duct only"
+          ],
+          "explanation": "The Loop of Henle establishes the countercurrent multiplier system for concentrating urine. Ascending limb is impermeable to water, descending limb is permeable."
+        }
+      }
+    },
+    {
+      "id": 80,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "Resting membrane potential of a neuron is maintained by:",
+      "options": [
+        "Only K⁺ channels",
+        "Na⁺-K⁺ ATPase pump",
+        "Ca²⁺ ions",
+        "Cl⁻ ions"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Na⁺-K⁺-ATPase pump maintains -70mV resting potential by pumping 3Na⁺ out and 2K⁺ in. Inside is negative relative to outside.",
+      "i18n": {
+        "hi": {
+          "question": "तंत्रिका कोशिका की विश्राम झिल्ली विभव किसके द्वारा बनाए रखी जाती है?",
+          "options": [
+            "केवल K⁺ चैनल",
+            "Na⁺-K⁺ ATPase पंप",
+            "Ca²⁺ ions",
+            "Cl⁻ ions"
+          ],
+          "explanation": "Na⁺-K⁺-ATPase pump maintains -70mV resting potential by pumping 3Na⁺ out and 2K⁺ in. Inside is negative relative to outside."
+        },
+        "en": {
+          "question": "Resting membrane potential of a neuron is maintained by:",
+          "options": [
+            "Only K⁺ channels",
+            "Na⁺-K⁺ ATPase pump",
+            "Ca²⁺ ions",
+            "Cl⁻ ions"
+          ],
+          "explanation": "Na⁺-K⁺-ATPase pump maintains -70mV resting potential by pumping 3Na⁺ out and 2K⁺ in. Inside is negative relative to outside."
+        }
+      }
+    },
+    {
+      "id": 81,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "Diabetes insipidus is caused by deficiency of:",
+      "options": [
+        "Thyroxine",
+        "Insulin",
+        "Glucagon",
+        "ADH (Vasopressin)"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Diabetes insipidus is due to deficiency of ADH (Antidiuretic hormone/Vasopressin). Symptoms: excessive urination (polyuria), excessive thirst (polydipsia). NOT related to blood sugar.",
+      "i18n": {
+        "hi": {
+          "question": "मधुमेह इन्सिपिडस किसकी कमी से होता है?",
+          "options": [
+            "Thyroxine",
+            "Insulin",
+            "Glucagon",
+            "ADH (Vasopressin)"
+          ],
+          "explanation": "Diabetes insipidus is due to deficiency of ADH (Antidiuretic hormone/Vasopressin). Symptoms: excessive urination (polyuria), excessive thirst (polydipsia). NOT related to blood sugar."
+        },
+        "en": {
+          "question": "Diabetes insipidus is caused by deficiency of:",
+          "options": [
+            "Thyroxine",
+            "Insulin",
+            "Glucagon",
+            "ADH (Vasopressin)"
+          ],
+          "explanation": "Diabetes insipidus is due to deficiency of ADH (Antidiuretic hormone/Vasopressin). Symptoms: excessive urination (polyuria), excessive thirst (polydipsia). NOT related to blood sugar."
+        }
+      }
+    },
+    {
+      "id": 82,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "The correct sequence of spermatogenesis is:",
+      "options": [
+        "Spermatogonia → Primary spermatocyte → Secondary spermatocyte → Spermatid → Sperm",
+        "Spermatogonia → Spermatid → Primary spermatocyte → Secondary spermatocyte → Sperm",
+        "Primary spermatocyte → Spermatogonia → Secondary spermatocyte → Sperm",
+        "Spermatid → Spermatogonia → Spermatocyte → Sperm"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Spermatogenesis: Spermatogonia (2n) → [Mitosis] → Primary spermatocyte (2n) → [Meiosis I] → Secondary spermatocyte (n) → [Meiosis II] → Spermatid (n) → [Spermiogenesis] → Sperm.",
+      "i18n": {
+        "hi": {
+          "question": "शुक्राणुजनन का सही क्रम है:",
+          "options": [
+            "Spermatogonia → Primary spermatocyte → Secondary spermatocyte → Spermatid → Sperm",
+            "Spermatogonia → Spermatid → Primary spermatocyte → Secondary spermatocyte → Sperm",
+            "Primary spermatocyte → Spermatogonia → Secondary spermatocyte → Sperm",
+            "Spermatid → Spermatogonia → Spermatocyte → Sperm"
+          ],
+          "explanation": "Spermatogenesis: Spermatogonia (2n) → [Mitosis] → Primary spermatocyte (2n) → [Meiosis I] → Secondary spermatocyte (n) → [Meiosis II] → Spermatid (n) → [Spermiogenesis] → Sperm."
+        },
+        "en": {
+          "question": "The correct sequence of spermatogenesis is:",
+          "options": [
+            "Spermatogonia → Primary spermatocyte → Secondary spermatocyte → Spermatid → Sperm",
+            "Spermatogonia → Spermatid → Primary spermatocyte → Secondary spermatocyte → Sperm",
+            "Primary spermatocyte → Spermatogonia → Secondary spermatocyte → Sperm",
+            "Spermatid → Spermatogonia → Spermatocyte → Sperm"
+          ],
+          "explanation": "Spermatogenesis: Spermatogonia (2n) → [Mitosis] → Primary spermatocyte (2n) → [Meiosis I] → Secondary spermatocyte (n) → [Meiosis II] → Spermatid (n) → [Spermiogenesis] → Sperm."
+        }
+      }
+    },
+    {
+      "id": 83,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "Animals having true coelom lined by mesoderm are called:",
+      "options": [
+        "Acoelomates",
+        "Pseudocoelomates",
+        "Eucoelomates",
+        "Haemocoelomates"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Eucoelomates have true coelom (body cavity lined by mesoderm). Examples: Annelida, Mollusca, Echinodermata, Vertebrates. Acoelomates (no coelom): Platyhelminthes.",
+      "i18n": {
+        "hi": {
+          "question": "जिन जंतुओं में मध्यचर्म (mesoderm) से आस्तरित सच्ची देहगुहा होती है, उन्हें कहते हैं:",
+          "options": [
+            "असीलोमेट",
+            "स्यूडोसीलोमेट",
+            "यूसीलोमेट",
+            "हेमोसीलोमेट"
+          ],
+          "explanation": "Eucoelomates have true coelom (body cavity lined by mesoderm). Examples: Annelida, Mollusca, Echinodermata, Vertebrates. Acoelomates (no coelom): Platyhelminthes."
+        },
+        "en": {
+          "question": "Animals having true coelom lined by mesoderm are called:",
+          "options": [
+            "Acoelomates",
+            "Pseudocoelomates",
+            "Eucoelomates",
+            "Haemocoelomates"
+          ],
+          "explanation": "Eucoelomates have true coelom (body cavity lined by mesoderm). Examples: Annelida, Mollusca, Echinodermata, Vertebrates. Acoelomates (no coelom): Platyhelminthes."
+        }
+      }
+    },
+    {
+      "id": 84,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "Which cells produce antibodies in the human body?",
+      "options": [
+        "Macrophages",
+        "T-lymphocytes",
+        "Plasma cells (B-lymphocytes)",
+        "Natural killer cells"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Plasma cells (differentiated B-lymphocytes) produce antibodies (immunoglobulins). T-lymphocytes are involved in cell-mediated immunity.",
+      "i18n": {
+        "hi": {
+          "question": "मानव शरीर में एंटीबॉडी का उत्पादन कौन-सी कोशिकाएं करती हैं?",
+          "options": [
+            "Macrophages",
+            "T-lymphocytes",
+            "Plasma cells (B-lymphocytes)",
+            "Natural killer cells"
+          ],
+          "explanation": "Plasma cells (differentiated B-lymphocytes) produce antibodies (immunoglobulins). T-lymphocytes are involved in cell-mediated immunity."
+        },
+        "en": {
+          "question": "Which cells produce antibodies in the human body?",
+          "options": [
+            "Macrophages",
+            "T-lymphocytes",
+            "Plasma cells (B-lymphocytes)",
+            "Natural killer cells"
+          ],
+          "explanation": "Plasma cells (differentiated B-lymphocytes) produce antibodies (immunoglobulins). T-lymphocytes are involved in cell-mediated immunity."
+        }
+      }
+    },
+    {
+      "id": 85,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "If a man with blood group AB marries a woman with blood group O, which blood groups are possible in offspring?",
+      "options": [
+        "AB only",
+        "A and B only",
+        "A, B and O",
+        "O only"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "AB (IAIB) × O (ii): IAi (Blood group A) and IBi (Blood group B). Offspring: 50% A and 50% B. Blood groups AB and O are NOT possible.",
+      "i18n": {
+        "hi": {
+          "question": "यदि AB रक्त समूह का पुरुष O रक्त समूह की महिला से विवाह करे, तो संतान में संभावित रक्त समूह होंगे:",
+          "options": [
+            "केवल AB",
+            "केवल A और B",
+            "A, B और O",
+            "केवल O"
+          ],
+          "explanation": "AB (IAIB) × O (ii): IAi (Blood group A) and IBi (Blood group B). Offspring: 50% A and 50% B. Blood groups AB and O are NOT possible."
+        },
+        "en": {
+          "question": "If a man with blood group AB marries a woman with blood group O, which blood groups are possible in offspring?",
+          "options": [
+            "AB only",
+            "A and B only",
+            "A, B and O",
+            "O only"
+          ],
+          "explanation": "AB (IAIB) × O (ii): IAi (Blood group A) and IBi (Blood group B). Offspring: 50% A and 50% B. Blood groups AB and O are NOT possible."
+        }
+      }
+    },
+    {
+      "id": 86,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "Hardy-Weinberg equilibrium is disturbed by: (NEET PYQ type)",
+      "options": [
+        "No mutations",
+        "Random mating only",
+        "Large population",
+        "Gene flow, mutations, genetic drift, natural selection"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Hardy-Weinberg equilibrium is disturbed by: gene flow, mutations, genetic drift, non-random mating, and natural selection. These are the agents of evolution.",
+      "i18n": {
+        "hi": {
+          "question": "Hardy-Weinberg साम्यावस्था किससे असंतुलित होती है?",
+          "options": [
+            "उत्परिवर्तन न होने से",
+            "केवल यादृच्छिक मेटिंग",
+            "बड़ी जनसंख्या",
+            "जीन प्रवाह, उत्परिवर्तन, आनुवंशिक अपवाह, प्राकृतिक चयन"
+          ],
+          "explanation": "Hardy-Weinberg equilibrium is disturbed by: gene flow, mutations, genetic drift, non-random mating, and natural selection. These are the agents of evolution."
+        },
+        "en": {
+          "question": "Hardy-Weinberg equilibrium is disturbed by: (NEET PYQ type)",
+          "options": [
+            "No mutations",
+            "Random mating only",
+            "Large population",
+            "Gene flow, mutations, genetic drift, natural selection"
+          ],
+          "explanation": "Hardy-Weinberg equilibrium is disturbed by: gene flow, mutations, genetic drift, non-random mating, and natural selection. These are the agents of evolution."
+        }
+      }
+    },
+    {
+      "id": 87,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "The lytic cycle of bacteriophage results in:",
+      "options": [
+        "Lysogeny",
+        "Integration into host DNA",
+        "Destruction of host cell",
+        "No new virus"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "In lytic cycle: virus infects → replicates → host cell lyses → new virions released. In lysogenic cycle: viral DNA integrates into host genome (prophage).",
+      "i18n": {
+        "hi": {
+          "question": "बैक्टीरियोफेज का लाइटिक चक्र किसमें परिणत होता है?",
+          "options": [
+            "लाइसोजेनी",
+            "परपोषी DNA में एकीकरण",
+            "परपोषी कोशिका का विनाश",
+            "कोई नया वायरस नहीं"
+          ],
+          "explanation": "In lytic cycle: virus infects → replicates → host cell lyses → new virions released. In lysogenic cycle: viral DNA integrates into host genome (prophage)."
+        },
+        "en": {
+          "question": "The lytic cycle of bacteriophage results in:",
+          "options": [
+            "Lysogeny",
+            "Integration into host DNA",
+            "Destruction of host cell",
+            "No new virus"
+          ],
+          "explanation": "In lytic cycle: virus infects → replicates → host cell lyses → new virions released. In lysogenic cycle: viral DNA integrates into host genome (prophage)."
+        }
+      }
+    },
+    {
+      "id": 88,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "PCR (Polymerase Chain Reaction) is used to:",
+      "options": [
+        "Translate mRNA to protein",
+        "Amplify specific DNA sequences",
+        "Sequence amino acids",
+        "Clone entire organism"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "PCR amplifies a specific DNA segment exponentially. Steps: Denaturation (95°C) → Annealing (50-60°C) → Extension (72°C by Taq polymerase).",
+      "i18n": {
+        "hi": {
+          "question": "PCR (पॉलीमरेज चेन रिएक्शन) का उपयोग किया जाता है:",
+          "options": [
+            "mRNA से प्रोटीन संश्लेषण",
+            "विशिष्ट DNA अनुक्रम प्रवर्धन",
+            "अमीनो अम्ल अनुक्रम ज्ञात करना",
+            "पूर्ण जीव का क्लोनिंग"
+          ],
+          "explanation": "PCR amplifies a specific DNA segment exponentially. Steps: Denaturation (95°C) → Annealing (50-60°C) → Extension (72°C by Taq polymerase)."
+        },
+        "en": {
+          "question": "PCR (Polymerase Chain Reaction) is used to:",
+          "options": [
+            "Translate mRNA to protein",
+            "Amplify specific DNA sequences",
+            "Sequence amino acids",
+            "Clone entire organism"
+          ],
+          "explanation": "PCR amplifies a specific DNA segment exponentially. Steps: Denaturation (95°C) → Annealing (50-60°C) → Extension (72°C by Taq polymerase)."
+        }
+      }
+    },
+    {
+      "id": 89,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "The first transgenic crop approved for commercial use was:",
+      "options": [
+        "Golden rice",
+        "Bt cotton",
+        "Flavr Savr tomato",
+        "Roundup Ready soybean"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Flavr Savr tomato (1994) was the first genetically modified crop approved for human consumption in the USA. It had delayed ripening due to antisense polygalacturonase gene.",
+      "i18n": {
+        "hi": {
+          "question": "व्यावसायिक उपयोग के लिए स्वीकृत पहली आनुवंशिक रूप से परिवर्तित फसल थी:",
+          "options": [
+            "Golden rice",
+            "Bt cotton",
+            "Flavr Savr tomato",
+            "Roundup Ready soybean"
+          ],
+          "explanation": "Flavr Savr tomato (1994) was the first genetically modified crop approved for human consumption in the USA. It had delayed ripening due to antisense polygalacturonase gene."
+        },
+        "en": {
+          "question": "The first transgenic crop approved for commercial use was:",
+          "options": [
+            "Golden rice",
+            "Bt cotton",
+            "Flavr Savr tomato",
+            "Roundup Ready soybean"
+          ],
+          "explanation": "Flavr Savr tomato (1994) was the first genetically modified crop approved for human consumption in the USA. It had delayed ripening due to antisense polygalacturonase gene."
+        }
+      }
+    },
+    {
+      "id": 90,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "BOD (Biological Oxygen Demand) is a measure of:",
+      "options": [
+        "Turbidity of water",
+        "Dissolved oxygen in water",
+        "Temperature of water",
+        "Organic pollution in water"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "BOD measures the amount of O₂ consumed by microorganisms to decompose organic matter in water. High BOD = highly polluted water. Clean water: BOD < 5 ppm.",
+      "i18n": {
+        "hi": {
+          "question": "BOD (जैविक ऑक्सीजन माँग) मापता है:",
+          "options": [
+            "जल की मटमैलापन",
+            "जल में घुलित ऑक्सीजन",
+            "जल का तापमान",
+            "जल में जैविक प्रदूषण"
+          ],
+          "explanation": "BOD measures the amount of O₂ consumed by microorganisms to decompose organic matter in water. High BOD = highly polluted water. Clean water: BOD < 5 ppm."
+        },
+        "en": {
+          "question": "BOD (Biological Oxygen Demand) is a measure of:",
+          "options": [
+            "Turbidity of water",
+            "Dissolved oxygen in water",
+            "Temperature of water",
+            "Organic pollution in water"
+          ],
+          "explanation": "BOD measures the amount of O₂ consumed by microorganisms to decompose organic matter in water. High BOD = highly polluted water. Clean water: BOD < 5 ppm."
+        }
+      }
+    },
+    {
+      "id": 91,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "Which is an example of ex-situ conservation?",
+      "options": [
+        "National parks",
+        "Biosphere reserves",
+        "Zoological parks and seed banks",
+        "Wildlife sanctuaries"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Ex-situ conservation protects species outside their natural habitat: zoological parks, botanical gardens, seed banks, cryopreservation. In-situ: national parks, wildlife sanctuaries, biosphere reserves.",
+      "i18n": {
+        "hi": {
+          "question": "स्व-स्थान बाह्य (Ex-situ) संरक्षण का उदाहरण है:",
+          "options": [
+            "राष्ट्रीय उद्यान",
+            "जैवमंडल आरक्षित क्षेत्र",
+            "चिड़ियाघर और बीज बैंक",
+            "वन्यजीव अभ्यारण्य"
+          ],
+          "explanation": "Ex-situ conservation protects species outside their natural habitat: zoological parks, botanical gardens, seed banks, cryopreservation. In-situ: national parks, wildlife sanctuaries, biosphere reserves."
+        },
+        "en": {
+          "question": "Which is an example of ex-situ conservation?",
+          "options": [
+            "National parks",
+            "Biosphere reserves",
+            "Zoological parks and seed banks",
+            "Wildlife sanctuaries"
+          ],
+          "explanation": "Ex-situ conservation protects species outside their natural habitat: zoological parks, botanical gardens, seed banks, cryopreservation. In-situ: national parks, wildlife sanctuaries, biosphere reserves."
+        }
+      }
+    },
+    {
+      "id": 92,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "Uricotelic animals excrete nitrogenous waste as:",
+      "options": [
+        "Uric acid",
+        "Ammonia",
+        "Urea",
+        "Amino acids"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Uricotelic: birds, reptiles, insects excrete uric acid (least toxic, least water needed). Ammonotelic: aquatic animals (ammonia). Ureotelic: mammals, amphibians (urea).",
+      "i18n": {
+        "hi": {
+          "question": "यूरिकोटेलिक जंतु नाइट्रोजन उत्सर्जन किस रूप में करते हैं?",
+          "options": [
+            "यूरिक अम्ल",
+            "अमोनिया",
+            "यूरिया",
+            "अमीनो अम्ल"
+          ],
+          "explanation": "Uricotelic: birds, reptiles, insects excrete uric acid (least toxic, least water needed). Ammonotelic: aquatic animals (ammonia). Ureotelic: mammals, amphibians (urea)."
+        },
+        "en": {
+          "question": "Uricotelic animals excrete nitrogenous waste as:",
+          "options": [
+            "Uric acid",
+            "Ammonia",
+            "Urea",
+            "Amino acids"
+          ],
+          "explanation": "Uricotelic: birds, reptiles, insects excrete uric acid (least toxic, least water needed). Ammonotelic: aquatic animals (ammonia). Ureotelic: mammals, amphibians (urea)."
+        }
+      }
+    },
+    {
+      "id": 93,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "The functional unit of muscle contraction is:",
+      "options": [
+        "Z-line",
+        "Myofibril",
+        "Muscle fibre",
+        "Sarcomere"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Sarcomere is the basic functional unit of muscle contraction. It extends from one Z-line to the next. Contains thick (myosin) and thin (actin) filaments.",
+      "i18n": {
+        "hi": {
+          "question": "पेशी संकुचन की कार्यात्मक इकाई है:",
+          "options": [
+            "Z-रेखा",
+            "मायोफिब्रिल",
+            "पेशी तंतु",
+            "सार्कोमीयर"
+          ],
+          "explanation": "Sarcomere is the basic functional unit of muscle contraction. It extends from one Z-line to the next. Contains thick (myosin) and thin (actin) filaments."
+        },
+        "en": {
+          "question": "The functional unit of muscle contraction is:",
+          "options": [
+            "Z-line",
+            "Myofibril",
+            "Muscle fibre",
+            "Sarcomere"
+          ],
+          "explanation": "Sarcomere is the basic functional unit of muscle contraction. It extends from one Z-line to the next. Contains thick (myosin) and thin (actin) filaments."
+        }
+      }
+    },
+    {
+      "id": 94,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "ELISA (Enzyme-Linked Immunosorbent Assay) is used to detect:",
+      "options": [
+        "Gene mutations",
+        "Specific DNA sequences",
+        "Antigens or antibodies (HIV, pregnancy test)",
+        "Chromosome abnormalities"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "ELISA detects specific proteins (antigens/antibodies) using enzyme-linked antibodies. Used for HIV detection, pregnancy tests, and hepatitis diagnosis.",
+      "i18n": {
+        "hi": {
+          "question": "ELISA का उपयोग किसका पता लगाने के लिए किया जाता है?",
+          "options": [
+            "जीन उत्परिवर्तन",
+            "विशिष्ट DNA अनुक्रम",
+            "प्रतिजन या प्रतिरक्षी",
+            "गुणसूत्र असामान्यताएं"
+          ],
+          "explanation": "ELISA detects specific proteins (antigens/antibodies) using enzyme-linked antibodies. Used for HIV detection, pregnancy tests, and hepatitis diagnosis."
+        },
+        "en": {
+          "question": "ELISA (Enzyme-Linked Immunosorbent Assay) is used to detect:",
+          "options": [
+            "Gene mutations",
+            "Specific DNA sequences",
+            "Antigens or antibodies (HIV, pregnancy test)",
+            "Chromosome abnormalities"
+          ],
+          "explanation": "ELISA detects specific proteins (antigens/antibodies) using enzyme-linked antibodies. Used for HIV detection, pregnancy tests, and hepatitis diagnosis."
+        }
+      }
+    },
+    {
+      "id": 95,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "The correct order of taxonomic hierarchy from highest to lowest is:",
+      "options": [
+        "Kingdom→Phylum→Order→Class→Family→Genus→Species",
+        "Kingdom→Class→Phylum→Order→Family→Genus→Species",
+        "Phylum→Kingdom→Order→Class→Family→Genus→Species",
+        "Kingdom→Phylum→Class→Order→Family→Genus→Species"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Correct hierarchy: Kingdom > Phylum > Class > Order > Family > Genus > Species. Mnemonic: Kings Play Chess On Fine Grain Sand.",
+      "i18n": {
+        "hi": {
+          "question": "उच्च से निम्न सही वर्गिकी पदानुक्रम है:",
+          "options": [
+            "Kingdom→Phylum→Order→Class→Family→Genus→Species",
+            "Kingdom→Class→Phylum→Order→Family→Genus→Species",
+            "Phylum→Kingdom→Order→Class→Family→Genus→Species",
+            "Kingdom→Phylum→Class→Order→Family→Genus→Species"
+          ],
+          "explanation": "Correct hierarchy: Kingdom > Phylum > Class > Order > Family > Genus > Species. Mnemonic: Kings Play Chess On Fine Grain Sand."
+        },
+        "en": {
+          "question": "The correct order of taxonomic hierarchy from highest to lowest is:",
+          "options": [
+            "Kingdom→Phylum→Order→Class→Family→Genus→Species",
+            "Kingdom→Class→Phylum→Order→Family→Genus→Species",
+            "Phylum→Kingdom→Order→Class→Family→Genus→Species",
+            "Kingdom→Phylum→Class→Order→Family→Genus→Species"
+          ],
+          "explanation": "Correct hierarchy: Kingdom > Phylum > Class > Order > Family > Genus > Species. Mnemonic: Kings Play Chess On Fine Grain Sand."
+        }
+      }
+    },
+    {
+      "id": 96,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "Which layer of the embryo gives rise to the nervous system?",
+      "options": [
+        "Mesoderm",
+        "Endoderm",
+        "Ectoderm",
+        "Trophoblast"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Ectoderm forms: nervous system, skin epidermis, sense organs. Mesoderm: muscles, skeleton, blood. Endoderm: digestive and respiratory epithelium.",
+      "i18n": {
+        "hi": {
+          "question": "भ्रूण की कौन-सी परत तंत्रिका तंत्र को जन्म देती है?",
+          "options": [
+            "मेसोडर्म",
+            "एंडोडर्म",
+            "एक्टोडर्म",
+            "Trophoblast"
+          ],
+          "explanation": "Ectoderm forms: nervous system, skin epidermis, sense organs. Mesoderm: muscles, skeleton, blood. Endoderm: digestive and respiratory epithelium."
+        },
+        "en": {
+          "question": "Which layer of the embryo gives rise to the nervous system?",
+          "options": [
+            "Mesoderm",
+            "Endoderm",
+            "Ectoderm",
+            "Trophoblast"
+          ],
+          "explanation": "Ectoderm forms: nervous system, skin epidermis, sense organs. Mesoderm: muscles, skeleton, blood. Endoderm: digestive and respiratory epithelium."
+        }
+      }
+    },
+    {
+      "id": 97,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "Optic nerve is connected to which part of the eye?",
+      "options": [
+        "Fovea centralis",
+        "Blind spot (optic disc)",
+        "Lens",
+        "Cornea"
+      ],
+      "answer": 1,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "The optic nerve connects to the eye at the blind spot (optic disc), which has no photoreceptors. Fovea centralis (yellow spot) has maximum cone density and best vision.",
+      "i18n": {
+        "hi": {
+          "question": "दृष्टि तंत्रिका नेत्र के किस भाग से जुड़ी होती है?",
+          "options": [
+            "Fovea centralis",
+            "अंध बिंदु (ऑप्टिक डिस्क)",
+            "लेंस",
+            "कॉर्निया"
+          ],
+          "explanation": "The optic nerve connects to the eye at the blind spot (optic disc), which has no photoreceptors. Fovea centralis (yellow spot) has maximum cone density and best vision."
+        },
+        "en": {
+          "question": "Optic nerve is connected to which part of the eye?",
+          "options": [
+            "Fovea centralis",
+            "Blind spot (optic disc)",
+            "Lens",
+            "Cornea"
+          ],
+          "explanation": "The optic nerve connects to the eye at the blind spot (optic disc), which has no photoreceptors. Fovea centralis (yellow spot) has maximum cone density and best vision."
+        }
+      }
+    },
+    {
+      "id": 98,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "Haemophilia is a sex-linked disorder. A carrier female (XᴴX) married to a normal male. What is the probability of haemophilic daughter?",
+      "options": [
+        "100%",
+        "25%",
+        "50%",
+        "Zero"
+      ],
+      "answer": 3,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "XᴴX × XY → daughters: XX and XᴴX (both normal, one carrier). Sons: XY and XᴴY (haemophilic). A daughter cannot be haemophilic as she gets one Y-chromosome (not Xᴴ from father).",
+      "i18n": {
+        "hi": {
+          "question": "हीमोफिलिया लिंग-सहलग्न विकार है। वाहक महिला (XᴴX) × सामान्य पुरुष। हीमोफिलिक पुत्री की संभावना?",
+          "options": [
+            "100%",
+            "25%",
+            "50%",
+            "शून्य (0%)"
+          ],
+          "explanation": "XᴴX × XY → daughters: XX and XᴴX (both normal, one carrier). Sons: XY and XᴴY (haemophilic). A daughter cannot be haemophilic as she gets one Y-chromosome (not Xᴴ from father)."
+        },
+        "en": {
+          "question": "Haemophilia is a sex-linked disorder. A carrier female (XᴴX) married to a normal male. What is the probability of haemophilic daughter?",
+          "options": [
+            "100%",
+            "25%",
+            "50%",
+            "Zero"
+          ],
+          "explanation": "XᴴX × XY → daughters: XX and XᴴX (both normal, one carrier). Sons: XY and XᴴY (haemophilic). A daughter cannot be haemophilic as she gets one Y-chromosome (not Xᴴ from father)."
+        }
+      }
+    },
+    {
+      "id": 99,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "Which of the following is NOT a sexually transmitted disease (STD)?",
+      "options": [
+        "Gonorrhoea",
+        "HIV/AIDS",
+        "Typhoid",
+        "Syphilis"
+      ],
+      "answer": 2,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Typhoid is caused by Salmonella typhi and spreads through contaminated food/water, NOT by sexual contact. HIV/AIDS, Gonorrhoea, Syphilis are all STDs.",
+      "i18n": {
+        "hi": {
+          "question": "निम्नलिखित में से कौन-सा यौन संचारित रोग (STD) नहीं है?",
+          "options": [
+            "Gonorrhoea",
+            "HIV/AIDS",
+            "Typhoid",
+            "Syphilis"
+          ],
+          "explanation": "Typhoid is caused by Salmonella typhi and spreads through contaminated food/water, NOT by sexual contact. HIV/AIDS, Gonorrhoea, Syphilis are all STDs."
+        },
+        "en": {
+          "question": "Which of the following is NOT a sexually transmitted disease (STD)?",
+          "options": [
+            "Gonorrhoea",
+            "HIV/AIDS",
+            "Typhoid",
+            "Syphilis"
+          ],
+          "explanation": "Typhoid is caused by Salmonella typhi and spreads through contaminated food/water, NOT by sexual contact. HIV/AIDS, Gonorrhoea, Syphilis are all STDs."
+        }
+      }
+    },
+    {
+      "id": 100,
+      "type": "mcq",
+      "section": "zoology",
+      "question": "The Okazaki fragments during DNA replication are joined by:",
+      "options": [
+        "DNA ligase",
+        "DNA polymerase I",
+        "Primase",
+        "Helicase"
+      ],
+      "answer": 0,
+      "marks": 4,
+      "negativeMarks": 1,
+      "explanation": "Okazaki fragments on the lagging strand are joined by DNA ligase. DNA polymerase cannot synthesize 3'→5', so lagging strand is made in fragments and then ligated.",
+      "i18n": {
+        "hi": {
+          "question": "DNA प्रतिकृतिकरण के दौरान ओकाजाकी खंडों को कौन जोड़ता है?",
+          "options": [
+            "DNA लाइगेज",
+            "DNA polymerase I",
+            "Primase",
+            "Helicase"
+          ],
+          "explanation": "Okazaki fragments on the lagging strand are joined by DNA ligase. DNA polymerase cannot synthesize 3'→5', so lagging strand is made in fragments and then ligated."
+        },
+        "en": {
+          "question": "The Okazaki fragments during DNA replication are joined by:",
+          "options": [
+            "DNA ligase",
+            "DNA polymerase I",
+            "Primase",
+            "Helicase"
+          ],
+          "explanation": "Okazaki fragments on the lagging strand are joined by DNA ligase. DNA polymerase cannot synthesize 3'→5', so lagging strand is made in fragments and then ligated."
+        }
+      }
+    }
+  ]
+}

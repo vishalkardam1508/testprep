@@ -1,0 +1,1720 @@
+{
+  "testId": "upessc-pgt-english-hard-mock-01",
+  "title": "UPESSC PGT English 2026 — Extreme Difficulty Mock Test 01",
+  "duration": 120,
+  "markingScheme": {
+    "default": {
+      "correct": 3,
+      "wrong": -1,
+      "skipped": 0
+    },
+    "multipleChoice": {
+      "allCorrect": 3,
+      "partialCredit": 1,
+      "anyWrong": -1
+    },
+    "essay": {
+      "marks": 5,
+      "autoScore": false
+    }
+  },
+  "sections": [
+    {
+      "id": "general-knowledge",
+      "title": "General Knowledge",
+      "color": "violet"
+    },
+    {
+      "id": "english-language",
+      "title": "English Language",
+      "color": "cyan"
+    },
+    {
+      "id": "english-literature",
+      "title": "English Literature",
+      "color": "orange"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "Which Article of the Constitution of India is most directly associated with the constitutional right to form cooperative societies?",
+      "options": [
+        "Article 43B",
+        "Article 21",
+        "Article 19(1)(c)",
+        "Article 48A"
+      ],
+      "answer": 2,
+      "explanation": "Article 19(1)(c) guarantees the right to form associations or unions, including cooperative societies; Article 43B concerns promotion of cooperative societies as a Directive Principle."
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "The term 'constitutional morality' in Indian constitutional discourse is most closely associated with:",
+      "options": [
+        "Only parliamentary privilege",
+        "Respect for constitutional values and institutional limits",
+        "Judicial supremacy over every institution",
+        "Majoritarian decision-making"
+      ],
+      "answer": 1,
+      "explanation": "Constitutional morality refers to fidelity to constitutional values, rights, institutional boundaries and democratic principles."
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "Which river is traditionally associated with the ancient city of Varanasi?",
+      "options": [
+        "Yamuna",
+        "Sarayu",
+        "Ganga",
+        "Gomti"
+      ],
+      "answer": 2,
+      "explanation": "Varanasi is situated on the banks of the Ganga."
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "The doctrine of basic structure was authoritatively established in:",
+      "options": [
+        "Golaknath v. State of Punjab",
+        "Kesavananda Bharati v. State of Kerala",
+        "Maneka Gandhi v. Union of India",
+        "Minerva Mills v. Union of India"
+      ],
+      "answer": 1,
+      "explanation": "The Kesavananda Bharati judgment of 1973 established that Parliament's amending power is subject to the Constitution's basic structure."
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "Which of the following is NOT a greenhouse gas in the conventional atmospheric sense?",
+      "options": [
+        "Methane",
+        "Nitrous oxide",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "answer": 3,
+      "explanation": "Nitrogen is the major atmospheric gas but is not a significant greenhouse gas."
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "The Green Revolution in India is most strongly associated with the increased production of:",
+      "options": [
+        "Wheat and rice",
+        "Tea and coffee",
+        "Cotton and jute",
+        "Sugarcane and tobacco"
+      ],
+      "answer": 0,
+      "explanation": "The Indian Green Revolution initially produced especially dramatic gains in wheat and rice."
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "Which institution is the constitutional body responsible for recommending the distribution of tax revenues between the Union and States?",
+      "options": [
+        "NITI Aayog",
+        "Finance Commission",
+        "GST Council Secretariat",
+        "Planning Commission"
+      ],
+      "answer": 1,
+      "explanation": "Article 280 provides for the Finance Commission."
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "Which atmospheric layer contains the ozone layer that absorbs much of the Sun's ultraviolet radiation?",
+      "options": [
+        "Troposphere",
+        "Mesosphere",
+        "Stratosphere",
+        "Thermosphere"
+      ],
+      "answer": 2,
+      "explanation": "The highest concentration of atmospheric ozone is in the stratosphere."
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "The Permanent Settlement of 1793 is principally associated with:",
+      "options": [
+        "Thomas Munro",
+        "Lord Cornwallis",
+        "Warren Hastings",
+        "Lord Wellesley"
+      ],
+      "answer": 1,
+      "explanation": "The Permanent Settlement was introduced under Lord Cornwallis, particularly in Bengal."
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "Which Schedule of the Constitution deals with allocation of seats in the Rajya Sabha?",
+      "options": [
+        "Third Schedule",
+        "Fourth Schedule",
+        "Fifth Schedule",
+        "Seventh Schedule"
+      ],
+      "answer": 1,
+      "explanation": "The Fourth Schedule contains allocation of seats in the Council of States."
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "Which of the following pairs is correctly matched?",
+      "options": [
+        "Article 32 — Right to Education",
+        "Article 51A — Uniform Civil Code",
+        "Article 44 — Fundamental Duties",
+        "Article 21A — Right to Education"
+      ],
+      "answer": 3,
+      "explanation": "Article 21A provides for free and compulsory education for children in the specified age group."
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "The Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "6",
+        "7",
+        "9",
+        "8"
+      ],
+      "answer": 3,
+      "explanation": "The Tropic of Cancer passes through eight Indian states."
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "Which Mughal emperor commissioned the construction of the Buland Darwaza at Fatehpur Sikri?",
+      "options": [
+        "Babur",
+        "Humayun",
+        "Akbar",
+        "Shah Jahan"
+      ],
+      "answer": 2,
+      "explanation": "Akbar commissioned the Buland Darwaza at Fatehpur Sikri."
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "The SI unit of electric capacitance is:",
+      "options": [
+        "Farad",
+        "Ohm",
+        "Tesla",
+        "Henry"
+      ],
+      "answer": 0,
+      "explanation": "Capacitance is measured in farads."
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "Which constitutional amendment lowered the voting age in India from 21 to 18?",
+      "options": [
+        "42nd Amendment",
+        "44th Amendment",
+        "61st Amendment",
+        "73rd Amendment"
+      ],
+      "answer": 2,
+      "explanation": "The 61st Constitutional Amendment Act, 1988, lowered the voting age to 18."
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "Which Indian classical dance form originated primarily in Kerala?",
+      "options": [
+        "Kathak",
+        "Mohiniyattam",
+        "Manipuri",
+        "Odissi"
+      ],
+      "answer": 1,
+      "explanation": "Mohiniyattam is a classical dance tradition of Kerala."
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "In economics, stagflation refers to the coexistence of:",
+      "options": [
+        "High growth and low inflation",
+        "Low inflation and rapid productivity growth",
+        "Deflation and high employment",
+        "High inflation and stagnant economic growth"
+      ],
+      "answer": 3,
+      "explanation": "Stagflation combines weak or stagnant growth with significant inflation."
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "Which of the following is a vector quantity?",
+      "options": [
+        "Temperature",
+        "Mass",
+        "Work",
+        "Momentum"
+      ],
+      "answer": 3,
+      "explanation": "Momentum has both magnitude and direction and is therefore a vector."
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "The Chipko movement is primarily associated with:",
+      "options": [
+        "Forest conservation",
+        "Land reforms",
+        "River interlinking",
+        "Anti-corruption activism"
+      ],
+      "answer": 0,
+      "explanation": "The Chipko movement became known for community resistance to tree felling and forest exploitation."
+    },
+    {
+      "id": 20,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "Which one is an example of a non-renewable resource?",
+      "options": [
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Tidal energy"
+      ],
+      "answer": 2,
+      "explanation": "Coal is a fossil fuel and a non-renewable resource."
+    },
+    {
+      "id": 21,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "The headquarters of UNESCO is located in:",
+      "options": [
+        "Paris",
+        "Geneva",
+        "Rome",
+        "Vienna"
+      ],
+      "answer": 0,
+      "explanation": "UNESCO is headquartered in Paris."
+    },
+    {
+      "id": 22,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "Which blood group is commonly described as the universal red-cell donor in the ABO-Rh system?",
+      "options": [
+        "AB positive",
+        "O negative",
+        "O positive",
+        "AB negative"
+      ],
+      "answer": 1,
+      "explanation": "O negative red cells lack A, B and Rh(D) antigens and are commonly used as universal donor red cells in emergencies."
+    },
+    {
+      "id": 23,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "The 'Drain of Wealth' theory was prominently articulated by:",
+      "options": [
+        "Dadabhai Naoroji",
+        "Gopal Krishna Gokhale",
+        "Bal Gangadhar Tilak",
+        "Surendranath Banerjee"
+      ],
+      "answer": 0,
+      "explanation": "Dadabhai Naoroji systematically developed the Drain of Wealth argument."
+    },
+    {
+      "id": 24,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "Which planet has the shortest orbital period around the Sun?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Earth"
+      ],
+      "answer": 0,
+      "explanation": "Mercury completes an orbit in about 88 Earth days."
+    },
+    {
+      "id": 25,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "The Fundamental Duties were added to the Indian Constitution by the:",
+      "options": [
+        "86th Amendment",
+        "44th Amendment",
+        "52nd Amendment",
+        "42nd Amendment"
+      ],
+      "answer": 3,
+      "explanation": "The 42nd Amendment added Fundamental Duties through Article 51A."
+    },
+    {
+      "id": 26,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "Which Indian state has the longest coastline?",
+      "options": [
+        "Maharashtra",
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Gujarat"
+      ],
+      "answer": 3,
+      "explanation": "Gujarat has India's longest state coastline."
+    },
+    {
+      "id": 27,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "The term 'blue economy' most directly concerns:",
+      "options": [
+        "Mining in deserts",
+        "Sustainable use of ocean resources",
+        "Urban transport systems",
+        "Digital currencies"
+      ],
+      "answer": 1,
+      "explanation": "Blue economy refers broadly to sustainable economic use of oceans, seas and marine resources."
+    },
+    {
+      "id": 28,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "Which vitamin is primarily synthesized in human skin through exposure to ultraviolet B radiation?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": 3,
+      "explanation": "UVB exposure initiates synthesis of vitamin D3 in the skin."
+    },
+    {
+      "id": 29,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "The anti-defection provisions are contained in which Schedule of the Constitution?",
+      "options": [
+        "Eighth",
+        "Ninth",
+        "Tenth",
+        "Twelfth"
+      ],
+      "answer": 2,
+      "explanation": "The Tenth Schedule contains anti-defection provisions."
+    },
+    {
+      "id": 30,
+      "type": "single_choice",
+      "section": "general-knowledge",
+      "question": "Which gas is the most abundant constituent of Earth's dry atmosphere?",
+      "options": [
+        "Oxygen",
+        "Argon",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "answer": 3,
+      "explanation": "Nitrogen constitutes roughly 78% of Earth's dry atmosphere."
+    },
+    {
+      "id": 31,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Choose the sentence in which the subjunctive is used correctly.",
+      "options": [
+        "It is essential that he is present.",
+        "It is essential that he be present.",
+        "It is essential that he was present.",
+        "It is essential that he has been present."
+      ],
+      "answer": 1,
+      "explanation": "After expressions such as 'it is essential that', the mandative subjunctive uses the base form: 'he be present'."
+    },
+    {
+      "id": 32,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Identify the sentence containing a dangling modifier.",
+      "options": [
+        "Walking through the museum, I noticed several medieval manuscripts.",
+        "After reading the article, she revised her argument.",
+        "Walking through the museum, several medieval manuscripts attracted my attention.",
+        "Having completed the experiment, the researchers published the results."
+      ],
+      "answer": 2,
+      "explanation": "The introductory participial phrase logically modifies the grammatical subject; manuscripts cannot walk through the museum."
+    },
+    {
+      "id": 33,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which sentence demonstrates a restrictive relative clause?",
+      "options": [
+        "My brother, who lives in Delhi, is a lawyer.",
+        "The book, which I bought yesterday, is expensive.",
+        "Shakespeare, who wrote Hamlet, lived in the Elizabethan period.",
+        "The students who submitted the forms were admitted."
+      ],
+      "answer": 3,
+      "explanation": "The clause 'who submitted the forms' restricts the reference to a particular subset of students."
+    },
+    {
+      "id": 34,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which word contains a bound derivational morpheme rather than an inflectional morpheme?",
+      "options": [
+        "Walked",
+        "Books",
+        "Unhappiness",
+        "Running"
+      ],
+      "answer": 2,
+      "explanation": "'Un-' and '-ness' are derivational morphemes; '-ed', plural '-s' and progressive '-ing' are inflectional in the relevant examples."
+    },
+    {
+      "id": 35,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "The word 'inflammable' is especially dangerous as a vocabulary trap because it means:",
+      "options": [
+        "Capable of being burned",
+        "Not capable of burning",
+        "Extremely cold",
+        "Chemically inert"
+      ],
+      "answer": 0,
+      "explanation": "'Inflammable' means capable of catching fire; it is synonymous with 'flammable', not its opposite."
+    },
+    {
+      "id": 36,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Choose the correctly punctuated sentence.",
+      "options": [
+        "The principal said, \"Teachers, who arrive late, must report to me.\"",
+        "The principal said \"Teachers who arrive late must report to me.\"",
+        "The principal said, \"Teachers who arrive late must report to me.\"",
+        "The principal said: teachers who arrive late, must report to me."
+      ],
+      "answer": 2,
+      "explanation": "The direct quotation is correctly introduced and the restrictive relative clause takes no commas."
+    },
+    {
+      "id": 37,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which sentence contains a zeugma?",
+      "options": [
+        "She opened the window and the door.",
+        "The child opened the book carefully.",
+        "They entered the room quietly.",
+        "He lost his keys and his temper."
+      ],
+      "answer": 3,
+      "explanation": "'Lost' governs both 'keys' literally and 'temper' figuratively, producing zeugma."
+    },
+    {
+      "id": 38,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "In the sentence 'Only John told Mary that he had seen the painting', the position of 'only' primarily creates ambiguity concerning:",
+      "options": [
+        "Tense",
+        "Scope",
+        "Number",
+        "Voice"
+      ],
+      "answer": 1,
+      "explanation": "The interpretation changes depending on whether 'only' has scope over John, the act of telling, or another constituent."
+    },
+    {
+      "id": 39,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which pair is an example of contronyms?",
+      "options": [
+        "Sanction — sanction",
+        "Fast — slow",
+        "Hot — cold",
+        "Big — large"
+      ],
+      "answer": 0,
+      "explanation": "'Sanction' can mean either approve or penalize, making it a contronym/auto-antonym."
+    },
+    {
+      "id": 40,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which sentence uses 'less' according to the traditional prescriptive distinction?",
+      "options": [
+        "There were less students this year.",
+        "There was less water in the tank.",
+        "She made less mistakes.",
+        "He bought less books."
+      ],
+      "answer": 1,
+      "explanation": "In traditional grammar, 'less' is used with mass nouns such as 'water', while 'fewer' is preferred with count nouns."
+    },
+    {
+      "id": 41,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "The distinction between 'historic' and 'historical' is primarily one of:",
+      "options": [
+        "Lexical semantics and usage",
+        "Inflection",
+        "Phonological assimilation",
+        "Case marking"
+      ],
+      "answer": 0,
+      "explanation": "The words overlap semantically but differ in conventional usage and collocation."
+    },
+    {
+      "id": 42,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which sentence best illustrates an ergative alternation?",
+      "options": [
+        "The door opened / John opened the door.",
+        "John kicked the ball.",
+        "John admired Mary.",
+        "John gave Mary a book."
+      ],
+      "answer": 0,
+      "explanation": "In the alternation, the object of the transitive construction corresponds to the subject of the intransitive construction."
+    },
+    {
+      "id": 43,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which of the following is a back-formation?",
+      "options": [
+        "Blackboard",
+        "Brunch",
+        "Edit from editor",
+        "Unhappy"
+      ],
+      "answer": 2,
+      "explanation": "'Edit' was formed by removing the apparent suffix '-or' from 'editor', making it a classic back-formation."
+    },
+    {
+      "id": 44,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which sentence contains an example of negative raising?",
+      "options": [
+        "I didn't see him come.",
+        "I think he won't come.",
+        "I don't think he will come.",
+        "He did not come yesterday."
+      ],
+      "answer": 2,
+      "explanation": "In 'I don't think he will come', the negative associated semantically with the embedded proposition appears in the matrix clause."
+    },
+    {
+      "id": 45,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which of the following is a lexicalized compound?",
+      "options": [
+        "Very tall",
+        "Quickly running",
+        "Blackbird",
+        "Extremely difficult"
+      ],
+      "answer": 2,
+      "explanation": "'Blackbird' functions as a lexicalized compound rather than merely an adjective plus noun phrase."
+    },
+    {
+      "id": 46,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which sentence contains a non-finite clause functioning as a subject?",
+      "options": [
+        "To err is human.",
+        "That he left surprised me.",
+        "He left early.",
+        "When he arrived, we ate."
+      ],
+      "answer": 0,
+      "explanation": "'To err' is an infinitival non-finite clause functioning as the subject."
+    },
+    {
+      "id": 47,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "The plural form 'criteria' is historically derived from Greek and is traditionally treated as:",
+      "options": [
+        "Singular",
+        "Mass noun",
+        "Plural",
+        "Collective singular only"
+      ],
+      "answer": 2,
+      "explanation": "'Criterion' is singular and 'criteria' is its traditional plural."
+    },
+    {
+      "id": 48,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which sentence exhibits a split infinitive?",
+      "options": [
+        "She decided to leave immediately.",
+        "She decided immediately to leave.",
+        "She immediately decided to leave.",
+        "She decided to immediately leave."
+      ],
+      "answer": 3,
+      "explanation": "The adverb 'immediately' intervenes between 'to' and the base verb 'leave'."
+    },
+    {
+      "id": 49,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "In semantics, the relationship between 'rose' and 'flower' is best described as:",
+      "options": [
+        "Synonymy",
+        "Polysemy",
+        "Antonymy",
+        "Hyponymy"
+      ],
+      "answer": 3,
+      "explanation": "A rose is a kind of flower; therefore 'rose' is a hyponym of 'flower'."
+    },
+    {
+      "id": 50,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which of the following best represents an example of metonymy?",
+      "options": [
+        "The moon was a ghostly galleon.",
+        "The White House issued a statement.",
+        "Her eyes were stars.",
+        "He ran like the wind."
+      ],
+      "answer": 1,
+      "explanation": "'The White House' stands metonymically for the U.S. presidential administration."
+    },
+    {
+      "id": 51,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which sentence contains a gerund functioning as the object of a preposition?",
+      "options": [
+        "Swimming is healthy.",
+        "I enjoy swimming.",
+        "She left after finishing the work.",
+        "They were swimming rapidly."
+      ],
+      "answer": 2,
+      "explanation": "'Finishing' is a gerund-participial form functioning as the complement of the preposition 'after'."
+    },
+    {
+      "id": 52,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which pair demonstrates phonemic contrast in English?",
+      "options": [
+        "pin — bin",
+        "cat — cats",
+        "walk — walked",
+        "book — books"
+      ],
+      "answer": 0,
+      "explanation": "/p/ and /b/ contrast phonemically in 'pin' and 'bin'."
+    },
+    {
+      "id": 53,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "The sound /ŋ/ in English is best classified as a:",
+      "options": [
+        "Voiceless bilabial stop",
+        "Voiceless palatal approximant",
+        "Voiced alveolar fricative",
+        "Voiced velar nasal"
+      ],
+      "answer": 3,
+      "explanation": "/ŋ/ is a voiced velar nasal, as in the final sound of 'sing'."
+    },
+    {
+      "id": 54,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which of the following illustrates assimilation?",
+      "options": [
+        "The vowel in 'cat' remains unchanged.",
+        "A word gains a new suffix.",
+        "The /n/ in 'input' may be realized closer to a bilabial nasal.",
+        "A noun changes from singular to plural."
+      ],
+      "answer": 2,
+      "explanation": "The /n/ may assimilate toward the following bilabial /p/ in connected speech."
+    },
+    {
+      "id": 55,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which sentence contains a homograph but not necessarily a homophone?",
+      "options": [
+        "The bat flew over the bat.",
+        "They knew the new rule.",
+        "I can see the sea.",
+        "He read the book yesterday."
+      ],
+      "answer": 3,
+      "explanation": "'Read' has the same spelling for present and past forms but different pronunciation."
+    },
+    {
+      "id": 56,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which sentence demonstrates a pragmatic implicature rather than a literal assertion?",
+      "options": [
+        "Water freezes at 0°C under standard conditions.",
+        "Some students passed, implying perhaps not all did.",
+        "London is a city.",
+        "A triangle has three sides."
+      ],
+      "answer": 1,
+      "explanation": "The scalar expression 'some' often implicates 'not all', although the latter is not logically entailed."
+    },
+    {
+      "id": 57,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which of the following is an example of a presupposition trigger?",
+      "options": [
+        "Perhaps",
+        "Again",
+        "Maybe",
+        "Probably"
+      ],
+      "answer": 1,
+      "explanation": "'Again' presupposes that an event occurred previously."
+    },
+    {
+      "id": 58,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "In discourse analysis, cohesion differs from coherence because cohesion primarily concerns:",
+      "options": [
+        "Logical truth",
+        "Historical context",
+        "Author biography",
+        "Surface linguistic links between textual elements"
+      ],
+      "answer": 3,
+      "explanation": "Cohesion concerns grammatical and lexical links; coherence concerns meaningful overall connectedness."
+    },
+    {
+      "id": 59,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which of the following is an example of an anaphoric reference?",
+      "options": [
+        "When he arrived, John sat down.",
+        "John bought a book. He read it immediately.",
+        "Who is there?",
+        "This is my book."
+      ],
+      "answer": 1,
+      "explanation": "'He' refers back to John and 'it' refers back to the book."
+    },
+    {
+      "id": 60,
+      "type": "single_choice",
+      "section": "english-language",
+      "question": "Which transformation changes an active clause into a passive construction while preserving its basic propositional content?",
+      "options": [
+        "John broke the vase → The vase was broken by John.",
+        "John broke the vase → John did not break the vase.",
+        "John broke the vase → Did John break the vase?",
+        "John broke the vase → John broke the old vase."
+      ],
+      "answer": 0,
+      "explanation": "The first transformation changes voice while retaining the core proposition."
+    },
+    {
+      "id": 61,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which work is generally regarded as the first English novel in the modern sense by many literary historians?",
+      "options": [
+        "The Faerie Queene",
+        "Robinson Crusoe",
+        "The Pilgrim's Progress",
+        "Gulliver's Travels"
+      ],
+      "answer": 1,
+      "explanation": "Daniel Defoe's Robinson Crusoe is frequently treated as an early foundational English novel, though the definition of 'first novel' remains debated."
+    },
+    {
+      "id": 62,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Who wrote the phrase 'negative capability' in a letter describing Shakespeare's creative quality?",
+      "options": [
+        "William Wordsworth",
+        "S. T. Coleridge",
+        "P. B. Shelley",
+        "John Keats"
+      ],
+      "answer": 3,
+      "explanation": "Keats used 'negative capability' to describe the capacity to remain in uncertainties without irritably seeking fixed rational explanations."
+    },
+    {
+      "id": 63,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which poem opens with the line 'April is the cruellest month'?",
+      "options": [
+        "Four Quartets",
+        "The Hollow Men",
+        "Ash-Wednesday",
+        "The Waste Land"
+      ],
+      "answer": 3,
+      "explanation": "The opening of T. S. Eliot's The Waste Land is famous for its reversal of conventional spring imagery."
+    },
+    {
+      "id": 64,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "The phrase 'dissociation of sensibility' is most closely associated with:",
+      "options": [
+        "Matthew Arnold",
+        "T. S. Eliot",
+        "F. R. Leavis",
+        "I. A. Richards"
+      ],
+      "answer": 1,
+      "explanation": "Eliot developed the concept in his essay 'The Metaphysical Poets'."
+    },
+    {
+      "id": 65,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Who wrote 'The Function of Criticism at the Present Time'?",
+      "options": [
+        "John Ruskin",
+        "Walter Pater",
+        "Matthew Arnold",
+        "Thomas Carlyle"
+      ],
+      "answer": 2,
+      "explanation": "Matthew Arnold wrote the influential essay on the function of criticism."
+    },
+    {
+      "id": 66,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which Shakespeare play contains the line 'The lady doth protest too much, methinks'?",
+      "options": [
+        "Macbeth",
+        "Hamlet",
+        "King Lear",
+        "Othello"
+      ],
+      "answer": 1,
+      "explanation": "The line occurs in Hamlet during the play-within-the-play."
+    },
+    {
+      "id": 67,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which of the following is NOT a play by Christopher Marlowe?",
+      "options": [
+        "Doctor Faustus",
+        "Edward II",
+        "The Jew of Malta",
+        "Volpone"
+      ],
+      "answer": 3,
+      "explanation": "Volpone is a play by Ben Jonson."
+    },
+    {
+      "id": 68,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "The term 'metaphysical poets' was famously used critically by Samuel Johnson in:",
+      "options": [
+        "Preface to Shakespeare",
+        "Rasselas",
+        "The Rambler",
+        "Lives of the Poets"
+      ],
+      "answer": 3,
+      "explanation": "Johnson discussed the metaphysical poets in his 'Life of Cowley' within Lives of the Poets."
+    },
+    {
+      "id": 69,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which poet wrote 'To His Coy Mistress'?",
+      "options": [
+        "John Donne",
+        "Andrew Marvell",
+        "George Herbert",
+        "Richard Crashaw"
+      ],
+      "answer": 1,
+      "explanation": "Andrew Marvell wrote the famous carpe diem poem."
+    },
+    {
+      "id": 70,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "The dominant poetic mode of 'To His Coy Mistress' is:",
+      "options": [
+        "Carpe diem persuasion",
+        "Pastoral elegy",
+        "Mock epic",
+        "Religious hymn"
+      ],
+      "answer": 0,
+      "explanation": "The speaker urges his beloved to seize the present because time and mortality constrain them."
+    },
+    {
+      "id": 71,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Who wrote The Rape of the Lock?",
+      "options": [
+        "Jonathan Swift",
+        "John Dryden",
+        "Alexander Pope",
+        "Samuel Johnson"
+      ],
+      "answer": 2,
+      "explanation": "Alexander Pope's The Rape of the Lock is the major English mock-epic."
+    },
+    {
+      "id": 72,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which literary form is most closely associated with Samuel Richardson's Pamela?",
+      "options": [
+        "Gothic novel",
+        "Picaresque novel",
+        "Historical romance",
+        "Epistolary novel"
+      ],
+      "answer": 3,
+      "explanation": "Pamela is an important early English epistolary novel."
+    },
+    {
+      "id": 73,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which novel begins with the famous sentence 'It was a bright cold day in April, and the clocks were striking thirteen'?",
+      "options": [
+        "Brave New World",
+        "Nineteen Eighty-Four",
+        "Animal Farm",
+        "Lord of the Flies"
+      ],
+      "answer": 1,
+      "explanation": "The opening belongs to George Orwell's Nineteen Eighty-Four."
+    },
+    {
+      "id": 74,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which of the following is a central feature of stream-of-consciousness narration?",
+      "options": [
+        "Strict chronological narration",
+        "Complete absence of interiority",
+        "Exclusive use of dialogue",
+        "Representation of the flow of thought and consciousness"
+      ],
+      "answer": 3,
+      "explanation": "Stream-of-consciousness attempts to represent mental processes, associations and perceptions."
+    },
+    {
+      "id": 75,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Who wrote A Passage to India?",
+      "options": [
+        "E. M. Forster",
+        "Joseph Conrad",
+        "D. H. Lawrence",
+        "Rudyard Kipling"
+      ],
+      "answer": 0,
+      "explanation": "E. M. Forster published A Passage to India in 1924."
+    },
+    {
+      "id": 76,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which novel by Virginia Woolf is particularly structured around a single day in the life of its protagonist?",
+      "options": [
+        "To the Lighthouse",
+        "The Waves",
+        "Mrs Dalloway",
+        "Jacob's Room"
+      ],
+      "answer": 2,
+      "explanation": "Mrs Dalloway follows Clarissa Dalloway through a single day while incorporating extensive interior consciousness."
+    },
+    {
+      "id": 77,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "The phrase 'objective correlative' is most famously associated with which critic?",
+      "options": [
+        "T. S. Eliot",
+        "I. A. Richards",
+        "Cleanth Brooks",
+        "Northrop Frye"
+      ],
+      "answer": 0,
+      "explanation": "Eliot discusses the objective correlative in his essay 'Hamlet and His Problems'."
+    },
+    {
+      "id": 78,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "According to Aristotle's Poetics, the plot of a tragedy should primarily be:",
+      "options": [
+        "Episodic and unlimited",
+        "Based only on historical events",
+        "Entirely lyrical",
+        "A unified action with a beginning, middle and end"
+      ],
+      "answer": 3,
+      "explanation": "Aristotle emphasizes unity of action and an organic structure with beginning, middle and end."
+    },
+    {
+      "id": 79,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Aristotle's term 'catharsis' is most closely associated with the emotional effect of:",
+      "options": [
+        "Comedy",
+        "Epic",
+        "Tragedy",
+        "Satire"
+      ],
+      "answer": 2,
+      "explanation": "Catharsis is discussed in relation to tragedy and its effects through pity and fear."
+    },
+    {
+      "id": 80,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which critic wrote An Apology for Poetry?",
+      "options": [
+        "Samuel Johnson",
+        "Ben Jonson",
+        "John Dryden",
+        "Philip Sidney"
+      ],
+      "answer": 3,
+      "explanation": "Sir Philip Sidney wrote An Apology for Poetry, also known as Defence of Poesy."
+    },
+    {
+      "id": 81,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Dryden's Essay of Dramatic Poesy is structured primarily as:",
+      "options": [
+        "A dialogue",
+        "An epic poem",
+        "A sermon",
+        "A diary"
+      ],
+      "answer": 0,
+      "explanation": "Dryden presents literary-critical debate through a dialogue among interlocutors."
+    },
+    {
+      "id": 82,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which Romantic poet wrote 'Tintern Abbey'?",
+      "options": [
+        "S. T. Coleridge",
+        "William Wordsworth",
+        "P. B. Shelley",
+        "John Keats"
+      ],
+      "answer": 1,
+      "explanation": "Wordsworth's 'Lines Composed a Few Miles above Tintern Abbey' is a major Romantic poem."
+    },
+    {
+      "id": 83,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "The concept of 'spots of time' is associated particularly with:",
+      "options": [
+        "Wordsworth",
+        "Coleridge",
+        "Byron",
+        "Keats"
+      ],
+      "answer": 0,
+      "explanation": "Wordsworth discusses 'spots of time' as formative moments of intense memory and imaginative renewal."
+    },
+    {
+      "id": 84,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which poem contains the figure of the 'Aeolian harp' as a central Romantic image?",
+      "options": [
+        "The Rime of the Ancient Mariner",
+        "The Eolian Harp",
+        "Kubla Khan",
+        "Dejection: An Ode"
+      ],
+      "answer": 1,
+      "explanation": "The Eolian Harp is by S. T. Coleridge and uses the instrument as an image of spontaneous imaginative association."
+    },
+    {
+      "id": 85,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which poet wrote 'Ode to the West Wind'?",
+      "options": [
+        "Keats",
+        "Shelley",
+        "Byron",
+        "Wordsworth"
+      ],
+      "answer": 1,
+      "explanation": "Percy Bysshe Shelley wrote Ode to the West Wind."
+    },
+    {
+      "id": 86,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which of the following is a characteristic feature of the Victorian dramatic monologue?",
+      "options": [
+        "Multiple narrators with equal authority",
+        "A single speaker revealing character through an implied listener",
+        "Absence of dramatic situation",
+        "Exclusive use of stage directions"
+      ],
+      "answer": 1,
+      "explanation": "The dramatic monologue presents a single speaker in a specific situation whose speech indirectly reveals character."
+    },
+    {
+      "id": 87,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "My Last Duchess is written by:",
+      "options": [
+        "Alfred Tennyson",
+        "Robert Browning",
+        "Matthew Arnold",
+        "D. G. Rossetti"
+      ],
+      "answer": 1,
+      "explanation": "Robert Browning's My Last Duchess is a paradigmatic dramatic monologue."
+    },
+    {
+      "id": 88,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which movement is most directly associated with Ezra Pound's dictum 'Make it new'?",
+      "options": [
+        "Modernism",
+        "Romanticism",
+        "Neoclassicism",
+        "Medievalism"
+      ],
+      "answer": 0,
+      "explanation": "Pound's slogan is strongly associated with modernist experimentation and renewal."
+    },
+    {
+      "id": 89,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which novel is associated with the technique of 'mythic method' in modernist criticism?",
+      "options": [
+        "Tess of the d'Urbervilles",
+        "Middlemarch",
+        "Ulysses",
+        "The Mayor of Casterbridge"
+      ],
+      "answer": 2,
+      "explanation": "Joyce's Ulysses uses the Homeric Odyssey as a structural and symbolic framework; Eliot famously discussed this modernist technique."
+    },
+    {
+      "id": 90,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Who wrote Waiting for Godot?",
+      "options": [
+        "Harold Pinter",
+        "Samuel Beckett",
+        "Eugene O'Neill",
+        "Tom Stoppard"
+      ],
+      "answer": 1,
+      "explanation": "Samuel Beckett's Waiting for Godot is a foundational work associated with the Theatre of the Absurd."
+    },
+    {
+      "id": 91,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which concept is central to Theatre of the Absurd?",
+      "options": [
+        "Perfect causal realism",
+        "Strict Aristotelian unity",
+        "Existential uncertainty and breakdown of conventional meaning",
+        "Celebration of heroic certainty"
+      ],
+      "answer": 2,
+      "explanation": "Absurdist drama frequently represents existential uncertainty, circularity and unstable communication."
+    },
+    {
+      "id": 92,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Who wrote The Importance of Being Earnest?",
+      "options": [
+        "George Bernard Shaw",
+        "J. M. Synge",
+        "W. B. Yeats",
+        "Oscar Wilde"
+      ],
+      "answer": 3,
+      "explanation": "Oscar Wilde wrote The Importance of Being Earnest."
+    },
+    {
+      "id": 93,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which literary period immediately precedes the Victorian period?",
+      "options": [
+        "Romantic",
+        "Modern",
+        "Restoration",
+        "Elizabethan"
+      ],
+      "answer": 0,
+      "explanation": "The Romantic period broadly precedes the Victorian era in standard literary-period classifications."
+    },
+    {
+      "id": 94,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "The term 'Augustan Age' in English literature is principally associated with:",
+      "options": [
+        "Pope and Swift",
+        "Wordsworth and Coleridge",
+        "Eliot and Pound",
+        "Marlowe and Shakespeare"
+      ],
+      "answer": 0,
+      "explanation": "The Augustan period is strongly associated with Pope, Swift, Addison and other early eighteenth-century writers."
+    },
+    {
+      "id": 95,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which work is by Jonathan Swift?",
+      "options": [
+        "A Modest Proposal",
+        "The Beggar's Opera",
+        "Clarissa",
+        "The Castle of Otranto"
+      ],
+      "answer": 0,
+      "explanation": "Swift wrote the satirical essay A Modest Proposal."
+    },
+    {
+      "id": 96,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which literary genre is most closely associated with Horace's Ars Poetica?",
+      "options": [
+        "Gothic fiction",
+        "Literary criticism and poetic theory",
+        "Epistolary fiction",
+        "Romantic lyric"
+      ],
+      "answer": 1,
+      "explanation": "Ars Poetica is a classical work of poetic theory and literary advice."
+    },
+    {
+      "id": 97,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "In prosody, an iamb consists of:",
+      "options": [
+        "A stressed syllable followed by an unstressed syllable",
+        "Two stressed syllables",
+        "An unstressed syllable followed by a stressed syllable",
+        "Two unstressed syllables"
+      ],
+      "answer": 2,
+      "explanation": "An iamb has the pattern unstressed-stressed."
+    },
+    {
+      "id": 98,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "A line of iambic pentameter normally contains:",
+      "options": [
+        "Three iambic feet",
+        "Four iambic feet",
+        "Five iambic feet",
+        "Six iambic feet"
+      ],
+      "answer": 2,
+      "explanation": "Pentameter indicates five metrical feet."
+    },
+    {
+      "id": 99,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "A sonnet traditionally contains:",
+      "options": [
+        "10 lines",
+        "12 lines",
+        "14 lines",
+        "16 lines"
+      ],
+      "answer": 2,
+      "explanation": "The conventional sonnet consists of fourteen lines."
+    },
+    {
+      "id": 100,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "The Shakespearean sonnet is conventionally organized as:",
+      "options": [
+        "Two sestets and a couplet",
+        "Three quatrains and a couplet",
+        "One octave and one sestet",
+        "Four tercets and a couplet"
+      ],
+      "answer": 1,
+      "explanation": "The English/Shakespearean sonnet has three quatrains followed by a concluding couplet."
+    },
+    {
+      "id": 101,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "The Petrarchan sonnet is conventionally divided into:",
+      "options": [
+        "An octave and a sestet",
+        "Three quatrains and a couplet",
+        "Seven couplets",
+        "Two equal tercets"
+      ],
+      "answer": 0,
+      "explanation": "The Italian/Petrarchan sonnet traditionally consists of an octave followed by a sestet."
+    },
+    {
+      "id": 102,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "A volta in a sonnet refers to:",
+      "options": [
+        "Its title",
+        "A metrical foot",
+        "A turn in thought or argument",
+        "Its final rhyme"
+      ],
+      "answer": 2,
+      "explanation": "The volta is a rhetorical or thematic turn, especially prominent in sonnet structures."
+    },
+    {
+      "id": 103,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which figure of speech involves deliberate understatement?",
+      "options": [
+        "Litotes",
+        "Hyperbole",
+        "Synecdoche",
+        "Apostrophe"
+      ],
+      "answer": 0,
+      "explanation": "Litotes expresses an affirmative idea by negating its opposite, often producing understatement."
+    },
+    {
+      "id": 104,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "When a part is used to represent the whole, the figure is:",
+      "options": [
+        "Synecdoche",
+        "Irony",
+        "Oxymoron",
+        "Paradox"
+      ],
+      "answer": 0,
+      "explanation": "Synecdoche involves part-whole substitution, such as 'hands' for workers."
+    },
+    {
+      "id": 105,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which statement best distinguishes paradox from oxymoron?",
+      "options": [
+        "Paradox always uses rhyme.",
+        "Oxymoron is always humorous.",
+        "Paradox is restricted to drama.",
+        "Oxymoron usually combines apparently contradictory terms; paradox is a broader contradictory proposition or idea."
+      ],
+      "answer": 3,
+      "explanation": "An oxymoron is typically a compressed contradiction of terms, while a paradox can be a larger apparently self-contradictory proposition."
+    },
+    {
+      "id": 106,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which critic is associated with the New Criticism and the concept of the 'heresy of paraphrase'?",
+      "options": [
+        "Cleanth Brooks",
+        "Roland Barthes",
+        "Jacques Derrida",
+        "Raymond Williams"
+      ],
+      "answer": 0,
+      "explanation": "Cleanth Brooks argued against reducing poetry to paraphrasable propositions."
+    },
+    {
+      "id": 107,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "The intentional fallacy is associated with the work of:",
+      "options": [
+        "Eliot and Pound",
+        "Leavis and Richards",
+        "Wimsatt and Beardsley",
+        "Arnold and Pater"
+      ],
+      "answer": 2,
+      "explanation": "W. K. Wimsatt and Monroe Beardsley formulated the influential argument against treating authorial intention as the definitive criterion of literary meaning."
+    },
+    {
+      "id": 108,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "The term 'defamiliarization' is strongly associated with:",
+      "options": [
+        "Russian Formalism",
+        "New Historicism",
+        "Psychoanalytic criticism",
+        "Postcolonial criticism"
+      ],
+      "answer": 0,
+      "explanation": "Russian Formalists, especially Viktor Shklovsky, developed the concept of ostranenie or defamiliarization."
+    },
+    {
+      "id": 109,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Who wrote The Madwoman in the Attic?",
+      "options": [
+        "Judith Butler and Toril Moi",
+        "Elaine Showalter alone",
+        "Hélène Cixous and Julia Kristeva",
+        "Sandra Gilbert and Susan Gubar"
+      ],
+      "answer": 3,
+      "explanation": "Sandra Gilbert and Susan Gubar co-authored The Madwoman in the Attic."
+    },
+    {
+      "id": 110,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "The term 'gynocriticism' is associated particularly with:",
+      "options": [
+        "Gayatri Spivak",
+        "Kate Millett",
+        "Elaine Showalter",
+        "bell hooks"
+      ],
+      "answer": 2,
+      "explanation": "Elaine Showalter used 'gynocriticism' for approaches centered on women's literary production and experience."
+    },
+    {
+      "id": 111,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Who wrote Orientalism?",
+      "options": [
+        "Homi K. Bhabha",
+        "Edward Said",
+        "Frantz Fanon",
+        "Aijaz Ahmad"
+      ],
+      "answer": 1,
+      "explanation": "Edward Said's Orientalism is foundational to postcolonial literary and cultural criticism."
+    },
+    {
+      "id": 112,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "The concept of 'hybridity' is particularly associated with:",
+      "options": [
+        "Fredric Jameson",
+        "Terry Eagleton",
+        "Homi K. Bhabha",
+        "Stanley Fish"
+      ],
+      "answer": 2,
+      "explanation": "Bhabha's postcolonial theory develops hybridity, ambivalence and the 'third space'."
+    },
+    {
+      "id": 113,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which novel is written by Chinua Achebe?",
+      "options": [
+        "Things Fall Apart",
+        "A House for Mr Biswas",
+        "The Mimic Men",
+        "Midnight's Children"
+      ],
+      "answer": 0,
+      "explanation": "Things Fall Apart is Achebe's landmark 1958 novel."
+    },
+    {
+      "id": 114,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which Indian English novel was written by R. K. Narayan?",
+      "options": [
+        "Untouchable",
+        "Clear Light of Day",
+        "The Guide",
+        "The Shadow Lines"
+      ],
+      "answer": 2,
+      "explanation": "The Guide is one of R. K. Narayan's best-known novels."
+    },
+    {
+      "id": 115,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Who wrote Midnight's Children?",
+      "options": [
+        "Amitav Ghosh",
+        "Arundhati Roy",
+        "Vikram Seth",
+        "Salman Rushdie"
+      ],
+      "answer": 3,
+      "explanation": "Salman Rushdie wrote Midnight's Children."
+    },
+    {
+      "id": 116,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which work by T. S. Eliot begins with the section 'The Burial of the Dead'?",
+      "options": [
+        "Murder in the Cathedral",
+        "Prufrock",
+        "The Hollow Men",
+        "The Waste Land"
+      ],
+      "answer": 3,
+      "explanation": "The Waste Land begins with 'The Burial of the Dead'."
+    },
+    {
+      "id": 117,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which of the following pairs is correctly matched?",
+      "options": [
+        "The Rainbow — D. H. Lawrence",
+        "Sons and Lovers — Virginia Woolf",
+        "The Waves — George Eliot",
+        "Women in Love — E. M. Forster"
+      ],
+      "answer": 0,
+      "explanation": "The Rainbow is a novel by D. H. Lawrence."
+    },
+    {
+      "id": 118,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which statement about allegory is most accurate?",
+      "options": [
+        "It can never have symbolic meaning.",
+        "It is a sustained narrative in which characters, actions or settings may operate at another level of meaning.",
+        "It is identical to rhyme.",
+        "It is limited to medieval literature."
+      ],
+      "answer": 1,
+      "explanation": "Allegory operates through sustained correspondence between narrative elements and another conceptual or symbolic level."
+    },
+    {
+      "id": 119,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which work is most directly associated with the term 'stream of consciousness'?",
+      "options": [
+        "The Sound and the Fury",
+        "The Vicar of Wakefield",
+        "The Pilgrim's Progress",
+        "The Old Man and the Sea"
+      ],
+      "answer": 0,
+      "explanation": "William Faulkner's The Sound and the Fury makes extensive use of stream-of-consciousness techniques."
+    },
+    {
+      "id": 120,
+      "type": "single_choice",
+      "section": "english-literature",
+      "question": "Which pairing of author and work is INCORRECT?",
+      "options": [
+        "James Joyce — A Portrait of the Artist as a Young Man",
+        "Joseph Conrad — Heart of Darkness",
+        "D. H. Lawrence — Women in Love",
+        "E. M. Forster — Sons and Lovers"
+      ],
+      "answer": 3,
+      "explanation": "Sons and Lovers was written by D. H. Lawrence, not E. M. Forster."
+    }
+  ]
+}
