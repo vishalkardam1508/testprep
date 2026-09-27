@@ -1,7 +1,7 @@
 {
-  "testId": "supertet_top_1_percent_100_bilingual_v2",
-  "title": "SUPER TET Top 1% Difficulty — 100 Questions (Bilingual)",
-  "duration": 120,
+  "testId": "supertet_top_cd_level_1",
+  "title": "SUPER TET Top 100 CDP Questions Level 1",
+  "duration": 60,
   "markingScheme": {
     "correct": 3,
     "incorrect": -1,
