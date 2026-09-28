@@ -1,0 +1,3675 @@
+{
+  "testId": "supertet_2026_english_mock_test_level_2",
+  "title": "SUPER TET 2026 English Mock Test Level 2 — Extreme Difficulty",
+  "duration": 120,
+  "totalQuestions": 120,
+  "totalMarks": 360,
+  "markingScheme": {
+    "correct": 3,
+    "incorrect": -1,
+    "unattempted": 0
+  },
+  "language": "Bilingual (Hindi + English)",
+  "difficulty": "Level 2 — Top 1% / Extreme",
+  "syllabusAlignment": {
+    "grammar_and_usage": [
+      "Tenses",
+      "Conditionals",
+      "Modals",
+      "Subject-Verb Agreement",
+      "Articles/Determiners",
+      "Prepositions",
+      "Voice",
+      "Narration",
+      "Clauses",
+      "Phrases",
+      "Non-finite verbs",
+      "Conjunctions",
+      "Question forms",
+      "Sentence transformation",
+      "Parallelism",
+      "Modifiers"
+    ],
+    "vocabulary": [
+      "Synonyms/Antonyms",
+      "Contextual meaning",
+      "Collocations",
+      "Phrasal verbs",
+      "Idioms",
+      "Word formation",
+      "Precision of usage"
+    ],
+    "comprehension": [
+      "Unseen prose",
+      "Inference",
+      "Author's stance",
+      "Argument/evidence",
+      "Literal vs inferential reading",
+      "Top-down/bottom-up processing"
+    ],
+    "language_pedagogy": [
+      "Learning vs acquisition",
+      "Four language skills",
+      "Methods/approaches",
+      "Error analysis",
+      "L1 transfer",
+      "Scaffolding",
+      "Communicative language teaching",
+      "Assessment",
+      "Feedback",
+      "Language difficulties",
+      "Vocabulary/structure teaching"
+    ]
+  },
+  "difficultyDesign": [
+    "near-identical distractors",
+    "semantic traps",
+    "scope/ambiguity traps",
+    "multi-step inference",
+    "application-based pedagogy",
+    "grammar-in-context",
+    "negative-marking aware close options"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the option that is grammatically and semantically most defensible in formal standard English.",
+      "options": [
+        "It is imperative that every candidate submits the form before noon.",
+        "It is imperative that every candidate submit the form before noon.",
+        "It is imperative for every candidate submitted the form before noon.",
+        "It is imperative every candidate will submit the form before noon."
+      ],
+      "answer": 1,
+      "explanation": "After expressions such as 'it is imperative that', the mandative subjunctive 'submit' is standard in formal English.",
+      "i18n": {
+        "hi": "औपचारिक अंग्रेज़ी में 'it is imperative that' के बाद mandative subjunctive 'submit' आता है।",
+        "en": "Choose the option that is grammatically and semantically most defensible in formal standard English.",
+        "options_hi": [
+          "It is imperative that every candidate submits the form before noon.",
+          "It is imperative that every candidate submit the form before noon.",
+          "It is imperative for every candidate submitted the form before noon.",
+          "It is imperative every candidate will submit the form before noon."
+        ],
+        "options_en": [
+          "It is imperative that every candidate submits the form before noon.",
+          "It is imperative that every candidate submit the form before noon.",
+          "It is imperative for every candidate submitted the form before noon.",
+          "It is imperative every candidate will submit the form before noon."
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence preserves the intended meaning: the speaker regrets that the committee did not act earlier, and implies that earlier action could have changed the outcome?",
+      "options": [
+        "The committee should have acted earlier.",
+        "The committee needn't have acted earlier.",
+        "The committee would act earlier.",
+        "The committee had better act earlier."
+      ],
+      "answer": 0,
+      "explanation": "'Should have + past participle' expresses a past action that was expected/advisable but did not occur.",
+      "i18n": {
+        "hi": "'Should have + V3' अतीत में अपेक्षित/उचित लेकिन न किए गए कार्य का बोध कराता है।",
+        "en": "Which sentence preserves the intended meaning: the speaker regrets that the committee did not act earlier, and implies that earlier action could have changed the outcome?",
+        "options_hi": [
+          "The committee should have acted earlier.",
+          "The committee needn't have acted earlier.",
+          "The committee would act earlier.",
+          "The committee had better act earlier."
+        ],
+        "options_en": [
+          "The committee should have acted earlier.",
+          "The committee needn't have acted earlier.",
+          "The committee would act earlier.",
+          "The committee had better act earlier."
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "section": "English",
+      "question": "Select the sentence in which the inversion is both grammatical and meaning-preserving.",
+      "options": [
+        "Rarely I have encountered such a nuanced argument.",
+        "Rarely have I encounter such a nuanced argument.",
+        "Rarely did I encountered such a nuanced argument.",
+        "Rarely have I encountered such a nuanced argument."
+      ],
+      "answer": 3,
+      "explanation": "Negative/limiting adverbials such as 'rarely' trigger subject–auxiliary inversion when fronted.",
+      "i18n": {
+        "hi": "आरम्भ में 'rarely' आने पर subject–auxiliary inversion होता है।",
+        "en": "Select the sentence in which the inversion is both grammatical and meaning-preserving.",
+        "options_hi": [
+          "Rarely I have encountered such a nuanced argument.",
+          "Rarely have I encounter such a nuanced argument.",
+          "Rarely did I encountered such a nuanced argument.",
+          "Rarely have I encountered such a nuanced argument."
+        ],
+        "options_en": [
+          "Rarely I have encountered such a nuanced argument.",
+          "Rarely have I encounter such a nuanced argument.",
+          "Rarely did I encountered such a nuanced argument.",
+          "Rarely have I encountered such a nuanced argument."
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which option contains a restrictive relative clause rather than a non-restrictive one?",
+      "options": [
+        "The students, who had revised, performed well.",
+        "The students, that had revised, performed well.",
+        "The students who had revised performed well.",
+        "The students, whom had revised, performed well."
+      ],
+      "answer": 2,
+      "explanation": "Without commas, 'who had revised' identifies the subset of students and is restrictive.",
+      "i18n": {
+        "hi": "बिना commas वाला relative clause विद्यार्थियों के एक विशिष्ट समूह को सीमित करता है।",
+        "en": "Which option contains a restrictive relative clause rather than a non-restrictive one?",
+        "options_hi": [
+          "The students, who had revised, performed well.",
+          "The students, that had revised, performed well.",
+          "The students who had revised performed well.",
+          "The students, whom had revised, performed well."
+        ],
+        "options_en": [
+          "The students, who had revised, performed well.",
+          "The students, that had revised, performed well.",
+          "The students who had revised performed well.",
+          "The students, whom had revised, performed well."
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the sentence in which 'would' is NOT being used for a repeated past action.",
+      "options": [
+        "Every winter, the village would close the old road.",
+        "When we were children, she would read to us.",
+        "On Sundays, they would walk to the river.",
+        "He said he would arrive before dusk."
+      ],
+      "answer": 3,
+      "explanation": "In 'he said he would arrive', would is future-in-the-past, not habitual past.",
+      "i18n": {
+        "hi": "'he said he would arrive' में would future-in-the-past है, past habit नहीं।",
+        "en": "Choose the sentence in which 'would' is NOT being used for a repeated past action.",
+        "options_hi": [
+          "Every winter, the village would close the old road.",
+          "When we were children, she would read to us.",
+          "On Sundays, they would walk to the river.",
+          "He said he would arrive before dusk."
+        ],
+        "options_en": [
+          "Every winter, the village would close the old road.",
+          "When we were children, she would read to us.",
+          "On Sundays, they would walk to the river.",
+          "He said he would arrive before dusk."
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence most precisely distinguishes 'few' from 'a few'?",
+      "options": [
+        "A few applicants met the threshold: therefore, none met it.",
+        "A few applicants met the threshold: the number was small and disappointing.",
+        "Few applicants met the threshold: therefore, almost all met it.",
+        "Few applicants met the threshold: the number was small and disappointing."
+      ],
+      "answer": 3,
+      "explanation": "'Few' has a negative/insufficient implication; 'a few' indicates some, though not many.",
+      "i18n": {
+        "hi": "'Few' अपर्याप्तता/नकारात्मक अर्थ देता है; 'a few' कुछ की उपस्थिति बताता है।",
+        "en": "Which sentence most precisely distinguishes 'few' from 'a few'?",
+        "options_hi": [
+          "A few applicants met the threshold: therefore, none met it.",
+          "A few applicants met the threshold: the number was small and disappointing.",
+          "Few applicants met the threshold: therefore, almost all met it.",
+          "Few applicants met the threshold: the number was small and disappointing."
+        ],
+        "options_en": [
+          "A few applicants met the threshold: therefore, none met it.",
+          "A few applicants met the threshold: the number was small and disappointing.",
+          "Few applicants met the threshold: therefore, almost all met it.",
+          "Few applicants met the threshold: the number was small and disappointing."
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the option in which the participial modifier has an unambiguous logical subject.",
+      "options": [
+        "Walking through the corridor, the noticeboard caught my attention.",
+        "Walking through the corridor, the noticeboard was noticed by me.",
+        "Walking through the corridor, I noticed the noticeboard.",
+        "Walking through the corridor, there was a noticeboard."
+      ],
+      "answer": 2,
+      "explanation": "The understood subject of 'walking' is 'I' in the correct sentence.",
+      "i18n": {
+        "hi": "Walking का implied subject 'I' होना चाहिए; इसलिए दूसरा वाक्य सही है।",
+        "en": "Choose the option in which the participial modifier has an unambiguous logical subject.",
+        "options_hi": [
+          "Walking through the corridor, the noticeboard caught my attention.",
+          "Walking through the corridor, the noticeboard was noticed by me.",
+          "Walking through the corridor, I noticed the noticeboard.",
+          "Walking through the corridor, there was a noticeboard."
+        ],
+        "options_en": [
+          "Walking through the corridor, the noticeboard caught my attention.",
+          "Walking through the corridor, the noticeboard was noticed by me.",
+          "Walking through the corridor, I noticed the noticeboard.",
+          "Walking through the corridor, there was a noticeboard."
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence is acceptable in formal English when 'suggest' means 'recommend' rather than 'imply'?",
+      "options": [
+        "The teacher suggested that the pupils should revise the passage.",
+        "The teacher suggested the pupils to revise the passage.",
+        "The teacher suggested the pupils revised the passage.",
+        "The teacher suggested to the pupils revising the passage."
+      ],
+      "answer": 0,
+      "explanation": "'Suggest that + clause' is standard; 'suggest someone to do' is not standard in this meaning.",
+      "i18n": {
+        "hi": "'Suggest that + clause' मानक संरचना है; 'suggest someone to do' इस अर्थ में मानक नहीं है।",
+        "en": "Which sentence is acceptable in formal English when 'suggest' means 'recommend' rather than 'imply'?",
+        "options_hi": [
+          "The teacher suggested that the pupils should revise the passage.",
+          "The teacher suggested the pupils to revise the passage.",
+          "The teacher suggested the pupils revised the passage.",
+          "The teacher suggested to the pupils revising the passage."
+        ],
+        "options_en": [
+          "The teacher suggested that the pupils should revise the passage.",
+          "The teacher suggested the pupils to revise the passage.",
+          "The teacher suggested the pupils revised the passage.",
+          "The teacher suggested to the pupils revising the passage."
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the sentence in which the article choice changes meaning rather than merely style.",
+      "options": [
+        "She was elected chair of the committee.",
+        "She was elected the chair of the committee.",
+        "He became principal of the school.",
+        "He became a principal of the school."
+      ],
+      "answer": 1,
+      "explanation": "'The chair' identifies a particular office/person role in context; article choice can signal a specific referent.",
+      "i18n": {
+        "hi": "'the chair' संदर्भित विशिष्ट पद/व्यक्ति की ओर संकेत कर सकता है।",
+        "en": "Choose the sentence in which the article choice changes meaning rather than merely style.",
+        "options_hi": [
+          "She was elected chair of the committee.",
+          "She was elected the chair of the committee.",
+          "He became principal of the school.",
+          "He became a principal of the school."
+        ],
+        "options_en": [
+          "She was elected chair of the committee.",
+          "She was elected the chair of the committee.",
+          "He became principal of the school.",
+          "He became a principal of the school."
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which option contains a valid cleft construction that foregrounds the object, not the agent?",
+      "options": [
+        "It was the evidence that the reviewer questioned.",
+        "It was the reviewer who the evidence questioned.",
+        "What questioned was the reviewer the evidence.",
+        "It was questioned the evidence by the reviewer."
+      ],
+      "answer": 0,
+      "explanation": "'It was X that...' is a cleft construction; here 'the evidence' is foregrounded as the questioned element.",
+      "i18n": {
+        "hi": "'It was X that...' cleft structure में X को foreground किया जाता है।",
+        "en": "Which option contains a valid cleft construction that foregrounds the object, not the agent?",
+        "options_hi": [
+          "It was the evidence that the reviewer questioned.",
+          "It was the reviewer who the evidence questioned.",
+          "What questioned was the reviewer the evidence.",
+          "It was questioned the evidence by the reviewer."
+        ],
+        "options_en": [
+          "It was the evidence that the reviewer questioned.",
+          "It was the reviewer who the evidence questioned.",
+          "What questioned was the reviewer the evidence.",
+          "It was questioned the evidence by the reviewer."
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "section": "English",
+      "question": "Select the most precise word: 'The witness's account was not merely doubtful; it was ___ with the documentary record.'",
+      "options": [
+        "compatible",
+        "incongruous",
+        "congruent",
+        "consecutive"
+      ],
+      "answer": 1,
+      "explanation": "'Incongruous with' means not in harmony or agreement with.",
+      "i18n": {
+        "hi": "'Incongruous with' का अर्थ अभिलेख से असंगत होना है।",
+        "en": "Select the most precise word: 'The witness's account was not merely doubtful; it was ___ with the documentary record.'",
+        "options_hi": [
+          "compatible",
+          "incongruous",
+          "congruent",
+          "consecutive"
+        ],
+        "options_en": [
+          "compatible",
+          "incongruous",
+          "congruent",
+          "consecutive"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which pair is correctly distinguished?",
+      "options": [
+        "historic = famous/important in history; historical = relating to history",
+        "historic = relating to history; historical = necessarily famous",
+        "historic = imaginary; historical = factual",
+        "historic and historical are always interchangeable"
+      ],
+      "answer": 0,
+      "explanation": "'Historic' commonly means important or momentous in history; 'historical' broadly means related to history.",
+      "i18n": {
+        "hi": "'Historic' प्रायः ऐतिहासिक रूप से महत्वपूर्ण और 'historical' इतिहास से संबंधित होता है।",
+        "en": "Which pair is correctly distinguished?",
+        "options_hi": [
+          "historic = famous/important in history; historical = relating to history",
+          "historic = relating to history; historical = necessarily famous",
+          "historic = imaginary; historical = factual",
+          "historic and historical are always interchangeable"
+        ],
+        "options_en": [
+          "historic = famous/important in history; historical = relating to history",
+          "historic = relating to history; historical = necessarily famous",
+          "historic = imaginary; historical = factual",
+          "historic and historical are always interchangeable"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "section": "English",
+      "question": "In the sentence 'The policy was ostensibly designed to widen access', 'ostensibly' most strongly signals that:",
+      "options": [
+        "the policy was implemented secretly",
+        "the policy certainly failed",
+        "the purpose was legally prohibited",
+        "the stated purpose may not be the whole or true purpose"
+      ],
+      "answer": 3,
+      "explanation": "Ostensibly marks an apparent or stated reason, often with an implication that reality may differ.",
+      "i18n": {
+        "hi": "Ostensibly बाहरी/घोषित कारण का संकेत देता है और वास्तविक कारण भिन्न होने की संभावना रखता है।",
+        "en": "In the sentence 'The policy was ostensibly designed to widen access', 'ostensibly' most strongly signals that:",
+        "options_hi": [
+          "the policy was implemented secretly",
+          "the policy certainly failed",
+          "the purpose was legally prohibited",
+          "the stated purpose may not be the whole or true purpose"
+        ],
+        "options_en": [
+          "the policy was implemented secretly",
+          "the policy certainly failed",
+          "the purpose was legally prohibited",
+          "the stated purpose may not be the whole or true purpose"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the sentence in which 'only' has the intended scope: the students, rather than the teacher, submitted the forms.",
+      "options": [
+        "The students submitted only the forms.",
+        "The students only submitted the forms.",
+        "Only the students submitted the forms.",
+        "The students submitted the forms only."
+      ],
+      "answer": 2,
+      "explanation": "Placing 'only' before 'the students' restricts the agent of submission.",
+      "i18n": {
+        "hi": "'only' को students से पहले रखने पर वही agent सीमित होता है।",
+        "en": "Choose the sentence in which 'only' has the intended scope: the students, rather than the teacher, submitted the forms.",
+        "options_hi": [
+          "The students submitted only the forms.",
+          "The students only submitted the forms.",
+          "Only the students submitted the forms.",
+          "The students submitted the forms only."
+        ],
+        "options_en": [
+          "The students submitted only the forms.",
+          "The students only submitted the forms.",
+          "Only the students submitted the forms.",
+          "The students submitted the forms only."
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence avoids the ambiguity in 'The teacher told the student that she had made an error'?",
+      "options": [
+        "Both B and C can clarify the reference, depending on intended meaning.",
+        "The teacher told the student that she herself had made an error.",
+        "The teacher told the student that the latter had made an error.",
+        "The teacher told the student that the teacher had made an error."
+      ],
+      "answer": 0,
+      "explanation": "Both explicit self-reference and 'the latter' can remove the pronoun ambiguity, depending on intended referent.",
+      "i18n": {
+        "hi": "दोनों संरचनाएँ संदर्भ के अनुसार pronoun ambiguity दूर कर सकती हैं।",
+        "en": "Which sentence avoids the ambiguity in 'The teacher told the student that she had made an error'?",
+        "options_hi": [
+          "Both B and C can clarify the reference, depending on intended meaning.",
+          "The teacher told the student that she herself had made an error.",
+          "The teacher told the student that the latter had made an error.",
+          "The teacher told the student that the teacher had made an error."
+        ],
+        "options_en": [
+          "Both B and C can clarify the reference, depending on intended meaning.",
+          "The teacher told the student that she herself had made an error.",
+          "The teacher told the student that the latter had made an error.",
+          "The teacher told the student that the teacher had made an error."
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the correct completion: 'No sooner had the revised rubric been introduced ___ several teachers questioned its reliability.'",
+      "options": [
+        "when",
+        "than",
+        "then",
+        "that"
+      ],
+      "answer": 1,
+      "explanation": "The correlative construction is 'no sooner ... than'.",
+      "i18n": {
+        "hi": "'No sooner ... than' मानक correlative construction है।",
+        "en": "Choose the correct completion: 'No sooner had the revised rubric been introduced ___ several teachers questioned its reliability.'",
+        "options_hi": [
+          "when",
+          "than",
+          "then",
+          "that"
+        ],
+        "options_en": [
+          "when",
+          "than",
+          "then",
+          "that"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence uses 'hardly' correctly in an inverted construction?",
+      "options": [
+        "Hardly had the meeting began when the fire alarm sounded.",
+        "Hardly the meeting had begun when the fire alarm sounded.",
+        "Hardly had the meeting begun when the fire alarm sounded.",
+        "Hardly did the meeting begun when the fire alarm sounded."
+      ],
+      "answer": 2,
+      "explanation": "'Hardly had + past participle ... when' is the correct inverted pattern.",
+      "i18n": {
+        "hi": "'Hardly had + V3 ... when' सही inverted pattern है।",
+        "en": "Which sentence uses 'hardly' correctly in an inverted construction?",
+        "options_hi": [
+          "Hardly had the meeting began when the fire alarm sounded.",
+          "Hardly the meeting had begun when the fire alarm sounded.",
+          "Hardly had the meeting begun when the fire alarm sounded.",
+          "Hardly did the meeting begun when the fire alarm sounded."
+        ],
+        "options_en": [
+          "Hardly had the meeting began when the fire alarm sounded.",
+          "Hardly the meeting had begun when the fire alarm sounded.",
+          "Hardly had the meeting begun when the fire alarm sounded.",
+          "Hardly did the meeting begun when the fire alarm sounded."
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the option that correctly expresses a past counterfactual condition with a present consequence.",
+      "options": [
+        "If she would have accepted the offer, she would now lead the project.",
+        "If she accepted the offer, she would now have led the project.",
+        "If she had accepted the offer, she would have now led the project yesterday.",
+        "If she had accepted the offer, she would now be leading the project."
+      ],
+      "answer": 3,
+      "explanation": "Mixed conditional: past unreal condition with present result uses 'if + past perfect' and 'would + base' with a present-time marker.",
+      "i18n": {
+        "hi": "Past condition और present consequence वाला mixed conditional यही संरचना लेता है।",
+        "en": "Choose the option that correctly expresses a past counterfactual condition with a present consequence.",
+        "options_hi": [
+          "If she would have accepted the offer, she would now lead the project.",
+          "If she accepted the offer, she would now have led the project.",
+          "If she had accepted the offer, she would have now led the project yesterday.",
+          "If she had accepted the offer, she would now be leading the project."
+        ],
+        "options_en": [
+          "If she would have accepted the offer, she would now lead the project.",
+          "If she accepted the offer, she would now have led the project.",
+          "If she had accepted the offer, she would have now led the project yesterday.",
+          "If she had accepted the offer, she would now be leading the project."
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence contains a genuine semantic mismatch rather than merely a grammatical error?",
+      "options": [
+        "The evidence conclusively proves that the claim might perhaps be true.",
+        "The evidence strongly suggests that the claim is plausible.",
+        "The evidence is insufficient to establish causation.",
+        "The evidence is consistent with the proposed explanation."
+      ],
+      "answer": 0,
+      "explanation": "'Conclusive proof' conflicts semantically with the hedge 'might perhaps'; the sentence overclaims while hedging.",
+      "i18n": {
+        "hi": "'Conclusive proof' और 'might perhaps' के बीच semantic conflict है।",
+        "en": "Which sentence contains a genuine semantic mismatch rather than merely a grammatical error?",
+        "options_hi": [
+          "The evidence conclusively proves that the claim might perhaps be true.",
+          "The evidence strongly suggests that the claim is plausible.",
+          "The evidence is insufficient to establish causation.",
+          "The evidence is consistent with the proposed explanation."
+        ],
+        "options_en": [
+          "The evidence conclusively proves that the claim might perhaps be true.",
+          "The evidence strongly suggests that the claim is plausible.",
+          "The evidence is insufficient to establish causation.",
+          "The evidence is consistent with the proposed explanation."
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which option best distinguishes 'imply' from 'infer'?",
+      "options": [
+        "Both are performed only by the speaker.",
+        "A listener implies; a speaker infers.",
+        "A speaker implies; a listener infers.",
+        "Both mean exactly the same thing in formal English."
+      ],
+      "answer": 2,
+      "explanation": "The communicator implies; the recipient draws/inferentially reaches an inference.",
+      "i18n": {
+        "hi": "वक्ता imply करता है; श्रोता infer करता है।",
+        "en": "Which option best distinguishes 'imply' from 'infer'?",
+        "options_hi": [
+          "Both are performed only by the speaker.",
+          "A listener implies; a speaker infers.",
+          "A speaker implies; a listener infers.",
+          "Both mean exactly the same thing in formal English."
+        ],
+        "options_en": [
+          "Both are performed only by the speaker.",
+          "A listener implies; a speaker infers.",
+          "A speaker implies; a listener infers.",
+          "Both mean exactly the same thing in formal English."
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "section": "English",
+      "question": "A passage states: 'The intervention raised average scores by 2%, yet the confidence interval was wide and the study had no control group.' Which inference is most warranted?",
+      "options": [
+        "The intervention definitely caused the improvement.",
+        "The observed improvement should be interpreted cautiously as causal evidence.",
+        "The intervention had no effect whatsoever.",
+        "A wide confidence interval proves the intervention was harmful."
+      ],
+      "answer": 1,
+      "explanation": "Absence of a control group and wide uncertainty limit causal interpretation.",
+      "i18n": {
+        "hi": "Control group की अनुपस्थिति और wide uncertainty causal conclusion को सीमित करते हैं।",
+        "en": "A passage states: 'The intervention raised average scores by 2%, yet the confidence interval was wide and the study had no control group.' Which inference is most warranted?",
+        "options_hi": [
+          "The intervention definitely caused the improvement.",
+          "The observed improvement should be interpreted cautiously as causal evidence.",
+          "The intervention had no effect whatsoever.",
+          "A wide confidence interval proves the intervention was harmful."
+        ],
+        "options_en": [
+          "The intervention definitely caused the improvement.",
+          "The observed improvement should be interpreted cautiously as causal evidence.",
+          "The intervention had no effect whatsoever.",
+          "A wide confidence interval proves the intervention was harmful."
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "section": "English",
+      "question": "A reader predicts a paragraph's content from its heading, then checks the prediction against the text. This most directly combines:",
+      "options": [
+        "bottom-up decoding with rote rehearsal",
+        "top-down processing with monitoring",
+        "translation with substitution",
+        "phonics with dictation"
+      ],
+      "answer": 1,
+      "explanation": "Heading-based prediction is top-down; checking predictions is metacognitive monitoring.",
+      "i18n": {
+        "hi": "Heading से prediction top-down है और checking monitoring है।",
+        "en": "A reader predicts a paragraph's content from its heading, then checks the prediction against the text. This most directly combines:",
+        "options_hi": [
+          "bottom-up decoding with rote rehearsal",
+          "top-down processing with monitoring",
+          "translation with substitution",
+          "phonics with dictation"
+        ],
+        "options_en": [
+          "bottom-up decoding with rote rehearsal",
+          "top-down processing with monitoring",
+          "translation with substitution",
+          "phonics with dictation"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "section": "English",
+      "question": "A learner identifies every word accurately but misses the author's sarcasm because it depends on context and pragmatic cues. The most direct instructional target is:",
+      "options": [
+        "phonological decoding",
+        "pragmatic and inferential comprehension",
+        "letter formation",
+        "isolated vocabulary memorisation"
+      ],
+      "answer": 1,
+      "explanation": "Sarcasm requires pragmatic interpretation and inference beyond word recognition.",
+      "i18n": {
+        "hi": "Sarcasm समझने के लिए pragmatic और inferential comprehension आवश्यक है।",
+        "en": "A learner identifies every word accurately but misses the author's sarcasm because it depends on context and pragmatic cues. The most direct instructional target is:",
+        "options_hi": [
+          "phonological decoding",
+          "pragmatic and inferential comprehension",
+          "letter formation",
+          "isolated vocabulary memorisation"
+        ],
+        "options_en": [
+          "phonological decoding",
+          "pragmatic and inferential comprehension",
+          "letter formation",
+          "isolated vocabulary memorisation"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which assessment task most directly measures productive vocabulary in context?",
+      "options": [
+        "matching words with dictionary definitions",
+        "choosing synonyms from a list",
+        "writing a short argument using target words appropriately",
+        "underlining target words in a passage"
+      ],
+      "answer": 2,
+      "explanation": "Using target vocabulary appropriately in original production directly assesses productive contextual use.",
+      "i18n": {
+        "hi": "स्वतंत्र लेखन में target words का उपयुक्त प्रयोग productive vocabulary को मापता है।",
+        "en": "Which assessment task most directly measures productive vocabulary in context?",
+        "options_hi": [
+          "matching words with dictionary definitions",
+          "choosing synonyms from a list",
+          "writing a short argument using target words appropriately",
+          "underlining target words in a passage"
+        ],
+        "options_en": [
+          "matching words with dictionary definitions",
+          "choosing synonyms from a list",
+          "writing a short argument using target words appropriately",
+          "underlining target words in a passage"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "section": "English",
+      "question": "A teacher wants to diagnose whether a learner's errors arise from L1 transfer rather than lack of exposure. Which evidence is most informative?",
+      "options": [
+        "only the number of errors",
+        "the learner's preference for group work",
+        "the learner's handwriting speed",
+        "comparison of recurring error patterns with structures in the learner's first language"
+      ],
+      "answer": 3,
+      "explanation": "Systematic correspondence between errors and L1 structures is evidence for transfer.",
+      "i18n": {
+        "hi": "L1 संरचनाओं से systematic correspondence transfer का संकेत देती है।",
+        "en": "A teacher wants to diagnose whether a learner's errors arise from L1 transfer rather than lack of exposure. Which evidence is most informative?",
+        "options_hi": [
+          "only the number of errors",
+          "the learner's preference for group work",
+          "the learner's handwriting speed",
+          "comparison of recurring error patterns with structures in the learner's first language"
+        ],
+        "options_en": [
+          "only the number of errors",
+          "the learner's preference for group work",
+          "the learner's handwriting speed",
+          "comparison of recurring error patterns with structures in the learner's first language"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which teacher response best treats an error as evidence about the learner's developing system?",
+      "options": [
+        "'Wrong. Memorise the rule.'",
+        "'Errors show you did not study.'",
+        "'Do not speak until you can produce it correctly.'",
+        "'Your form is different from the target form; explain what rule you were applying.'"
+      ],
+      "answer": 3,
+      "explanation": "Eliciting the learner's underlying rule supports analysis of interlanguage and metalinguistic awareness.",
+      "i18n": {
+        "hi": "Underlying rule elicitation interlanguage और metalinguistic awareness को समझने में मदद करता है।",
+        "en": "Which teacher response best treats an error as evidence about the learner's developing system?",
+        "options_hi": [
+          "'Wrong. Memorise the rule.'",
+          "'Errors show you did not study.'",
+          "'Do not speak until you can produce it correctly.'",
+          "'Your form is different from the target form; explain what rule you were applying.'"
+        ],
+        "options_en": [
+          "'Wrong. Memorise the rule.'",
+          "'Errors show you did not study.'",
+          "'Do not speak until you can produce it correctly.'",
+          "'Your form is different from the target form; explain what rule you were applying.'"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which classroom sequence most clearly exemplifies scaffold fading within a ZPD-oriented lesson?",
+      "options": [
+        "memorisation → translation → no feedback",
+        "independent performance → teacher gives answer → copying",
+        "teacher models → guided prompts → independent performance",
+        "test → lecture → repetition without transfer"
+      ],
+      "answer": 2,
+      "explanation": "Support is gradually withdrawn as independent competence develops.",
+      "i18n": {
+        "hi": "सीखने के साथ scaffolding धीरे-धीरे हटाई जाती है।",
+        "en": "Which classroom sequence most clearly exemplifies scaffold fading within a ZPD-oriented lesson?",
+        "options_hi": [
+          "memorisation → translation → no feedback",
+          "independent performance → teacher gives answer → copying",
+          "teacher models → guided prompts → independent performance",
+          "test → lecture → repetition without transfer"
+        ],
+        "options_en": [
+          "memorisation → translation → no feedback",
+          "independent performance → teacher gives answer → copying",
+          "teacher models → guided prompts → independent performance",
+          "test → lecture → repetition without transfer"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "section": "English",
+      "question": "A teacher wants to test whether learners can distinguish grammaticality from acceptability in context. Which task is strongest?",
+      "options": [
+        "choose the longer sentence",
+        "copy five sentences",
+        "judge sentences in isolation and justify both grammatical form and contextual naturalness",
+        "translate every word"
+      ],
+      "answer": 2,
+      "explanation": "The task separates structural well-formedness from contextual/pragmatic naturalness.",
+      "i18n": {
+        "hi": "यह grammaticality और contextual acceptability दोनों को अलग-अलग जाँचता है।",
+        "en": "A teacher wants to test whether learners can distinguish grammaticality from acceptability in context. Which task is strongest?",
+        "options_hi": [
+          "choose the longer sentence",
+          "copy five sentences",
+          "judge sentences in isolation and justify both grammatical form and contextual naturalness",
+          "translate every word"
+        ],
+        "options_en": [
+          "choose the longer sentence",
+          "copy five sentences",
+          "judge sentences in isolation and justify both grammatical form and contextual naturalness",
+          "translate every word"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which statement about communicative language teaching is most defensible?",
+      "options": [
+        "Meaningful communication can be prioritised while form-focused work is integrated when needed.",
+        "Accuracy is irrelevant if learners communicate.",
+        "Grammar should never be taught explicitly.",
+        "Translation is inherently incompatible with communicative learning."
+      ],
+      "answer": 0,
+      "explanation": "CLT does not require abandoning form; focus on form can occur within meaningful communication.",
+      "i18n": {
+        "hi": "CLT में meaningful communication के भीतर form-focused teaching भी हो सकती है।",
+        "en": "Which statement about communicative language teaching is most defensible?",
+        "options_hi": [
+          "Meaningful communication can be prioritised while form-focused work is integrated when needed.",
+          "Accuracy is irrelevant if learners communicate.",
+          "Grammar should never be taught explicitly.",
+          "Translation is inherently incompatible with communicative learning."
+        ],
+        "options_en": [
+          "Meaningful communication can be prioritised while form-focused work is integrated when needed.",
+          "Accuracy is irrelevant if learners communicate.",
+          "Grammar should never be taught explicitly.",
+          "Translation is inherently incompatible with communicative learning."
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "section": "English",
+      "question": "A teacher uses a dialogue containing a target structure, asks learners to notice recurring forms, and only then elicits the rule. This is primarily:",
+      "options": [
+        "inductive consciousness-raising",
+        "deductive instruction",
+        "summative assessment",
+        "silent reading"
+      ],
+      "answer": 0,
+      "explanation": "Learners derive a generalisation from examples, which is inductive.",
+      "i18n": {
+        "hi": "उदाहरणों से rule निकालना inductive learning है।",
+        "en": "A teacher uses a dialogue containing a target structure, asks learners to notice recurring forms, and only then elicits the rule. This is primarily:",
+        "options_hi": [
+          "inductive consciousness-raising",
+          "deductive instruction",
+          "summative assessment",
+          "silent reading"
+        ],
+        "options_en": [
+          "inductive consciousness-raising",
+          "deductive instruction",
+          "summative assessment",
+          "silent reading"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which task best assesses inferential reading rather than literal recall?",
+      "options": [
+        "Why does the author's final example weaken the earlier generalisation?",
+        "In which year did the event occur?",
+        "What was the character's name?",
+        "How many examples are listed?"
+      ],
+      "answer": 0,
+      "explanation": "Explaining the effect of an example requires reasoning beyond explicit retrieval.",
+      "i18n": {
+        "hi": "अंतिम example के प्रभाव की व्याख्या inferential reasoning माँगती है।",
+        "en": "Which task best assesses inferential reading rather than literal recall?",
+        "options_hi": [
+          "Why does the author's final example weaken the earlier generalisation?",
+          "In which year did the event occur?",
+          "What was the character's name?",
+          "How many examples are listed?"
+        ],
+        "options_en": [
+          "Why does the author's final example weaken the earlier generalisation?",
+          "In which year did the event occur?",
+          "What was the character's name?",
+          "How many examples are listed?"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "section": "English",
+      "question": "A teacher gives feedback: 'Your claim is clear, but paragraph 2 provides evidence for a different claim. Reconsider the link.' This feedback is strongest because it is:",
+      "options": [
+        "person-focused and vague",
+        "task-specific and revision-oriented",
+        "purely summative",
+        "limited to surface spelling"
+      ],
+      "answer": 1,
+      "explanation": "It identifies a task-level issue and points toward revision without supplying the answer.",
+      "i18n": {
+        "hi": "यह task-level समस्या बताकर revision की दिशा देता है।",
+        "en": "A teacher gives feedback: 'Your claim is clear, but paragraph 2 provides evidence for a different claim. Reconsider the link.' This feedback is strongest because it is:",
+        "options_hi": [
+          "person-focused and vague",
+          "task-specific and revision-oriented",
+          "purely summative",
+          "limited to surface spelling"
+        ],
+        "options_en": [
+          "person-focused and vague",
+          "task-specific and revision-oriented",
+          "purely summative",
+          "limited to surface spelling"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which classroom objective is least vulnerable to ambiguity?",
+      "options": [
+        "Students will understand reported speech.",
+        "Students will know conditionals.",
+        "Students will correctly transform five direct-speech sentences into reported speech, preserving tense and reference.",
+        "Students will become better at English."
+      ],
+      "answer": 2,
+      "explanation": "The third objective specifies observable performance and criteria.",
+      "i18n": {
+        "hi": "तीसरा objective observable performance और criteria स्पष्ट करता है।",
+        "en": "Which classroom objective is least vulnerable to ambiguity?",
+        "options_hi": [
+          "Students will understand reported speech.",
+          "Students will know conditionals.",
+          "Students will correctly transform five direct-speech sentences into reported speech, preserving tense and reference.",
+          "Students will become better at English."
+        ],
+        "options_en": [
+          "Students will understand reported speech.",
+          "Students will know conditionals.",
+          "Students will correctly transform five direct-speech sentences into reported speech, preserving tense and reference.",
+          "Students will become better at English."
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "section": "English",
+      "question": "A learner can answer comprehension questions immediately after reading but fails a week later. Which intervention most directly targets durable retention?",
+      "options": [
+        "one more massed rereading immediately",
+        "spaced retrieval with delayed low-stakes recall",
+        "removing all retrieval attempts",
+        "giving the learner the answers before practice"
+      ],
+      "answer": 1,
+      "explanation": "Spaced retrieval strengthens long-term retention better than additional massed exposure.",
+      "i18n": {
+        "hi": "Spaced retrieval दीर्घकालिक retention को अधिक सीधे support करता है।",
+        "en": "A learner can answer comprehension questions immediately after reading but fails a week later. Which intervention most directly targets durable retention?",
+        "options_hi": [
+          "one more massed rereading immediately",
+          "spaced retrieval with delayed low-stakes recall",
+          "removing all retrieval attempts",
+          "giving the learner the answers before practice"
+        ],
+        "options_en": [
+          "one more massed rereading immediately",
+          "spaced retrieval with delayed low-stakes recall",
+          "removing all retrieval attempts",
+          "giving the learner the answers before practice"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which option best illustrates negative transfer rather than developmental error?",
+      "options": [
+        "A learner says 'goed' after overgeneralising a regular pattern.",
+        "A learner confuses two newly taught synonyms.",
+        "A Hindi L1 learner omits articles in English in ways consistent with article absence in Hindi.",
+        "A learner forgets an irregular verb after a week."
+      ],
+      "answer": 2,
+      "explanation": "Systematic influence of a first-language structure is negative transfer.",
+      "i18n": {
+        "hi": "पहली भाषा की संरचना का systematic प्रभाव negative transfer है।",
+        "en": "Which option best illustrates negative transfer rather than developmental error?",
+        "options_hi": [
+          "A learner says 'goed' after overgeneralising a regular pattern.",
+          "A learner confuses two newly taught synonyms.",
+          "A Hindi L1 learner omits articles in English in ways consistent with article absence in Hindi.",
+          "A learner forgets an irregular verb after a week."
+        ],
+        "options_en": [
+          "A learner says 'goed' after overgeneralising a regular pattern.",
+          "A learner confuses two newly taught synonyms.",
+          "A Hindi L1 learner omits articles in English in ways consistent with article absence in Hindi.",
+          "A learner forgets an irregular verb after a week."
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "section": "English",
+      "question": "A reading lesson begins with prediction, moves to selective scanning for confirming evidence, then asks learners to revise their prediction. The strongest description is:",
+      "options": [
+        "a purely bottom-up decoding lesson",
+        "rote vocabulary teaching",
+        "a translation-only method",
+        "an interactive reading process integrating top-down prediction and bottom-up evidence"
+      ],
+      "answer": 3,
+      "explanation": "The cycle integrates prior knowledge/prediction with textual evidence and monitoring.",
+      "i18n": {
+        "hi": "यह top-down prediction और bottom-up evidence को interactive रूप से जोड़ता है।",
+        "en": "A reading lesson begins with prediction, moves to selective scanning for confirming evidence, then asks learners to revise their prediction. The strongest description is:",
+        "options_hi": [
+          "a purely bottom-up decoding lesson",
+          "rote vocabulary teaching",
+          "a translation-only method",
+          "an interactive reading process integrating top-down prediction and bottom-up evidence"
+        ],
+        "options_en": [
+          "a purely bottom-up decoding lesson",
+          "rote vocabulary teaching",
+          "a translation-only method",
+          "an interactive reading process integrating top-down prediction and bottom-up evidence"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which question most directly assesses syntactic awareness?",
+      "options": [
+        "What does 'rapid' mean?",
+        "Which word rhymes with 'light'?",
+        "How does moving 'only' change the interpretation of the sentence?",
+        "Who wrote the passage?"
+      ],
+      "answer": 2,
+      "explanation": "Changing the position of 'only' and interpreting scope requires awareness of syntax and meaning.",
+      "i18n": {
+        "hi": "'Only' की position से interpretation बदलना syntactic awareness जाँचता है।",
+        "en": "Which question most directly assesses syntactic awareness?",
+        "options_hi": [
+          "What does 'rapid' mean?",
+          "Which word rhymes with 'light'?",
+          "How does moving 'only' change the interpretation of the sentence?",
+          "Who wrote the passage?"
+        ],
+        "options_en": [
+          "What does 'rapid' mean?",
+          "Which word rhymes with 'light'?",
+          "How does moving 'only' change the interpretation of the sentence?",
+          "Who wrote the passage?"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "section": "English",
+      "question": "A teacher wants to assess listening without allowing reading ability to mask performance. Which design is most appropriate?",
+      "options": [
+        "give the full transcript before answering",
+        "grade handwriting during listening",
+        "provide a long written passage and ask students to infer the audio",
+        "play the recording and use oral/visual response options matched to the listening objective"
+      ],
+      "answer": 3,
+      "explanation": "Reducing unnecessary reading demands isolates the listening construct.",
+      "i18n": {
+        "hi": "अनावश्यक reading load हटाने से listening construct अधिक शुद्ध रूप से मापा जाता है।",
+        "en": "A teacher wants to assess listening without allowing reading ability to mask performance. Which design is most appropriate?",
+        "options_hi": [
+          "give the full transcript before answering",
+          "grade handwriting during listening",
+          "provide a long written passage and ask students to infer the audio",
+          "play the recording and use oral/visual response options matched to the listening objective"
+        ],
+        "options_en": [
+          "give the full transcript before answering",
+          "grade handwriting during listening",
+          "provide a long written passage and ask students to infer the audio",
+          "play the recording and use oral/visual response options matched to the listening objective"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which statement best captures the difference between acquisition and conscious learning in language education?",
+      "options": [
+        "They are always identical processes.",
+        "Conscious learning cannot influence language performance.",
+        "Acquisition happens only in adults.",
+        "Acquisition is often associated with implicit development through meaningful exposure/use, whereas conscious learning involves explicit awareness of rules or forms."
+      ],
+      "answer": 3,
+      "explanation": "The distinction concerns implicit development versus explicit awareness, though the two can interact.",
+      "i18n": {
+        "hi": "Acquisition implicit development और conscious learning explicit awareness से अधिक संबंधित है।",
+        "en": "Which statement best captures the difference between acquisition and conscious learning in language education?",
+        "options_hi": [
+          "They are always identical processes.",
+          "Conscious learning cannot influence language performance.",
+          "Acquisition happens only in adults.",
+          "Acquisition is often associated with implicit development through meaningful exposure/use, whereas conscious learning involves explicit awareness of rules or forms."
+        ],
+        "options_en": [
+          "They are always identical processes.",
+          "Conscious learning cannot influence language performance.",
+          "Acquisition happens only in adults.",
+          "Acquisition is often associated with implicit development through meaningful exposure/use, whereas conscious learning involves explicit awareness of rules or forms."
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "section": "English",
+      "question": "A teacher notices that students produce correct forms in drills but not during spontaneous interaction. The most plausible diagnosis is:",
+      "options": [
+        "controlled knowledge has not transferred to communicative use",
+        "they have fully automatised the form",
+        "they have no vocabulary at all",
+        "their pronunciation is necessarily defective"
+      ],
+      "answer": 0,
+      "explanation": "Accuracy in controlled practice does not guarantee proceduralised communicative use.",
+      "i18n": {
+        "hi": "Controlled drills की accuracy communicative automatisation की गारंटी नहीं देती।",
+        "en": "A teacher notices that students produce correct forms in drills but not during spontaneous interaction. The most plausible diagnosis is:",
+        "options_hi": [
+          "controlled knowledge has not transferred to communicative use",
+          "they have fully automatised the form",
+          "they have no vocabulary at all",
+          "their pronunciation is necessarily defective"
+        ],
+        "options_en": [
+          "controlled knowledge has not transferred to communicative use",
+          "they have fully automatised the form",
+          "they have no vocabulary at all",
+          "their pronunciation is necessarily defective"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which assessment change best reduces construct-irrelevant variance when testing reading inference?",
+      "options": [
+        "make the font extremely small",
+        "ensure the item wording does not require advanced writing ability when only inference is being tested",
+        "add unrelated difficult vocabulary to every question",
+        "score handwriting quality"
+      ],
+      "answer": 1,
+      "explanation": "Assessment should minimise demands unrelated to the intended reading construct.",
+      "i18n": {
+        "hi": "Reading inference मापते समय unrelated writing demands construct-irrelevant variance बढ़ाएँगी।",
+        "en": "Which assessment change best reduces construct-irrelevant variance when testing reading inference?",
+        "options_hi": [
+          "make the font extremely small",
+          "ensure the item wording does not require advanced writing ability when only inference is being tested",
+          "add unrelated difficult vocabulary to every question",
+          "score handwriting quality"
+        ],
+        "options_en": [
+          "make the font extremely small",
+          "ensure the item wording does not require advanced writing ability when only inference is being tested",
+          "add unrelated difficult vocabulary to every question",
+          "score handwriting quality"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "section": "English",
+      "question": "A teacher's rubric gives 40% weight to grammar, 40% to argument quality, and 20% to handwriting, although the stated objective is persuasive reasoning. The major design problem is:",
+      "options": [
+        "construct-irrelevant weighting",
+        "perfect reliability",
+        "criterion referencing",
+        "diagnostic validity"
+      ],
+      "answer": 0,
+      "explanation": "Handwriting weight is unrelated to persuasive reasoning and can distort the intended construct.",
+      "i18n": {
+        "hi": "Handwriting का weight persuasive reasoning से असंबंधित है।",
+        "en": "A teacher's rubric gives 40% weight to grammar, 40% to argument quality, and 20% to handwriting, although the stated objective is persuasive reasoning. The major design problem is:",
+        "options_hi": [
+          "construct-irrelevant weighting",
+          "perfect reliability",
+          "criterion referencing",
+          "diagnostic validity"
+        ],
+        "options_en": [
+          "construct-irrelevant weighting",
+          "perfect reliability",
+          "criterion referencing",
+          "diagnostic validity"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which feedback best supports learner autonomy while preserving teacher guidance?",
+      "options": [
+        "'Find the two places where your evidence does not support the claim and explain what you could change.'",
+        "'Here is the corrected paragraph; copy it.'",
+        "'Everything is wrong.'",
+        "'Ask me for every correction before revising.'"
+      ],
+      "answer": 0,
+      "explanation": "It prompts self-diagnosis and revision rather than dependence on the teacher.",
+      "i18n": {
+        "hi": "यह self-diagnosis और revision को बढ़ावा देता है।",
+        "en": "Which feedback best supports learner autonomy while preserving teacher guidance?",
+        "options_hi": [
+          "'Find the two places where your evidence does not support the claim and explain what you could change.'",
+          "'Here is the corrected paragraph; copy it.'",
+          "'Everything is wrong.'",
+          "'Ask me for every correction before revising.'"
+        ],
+        "options_en": [
+          "'Find the two places where your evidence does not support the claim and explain what you could change.'",
+          "'Here is the corrected paragraph; copy it.'",
+          "'Everything is wrong.'",
+          "'Ask me for every correction before revising.'"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "section": "English",
+      "question": "A learner says, 'He has lived here since five years.' Which teacher intervention is most diagnostically useful?",
+      "options": [
+        "ask the learner to compare the time-point meaning of 'since' with the duration meaning of 'for' using two examples",
+        "immediately give the correct sentence only",
+        "ignore the error permanently",
+        "teach ten unrelated irregular verbs"
+      ],
+      "answer": 0,
+      "explanation": "Contrasting point-in-time and duration meanings addresses the conceptual source of the error.",
+      "i18n": {
+        "hi": "'Since' के time point और 'for' की duration का contrast conceptual error को target करता है।",
+        "en": "A learner says, 'He has lived here since five years.' Which teacher intervention is most diagnostically useful?",
+        "options_hi": [
+          "ask the learner to compare the time-point meaning of 'since' with the duration meaning of 'for' using two examples",
+          "immediately give the correct sentence only",
+          "ignore the error permanently",
+          "teach ten unrelated irregular verbs"
+        ],
+        "options_en": [
+          "ask the learner to compare the time-point meaning of 'since' with the duration meaning of 'for' using two examples",
+          "immediately give the correct sentence only",
+          "ignore the error permanently",
+          "teach ten unrelated irregular verbs"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which option is the strongest example of a criterion-referenced interpretation?",
+      "options": [
+        "The learner correctly used 8 of 10 target structures against a predefined mastery criterion.",
+        "The learner is above the class average.",
+        "The learner scored higher than 80% of the class.",
+        "The learner ranked third in the section."
+      ],
+      "answer": 0,
+      "explanation": "Criterion-referenced interpretation compares performance with a predefined standard.",
+      "i18n": {
+        "hi": "Criterion-referenced assessment predefined mastery standard से तुलना करता है।",
+        "en": "Which option is the strongest example of a criterion-referenced interpretation?",
+        "options_hi": [
+          "The learner correctly used 8 of 10 target structures against a predefined mastery criterion.",
+          "The learner is above the class average.",
+          "The learner scored higher than 80% of the class.",
+          "The learner ranked third in the section."
+        ],
+        "options_en": [
+          "The learner correctly used 8 of 10 target structures against a predefined mastery criterion.",
+          "The learner is above the class average.",
+          "The learner scored higher than 80% of the class.",
+          "The learner ranked third in the section."
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "section": "English",
+      "question": "A passage says: 'The author concedes that the sample is small; nevertheless, she argues that the pattern merits replication.' What is the author's stance?",
+      "options": [
+        "unqualified certainty",
+        "acknowledgement of a limitation combined with a qualified argument for further study",
+        "complete rejection of the finding",
+        "proof that replication is unnecessary"
+      ],
+      "answer": 1,
+      "explanation": "'Concedes' marks an acknowledged limitation, while 'nevertheless' maintains a qualified claim.",
+      "i18n": {
+        "hi": "Concedes limitation स्वीकार करता है; nevertheless के बाद qualified claim बना रहता है।",
+        "en": "A passage says: 'The author concedes that the sample is small; nevertheless, she argues that the pattern merits replication.' What is the author's stance?",
+        "options_hi": [
+          "unqualified certainty",
+          "acknowledgement of a limitation combined with a qualified argument for further study",
+          "complete rejection of the finding",
+          "proof that replication is unnecessary"
+        ],
+        "options_en": [
+          "unqualified certainty",
+          "acknowledgement of a limitation combined with a qualified argument for further study",
+          "complete rejection of the finding",
+          "proof that replication is unnecessary"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which vocabulary item is most context-sensitive in the pair below?",
+      "options": [
+        "child",
+        "teacher",
+        "pencil",
+        "bank"
+      ],
+      "answer": 3,
+      "explanation": "'Bank' has multiple unrelated senses (financial institution, river edge), making context especially important.",
+      "i18n": {
+        "hi": "'Bank' के अनेक unrelated meanings हैं, इसलिए context निर्णायक है।",
+        "en": "Which vocabulary item is most context-sensitive in the pair below?",
+        "options_hi": [
+          "child",
+          "teacher",
+          "pencil",
+          "bank"
+        ],
+        "options_en": [
+          "child",
+          "teacher",
+          "pencil",
+          "bank"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the sentence in which the phrasal verb has the most precise formal meaning.",
+      "options": [
+        "The committee ruled up the proposal after reviewing the evidence.",
+        "The committee ruled the proposal out of the building.",
+        "The committee ruled out the proposal after reviewing the evidence.",
+        "The committee ruled the proposal into the evidence."
+      ],
+      "answer": 2,
+      "explanation": "'Rule out' means exclude or reject as a possibility.",
+      "i18n": {
+        "hi": "'Rule out' का अर्थ किसी संभावना को बाहर करना है।",
+        "en": "Choose the sentence in which the phrasal verb has the most precise formal meaning.",
+        "options_hi": [
+          "The committee ruled up the proposal after reviewing the evidence.",
+          "The committee ruled the proposal out of the building.",
+          "The committee ruled out the proposal after reviewing the evidence.",
+          "The committee ruled the proposal into the evidence."
+        ],
+        "options_en": [
+          "The committee ruled up the proposal after reviewing the evidence.",
+          "The committee ruled the proposal out of the building.",
+          "The committee ruled out the proposal after reviewing the evidence.",
+          "The committee ruled the proposal into the evidence."
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which pair contains a correctly formed derivational contrast?",
+      "options": [
+        "economic / economical",
+        "all of the above",
+        "decide / decision",
+        "child / childishness"
+      ],
+      "answer": 1,
+      "explanation": "All three demonstrate legitimate derivational relationships, though their meanings differ.",
+      "i18n": {
+        "hi": "तीनों pairs में valid derivational relationship है।",
+        "en": "Which pair contains a correctly formed derivational contrast?",
+        "options_hi": [
+          "economic / economical",
+          "all of the above",
+          "decide / decision",
+          "child / childishness"
+        ],
+        "options_en": [
+          "economic / economical",
+          "all of the above",
+          "decide / decision",
+          "child / childishness"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence contains a subtle agreement trap but is correct?",
+      "options": [
+        "The quality of the essays, along with the quantity, are declining.",
+        "The quality of the essays, along with the quantity, were declining.",
+        "The quality of the essays, along with the quantity, have declined.",
+        "The quality of the essays, along with the quantity, is declining."
+      ],
+      "answer": 3,
+      "explanation": "The head subject is singular 'quality'; 'along with...' does not change agreement.",
+      "i18n": {
+        "hi": "मुख्य subject singular 'quality' है; 'along with' agreement नहीं बदलता।",
+        "en": "Which sentence contains a subtle agreement trap but is correct?",
+        "options_hi": [
+          "The quality of the essays, along with the quantity, are declining.",
+          "The quality of the essays, along with the quantity, were declining.",
+          "The quality of the essays, along with the quantity, have declined.",
+          "The quality of the essays, along with the quantity, is declining."
+        ],
+        "options_en": [
+          "The quality of the essays, along with the quantity, are declining.",
+          "The quality of the essays, along with the quantity, were declining.",
+          "The quality of the essays, along with the quantity, have declined.",
+          "The quality of the essays, along with the quantity, is declining."
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence correctly uses a mandative subjunctive after 'recommend'?",
+      "options": [
+        "The panel recommended the clause to be deleted.",
+        "The panel recommended that the clause was deleted.",
+        "The panel recommended that the clause be deleted.",
+        "The panel recommended that the clause is deleted."
+      ],
+      "answer": 2,
+      "explanation": "Mandative 'be' is standard after recommend in formal English.",
+      "i18n": {
+        "hi": "'Recommend that' के बाद formal English में subjunctive 'be' मानक है।",
+        "en": "Which sentence correctly uses a mandative subjunctive after 'recommend'?",
+        "options_hi": [
+          "The panel recommended the clause to be deleted.",
+          "The panel recommended that the clause was deleted.",
+          "The panel recommended that the clause be deleted.",
+          "The panel recommended that the clause is deleted."
+        ],
+        "options_en": [
+          "The panel recommended the clause to be deleted.",
+          "The panel recommended that the clause was deleted.",
+          "The panel recommended that the clause be deleted.",
+          "The panel recommended that the clause is deleted."
+        ]
+      }
+    },
+    {
+      "id": 52,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which option best represents an authentic assessment of spoken interaction?",
+      "options": [
+        "multiple-choice questions about dialogue rules only",
+        "a recorded pair task in which learners negotiate a real information gap using specified criteria",
+        "copying a dialogue ten times",
+        "matching phonemes to symbols"
+      ],
+      "answer": 1,
+      "explanation": "An information-gap interaction directly elicits the target communicative performance.",
+      "i18n": {
+        "hi": "Information-gap pair task वास्तविक communicative performance eliciting करता है।",
+        "en": "Which option best represents an authentic assessment of spoken interaction?",
+        "options_hi": [
+          "multiple-choice questions about dialogue rules only",
+          "a recorded pair task in which learners negotiate a real information gap using specified criteria",
+          "copying a dialogue ten times",
+          "matching phonemes to symbols"
+        ],
+        "options_en": [
+          "multiple-choice questions about dialogue rules only",
+          "a recorded pair task in which learners negotiate a real information gap using specified criteria",
+          "copying a dialogue ten times",
+          "matching phonemes to symbols"
+        ]
+      }
+    },
+    {
+      "id": 53,
+      "type": "mcq",
+      "section": "English",
+      "question": "A teacher wants to distinguish fluency from accuracy in speaking. Which rubric design is best?",
+      "options": [
+        "one undifferentiated overall mark",
+        "score only vocabulary size",
+        "score only pronunciation",
+        "separate criteria for flow/meaning-making and grammatical/form accuracy"
+      ],
+      "answer": 3,
+      "explanation": "Separate dimensions prevent one construct from obscuring the other.",
+      "i18n": {
+        "hi": "अलग criteria fluency और accuracy को स्वतंत्र रूप से मापते हैं।",
+        "en": "A teacher wants to distinguish fluency from accuracy in speaking. Which rubric design is best?",
+        "options_hi": [
+          "one undifferentiated overall mark",
+          "score only vocabulary size",
+          "score only pronunciation",
+          "separate criteria for flow/meaning-making and grammatical/form accuracy"
+        ],
+        "options_en": [
+          "one undifferentiated overall mark",
+          "score only vocabulary size",
+          "score only pronunciation",
+          "separate criteria for flow/meaning-making and grammatical/form accuracy"
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which classroom move most clearly promotes noticing of form within meaningful input?",
+      "options": [
+        "memorising an isolated rule without examples",
+        "highlighting repeated target forms in a meaningful text and asking learners to infer their function",
+        "copying a word list",
+        "testing spelling before exposure"
+      ],
+      "answer": 1,
+      "explanation": "Noticing in context links form, meaning and function.",
+      "i18n": {
+        "hi": "Context में target forms notice कराना form, meaning और function जोड़ता है।",
+        "en": "Which classroom move most clearly promotes noticing of form within meaningful input?",
+        "options_hi": [
+          "memorising an isolated rule without examples",
+          "highlighting repeated target forms in a meaningful text and asking learners to infer their function",
+          "copying a word list",
+          "testing spelling before exposure"
+        ],
+        "options_en": [
+          "memorising an isolated rule without examples",
+          "highlighting repeated target forms in a meaningful text and asking learners to infer their function",
+          "copying a word list",
+          "testing spelling before exposure"
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence is most appropriate if the intended meaning is that the speaker regrets not taking the opportunity?",
+      "options": [
+        "I regret taking not the opportunity.",
+        "I regret to take the opportunity.",
+        "I regret not taking the opportunity.",
+        "I regret having take the opportunity."
+      ],
+      "answer": 2,
+      "explanation": "'Regret + gerund' refers to regret about a past action.",
+      "i18n": {
+        "hi": "'Regret + gerund' अतीत के किए/न किए कार्य पर पछतावा दर्शाता है।",
+        "en": "Which sentence is most appropriate if the intended meaning is that the speaker regrets not taking the opportunity?",
+        "options_hi": [
+          "I regret taking not the opportunity.",
+          "I regret to take the opportunity.",
+          "I regret not taking the opportunity.",
+          "I regret having take the opportunity."
+        ],
+        "options_en": [
+          "I regret taking not the opportunity.",
+          "I regret to take the opportunity.",
+          "I regret not taking the opportunity.",
+          "I regret having take the opportunity."
+        ]
+      }
+    },
+    {
+      "id": 56,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which option best captures the pragmatic force of 'Could you possibly lower your voice?'",
+      "options": [
+        "a literal inquiry about physical ability only",
+        "a polite indirect request",
+        "a prohibition with no request",
+        "a prediction"
+      ],
+      "answer": 1,
+      "explanation": "The modal question functions pragmatically as a softened request.",
+      "i18n": {
+        "hi": "यह modal question व्यवहार में polite indirect request है।",
+        "en": "Which option best captures the pragmatic force of 'Could you possibly lower your voice?'",
+        "options_hi": [
+          "a literal inquiry about physical ability only",
+          "a polite indirect request",
+          "a prohibition with no request",
+          "a prediction"
+        ],
+        "options_en": [
+          "a literal inquiry about physical ability only",
+          "a polite indirect request",
+          "a prohibition with no request",
+          "a prediction"
+        ]
+      }
+    },
+    {
+      "id": 57,
+      "type": "mcq",
+      "section": "English",
+      "question": "A learner can identify the thesis but cannot evaluate whether evidence supports it. Which higher-order skill needs the most direct development?",
+      "options": [
+        "decoding",
+        "copying",
+        "alphabet recognition",
+        "analysis/evaluation of argument"
+      ],
+      "answer": 3,
+      "explanation": "Judging evidence-to-claim relationships requires analysis and evaluation.",
+      "i18n": {
+        "hi": "Evidence और claim के संबंध का मूल्यांकन analysis/evaluation माँगता है।",
+        "en": "A learner can identify the thesis but cannot evaluate whether evidence supports it. Which higher-order skill needs the most direct development?",
+        "options_hi": [
+          "decoding",
+          "copying",
+          "alphabet recognition",
+          "analysis/evaluation of argument"
+        ],
+        "options_en": [
+          "decoding",
+          "copying",
+          "alphabet recognition",
+          "analysis/evaluation of argument"
+        ]
+      }
+    },
+    {
+      "id": 58,
+      "type": "mcq",
+      "section": "English",
+      "question": "So subtle ___ the distinction that several candidates overlooked it.",
+      "options": [
+        "were",
+        "has",
+        "is",
+        "was"
+      ],
+      "answer": 3,
+      "explanation": "Inversion after 'so + adjective' uses auxiliary before subject: 'So subtle was...'.",
+      "i18n": {
+        "hi": "‘So subtle’ fronted होने पर inversion: ‘So subtle was the distinction’।",
+        "en": "So subtle ___ the distinction that several candidates overlooked it.",
+        "options_hi": [
+          "were",
+          "has",
+          "is",
+          "was"
+        ],
+        "options_en": [
+          "were",
+          "has",
+          "is",
+          "was"
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "type": "mcq",
+      "section": "English",
+      "question": "The teacher asked whether the pupils had completed the task and ___ they needed help.",
+      "options": [
+        "whether",
+        "that",
+        "what",
+        "which"
+      ],
+      "answer": 0,
+      "explanation": "The second indirect alternative question is coordinated with 'whether'.",
+      "i18n": {
+        "hi": "Indirect alternative structure में ‘whether...and whether...’ उपयुक्त है।",
+        "en": "The teacher asked whether the pupils had completed the task and ___ they needed help.",
+        "options_hi": [
+          "whether",
+          "that",
+          "what",
+          "which"
+        ],
+        "options_en": [
+          "whether",
+          "that",
+          "what",
+          "which"
+        ]
+      }
+    },
+    {
+      "id": 60,
+      "type": "mcq",
+      "section": "English",
+      "question": "No explanation, however plausible, ___ accepted without evidence.",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have"
+      ],
+      "answer": 1,
+      "explanation": "The singular subject is 'No explanation'.",
+      "i18n": {
+        "hi": "‘No explanation’ singular subject है; इसलिए ‘is accepted’।",
+        "en": "No explanation, however plausible, ___ accepted without evidence.",
+        "options_hi": [
+          "are",
+          "is",
+          "were",
+          "have"
+        ],
+        "options_en": [
+          "are",
+          "is",
+          "were",
+          "have"
+        ]
+      }
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "section": "English",
+      "question": "The data ___ insufficient to support a causal claim, despite the author's confidence.",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has"
+      ],
+      "answer": 1,
+      "explanation": "In formal academic English, plural 'data' can take plural agreement.",
+      "i18n": {
+        "hi": "Formal academic usage में ‘data’ को plural मानकर ‘are’ लिया जा सकता है।",
+        "en": "The data ___ insufficient to support a causal claim, despite the author's confidence.",
+        "options_hi": [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        "options_en": [
+          "is",
+          "are",
+          "was",
+          "has"
+        ]
+      }
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "section": "English",
+      "question": "The teacher's remarks were intended to clarify, rather than ___, the issue.",
+      "options": [
+        "complicated",
+        "have complicated",
+        "complicating",
+        "complicate"
+      ],
+      "answer": 3,
+      "explanation": "After 'rather than' parallel bare infinitives are used here: clarify rather than complicate.",
+      "i18n": {
+        "hi": "‘clarify’ के साथ parallel bare infinitive ‘complicate’ चाहिए।",
+        "en": "The teacher's remarks were intended to clarify, rather than ___, the issue.",
+        "options_hi": [
+          "complicated",
+          "have complicated",
+          "complicating",
+          "complicate"
+        ],
+        "options_en": [
+          "complicated",
+          "have complicated",
+          "complicating",
+          "complicate"
+        ]
+      }
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the word closest in meaning to 'intransigent' in the context of a negotiation.",
+      "options": [
+        "uncompromising",
+        "uncertain",
+        "transparent",
+        "impartial"
+      ],
+      "answer": 0,
+      "explanation": "Intransigent means refusing to change a position or compromise.",
+      "i18n": {
+        "hi": "‘Intransigent’ का अर्थ है समझौते से कठोरता से इनकार करने वाला।",
+        "en": "Choose the word closest in meaning to 'intransigent' in the context of a negotiation.",
+        "options_hi": [
+          "uncompromising",
+          "uncertain",
+          "transparent",
+          "impartial"
+        ],
+        "options_en": [
+          "uncompromising",
+          "uncertain",
+          "transparent",
+          "impartial"
+        ]
+      }
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "section": "English",
+      "question": "The committee's decision was described as 'equivocal'. Which meaning fits best?",
+      "options": [
+        "deliberately ambiguous",
+        "legally binding",
+        "emotionally charged",
+        "unanimously supported"
+      ],
+      "answer": 0,
+      "explanation": "Equivocal means open to more than one interpretation or deliberately ambiguous.",
+      "i18n": {
+        "hi": "‘Equivocal’ का अर्थ अस्पष्ट या दो अर्थों की गुंजाइश वाला है।",
+        "en": "The committee's decision was described as 'equivocal'. Which meaning fits best?",
+        "options_hi": [
+          "deliberately ambiguous",
+          "legally binding",
+          "emotionally charged",
+          "unanimously supported"
+        ],
+        "options_en": [
+          "deliberately ambiguous",
+          "legally binding",
+          "emotionally charged",
+          "unanimously supported"
+        ]
+      }
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "section": "English",
+      "question": "A 'perfunctory' inspection is one that is:",
+      "options": [
+        "thorough and exhaustive",
+        "unexpectedly hostile",
+        "routine and lacking genuine care",
+        "legally mandated"
+      ],
+      "answer": 2,
+      "explanation": "Perfunctory means done with minimal effort or interest.",
+      "i18n": {
+        "hi": "‘Perfunctory’ कार्य औपचारिक/ऊपरी तौर पर, कम प्रयास से किया गया हो।",
+        "en": "A 'perfunctory' inspection is one that is:",
+        "options_hi": [
+          "thorough and exhaustive",
+          "unexpectedly hostile",
+          "routine and lacking genuine care",
+          "legally mandated"
+        ],
+        "options_en": [
+          "thorough and exhaustive",
+          "unexpectedly hostile",
+          "routine and lacking genuine care",
+          "legally mandated"
+        ]
+      }
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "section": "English",
+      "question": "If a statement is 'cogent', it is:",
+      "options": [
+        "confusing",
+        "persuasive and logically strong",
+        "purely emotional",
+        "tentative"
+      ],
+      "answer": 1,
+      "explanation": "Cogent reasoning is clear, relevant, and convincing.",
+      "i18n": {
+        "hi": "‘Cogent’ तर्क स्पष्ट, प्रासंगिक और प्रभावी होता है।",
+        "en": "If a statement is 'cogent', it is:",
+        "options_hi": [
+          "confusing",
+          "persuasive and logically strong",
+          "purely emotional",
+          "tentative"
+        ],
+        "options_en": [
+          "confusing",
+          "persuasive and logically strong",
+          "purely emotional",
+          "tentative"
+        ]
+      }
+    },
+    {
+      "id": 67,
+      "type": "mcq",
+      "section": "English",
+      "question": "To 'obviate' a difficulty is to:",
+      "options": [
+        "make it unnecessary or prevent it",
+        "exaggerate it",
+        "document it",
+        "postpone it"
+      ],
+      "answer": 0,
+      "explanation": "Obviate means remove the need for or prevent something.",
+      "i18n": {
+        "hi": "‘Obviate’ का अर्थ किसी आवश्यकता/समस्या को पहले ही समाप्त कर देना है।",
+        "en": "To 'obviate' a difficulty is to:",
+        "options_hi": [
+          "make it unnecessary or prevent it",
+          "exaggerate it",
+          "document it",
+          "postpone it"
+        ],
+        "options_en": [
+          "make it unnecessary or prevent it",
+          "exaggerate it",
+          "document it",
+          "postpone it"
+        ]
+      }
+    },
+    {
+      "id": 68,
+      "type": "mcq",
+      "section": "English",
+      "question": "A 'fastidious' learner is most likely to be:",
+      "options": [
+        "very attentive to detail and standards",
+        "careless",
+        "easily distracted",
+        "indifferent to quality"
+      ],
+      "answer": 0,
+      "explanation": "Fastidious describes meticulous attention to detail.",
+      "i18n": {
+        "hi": "‘Fastidious’ का अर्थ अत्यधिक सूक्ष्मता और शुद्धता पर ध्यान देने वाला।",
+        "en": "A 'fastidious' learner is most likely to be:",
+        "options_hi": [
+          "very attentive to detail and standards",
+          "careless",
+          "easily distracted",
+          "indifferent to quality"
+        ],
+        "options_en": [
+          "very attentive to detail and standards",
+          "careless",
+          "easily distracted",
+          "indifferent to quality"
+        ]
+      }
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "section": "English",
+      "question": "The word 'disinterested' most precisely means:",
+      "options": [
+        "bored and inattentive",
+        "unbiased and not seeking personal advantage",
+        "uninterested in learning",
+        "emotionally unstable"
+      ],
+      "answer": 1,
+      "explanation": "Disinterested means impartial; uninterested means lacking interest.",
+      "i18n": {
+        "hi": "‘Disinterested’ = निष्पक्ष; ‘uninterested’ = रुचि न रखने वाला।",
+        "en": "The word 'disinterested' most precisely means:",
+        "options_hi": [
+          "bored and inattentive",
+          "unbiased and not seeking personal advantage",
+          "uninterested in learning",
+          "emotionally unstable"
+        ],
+        "options_en": [
+          "bored and inattentive",
+          "unbiased and not seeking personal advantage",
+          "uninterested in learning",
+          "emotionally unstable"
+        ]
+      }
+    },
+    {
+      "id": 70,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence uses 'infer' correctly?",
+      "options": [
+        "The data infer that the hypothesis is false.",
+        "The researcher inferred the author's intention from the pattern of omissions.",
+        "The teacher inferred the students to revise.",
+        "The result was inferred by the table."
+      ],
+      "answer": 1,
+      "explanation": "A reader/listener infers something from evidence; evidence itself suggests or implies.",
+      "i18n": {
+        "hi": "‘Infer’ evidence से निष्कर्ष निकालने वाले व्यक्ति के लिए प्रयुक्त होता है।",
+        "en": "Which sentence uses 'infer' correctly?",
+        "options_hi": [
+          "The data infer that the hypothesis is false.",
+          "The researcher inferred the author's intention from the pattern of omissions.",
+          "The teacher inferred the students to revise.",
+          "The result was inferred by the table."
+        ],
+        "options_en": [
+          "The data infer that the hypothesis is false.",
+          "The researcher inferred the author's intention from the pattern of omissions.",
+          "The teacher inferred the students to revise.",
+          "The result was inferred by the table."
+        ]
+      }
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the most precise word: The witness's account was ___ with the video evidence.",
+      "options": [
+        "conspicuous",
+        "contingent",
+        "contemptuous",
+        "congruent"
+      ],
+      "answer": 3,
+      "explanation": "Congruent means in agreement or harmony with something.",
+      "i18n": {
+        "hi": "‘Congruent’ = किसी तथ्य/प्रमाण के अनुरूप।",
+        "en": "Choose the most precise word: The witness's account was ___ with the video evidence.",
+        "options_hi": [
+          "conspicuous",
+          "contingent",
+          "contemptuous",
+          "congruent"
+        ],
+        "options_en": [
+          "conspicuous",
+          "contingent",
+          "contemptuous",
+          "congruent"
+        ]
+      }
+    },
+    {
+      "id": 72,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which pair is correctly distinguished?",
+      "options": [
+        "complement = praise/add to completeness; compliment = remark of praise",
+        "complement = praise; compliment = complete",
+        "both are interchangeable",
+        "compliment = complete; complement = praise"
+      ],
+      "answer": 0,
+      "explanation": "Complement completes or enhances; compliment expresses praise.",
+      "i18n": {
+        "hi": "Complement किसी चीज को पूरा/उपयुक्त बनाता है; compliment प्रशंसा है।",
+        "en": "Which pair is correctly distinguished?",
+        "options_hi": [
+          "complement = praise/add to completeness; compliment = remark of praise",
+          "complement = praise; compliment = complete",
+          "both are interchangeable",
+          "compliment = complete; complement = praise"
+        ],
+        "options_en": [
+          "complement = praise/add to completeness; compliment = remark of praise",
+          "complement = praise; compliment = complete",
+          "both are interchangeable",
+          "compliment = complete; complement = praise"
+        ]
+      }
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "section": "English",
+      "question": "The idiom 'to read between the lines' means to:",
+      "options": [
+        "read very quickly",
+        "memorise exact wording",
+        "correct grammatical errors",
+        "infer an unstated meaning"
+      ],
+      "answer": 3,
+      "explanation": "It means to infer meaning that is not explicitly stated.",
+      "i18n": {
+        "hi": "‘Read between the lines’ का अर्थ अप्रकट अर्थ समझना है।",
+        "en": "The idiom 'to read between the lines' means to:",
+        "options_hi": [
+          "read very quickly",
+          "memorise exact wording",
+          "correct grammatical errors",
+          "infer an unstated meaning"
+        ],
+        "options_en": [
+          "read very quickly",
+          "memorise exact wording",
+          "correct grammatical errors",
+          "infer an unstated meaning"
+        ]
+      }
+    },
+    {
+      "id": 74,
+      "type": "mcq",
+      "section": "English",
+      "question": "If a plan is 'feasible', it is:",
+      "options": [
+        "certain to succeed",
+        "morally superior",
+        "possible and practicable",
+        "already implemented"
+      ],
+      "answer": 2,
+      "explanation": "Feasible means capable of being done successfully or practically.",
+      "i18n": {
+        "hi": "‘Feasible’ = व्यवहार्य/व्यावहारिक रूप से संभव।",
+        "en": "If a plan is 'feasible', it is:",
+        "options_hi": [
+          "certain to succeed",
+          "morally superior",
+          "possible and practicable",
+          "already implemented"
+        ],
+        "options_en": [
+          "certain to succeed",
+          "morally superior",
+          "possible and practicable",
+          "already implemented"
+        ]
+      }
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the correct collocation.",
+      "options": [
+        "pose a question",
+        "do a question",
+        "make an evidence",
+        "commit a research"
+      ],
+      "answer": 0,
+      "explanation": "'Pose a question' is the standard collocation.",
+      "i18n": {
+        "hi": "मानक collocation ‘pose a question’ है।",
+        "en": "Choose the correct collocation.",
+        "options_hi": [
+          "pose a question",
+          "do a question",
+          "make an evidence",
+          "commit a research"
+        ],
+        "options_en": [
+          "pose a question",
+          "do a question",
+          "make an evidence",
+          "commit a research"
+        ]
+      }
+    },
+    {
+      "id": 76,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence is semantically most precise?",
+      "options": [
+        "The policy will affect on attendance.",
+        "The policy will effect attendance.",
+        "The policy will affect attendance.",
+        "The policy will effect on attendance."
+      ],
+      "answer": 2,
+      "explanation": "Affect is normally the verb meaning influence; effect is usually a noun or a less common verb meaning bring about.",
+      "i18n": {
+        "hi": "‘Affect’ यहाँ verb के रूप में ‘influence’ के अर्थ में सही है।",
+        "en": "Which sentence is semantically most precise?",
+        "options_hi": [
+          "The policy will affect on attendance.",
+          "The policy will effect attendance.",
+          "The policy will affect attendance.",
+          "The policy will effect on attendance."
+        ],
+        "options_en": [
+          "The policy will affect on attendance.",
+          "The policy will effect attendance.",
+          "The policy will affect attendance.",
+          "The policy will effect on attendance."
+        ]
+      }
+    },
+    {
+      "id": 77,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the correct use of 'adverse'.",
+      "options": [
+        "The medicine had adverse effects.",
+        "The teacher gave an adverse of the poem.",
+        "He adverse the conclusion.",
+        "The evidence was adverse to proving anything."
+      ],
+      "answer": 0,
+      "explanation": "Adverse commonly means harmful or unfavorable, especially before a noun.",
+      "i18n": {
+        "hi": "‘Adverse effects’ मानक प्रयोग है।",
+        "en": "Choose the correct use of 'adverse'.",
+        "options_hi": [
+          "The medicine had adverse effects.",
+          "The teacher gave an adverse of the poem.",
+          "He adverse the conclusion.",
+          "The evidence was adverse to proving anything."
+        ],
+        "options_en": [
+          "The medicine had adverse effects.",
+          "The teacher gave an adverse of the poem.",
+          "He adverse the conclusion.",
+          "The evidence was adverse to proving anything."
+        ]
+      }
+    },
+    {
+      "id": 78,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which option best captures the distinction between 'credible' and 'credulous'?",
+      "options": [
+        "credible = believable; credulous = too ready to believe",
+        "credible = doubtful; credulous = analytical",
+        "both mean trustworthy",
+        "credible = naive; credulous = reliable"
+      ],
+      "answer": 0,
+      "explanation": "Credible describes something worthy of belief; credulous describes a person too ready to believe.",
+      "i18n": {
+        "hi": "‘Credible’ = विश्वसनीय; ‘credulous’ = जल्दी विश्वास कर लेने वाला।",
+        "en": "Which option best captures the distinction between 'credible' and 'credulous'?",
+        "options_hi": [
+          "credible = believable; credulous = too ready to believe",
+          "credible = doubtful; credulous = analytical",
+          "both mean trustworthy",
+          "credible = naive; credulous = reliable"
+        ],
+        "options_en": [
+          "credible = believable; credulous = too ready to believe",
+          "credible = doubtful; credulous = analytical",
+          "both mean trustworthy",
+          "credible = naive; credulous = reliable"
+        ]
+      }
+    },
+    {
+      "id": 79,
+      "type": "mcq",
+      "section": "English",
+      "question": "The phrase 'a red herring' refers to:",
+      "options": [
+        "a reliable piece of evidence",
+        "a minor grammatical error",
+        "a final conclusion",
+        "a misleading clue or distraction"
+      ],
+      "answer": 3,
+      "explanation": "A red herring diverts attention from the relevant issue.",
+      "i18n": {
+        "hi": "‘Red herring’ = ध्यान भटकाने वाला भ्रामक संकेत।",
+        "en": "The phrase 'a red herring' refers to:",
+        "options_hi": [
+          "a reliable piece of evidence",
+          "a minor grammatical error",
+          "a final conclusion",
+          "a misleading clue or distraction"
+        ],
+        "options_en": [
+          "a reliable piece of evidence",
+          "a minor grammatical error",
+          "a final conclusion",
+          "a misleading clue or distraction"
+        ]
+      }
+    },
+    {
+      "id": 80,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the most appropriate word: The speaker's claim was ___ by three independent studies.",
+      "options": [
+        "compromised",
+        "corroborated",
+        "contradicted",
+        "conceded"
+      ],
+      "answer": 1,
+      "explanation": "Corroborated means confirmed or supported by additional evidence.",
+      "i18n": {
+        "hi": "‘Corroborated’ = अतिरिक्त प्रमाण से पुष्ट किया गया।",
+        "en": "Choose the most appropriate word: The speaker's claim was ___ by three independent studies.",
+        "options_hi": [
+          "compromised",
+          "corroborated",
+          "contradicted",
+          "conceded"
+        ],
+        "options_en": [
+          "compromised",
+          "corroborated",
+          "contradicted",
+          "conceded"
+        ]
+      }
+    },
+    {
+      "id": 81,
+      "type": "mcq",
+      "section": "English",
+      "question": "'Mitigate' most nearly means:",
+      "options": [
+        "make inevitable",
+        "make public",
+        "make less severe",
+        "make contradictory"
+      ],
+      "answer": 2,
+      "explanation": "Mitigate means reduce the severity, seriousness, or harmfulness of something.",
+      "i18n": {
+        "hi": "‘Mitigate’ = गंभीरता/हानि को कम करना।",
+        "en": "'Mitigate' most nearly means:",
+        "options_hi": [
+          "make inevitable",
+          "make public",
+          "make less severe",
+          "make contradictory"
+        ],
+        "options_en": [
+          "make inevitable",
+          "make public",
+          "make less severe",
+          "make contradictory"
+        ]
+      }
+    },
+    {
+      "id": 82,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which is the best meaning of 'salient' in an academic passage?",
+      "options": [
+        "least certain",
+        "grammatically incorrect",
+        "most noticeable or relevant",
+        "historically ancient"
+      ],
+      "answer": 2,
+      "explanation": "Salient means prominent or especially relevant.",
+      "i18n": {
+        "hi": "‘Salient’ = प्रमुख या विशेष रूप से प्रासंगिक।",
+        "en": "Which is the best meaning of 'salient' in an academic passage?",
+        "options_hi": [
+          "least certain",
+          "grammatically incorrect",
+          "most noticeable or relevant",
+          "historically ancient"
+        ],
+        "options_en": [
+          "least certain",
+          "grammatically incorrect",
+          "most noticeable or relevant",
+          "historically ancient"
+        ]
+      }
+    },
+    {
+      "id": 83,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence contains a correctly used phrasal verb?",
+      "options": [
+        "The researcher carried the experiment outly.",
+        "The researcher carried on the experiment out.",
+        "The researcher carried out the experiment carefully.",
+        "The researcher carried the experiment with."
+      ],
+      "answer": 2,
+      "explanation": "'Carry out' means perform or conduct.",
+      "i18n": {
+        "hi": "‘Carry out’ = कार्य/प्रयोग करना।",
+        "en": "Which sentence contains a correctly used phrasal verb?",
+        "options_hi": [
+          "The researcher carried the experiment outly.",
+          "The researcher carried on the experiment out.",
+          "The researcher carried out the experiment carefully.",
+          "The researcher carried the experiment with."
+        ],
+        "options_en": [
+          "The researcher carried the experiment outly.",
+          "The researcher carried on the experiment out.",
+          "The researcher carried out the experiment carefully.",
+          "The researcher carried the experiment with."
+        ]
+      }
+    },
+    {
+      "id": 84,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence contains a dangling modifier?",
+      "options": [
+        "After reading the article, the teacher assigned a task.",
+        "Walking to school, the rain soaked Riya.",
+        "Walking to school, Riya noticed the rain.",
+        "Having checked the figures, the researcher revised the table."
+      ],
+      "answer": 1,
+      "explanation": "The opening participial phrase must logically modify the subject; rain cannot walk to school.",
+      "i18n": {
+        "hi": "‘Walking to school’ का logical subject Riya होना चाहिए, rain नहीं।",
+        "en": "Which sentence contains a dangling modifier?",
+        "options_hi": [
+          "After reading the article, the teacher assigned a task.",
+          "Walking to school, the rain soaked Riya.",
+          "Walking to school, Riya noticed the rain.",
+          "Having checked the figures, the researcher revised the table."
+        ],
+        "options_en": [
+          "After reading the article, the teacher assigned a task.",
+          "Walking to school, the rain soaked Riya.",
+          "Walking to school, Riya noticed the rain.",
+          "Having checked the figures, the researcher revised the table."
+        ]
+      }
+    },
+    {
+      "id": 85,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence is free from ambiguity?",
+      "options": [
+        "I saw the teacher with the telescope.",
+        "The teacher told the student that he was late.",
+        "She discussed the result with the researcher in the room.",
+        "After the bell rang, the class began the test."
+      ],
+      "answer": 3,
+      "explanation": "'After the bell rang...' has a clear grammatical relationship and no competing attachment.",
+      "i18n": {
+        "hi": "यह sentence attachment/antecedent ambiguity से मुक्त है।",
+        "en": "Which sentence is free from ambiguity?",
+        "options_hi": [
+          "I saw the teacher with the telescope.",
+          "The teacher told the student that he was late.",
+          "She discussed the result with the researcher in the room.",
+          "After the bell rang, the class began the test."
+        ],
+        "options_en": [
+          "I saw the teacher with the telescope.",
+          "The teacher told the student that he was late.",
+          "She discussed the result with the researcher in the room.",
+          "After the bell rang, the class began the test."
+        ]
+      }
+    },
+    {
+      "id": 86,
+      "type": "mcq",
+      "section": "English",
+      "question": "Select the sentence with correct parallelism.",
+      "options": [
+        "The course aims to develop reading, writing, and to speak.",
+        "The course aims at reading, writing, and speaking.",
+        "The course aims developing reading, writing, and speaking.",
+        "The course aims to develop reading, writing, and speaking."
+      ],
+      "answer": 3,
+      "explanation": "The coordinated complements after 'develop' should be parallel gerund forms.",
+      "i18n": {
+        "hi": "‘reading, writing, speaking’ parallel forms हैं।",
+        "en": "Select the sentence with correct parallelism.",
+        "options_hi": [
+          "The course aims to develop reading, writing, and to speak.",
+          "The course aims at reading, writing, and speaking.",
+          "The course aims developing reading, writing, and speaking.",
+          "The course aims to develop reading, writing, and speaking."
+        ],
+        "options_en": [
+          "The course aims to develop reading, writing, and to speak.",
+          "The course aims at reading, writing, and speaking.",
+          "The course aims developing reading, writing, and speaking.",
+          "The course aims to develop reading, writing, and speaking."
+        ]
+      }
+    },
+    {
+      "id": 87,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the correct inversion.",
+      "options": [
+        "Rarely I have seen such precision.",
+        "Rarely have I seen such precision.",
+        "Rarely I saw have such precision.",
+        "Rarely have seen I such precision."
+      ],
+      "answer": 1,
+      "explanation": "Negative/restrictive adverbials at the front trigger subject–auxiliary inversion.",
+      "i18n": {
+        "hi": "Fronted negative adverbial ‘Rarely’ inversion कराता है।",
+        "en": "Choose the correct inversion.",
+        "options_hi": [
+          "Rarely I have seen such precision.",
+          "Rarely have I seen such precision.",
+          "Rarely I saw have such precision.",
+          "Rarely have seen I such precision."
+        ],
+        "options_en": [
+          "Rarely I have seen such precision.",
+          "Rarely have I seen such precision.",
+          "Rarely I saw have such precision.",
+          "Rarely have seen I such precision."
+        ]
+      }
+    },
+    {
+      "id": 88,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence correctly uses 'only' to mean that the students, not the teacher, submitted the forms?",
+      "options": [
+        "Only the students submitted the forms.",
+        "The students only submitted the forms.",
+        "The students submitted only the forms.",
+        "The students submitted the forms only."
+      ],
+      "answer": 0,
+      "explanation": "Placing 'only' before 'the students' limits the subject.",
+      "i18n": {
+        "hi": "‘Only the students’ से subject पर restriction स्पष्ट होती है।",
+        "en": "Which sentence correctly uses 'only' to mean that the students, not the teacher, submitted the forms?",
+        "options_hi": [
+          "Only the students submitted the forms.",
+          "The students only submitted the forms.",
+          "The students submitted only the forms.",
+          "The students submitted the forms only."
+        ],
+        "options_en": [
+          "Only the students submitted the forms.",
+          "The students only submitted the forms.",
+          "The students submitted only the forms.",
+          "The students submitted the forms only."
+        ]
+      }
+    },
+    {
+      "id": 89,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the sentence in which the pronoun reference is clearest.",
+      "options": [
+        "When Anita spoke to Neha, Anita looked worried.",
+        "Anita told Neha that she was worried.",
+        "When Anita spoke to Neha, she looked worried.",
+        "The teacher told the parent that she should wait."
+      ],
+      "answer": 0,
+      "explanation": "Repeating the noun removes the ambiguous pronoun reference.",
+      "i18n": {
+        "hi": "Noun को दोहराने से pronoun ambiguity समाप्त होती है।",
+        "en": "Choose the sentence in which the pronoun reference is clearest.",
+        "options_hi": [
+          "When Anita spoke to Neha, Anita looked worried.",
+          "Anita told Neha that she was worried.",
+          "When Anita spoke to Neha, she looked worried.",
+          "The teacher told the parent that she should wait."
+        ],
+        "options_en": [
+          "When Anita spoke to Neha, Anita looked worried.",
+          "Anita told Neha that she was worried.",
+          "When Anita spoke to Neha, she looked worried.",
+          "The teacher told the parent that she should wait."
+        ]
+      }
+    },
+    {
+      "id": 90,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which option best preserves the meaning: 'Despite being tired, he continued teaching.'",
+      "options": [
+        "He continued teaching so that he was tired.",
+        "Because he was tired, he stopped teaching.",
+        "He was tired unless he continued teaching.",
+        "Although he was tired, he continued teaching."
+      ],
+      "answer": 3,
+      "explanation": "Although + clause expresses the same concessive relationship.",
+      "i18n": {
+        "hi": "‘Although he was tired’ वही concessive meaning रखता है।",
+        "en": "Which option best preserves the meaning: 'Despite being tired, he continued teaching.'",
+        "options_hi": [
+          "He continued teaching so that he was tired.",
+          "Because he was tired, he stopped teaching.",
+          "He was tired unless he continued teaching.",
+          "Although he was tired, he continued teaching."
+        ],
+        "options_en": [
+          "He continued teaching so that he was tired.",
+          "Because he was tired, he stopped teaching.",
+          "He was tired unless he continued teaching.",
+          "Although he was tired, he continued teaching."
+        ]
+      }
+    },
+    {
+      "id": 91,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the best word: The conclusion is ___ on an assumption that has not been tested.",
+      "options": [
+        "precluded",
+        "predatory",
+        "predicated",
+        "prohibited"
+      ],
+      "answer": 2,
+      "explanation": "Predicated on means based on.",
+      "i18n": {
+        "hi": "‘Predicated on’ = किसी आधार/assumption पर आधारित।",
+        "en": "Choose the best word: The conclusion is ___ on an assumption that has not been tested.",
+        "options_hi": [
+          "precluded",
+          "predatory",
+          "predicated",
+          "prohibited"
+        ],
+        "options_en": [
+          "precluded",
+          "predatory",
+          "predicated",
+          "prohibited"
+        ]
+      }
+    },
+    {
+      "id": 92,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence correctly uses 'hardly'?",
+      "options": [
+        "Hardly I had arrived when it started.",
+        "Hardly did I arrived when it started.",
+        "Hardly had I arrived when it started.",
+        "Hardly had I arrive than it started."
+      ],
+      "answer": 2,
+      "explanation": "'Hardly had + subject + V3 + when' is the standard inverted construction.",
+      "i18n": {
+        "hi": "मानक संरचना ‘Hardly had I arrived when...’ है।",
+        "en": "Which sentence correctly uses 'hardly'?",
+        "options_hi": [
+          "Hardly I had arrived when it started.",
+          "Hardly did I arrived when it started.",
+          "Hardly had I arrived when it started.",
+          "Hardly had I arrive than it started."
+        ],
+        "options_en": [
+          "Hardly I had arrived when it started.",
+          "Hardly did I arrived when it started.",
+          "Hardly had I arrived when it started.",
+          "Hardly had I arrive than it started."
+        ]
+      }
+    },
+    {
+      "id": 93,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the correct article: He was appointed ___ honorary adviser to the committee.",
+      "options": [
+        "a",
+        "the",
+        "an",
+        "no article"
+      ],
+      "answer": 2,
+      "explanation": "'Honorary' begins with a vowel sound, so 'an' is used.",
+      "i18n": {
+        "hi": "‘Honorary’ vowel sound से शुरू होता है; इसलिए ‘an’ होगा।",
+        "en": "Choose the correct article: He was appointed ___ honorary adviser to the committee.",
+        "options_hi": [
+          "a",
+          "the",
+          "an",
+          "no article"
+        ],
+        "options_en": [
+          "a",
+          "the",
+          "an",
+          "no article"
+        ]
+      }
+    },
+    {
+      "id": 94,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the correct article: She has ___ unique ability to detect subtle errors.",
+      "options": [
+        "the",
+        "an",
+        "a",
+        "no article"
+      ],
+      "answer": 2,
+      "explanation": "'Unique' begins with /juː/, a consonant sound, so 'a' is correct.",
+      "i18n": {
+        "hi": "‘Unique’ का आरंभ /juː/ consonant sound से होता है; इसलिए ‘a’।",
+        "en": "Choose the correct article: She has ___ unique ability to detect subtle errors.",
+        "options_hi": [
+          "the",
+          "an",
+          "a",
+          "no article"
+        ],
+        "options_en": [
+          "the",
+          "an",
+          "a",
+          "no article"
+        ]
+      }
+    },
+    {
+      "id": 95,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence correctly uses a non-defining relative clause?",
+      "options": [
+        "Students who submit late may lose marks.",
+        "My sister, who teaches English, lives in Lucknow.",
+        "The book, that I bought yesterday, is useful.",
+        "The teacher which arrived late apologised."
+      ],
+      "answer": 1,
+      "explanation": "A non-defining clause is set off by commas and cannot use 'that' in standard formal usage.",
+      "i18n": {
+        "hi": "Non-defining relative clause commas में आती है और formal English में ‘that’ नहीं लिया जाता।",
+        "en": "Which sentence correctly uses a non-defining relative clause?",
+        "options_hi": [
+          "Students who submit late may lose marks.",
+          "My sister, who teaches English, lives in Lucknow.",
+          "The book, that I bought yesterday, is useful.",
+          "The teacher which arrived late apologised."
+        ],
+        "options_en": [
+          "Students who submit late may lose marks.",
+          "My sister, who teaches English, lives in Lucknow.",
+          "The book, that I bought yesterday, is useful.",
+          "The teacher which arrived late apologised."
+        ]
+      }
+    },
+    {
+      "id": 96,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the best correction: 'He is senior than me.'",
+      "options": [
+        "He is more senior than me only.",
+        "He is senior from me.",
+        "He is senior with me.",
+        "He is senior to me."
+      ],
+      "answer": 3,
+      "explanation": "The adjective 'senior' conventionally takes 'to', not 'than'.",
+      "i18n": {
+        "hi": "‘Senior’ के साथ standard preposition ‘to’ आती है।",
+        "en": "Choose the best correction: 'He is senior than me.'",
+        "options_hi": [
+          "He is more senior than me only.",
+          "He is senior from me.",
+          "He is senior with me.",
+          "He is senior to me."
+        ],
+        "options_en": [
+          "He is more senior than me only.",
+          "He is senior from me.",
+          "He is senior with me.",
+          "He is senior to me."
+        ]
+      }
+    },
+    {
+      "id": 97,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence correctly uses 'used to' for a past habit?",
+      "options": [
+        "She used to teaching here.",
+        "She was used to teach here.",
+        "She used to teach here.",
+        "She use to taught here."
+      ],
+      "answer": 2,
+      "explanation": "'Used to + base verb' expresses a past habit or state.",
+      "i18n": {
+        "hi": "Past habit के लिए ‘used to + base verb’ आता है।",
+        "en": "Which sentence correctly uses 'used to' for a past habit?",
+        "options_hi": [
+          "She used to teaching here.",
+          "She was used to teach here.",
+          "She used to teach here.",
+          "She use to taught here."
+        ],
+        "options_en": [
+          "She used to teaching here.",
+          "She was used to teach here.",
+          "She used to teach here.",
+          "She use to taught here."
+        ]
+      }
+    },
+    {
+      "id": 98,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence correctly uses 'would' for a repeated past action?",
+      "options": [
+        "We would visit our grandparents now every summer.",
+        "Every summer, we would visit our grandparents.",
+        "Every summer, we would have visited our grandparents yesterday.",
+        "We would to visit our grandparents."
+      ],
+      "answer": 1,
+      "explanation": "Would can describe repeated past actions when the past time frame is established.",
+      "i18n": {
+        "hi": "Established past context में repeated action के लिए ‘would’ आ सकता है।",
+        "en": "Which sentence correctly uses 'would' for a repeated past action?",
+        "options_hi": [
+          "We would visit our grandparents now every summer.",
+          "Every summer, we would visit our grandparents.",
+          "Every summer, we would have visited our grandparents yesterday.",
+          "We would to visit our grandparents."
+        ],
+        "options_en": [
+          "We would visit our grandparents now every summer.",
+          "Every summer, we would visit our grandparents.",
+          "Every summer, we would have visited our grandparents yesterday.",
+          "We would to visit our grandparents."
+        ]
+      }
+    },
+    {
+      "id": 99,
+      "type": "mcq",
+      "section": "English",
+      "question": "Choose the correct form: The teacher suggested that the students ___ their sources.",
+      "options": [
+        "check",
+        "checked",
+        "checking",
+        "to check"
+      ],
+      "answer": 0,
+      "explanation": "Suggest that takes the base form in mandative subjunctive usage.",
+      "i18n": {
+        "hi": "‘suggested that’ के बाद mandative base form ‘check’ आता है।",
+        "en": "Choose the correct form: The teacher suggested that the students ___ their sources.",
+        "options_hi": [
+          "check",
+          "checked",
+          "checking",
+          "to check"
+        ],
+        "options_en": [
+          "check",
+          "checked",
+          "checking",
+          "to check"
+        ]
+      }
+    },
+    {
+      "id": 100,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which sentence best avoids a semantic contradiction?",
+      "options": [
+        "The silent noise disturbed everyone.",
+        "The sample was small, so the estimate should be interpreted cautiously.",
+        "The evidence was conclusive but completely uncertain.",
+        "The candidate was unanimously divided."
+      ],
+      "answer": 1,
+      "explanation": "The fourth sentence is internally coherent; the others contain contradictory combinations.",
+      "i18n": {
+        "hi": "चौथा sentence अर्थ की दृष्टि से coherent है; बाकी में contradiction है।",
+        "en": "Which sentence best avoids a semantic contradiction?",
+        "options_hi": [
+          "The silent noise disturbed everyone.",
+          "The sample was small, so the estimate should be interpreted cautiously.",
+          "The evidence was conclusive but completely uncertain.",
+          "The candidate was unanimously divided."
+        ],
+        "options_en": [
+          "The silent noise disturbed everyone.",
+          "The sample was small, so the estimate should be interpreted cautiously.",
+          "The evidence was conclusive but completely uncertain.",
+          "The candidate was unanimously divided."
+        ]
+      }
+    },
+    {
+      "id": 101,
+      "type": "mcq",
+      "section": "English",
+      "question": "Read: 'A classroom can be quiet because students are deeply engaged, or because they are afraid to speak.' What is the most defensible inference?",
+      "options": [
+        "Fear improves participation.",
+        "Quiet classrooms are always effective.",
+        "Engagement requires complete silence.",
+        "Silence alone is insufficient evidence of engagement."
+      ],
+      "answer": 3,
+      "explanation": "The contrast shows that identical outward behaviour can have different underlying causes.",
+      "i18n": {
+        "hi": "बाहरी silence से engagement का निश्चित निष्कर्ष नहीं निकाला जा सकता।",
+        "en": "Read: 'A classroom can be quiet because students are deeply engaged, or because they are afraid to speak.' What is the most defensible inference?",
+        "options_hi": [
+          "Fear improves participation.",
+          "Quiet classrooms are always effective.",
+          "Engagement requires complete silence.",
+          "Silence alone is insufficient evidence of engagement."
+        ],
+        "options_en": [
+          "Fear improves participation.",
+          "Quiet classrooms are always effective.",
+          "Engagement requires complete silence.",
+          "Silence alone is insufficient evidence of engagement."
+        ]
+      }
+    },
+    {
+      "id": 102,
+      "type": "mcq",
+      "section": "English",
+      "question": "Read: 'The policy increased test completion but not delayed-task completion.' Which conclusion is best supported?",
+      "options": [
+        "The policy improved every form of motivation.",
+        "The policy had no effect at all.",
+        "The policy's effect may be task-specific.",
+        "Delayed tasks were not measured."
+      ],
+      "answer": 2,
+      "explanation": "The evidence supports a limited, task-specific effect rather than a global conclusion.",
+      "i18n": {
+        "hi": "डेटा task-specific प्रभाव दिखाता है; global improvement नहीं।",
+        "en": "Read: 'The policy increased test completion but not delayed-task completion.' Which conclusion is best supported?",
+        "options_hi": [
+          "The policy improved every form of motivation.",
+          "The policy had no effect at all.",
+          "The policy's effect may be task-specific.",
+          "Delayed tasks were not measured."
+        ],
+        "options_en": [
+          "The policy improved every form of motivation.",
+          "The policy had no effect at all.",
+          "The policy's effect may be task-specific.",
+          "Delayed tasks were not measured."
+        ]
+      }
+    },
+    {
+      "id": 103,
+      "type": "mcq",
+      "section": "English",
+      "question": "Read: 'Because the sample consisted only of volunteers, the author cautions against generalising.' The limitation is primarily one of:",
+      "options": [
+        "construct validity",
+        "external validity",
+        "inter-rater reliability",
+        "internal consistency"
+      ],
+      "answer": 1,
+      "explanation": "Generalisation concerns external validity.",
+      "i18n": {
+        "hi": "Generalisation की सीमा external validity से जुड़ी है।",
+        "en": "Read: 'Because the sample consisted only of volunteers, the author cautions against generalising.' The limitation is primarily one of:",
+        "options_hi": [
+          "construct validity",
+          "external validity",
+          "inter-rater reliability",
+          "internal consistency"
+        ],
+        "options_en": [
+          "construct validity",
+          "external validity",
+          "inter-rater reliability",
+          "internal consistency"
+        ]
+      }
+    },
+    {
+      "id": 104,
+      "type": "mcq",
+      "section": "English",
+      "question": "Read: 'The teacher first models the strategy, then prompts pupils, and finally removes prompts.' Which progression is described?",
+      "options": [
+        "summative assessment",
+        "punitive conditioning",
+        "rote rehearsal",
+        "scaffolding with fading"
+      ],
+      "answer": 3,
+      "explanation": "Support is gradually withdrawn as learner independence increases.",
+      "i18n": {
+        "hi": "Support धीरे-धीरे हटाया जा रहा है; यह scaffolding with fading है।",
+        "en": "Read: 'The teacher first models the strategy, then prompts pupils, and finally removes prompts.' Which progression is described?",
+        "options_hi": [
+          "summative assessment",
+          "punitive conditioning",
+          "rote rehearsal",
+          "scaffolding with fading"
+        ],
+        "options_en": [
+          "summative assessment",
+          "punitive conditioning",
+          "rote rehearsal",
+          "scaffolding with fading"
+        ]
+      }
+    },
+    {
+      "id": 105,
+      "type": "mcq",
+      "section": "English",
+      "question": "Read: 'The author uses one example that appears to refute the main claim, then explains why the apparent counterexample is limited.' This primarily strengthens the argument by:",
+      "options": [
+        "anticipating and qualifying a counterargument",
+        "replacing evidence with opinion",
+        "ignoring objections",
+        "using an appeal to authority"
+      ],
+      "answer": 0,
+      "explanation": "Addressing a plausible counterexample can strengthen an argument when the limitation is justified.",
+      "i18n": {
+        "hi": "Counterexample को address और qualify करना argument को मजबूत कर सकता है।",
+        "en": "Read: 'The author uses one example that appears to refute the main claim, then explains why the apparent counterexample is limited.' This primarily strengthens the argument by:",
+        "options_hi": [
+          "anticipating and qualifying a counterargument",
+          "replacing evidence with opinion",
+          "ignoring objections",
+          "using an appeal to authority"
+        ],
+        "options_en": [
+          "anticipating and qualifying a counterargument",
+          "replacing evidence with opinion",
+          "ignoring objections",
+          "using an appeal to authority"
+        ]
+      }
+    },
+    {
+      "id": 106,
+      "type": "mcq",
+      "section": "English",
+      "question": "Read: 'The results were statistically significant, but the average improvement was only a fraction of a point on the scale.' Which distinction matters?",
+      "options": [
+        "grammar and vocabulary",
+        "reliability and spelling",
+        "statistical significance and practical significance",
+        "sampling and punctuation"
+      ],
+      "answer": 2,
+      "explanation": "A statistically detectable effect may still be too small to matter practically.",
+      "i18n": {
+        "hi": "Statistical significance और practical significance अलग अवधारणाएँ हैं।",
+        "en": "Read: 'The results were statistically significant, but the average improvement was only a fraction of a point on the scale.' Which distinction matters?",
+        "options_hi": [
+          "grammar and vocabulary",
+          "reliability and spelling",
+          "statistical significance and practical significance",
+          "sampling and punctuation"
+        ],
+        "options_en": [
+          "grammar and vocabulary",
+          "reliability and spelling",
+          "statistical significance and practical significance",
+          "sampling and punctuation"
+        ]
+      }
+    },
+    {
+      "id": 107,
+      "type": "mcq",
+      "section": "English",
+      "question": "Read: 'The article repeatedly uses words such as inevitably, unquestionably, and everyone.' What should a critical reader examine first?",
+      "options": [
+        "whether the article uses commas",
+        "whether the rhetoric exceeds the evidence",
+        "whether every word is a noun",
+        "whether the font is formal"
+      ],
+      "answer": 1,
+      "explanation": "Absolute language can signal overclaiming and warrants comparison with the evidence.",
+      "i18n": {
+        "hi": "Absolute wording evidence से अधिक दावा कर रही हो सकती है; evidence check करना चाहिए।",
+        "en": "Read: 'The article repeatedly uses words such as inevitably, unquestionably, and everyone.' What should a critical reader examine first?",
+        "options_hi": [
+          "whether the article uses commas",
+          "whether the rhetoric exceeds the evidence",
+          "whether every word is a noun",
+          "whether the font is formal"
+        ],
+        "options_en": [
+          "whether the article uses commas",
+          "whether the rhetoric exceeds the evidence",
+          "whether every word is a noun",
+          "whether the font is formal"
+        ]
+      }
+    },
+    {
+      "id": 108,
+      "type": "mcq",
+      "section": "English",
+      "question": "Read: 'Two classes improved. Class A received the new programme; Class B received no new programme. The classes were not randomly assigned.' What causal limitation remains?",
+      "options": [
+        "No outcome was measured.",
+        "Pre-existing group differences may explain some of the difference.",
+        "The programme was necessarily ineffective.",
+        "Random assignment is irrelevant to causal inference."
+      ],
+      "answer": 1,
+      "explanation": "Without random assignment, baseline differences can confound causal interpretation.",
+      "i18n": {
+        "hi": "Random assignment के बिना pre-existing differences causal interpretation को प्रभावित कर सकते हैं।",
+        "en": "Read: 'Two classes improved. Class A received the new programme; Class B received no new programme. The classes were not randomly assigned.' What causal limitation remains?",
+        "options_hi": [
+          "No outcome was measured.",
+          "Pre-existing group differences may explain some of the difference.",
+          "The programme was necessarily ineffective.",
+          "Random assignment is irrelevant to causal inference."
+        ],
+        "options_en": [
+          "No outcome was measured.",
+          "Pre-existing group differences may explain some of the difference.",
+          "The programme was necessarily ineffective.",
+          "Random assignment is irrelevant to causal inference."
+        ]
+      }
+    },
+    {
+      "id": 109,
+      "type": "mcq",
+      "section": "English",
+      "question": "Read: 'The teacher asks students to predict an author's next claim, justify it with textual evidence, and revise the prediction.' This most directly develops:",
+      "options": [
+        "surface copying",
+        "handwriting speed",
+        "phonetic decoding only",
+        "inferential and metacognitive reading"
+      ],
+      "answer": 3,
+      "explanation": "Prediction, evidence-based justification, and revision engage inference and metacognition.",
+      "i18n": {
+        "hi": "Prediction + evidence + revision inferential और metacognitive reading को बढ़ाते हैं।",
+        "en": "Read: 'The teacher asks students to predict an author's next claim, justify it with textual evidence, and revise the prediction.' This most directly develops:",
+        "options_hi": [
+          "surface copying",
+          "handwriting speed",
+          "phonetic decoding only",
+          "inferential and metacognitive reading"
+        ],
+        "options_en": [
+          "surface copying",
+          "handwriting speed",
+          "phonetic decoding only",
+          "inferential and metacognitive reading"
+        ]
+      }
+    },
+    {
+      "id": 110,
+      "type": "mcq",
+      "section": "English",
+      "question": "Read: 'The passage distinguishes what the study found from what the author believes the finding might mean.' Why is this distinction important?",
+      "options": [
+        "It separates evidence from interpretation.",
+        "It makes the study impossible to understand.",
+        "It removes the need for evidence.",
+        "It proves the author's interpretation is correct."
+      ],
+      "answer": 0,
+      "explanation": "Separating observed findings from interpretation reduces the risk of treating speculation as evidence.",
+      "i18n": {
+        "hi": "Finding और interpretation अलग रखने से speculation को evidence मानने का जोखिम घटता है।",
+        "en": "Read: 'The passage distinguishes what the study found from what the author believes the finding might mean.' Why is this distinction important?",
+        "options_hi": [
+          "It separates evidence from interpretation.",
+          "It makes the study impossible to understand.",
+          "It removes the need for evidence.",
+          "It proves the author's interpretation is correct."
+        ],
+        "options_en": [
+          "It separates evidence from interpretation.",
+          "It makes the study impossible to understand.",
+          "It removes the need for evidence.",
+          "It proves the author's interpretation is correct."
+        ]
+      }
+    },
+    {
+      "id": 111,
+      "type": "mcq",
+      "section": "English",
+      "question": "Read: 'A learner recognises a word in isolation but misreads it in a sentence.' Which explanation is most plausible?",
+      "options": [
+        "Contextual processing may still be weak.",
+        "Sentence context never affects reading.",
+        "The learner necessarily lacks vocabulary.",
+        "Word recognition is sufficient evidence of full contextual reading."
+      ],
+      "answer": 0,
+      "explanation": "Performance can differ between isolated recognition and contextual processing.",
+      "i18n": {
+        "hi": "Isolated recognition और contextual processing अलग कौशल हो सकते हैं।",
+        "en": "Read: 'A learner recognises a word in isolation but misreads it in a sentence.' Which explanation is most plausible?",
+        "options_hi": [
+          "Contextual processing may still be weak.",
+          "Sentence context never affects reading.",
+          "The learner necessarily lacks vocabulary.",
+          "Word recognition is sufficient evidence of full contextual reading."
+        ],
+        "options_en": [
+          "Contextual processing may still be weak.",
+          "Sentence context never affects reading.",
+          "The learner necessarily lacks vocabulary.",
+          "Word recognition is sufficient evidence of full contextual reading."
+        ]
+      }
+    },
+    {
+      "id": 112,
+      "type": "mcq",
+      "section": "English",
+      "question": "Read: 'A teacher changes the text difficulty but keeps the learning objective and success criterion constant.' This is primarily an example of:",
+      "options": [
+        "maintaining the construct while varying task support",
+        "changing the learning construct entirely",
+        "removing assessment criteria",
+        "confounding all variables deliberately"
+      ],
+      "answer": 0,
+      "explanation": "The target construct remains stable while access/support is adjusted.",
+      "i18n": {
+        "hi": "Learning construct स्थिर रखते हुए task support बदला गया है।",
+        "en": "Read: 'A teacher changes the text difficulty but keeps the learning objective and success criterion constant.' This is primarily an example of:",
+        "options_hi": [
+          "maintaining the construct while varying task support",
+          "changing the learning construct entirely",
+          "removing assessment criteria",
+          "confounding all variables deliberately"
+        ],
+        "options_en": [
+          "maintaining the construct while varying task support",
+          "changing the learning construct entirely",
+          "removing assessment criteria",
+          "confounding all variables deliberately"
+        ]
+      }
+    },
+    {
+      "id": 113,
+      "type": "mcq",
+      "section": "English",
+      "question": "Read: 'The author cites a famous expert, but gives no evidence linking the expert's statement to the specific claim.' What weakness is most relevant?",
+      "options": [
+        "replication",
+        "valid operational definition",
+        "controlled comparison",
+        "appeal to authority without sufficient evidential support"
+      ],
+      "answer": 3,
+      "explanation": "Authority alone does not establish the truth of a claim without relevant support.",
+      "i18n": {
+        "hi": "केवल authority का citation claim को सिद्ध नहीं करता।",
+        "en": "Read: 'The author cites a famous expert, but gives no evidence linking the expert's statement to the specific claim.' What weakness is most relevant?",
+        "options_hi": [
+          "replication",
+          "valid operational definition",
+          "controlled comparison",
+          "appeal to authority without sufficient evidential support"
+        ],
+        "options_en": [
+          "replication",
+          "valid operational definition",
+          "controlled comparison",
+          "appeal to authority without sufficient evidential support"
+        ]
+      }
+    },
+    {
+      "id": 114,
+      "type": "mcq",
+      "section": "English",
+      "question": "Read: 'Students remember a rule immediately after practice but cannot use it in a new context.' Which issue is most directly indicated?",
+      "options": [
+        "lexical ambiguity",
+        "phonemic awareness",
+        "inter-rater reliability",
+        "transfer of learning"
+      ],
+      "answer": 3,
+      "explanation": "Failure to apply learning in a new context indicates weak transfer.",
+      "i18n": {
+        "hi": "नए context में rule apply न कर पाना weak transfer दिखाता है।",
+        "en": "Read: 'Students remember a rule immediately after practice but cannot use it in a new context.' Which issue is most directly indicated?",
+        "options_hi": [
+          "lexical ambiguity",
+          "phonemic awareness",
+          "inter-rater reliability",
+          "transfer of learning"
+        ],
+        "options_en": [
+          "lexical ambiguity",
+          "phonemic awareness",
+          "inter-rater reliability",
+          "transfer of learning"
+        ]
+      }
+    },
+    {
+      "id": 115,
+      "type": "mcq",
+      "section": "English",
+      "question": "Read: 'A passage presents correlation between screen time and sleep problems, then states that screen time causes poor sleep.' What is the critical issue?",
+      "options": [
+        "screen time is necessarily harmless",
+        "correlation always proves causation",
+        "sleep cannot be measured",
+        "correlation does not by itself establish causation"
+      ],
+      "answer": 3,
+      "explanation": "A correlational association alone cannot establish a causal direction.",
+      "i18n": {
+        "hi": "Correlation अकेले causation सिद्ध नहीं करती।",
+        "en": "Read: 'A passage presents correlation between screen time and sleep problems, then states that screen time causes poor sleep.' What is the critical issue?",
+        "options_hi": [
+          "screen time is necessarily harmless",
+          "correlation always proves causation",
+          "sleep cannot be measured",
+          "correlation does not by itself establish causation"
+        ],
+        "options_en": [
+          "screen time is necessarily harmless",
+          "correlation always proves causation",
+          "sleep cannot be measured",
+          "correlation does not by itself establish causation"
+        ]
+      }
+    },
+    {
+      "id": 116,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which classroom objective is most measurable?",
+      "options": [
+        "Students will understand poetry.",
+        "Students will appreciate literature.",
+        "Students will identify two effects of imagery in a given stanza.",
+        "Students will know the poem deeply."
+      ],
+      "answer": 2,
+      "explanation": "The third objective specifies an observable performance and a criterion.",
+      "i18n": {
+        "hi": "तीसरा objective observable performance और criterion देता है।",
+        "en": "Which classroom objective is most measurable?",
+        "options_hi": [
+          "Students will understand poetry.",
+          "Students will appreciate literature.",
+          "Students will identify two effects of imagery in a given stanza.",
+          "Students will know the poem deeply."
+        ],
+        "options_en": [
+          "Students will understand poetry.",
+          "Students will appreciate literature.",
+          "Students will identify two effects of imagery in a given stanza.",
+          "Students will know the poem deeply."
+        ]
+      }
+    },
+    {
+      "id": 117,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which assessment best measures whether learners can use a new vocabulary item appropriately in context?",
+      "options": [
+        "copying the word ten times",
+        "using the word accurately in an original sentence",
+        "circling the longest word",
+        "matching the word to its spelling"
+      ],
+      "answer": 1,
+      "explanation": "Contextual production directly measures functional use.",
+      "i18n": {
+        "hi": "Original sentence में accurate use functional vocabulary use को मापता है।",
+        "en": "Which assessment best measures whether learners can use a new vocabulary item appropriately in context?",
+        "options_hi": [
+          "copying the word ten times",
+          "using the word accurately in an original sentence",
+          "circling the longest word",
+          "matching the word to its spelling"
+        ],
+        "options_en": [
+          "copying the word ten times",
+          "using the word accurately in an original sentence",
+          "circling the longest word",
+          "matching the word to its spelling"
+        ]
+      }
+    },
+    {
+      "id": 118,
+      "type": "mcq",
+      "section": "English",
+      "question": "A teacher wants to distinguish a student's grammar knowledge from reading-speed limitations. Which design is most defensible?",
+      "options": [
+        "Use only a timed passage.",
+        "Remove all grammar items.",
+        "Use handwriting speed as the sole measure.",
+        "Use untimed items that isolate the grammatical target, alongside contextual items."
+      ],
+      "answer": 3,
+      "explanation": "Untimed target-isolated items reduce the confounding effect of reading speed.",
+      "i18n": {
+        "hi": "Untimed grammar items reading-speed confound को कम करते हैं।",
+        "en": "A teacher wants to distinguish a student's grammar knowledge from reading-speed limitations. Which design is most defensible?",
+        "options_hi": [
+          "Use only a timed passage.",
+          "Remove all grammar items.",
+          "Use handwriting speed as the sole measure.",
+          "Use untimed items that isolate the grammatical target, alongside contextual items."
+        ],
+        "options_en": [
+          "Use only a timed passage.",
+          "Remove all grammar items.",
+          "Use handwriting speed as the sole measure.",
+          "Use untimed items that isolate the grammatical target, alongside contextual items."
+        ]
+      }
+    },
+    {
+      "id": 119,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which feedback is most likely to support revision?",
+      "options": [
+        "Wrong.",
+        "Good.",
+        "Your claim is clear; add evidence from paragraph 3 to justify the second inference.",
+        "You should simply study harder."
+      ],
+      "answer": 2,
+      "explanation": "Specific, task-linked feedback identifies an actionable next step.",
+      "i18n": {
+        "hi": "Specific और actionable feedback revision में अधिक सहायक है।",
+        "en": "Which feedback is most likely to support revision?",
+        "options_hi": [
+          "Wrong.",
+          "Good.",
+          "Your claim is clear; add evidence from paragraph 3 to justify the second inference.",
+          "You should simply study harder."
+        ],
+        "options_en": [
+          "Wrong.",
+          "Good.",
+          "Your claim is clear; add evidence from paragraph 3 to justify the second inference.",
+          "You should simply study harder."
+        ]
+      }
+    },
+    {
+      "id": 120,
+      "type": "mcq",
+      "section": "English",
+      "question": "Which classroom task best promotes higher-order language use?",
+      "options": [
+        "Copy the definition of metaphor.",
+        "Underline every noun.",
+        "Compare two interpretations and defend one with textual evidence.",
+        "Repeat the teacher's sentence five times."
+      ],
+      "answer": 2,
+      "explanation": "Comparison plus evidence-based justification requires analysis and evaluation.",
+      "i18n": {
+        "hi": "Interpretations compare करके evidence से defend करना higher-order use है।",
+        "en": "Which classroom task best promotes higher-order language use?",
+        "options_hi": [
+          "Copy the definition of metaphor.",
+          "Underline every noun.",
+          "Compare two interpretations and defend one with textual evidence.",
+          "Repeat the teacher's sentence five times."
+        ],
+        "options_en": [
+          "Copy the definition of metaphor.",
+          "Underline every noun.",
+          "Compare two interpretations and defend one with textual evidence.",
+          "Repeat the teacher's sentence five times."
+        ]
+      }
+    }
+  ]
+}
