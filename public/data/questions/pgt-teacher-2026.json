@@ -2,7 +2,6 @@
   "testId": "upessc-pgt-english-2026-hard-mock-01",
   "title": "UPESSC PGT English 2026 — Hard Level Mock Test 01",
   "duration": 120,
-
   "markingScheme": {
     "default": {
       "correct": 3,
@@ -19,45 +18,50 @@
       "autoScore": false
     }
   },
-
   "sections": [
     {
       "id": "general-studies",
       "title": "General Studies",
-      "color": "violet"
+      "color": "violet",
+      "questionCount": 30
     },
     {
       "id": "english-language",
       "title": "English Language",
-      "color": "cyan"
+      "color": "cyan",
+      "questionCount": 18
     },
     {
       "id": "literary-history",
       "title": "Literary History & Periods",
-      "color": "orange"
+      "color": "orange",
+      "questionCount": 11
     },
     {
       "id": "literary-criticism",
       "title": "Literary Criticism & Theory",
-      "color": "rose"
+      "color": "rose",
+      "questionCount": 16
     },
     {
       "id": "british-literature",
       "title": "British Literature",
-      "color": "blue"
+      "color": "blue",
+      "questionCount": 15
     },
     {
       "id": "american-indian-world",
       "title": "American, Indian & World Literature",
-      "color": "emerald"
+      "color": "emerald",
+      "questionCount": 6
     },
     {
       "id": "prosody-figures",
       "title": "Prosody, Rhetoric & Literary Forms",
-      "color": "amber"
+      "color": "amber",
+      "questionCount": 4
     }
   ],
-
   "questions": [
     {
       "id": 1,
@@ -97,7 +101,6 @@
         }
       }
     },
-
     {
       "id": 2,
       "type": "single_choice",
@@ -136,7 +139,6 @@
         }
       }
     },
-
     {
       "id": 3,
       "type": "single_choice",
@@ -175,7 +177,6 @@
         }
       }
     },
-
     {
       "id": 4,
       "type": "single_choice",
@@ -214,7 +215,6 @@
         }
       }
     },
-
     {
       "id": 5,
       "type": "single_choice",
@@ -253,7 +253,6 @@
         }
       }
     },
-
     {
       "id": 6,
       "type": "single_choice",
@@ -292,7 +291,6 @@
         }
       }
     },
-
     {
       "id": 7,
       "type": "single_choice",
@@ -331,7 +329,6 @@
         }
       }
     },
-
     {
       "id": 8,
       "type": "single_choice",
@@ -370,7 +367,6 @@
         }
       }
     },
-
     {
       "id": 9,
       "type": "single_choice",
@@ -409,7 +405,6 @@
         }
       }
     },
-
     {
       "id": 10,
       "type": "single_choice",
@@ -448,7 +443,6 @@
         }
       }
     },
-
     {
       "id": 11,
       "type": "single_choice",
@@ -487,7 +481,6 @@
         }
       }
     },
-
     {
       "id": 12,
       "type": "single_choice",
@@ -526,7 +519,6 @@
         }
       }
     },
-
     {
       "id": 13,
       "type": "single_choice",
@@ -565,7 +557,6 @@
         }
       }
     },
-
     {
       "id": 14,
       "type": "single_choice",
@@ -604,7 +595,6 @@
         }
       }
     },
-
     {
       "id": 15,
       "type": "single_choice",
@@ -643,7 +633,6 @@
         }
       }
     },
-
     {
       "id": 16,
       "type": "single_choice",
@@ -682,7 +671,6 @@
         }
       }
     },
-
     {
       "id": 17,
       "type": "single_choice",
@@ -721,7 +709,6 @@
         }
       }
     },
-
     {
       "id": 18,
       "type": "single_choice",
@@ -760,7 +747,6 @@
         }
       }
     },
-
     {
       "id": 19,
       "type": "single_choice",
@@ -799,7 +785,6 @@
         }
       }
     },
-
     {
       "id": 20,
       "type": "single_choice",
@@ -838,7 +823,6 @@
         }
       }
     },
-
     {
       "id": 21,
       "type": "single_choice",
@@ -877,7 +861,6 @@
         }
       }
     },
-
     {
       "id": 22,
       "type": "single_choice",
@@ -916,7 +899,6 @@
         }
       }
     },
-
     {
       "id": 23,
       "type": "single_choice",
@@ -955,7 +937,6 @@
         }
       }
     },
-
     {
       "id": 24,
       "type": "single_choice",
@@ -994,7 +975,6 @@
         }
       }
     },
-
     {
       "id": 25,
       "type": "single_choice",
@@ -1033,7 +1013,6 @@
         }
       }
     },
-
     {
       "id": 26,
       "type": "single_choice",
@@ -1072,7 +1051,6 @@
         }
       }
     },
-
     {
       "id": 27,
       "type": "single_choice",
@@ -1111,7 +1089,6 @@
         }
       }
     },
-
     {
       "id": 28,
       "type": "single_choice",
@@ -1150,7 +1127,6 @@
         }
       }
     },
-
     {
       "id": 29,
       "type": "single_choice",
@@ -1189,7 +1165,6 @@
         }
       }
     },
-
     {
       "id": 30,
       "type": "single_choice",
@@ -1228,7 +1203,6 @@
         }
       }
     },
-
     {
       "id": 31,
       "type": "single_choice",
@@ -1267,7 +1241,6 @@
         }
       }
     },
-
     {
       "id": 32,
       "type": "single_choice",
@@ -1306,7 +1279,6 @@
         }
       }
     },
-
     {
       "id": 33,
       "type": "single_choice",
@@ -1345,7 +1317,6 @@
         }
       }
     },
-
     {
       "id": 34,
       "type": "single_choice",
@@ -1384,7 +1355,6 @@
         }
       }
     },
-
     {
       "id": 35,
       "type": "single_choice",
@@ -1423,7 +1393,6 @@
         }
       }
     },
-
     {
       "id": 36,
       "type": "single_choice",
@@ -1462,7 +1431,6 @@
         }
       }
     },
-
     {
       "id": 37,
       "type": "single_choice",
@@ -1501,7 +1469,6 @@
         }
       }
     },
-
     {
       "id": 38,
       "type": "single_choice",
@@ -1540,7 +1507,6 @@
         }
       }
     },
-
     {
       "id": 39,
       "type": "single_choice",
@@ -1579,7 +1545,6 @@
         }
       }
     },
-
     {
       "id": 40,
       "type": "single_choice",
@@ -1618,7 +1583,6 @@
         }
       }
     },
-
     {
       "id": 41,
       "type": "single_choice",
@@ -1657,7 +1621,6 @@
         }
       }
     },
-
     {
       "id": 42,
       "type": "single_choice",
@@ -1696,7 +1659,6 @@
         }
       }
     },
-
     {
       "id": 43,
       "type": "single_choice",
@@ -1735,7 +1697,6 @@
         }
       }
     },
-
     {
       "id": 44,
       "type": "single_choice",
@@ -1774,7 +1735,6 @@
         }
       }
     },
-
     {
       "id": 45,
       "type": "single_choice",
@@ -1813,7 +1773,6 @@
         }
       }
     },
-
     {
       "id": 46,
       "type": "single_choice",
@@ -1852,7 +1811,6 @@
         }
       }
     },
-
     {
       "id": 47,
       "type": "single_choice",
@@ -1891,7 +1849,6 @@
         }
       }
     },
-
     {
       "id": 48,
       "type": "single_choice",
@@ -1930,7 +1887,6 @@
         }
       }
     },
-
     {
       "id": 49,
       "type": "single_choice",
@@ -1969,7 +1925,6 @@
         }
       }
     },
-
     {
       "id": 50,
       "type": "single_choice",
@@ -2008,7 +1963,6 @@
         }
       }
     },
-
     {
       "id": 51,
       "type": "single_choice",
@@ -2047,7 +2001,6 @@
         }
       }
     },
-
     {
       "id": 52,
       "type": "single_choice",
@@ -2086,7 +2039,6 @@
         }
       }
     },
-
     {
       "id": 53,
       "type": "single_choice",
@@ -2125,7 +2077,6 @@
         }
       }
     },
-
     {
       "id": 54,
       "type": "single_choice",
@@ -2164,7 +2115,6 @@
         }
       }
     },
-
     {
       "id": 55,
       "type": "single_choice",
@@ -2203,7 +2153,6 @@
         }
       }
     },
-
     {
       "id": 56,
       "type": "single_choice",
@@ -2242,7 +2191,6 @@
         }
       }
     },
-
     {
       "id": 57,
       "type": "single_choice",
@@ -2281,7 +2229,6 @@
         }
       }
     },
-
     {
       "id": 58,
       "type": "single_choice",
@@ -2320,7 +2267,6 @@
         }
       }
     },
-
     {
       "id": 59,
       "type": "single_choice",
@@ -2359,11 +2305,10 @@
         }
       }
     },
-
     {
       "id": 60,
       "type": "single_choice",
-      "section": "literary-history",
+      "section": "literary-criticism",
       "question": "The term 'objective correlative' is most famously associated with:",
       "options": [
         "T. S. Eliot",
@@ -2398,7 +2343,6 @@
         }
       }
     },
-
     {
       "id": 61,
       "type": "single_choice",
@@ -2437,7 +2381,6 @@
         }
       }
     },
-
     {
       "id": 62,
       "type": "single_choice",
@@ -2476,7 +2419,6 @@
         }
       }
     },
-
     {
       "id": 63,
       "type": "single_choice",
@@ -2515,7 +2457,6 @@
         }
       }
     },
-
     {
       "id": 64,
       "type": "single_choice",
@@ -2554,7 +2495,6 @@
         }
       }
     },
-
     {
       "id": 65,
       "type": "single_choice",
@@ -2593,7 +2533,6 @@
         }
       }
     },
-
     {
       "id": 66,
       "type": "single_choice",
@@ -2632,7 +2571,6 @@
         }
       }
     },
-
     {
       "id": 67,
       "type": "single_choice",
@@ -2671,7 +2609,6 @@
         }
       }
     },
-
     {
       "id": 68,
       "type": "single_choice",
@@ -2710,7 +2647,6 @@
         }
       }
     },
-
     {
       "id": 69,
       "type": "single_choice",
@@ -2749,7 +2685,6 @@
         }
       }
     },
-
     {
       "id": 70,
       "type": "single_choice",
@@ -2788,7 +2723,6 @@
         }
       }
     },
-
     {
       "id": 71,
       "type": "single_choice",
@@ -2827,7 +2761,6 @@
         }
       }
     },
-
     {
       "id": 72,
       "type": "single_choice",
@@ -2866,7 +2799,6 @@
         }
       }
     },
-
     {
       "id": 73,
       "type": "single_choice",
@@ -2905,7 +2837,6 @@
         }
       }
     },
-
     {
       "id": 74,
       "type": "single_choice",
@@ -2944,7 +2875,6 @@
         }
       }
     },
-
     {
       "id": 75,
       "type": "single_choice",
@@ -2983,7 +2913,6 @@
         }
       }
     },
-
     {
       "id": 76,
       "type": "single_choice",
@@ -3022,7 +2951,6 @@
         }
       }
     },
-
     {
       "id": 77,
       "type": "single_choice",
@@ -3061,7 +2989,6 @@
         }
       }
     },
-
     {
       "id": 78,
       "type": "single_choice",
@@ -3100,7 +3027,6 @@
         }
       }
     },
-
     {
       "id": 79,
       "type": "single_choice",
@@ -3139,7 +3065,6 @@
         }
       }
     },
-
     {
       "id": 80,
       "type": "single_choice",
@@ -3178,7 +3103,6 @@
         }
       }
     },
-
     {
       "id": 81,
       "type": "single_choice",
@@ -3217,7 +3141,6 @@
         }
       }
     },
-
     {
       "id": 82,
       "type": "single_choice",
@@ -3256,7 +3179,6 @@
         }
       }
     },
-
     {
       "id": 83,
       "type": "single_choice",
@@ -3295,7 +3217,6 @@
         }
       }
     },
-
     {
       "id": 84,
       "type": "single_choice",
@@ -3334,7 +3255,6 @@
         }
       }
     },
-
     {
       "id": 85,
       "type": "single_choice",
@@ -3373,7 +3293,6 @@
         }
       }
     },
-
     {
       "id": 86,
       "type": "single_choice",
@@ -3412,7 +3331,6 @@
         }
       }
     },
-
     {
       "id": 87,
       "type": "single_choice",
@@ -3451,7 +3369,6 @@
         }
       }
     },
-
     {
       "id": 88,
       "type": "single_choice",
@@ -3490,7 +3407,6 @@
         }
       }
     },
-
     {
       "id": 89,
       "type": "single_choice",
@@ -3525,4 +3441,427 @@
             "In Memoriam",
             "The Prelude"
           ],
-          "explanation": "Pope's The Rape of the Lock applies elevated epic conventions to a trivial social incident, producing a mock-epic
+          "explanation": "Pope's The Rape of the Lock applies elevated epic conventions to a trivial social incident, producing a mock-epic effect."
+        }
+      }
+    },
+    {
+      "id": 90,
+      "type": "single_choice",
+      "section": "british-literature",
+      "question": "In Pope's 'An Essay on Criticism', the line 'A little learning is a dangerous thing' primarily warns against:",
+      "options": [
+        "Superficial knowledge mistaken for expertise",
+        "Excessive reverence for the ancients",
+        "The use of rhyme in poetry",
+        "Public patronage of writers"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Pope cautions that partial knowledge breeds overconfidence, especially in critical judgement.",
+      "i18n": {
+        "hi": {
+          "question": "Pope की 'An Essay on Criticism' में 'A little learning is a dangerous thing' मुख्यतः किस बात से आगाह करती है?",
+          "options": [
+            "Superficial knowledge को expertise समझ लेने से",
+            "Ancients के प्रति अत्यधिक श्रद्धा से",
+            "Poetry में rhyme के प्रयोग से",
+            "Writers के public patronage से"
+          ],
+          "explanation": "Pope चेताते हैं कि अधूरा ज्ञान overconfidence पैदा करता है, विशेषकर critical judgement में।"
+        },
+        "en": {
+          "question": "In Pope's 'An Essay on Criticism', the line 'A little learning is a dangerous thing' primarily warns against:",
+          "options": [
+            "Superficial knowledge mistaken for expertise",
+            "Excessive reverence for the ancients",
+            "The use of rhyme in poetry",
+            "Public patronage of writers"
+          ],
+          "explanation": "Pope cautions that partial knowledge breeds overconfidence, especially in critical judgement."
+        }
+      }
+    },
+    {
+      "id": 91,
+      "type": "single_choice",
+      "section": "american-indian-world",
+      "question": "Which poet's 'Leaves of Grass' is most associated with free verse and a celebration of democratic selfhood?",
+      "options": [
+        "Walt Whitman",
+        "Robert Frost",
+        "Edgar Allan Poe",
+        "Henry Wadsworth Longfellow"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Whitman's Leaves of Grass, including 'Song of Myself', is a landmark of American free verse and democratic individualism.",
+      "i18n": {
+        "hi": {
+          "question": "किस कवि का 'Leaves of Grass' free verse और democratic selfhood के उत्सव से सबसे अधिक जुड़ा है?",
+          "options": [
+            "Walt Whitman",
+            "Robert Frost",
+            "Edgar Allan Poe",
+            "Henry Wadsworth Longfellow"
+          ],
+          "explanation": "Whitman का Leaves of Grass, जिसमें 'Song of Myself' शामिल है, American free verse और democratic individualism का मील का पत्थर है।"
+        },
+        "en": {
+          "question": "Which poet's 'Leaves of Grass' is most associated with free verse and a celebration of democratic selfhood?",
+          "options": [
+            "Walt Whitman",
+            "Robert Frost",
+            "Edgar Allan Poe",
+            "Henry Wadsworth Longfellow"
+          ],
+          "explanation": "Whitman's Leaves of Grass, including 'Song of Myself', is a landmark of American free verse and democratic individualism."
+        }
+      }
+    },
+    {
+      "id": 92,
+      "type": "single_choice",
+      "section": "american-indian-world",
+      "question": "Emily Dickinson's poetry is particularly noted for:",
+      "options": [
+        "Slant rhyme and characteristic use of dashes",
+        "Strict heroic couplets",
+        "Long epic narratives",
+        "Regular Alexandrine lines"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Dickinson frequently used slant rhyme, dashes, compression and unconventional capitalization.",
+      "i18n": {
+        "hi": {
+          "question": "Emily Dickinson की poetry विशेष रूप से किसके लिए जानी जाती है?",
+          "options": [
+            "Slant rhyme और dashes का विशिष्ट प्रयोग",
+            "Strict heroic couplets",
+            "Long epic narratives",
+            "Regular Alexandrine lines"
+          ],
+          "explanation": "Dickinson ने slant rhyme, dashes, compression और unconventional capitalization का बार-बार प्रयोग किया।"
+        },
+        "en": {
+          "question": "Emily Dickinson's poetry is particularly noted for:",
+          "options": [
+            "Slant rhyme and characteristic use of dashes",
+            "Strict heroic couplets",
+            "Long epic narratives",
+            "Regular Alexandrine lines"
+          ],
+          "explanation": "Dickinson frequently used slant rhyme, dashes, compression and unconventional capitalization."
+        }
+      }
+    },
+    {
+      "id": 93,
+      "type": "single_choice",
+      "section": "american-indian-world",
+      "question": "Which American novel examines Puritan guilt and social judgement through the symbol of a scarlet letter?",
+      "options": [
+        "The Scarlet Letter",
+        "Moby-Dick",
+        "The Great Gatsby",
+        "The Adventures of Huckleberry Finn"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Nathaniel Hawthorne's The Scarlet Letter explores sin, guilt and public shaming in Puritan New England.",
+      "i18n": {
+        "hi": {
+          "question": "कौन-सा American novel scarlet letter के symbol के माध्यम से Puritan guilt और social judgement की पड़ताल करता है?",
+          "options": [
+            "The Scarlet Letter",
+            "Moby-Dick",
+            "The Great Gatsby",
+            "The Adventures of Huckleberry Finn"
+          ],
+          "explanation": "Nathaniel Hawthorne का The Scarlet Letter Puritan New England में sin, guilt और public shaming को explore करता है।"
+        },
+        "en": {
+          "question": "Which American novel examines Puritan guilt and social judgement through the symbol of a scarlet letter?",
+          "options": [
+            "The Scarlet Letter",
+            "Moby-Dick",
+            "The Great Gatsby",
+            "The Adventures of Huckleberry Finn"
+          ],
+          "explanation": "Nathaniel Hawthorne's The Scarlet Letter explores sin, guilt and public shaming in Puritan New England."
+        }
+      }
+    },
+    {
+      "id": 94,
+      "type": "single_choice",
+      "section": "american-indian-world",
+      "question": "Rabindranath Tagore received the Nobel Prize in Literature (1913) chiefly in connection with which work?",
+      "options": [
+        "Gitanjali (Song Offerings)",
+        "Gora",
+        "The Home and the World",
+        "Chokher Bali"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Tagore's Gitanjali, in his English rendering 'Song Offerings', was central to the 1913 Nobel award.",
+      "i18n": {
+        "hi": {
+          "question": "Rabindranath Tagore को साहित्य का Nobel Prize (1913) मुख्यतः किस रचना के संदर्भ में मिला?",
+          "options": [
+            "Gitanjali (Song Offerings)",
+            "Gora",
+            "The Home and the World",
+            "Chokher Bali"
+          ],
+          "explanation": "Tagore की Gitanjali, उनके English रूपांतर 'Song Offerings' में, 1913 के Nobel पुरस्कार के केंद्र में थी।"
+        },
+        "en": {
+          "question": "Rabindranath Tagore received the Nobel Prize in Literature (1913) chiefly in connection with which work?",
+          "options": [
+            "Gitanjali (Song Offerings)",
+            "Gora",
+            "The Home and the World",
+            "Chokher Bali"
+          ],
+          "explanation": "Tagore's Gitanjali, in his English rendering 'Song Offerings', was central to the 1913 Nobel award."
+        }
+      }
+    },
+    {
+      "id": 95,
+      "type": "single_choice",
+      "section": "american-indian-world",
+      "question": "Chinua Achebe's Things Fall Apart is chiefly concerned with:",
+      "options": [
+        "The impact of colonial and missionary contact on Igbo society",
+        "The Industrial Revolution in England",
+        "Pastoral life in Renaissance Italy",
+        "The American Civil War"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The novel dramatizes Igbo society and its disruption through British colonial and Christian missionary presence.",
+      "i18n": {
+        "hi": {
+          "question": "Chinua Achebe का Things Fall Apart मुख्यतः किससे संबंधित है?",
+          "options": [
+            "Igbo society पर colonial और missionary contact का प्रभाव",
+            "England में Industrial Revolution",
+            "Renaissance Italy का pastoral जीवन",
+            "American Civil War"
+          ],
+          "explanation": "यह novel Igbo society और British colonial तथा Christian missionary उपस्थिति से उसके विघटन को चित्रित करता है।"
+        },
+        "en": {
+          "question": "Chinua Achebe's Things Fall Apart is chiefly concerned with:",
+          "options": [
+            "The impact of colonial and missionary contact on Igbo society",
+            "The Industrial Revolution in England",
+            "Pastoral life in Renaissance Italy",
+            "The American Civil War"
+          ],
+          "explanation": "The novel dramatizes Igbo society and its disruption through British colonial and Christian missionary presence."
+        }
+      }
+    },
+    {
+      "id": 96,
+      "type": "single_choice",
+      "section": "american-indian-world",
+      "question": "R. K. Narayan's novels are largely set in which fictional town?",
+      "options": [
+        "Malgudi",
+        "Wessex",
+        "Yoknapatawpha",
+        "Kanthapura"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Malgudi is the fictional South Indian town of Narayan's fiction, e.g. Swami and Friends and The Guide.",
+      "i18n": {
+        "hi": {
+          "question": "R. K. Narayan के अधिकांश novels किस fictional town में स्थित हैं?",
+          "options": [
+            "Malgudi",
+            "Wessex",
+            "Yoknapatawpha",
+            "Kanthapura"
+          ],
+          "explanation": "Malgudi, Narayan की fiction का काल्पनिक दक्षिण भारतीय कस्बा है, जैसे Swami and Friends और The Guide में।"
+        },
+        "en": {
+          "question": "R. K. Narayan's novels are largely set in which fictional town?",
+          "options": [
+            "Malgudi",
+            "Wessex",
+            "Yoknapatawpha",
+            "Kanthapura"
+          ],
+          "explanation": "Malgudi is the fictional South Indian town of Narayan's fiction, e.g. Swami and Friends and The Guide."
+        }
+      }
+    },
+    {
+      "id": 97,
+      "type": "single_choice",
+      "section": "prosody-figures",
+      "question": "Iambic pentameter consists of:",
+      "options": [
+        "Five feet, each an unstressed syllable followed by a stressed syllable",
+        "Four feet, each a stressed syllable followed by an unstressed syllable",
+        "Five feet, each of two stressed syllables",
+        "Six feet of three syllables each"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "An iamb is unstressed + stressed; pentameter has five such feet, giving ten syllables per line.",
+      "i18n": {
+        "hi": {
+          "question": "Iambic pentameter में क्या होता है?",
+          "options": [
+            "पाँच feet, हर foot में unstressed के बाद stressed syllable",
+            "चार feet, हर foot में stressed के बाद unstressed syllable",
+            "पाँच feet, हर foot में दो stressed syllables",
+            "छह feet, हर foot में तीन syllables"
+          ],
+          "explanation": "Iamb = unstressed + stressed; pentameter में ऐसे पाँच feet होते हैं, यानी प्रति line दस syllables।"
+        },
+        "en": {
+          "question": "Iambic pentameter consists of:",
+          "options": [
+            "Five feet, each an unstressed syllable followed by a stressed syllable",
+            "Four feet, each a stressed syllable followed by an unstressed syllable",
+            "Five feet, each of two stressed syllables",
+            "Six feet of three syllables each"
+          ],
+          "explanation": "An iamb is unstressed + stressed; pentameter has five such feet, giving ten syllables per line."
+        }
+      }
+    },
+    {
+      "id": 98,
+      "type": "single_choice",
+      "section": "prosody-figures",
+      "question": "Enjambment refers to:",
+      "options": [
+        "The continuation of a sentence or phrase beyond the end of a line without a pause",
+        "A repeated consonant sound at word beginnings",
+        "A line consisting of exactly ten syllables",
+        "The final couplet of a sonnet"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "In enjambment, sense runs over the line break into the next line.",
+      "i18n": {
+        "hi": {
+          "question": "Enjambment किसे कहते हैं?",
+          "options": [
+            "Line के अंत पर रुके बिना वाक्य या phrase का अगली line में जारी रहना",
+            "Word के आरंभ में consonant sound की पुनरावृत्ति",
+            "ठीक दस syllables की line",
+            "Sonnet का अंतिम couplet"
+          ],
+          "explanation": "Enjambment में अर्थ line-break पार करके अगली line में चलता रहता है।"
+        },
+        "en": {
+          "question": "Enjambment refers to:",
+          "options": [
+            "The continuation of a sentence or phrase beyond the end of a line without a pause",
+            "A repeated consonant sound at word beginnings",
+            "A line consisting of exactly ten syllables",
+            "The final couplet of a sonnet"
+          ],
+          "explanation": "In enjambment, sense runs over the line break into the next line."
+        }
+      }
+    },
+    {
+      "id": 99,
+      "type": "single_choice",
+      "section": "prosody-figures",
+      "question": "'All hands on deck' is an example of which figure of speech?",
+      "options": [
+        "Synecdoche",
+        "Litotes",
+        "Oxymoron",
+        "Apostrophe"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'Hands' stands for the whole crew: a part represents the whole, which is synecdoche.",
+      "i18n": {
+        "hi": {
+          "question": "'All hands on deck' किस figure of speech का उदाहरण है?",
+          "options": [
+            "Synecdoche",
+            "Litotes",
+            "Oxymoron",
+            "Apostrophe"
+          ],
+          "explanation": "'Hands' पूरे crew के लिए प्रयुक्त है: अंश से पूर्ण का बोध, यानी synecdoche।"
+        },
+        "en": {
+          "question": "'All hands on deck' is an example of which figure of speech?",
+          "options": [
+            "Synecdoche",
+            "Litotes",
+            "Oxymoron",
+            "Apostrophe"
+          ],
+          "explanation": "'Hands' stands for the whole crew: a part represents the whole, which is synecdoche."
+        }
+      }
+    },
+    {
+      "id": 100,
+      "type": "single_choice",
+      "section": "prosody-figures",
+      "question": "The octave of a Petrarchan sonnet typically follows which rhyme scheme?",
+      "options": [
+        "abbaabba",
+        "ababcdcd",
+        "abcabcabc",
+        "aabbccdd"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The Petrarchan octave rhymes abbaabba, followed by a sestet such as cdecde or cdcdcd.",
+      "i18n": {
+        "hi": {
+          "question": "Petrarchan sonnet का octave सामान्यतः किस rhyme scheme का पालन करता है?",
+          "options": [
+            "abbaabba",
+            "ababcdcd",
+            "abcabcabc",
+            "aabbccdd"
+          ],
+          "explanation": "Petrarchan octave का rhyme abbaabba होता है, उसके बाद cdecde या cdcdcd जैसा sestet आता है।"
+        },
+        "en": {
+          "question": "The octave of a Petrarchan sonnet typically follows which rhyme scheme?",
+          "options": [
+            "abbaabba",
+            "ababcdcd",
+            "abcabcabc",
+            "aabbccdd"
+          ],
+          "explanation": "The Petrarchan octave rhymes abbaabba, followed by a sestet such as cdecde or cdcdcd."
+        }
+      }
+    }
+  ]
+}
