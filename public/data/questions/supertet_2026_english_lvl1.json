@@ -1,0 +1,3402 @@
+{
+  "testId": "supertet_2026_top_crackdown_questions_level_1",
+  "title": "SUPERTET 2026 Top 120 English Crackdown Questions Level 1",
+  "duration": 30,
+  "markingScheme": {
+    "correct": 3,
+    "incorrect": -1,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "english",
+      "title": "English Language, Grammar, Vocabulary, Comprehension & Pedagogy",
+      "questionCount": 120
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Had the committee been informed earlier, it ___ a different course of action.",
+      "options": [
+        "would have taken",
+        "would take",
+        "had taken",
+        "will have taken"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Third conditional: past unreal condition + would have + past participle.",
+      "i18n": {
+        "en": {
+          "question": "Had the committee been informed earlier, it ___ a different course of action.",
+          "options": [
+            "would have taken",
+            "would take",
+            "had taken",
+            "will have taken"
+          ],
+          "explanation": "Third conditional: past unreal condition + would have + past participle."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "section": "english",
+      "question": "No sooner ___ the bell rung than the students rushed out.",
+      "options": [
+        "had",
+        "has",
+        "did",
+        "was"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The fixed inversion is 'No sooner had ... than ...'.",
+      "i18n": {
+        "en": {
+          "question": "No sooner ___ the bell rung than the students rushed out.",
+          "options": [
+            "had",
+            "has",
+            "did",
+            "was"
+          ],
+          "explanation": "The fixed inversion is 'No sooner had ... than ...'."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The number of applicants who ___ eligible for the scholarship has increased.",
+      "options": [
+        "are",
+        "is",
+        "was",
+        "have"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The relative clause refers to plural 'applicants', so 'are' is required.",
+      "i18n": {
+        "en": {
+          "question": "The number of applicants who ___ eligible for the scholarship has increased.",
+          "options": [
+            "are",
+            "is",
+            "was",
+            "have"
+          ],
+          "explanation": "The relative clause refers to plural 'applicants', so 'are' is required."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "section": "english",
+      "question": "It is high time the administration ___ the ambiguity in the rule.",
+      "options": [
+        "addressed",
+        "addresses",
+        "has addressed",
+        "will address"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "After 'it is high time', formal English normally uses a past-tense subjunctive-like form.",
+      "i18n": {
+        "en": {
+          "question": "It is high time the administration ___ the ambiguity in the rule.",
+          "options": [
+            "addressed",
+            "addresses",
+            "has addressed",
+            "will address"
+          ],
+          "explanation": "After 'it is high time', formal English normally uses a past-tense subjunctive-like form."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Neither the principal nor the teachers ___ willing to alter the schedule.",
+      "options": [
+        "were",
+        "was",
+        "has been",
+        "is"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "With neither...nor, the verb generally agrees with the nearer subject 'teachers'.",
+      "i18n": {
+        "en": {
+          "question": "Neither the principal nor the teachers ___ willing to alter the schedule.",
+          "options": [
+            "were",
+            "was",
+            "has been",
+            "is"
+          ],
+          "explanation": "With neither...nor, the verb generally agrees with the nearer subject 'teachers'."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The report, together with its appendices, ___ submitted yesterday.",
+      "options": [
+        "was",
+        "have been",
+        "were",
+        "are"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The head noun 'report' is singular; 'together with' does not change agreement.",
+      "i18n": {
+        "en": {
+          "question": "The report, together with its appendices, ___ submitted yesterday.",
+          "options": [
+            "was",
+            "have been",
+            "were",
+            "are"
+          ],
+          "explanation": "The head noun 'report' is singular; 'together with' does not change agreement."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "section": "english",
+      "question": "She is one of those researchers who ___ rarely satisfied with preliminary evidence.",
+      "options": [
+        "are",
+        "is",
+        "has",
+        "was"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The relative pronoun refers to the plural antecedent 'researchers'.",
+      "i18n": {
+        "en": {
+          "question": "She is one of those researchers who ___ rarely satisfied with preliminary evidence.",
+          "options": [
+            "are",
+            "is",
+            "has",
+            "was"
+          ],
+          "explanation": "The relative pronoun refers to the plural antecedent 'researchers'."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "section": "english",
+      "question": "If I ___ you, I would not interpret the silence as consent.",
+      "options": [
+        "were",
+        "am",
+        "was",
+        "had been"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The fixed hypothetical form is 'If I were you'.",
+      "i18n": {
+        "en": {
+          "question": "If I ___ you, I would not interpret the silence as consent.",
+          "options": [
+            "were",
+            "am",
+            "was",
+            "had been"
+          ],
+          "explanation": "The fixed hypothetical form is 'If I were you'."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The teacher asked the pupils why they ___ the instruction despite having read it twice.",
+      "options": [
+        "had ignored",
+        "ignored",
+        "have ignored",
+        "were ignoring"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The ignoring occurred before the past reporting verb, so past perfect is the clearest sequence.",
+      "i18n": {
+        "en": {
+          "question": "The teacher asked the pupils why they ___ the instruction despite having read it twice.",
+          "options": [
+            "had ignored",
+            "ignored",
+            "have ignored",
+            "were ignoring"
+          ],
+          "explanation": "The ignoring occurred before the past reporting verb, so past perfect is the clearest sequence."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Scarcely had the lecture begun when the projector ___.",
+      "options": [
+        "failed",
+        "had failed",
+        "fails",
+        "has failed"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "With 'scarcely had...', the following clause normally takes simple past.",
+      "i18n": {
+        "en": {
+          "question": "Scarcely had the lecture begun when the projector ___.",
+          "options": [
+            "failed",
+            "had failed",
+            "fails",
+            "has failed"
+          ],
+          "explanation": "With 'scarcely had...', the following clause normally takes simple past."
+        }
+      }
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The committee recommended that the clause ___ removed before publication.",
+      "options": [
+        "be",
+        "was",
+        "is",
+        "being"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "After recommend that, formal English can use the mandative subjunctive 'be'.",
+      "i18n": {
+        "en": {
+          "question": "The committee recommended that the clause ___ removed before publication.",
+          "options": [
+            "be",
+            "was",
+            "is",
+            "being"
+          ],
+          "explanation": "After recommend that, formal English can use the mandative subjunctive 'be'."
+        }
+      }
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "section": "english",
+      "question": "What the students need most ___ not another worksheet but sustained feedback.",
+      "options": [
+        "is",
+        "are",
+        "have been",
+        "were"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The subject is the singular noun clause 'What the students need most'.",
+      "i18n": {
+        "en": {
+          "question": "What the students need most ___ not another worksheet but sustained feedback.",
+          "options": [
+            "is",
+            "are",
+            "have been",
+            "were"
+          ],
+          "explanation": "The subject is the singular noun clause 'What the students need most'."
+        }
+      }
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Each of the proposals ___ been examined independently.",
+      "options": [
+        "has",
+        "have",
+        "are",
+        "were"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The head of the subject is 'each', which is singular.",
+      "i18n": {
+        "en": {
+          "question": "Each of the proposals ___ been examined independently.",
+          "options": [
+            "has",
+            "have",
+            "are",
+            "were"
+          ],
+          "explanation": "The head of the subject is 'each', which is singular."
+        }
+      }
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The books that the librarian said had been misplaced ___ eventually found.",
+      "options": [
+        "were",
+        "has been",
+        "was",
+        "is"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The head noun 'books' is plural, so the main verb is 'were found'.",
+      "i18n": {
+        "en": {
+          "question": "The books that the librarian said had been misplaced ___ eventually found.",
+          "options": [
+            "were",
+            "has been",
+            "was",
+            "is"
+          ],
+          "explanation": "The head noun 'books' is plural, so the main verb is 'were found'."
+        }
+      }
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "section": "english",
+      "question": "He would rather the issue ___ discussed privately.",
+      "options": [
+        "was",
+        "be",
+        "is",
+        "has been"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "After 'would rather' for a present/future preference about another person, past tense is conventional.",
+      "i18n": {
+        "en": {
+          "question": "He would rather the issue ___ discussed privately.",
+          "options": [
+            "was",
+            "be",
+            "is",
+            "has been"
+          ],
+          "explanation": "After 'would rather' for a present/future preference about another person, past tense is conventional."
+        }
+      }
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "section": "english",
+      "question": "By the time the invigilator arrived, the candidates ___.",
+      "options": [
+        "had started",
+        "start",
+        "have started",
+        "were start"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The earlier completed event takes past perfect.",
+      "i18n": {
+        "en": {
+          "question": "By the time the invigilator arrived, the candidates ___.",
+          "options": [
+            "had started",
+            "start",
+            "have started",
+            "were start"
+          ],
+          "explanation": "The earlier completed event takes past perfect."
+        }
+      }
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The evidence is too ambiguous for any conclusion ___ drawn from it.",
+      "options": [
+        "to be",
+        "be",
+        "being",
+        "been"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The construction is 'too + adjective + for + noun + to-infinitive'.",
+      "i18n": {
+        "en": {
+          "question": "The evidence is too ambiguous for any conclusion ___ drawn from it.",
+          "options": [
+            "to be",
+            "be",
+            "being",
+            "been"
+          ],
+          "explanation": "The construction is 'too + adjective + for + noun + to-infinitive'."
+        }
+      }
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The principal insisted that every candidate ___ the form in ink.",
+      "options": [
+        "fill",
+        "filled",
+        "fills",
+        "has filled"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Insist that in formal mandative usage takes the base form 'fill'.",
+      "i18n": {
+        "en": {
+          "question": "The principal insisted that every candidate ___ the form in ink.",
+          "options": [
+            "fill",
+            "filled",
+            "fills",
+            "has filled"
+          ],
+          "explanation": "Insist that in formal mandative usage takes the base form 'fill'."
+        }
+      }
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Not only the students but also the instructor ___ responsible for the error.",
+      "options": [
+        "is",
+        "were",
+        "are",
+        "have"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "With not only...but also, agreement commonly follows the nearer subject 'instructor'.",
+      "i18n": {
+        "en": {
+          "question": "Not only the students but also the instructor ___ responsible for the error.",
+          "options": [
+            "is",
+            "were",
+            "are",
+            "have"
+          ],
+          "explanation": "With not only...but also, agreement commonly follows the nearer subject 'instructor'."
+        }
+      }
+    },
+    {
+      "id": 20,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The lecture was so abstruse that only a handful of students could make ___ of it.",
+      "options": [
+        "sense",
+        "a sense",
+        "the sense",
+        "senses"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The idiom is 'make sense of something'.",
+      "i18n": {
+        "en": {
+          "question": "The lecture was so abstruse that only a handful of students could make ___ of it.",
+          "options": [
+            "sense",
+            "a sense",
+            "the sense",
+            "senses"
+          ],
+          "explanation": "The idiom is 'make sense of something'."
+        }
+      }
+    },
+    {
+      "id": 21,
+      "type": "single_choice",
+      "section": "english",
+      "question": "She objected to ___ treated as though she had no prior experience.",
+      "options": [
+        "being",
+        "be",
+        "have been",
+        "having"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The preposition 'to' here is followed by a gerund, not an infinitive.",
+      "i18n": {
+        "en": {
+          "question": "She objected to ___ treated as though she had no prior experience.",
+          "options": [
+            "being",
+            "be",
+            "have been",
+            "having"
+          ],
+          "explanation": "The preposition 'to' here is followed by a gerund, not an infinitive."
+        }
+      }
+    },
+    {
+      "id": 22,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The candidate, as well as his two assistants, ___ expected to attend.",
+      "options": [
+        "is",
+        "were",
+        "are",
+        "have"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'As well as' does not make the main subject plural.",
+      "i18n": {
+        "en": {
+          "question": "The candidate, as well as his two assistants, ___ expected to attend.",
+          "options": [
+            "is",
+            "were",
+            "are",
+            "have"
+          ],
+          "explanation": "'As well as' does not make the main subject plural."
+        }
+      }
+    },
+    {
+      "id": 23,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Were the instructions ___, fewer candidates would make the same error.",
+      "options": [
+        "clearer",
+        "clearest",
+        "more clearly",
+        "clearing"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "This is an inverted second conditional: Were + subject + comparative adjective.",
+      "i18n": {
+        "en": {
+          "question": "Were the instructions ___, fewer candidates would make the same error.",
+          "options": [
+            "clearer",
+            "clearest",
+            "more clearly",
+            "clearing"
+          ],
+          "explanation": "This is an inverted second conditional: Were + subject + comparative adjective."
+        }
+      }
+    },
+    {
+      "id": 24,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The teacher had the students ___ the paragraph before discussing it.",
+      "options": [
+        "rewrite",
+        "rewrote",
+        "rewriting",
+        "to rewrite"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Causative 'have + object + bare infinitive' is used for an instructed action.",
+      "i18n": {
+        "en": {
+          "question": "The teacher had the students ___ the paragraph before discussing it.",
+          "options": [
+            "rewrite",
+            "rewrote",
+            "rewriting",
+            "to rewrite"
+          ],
+          "explanation": "Causative 'have + object + bare infinitive' is used for an instructed action."
+        }
+      }
+    },
+    {
+      "id": 25,
+      "type": "single_choice",
+      "section": "english",
+      "question": "I would have preferred that you ___ me beforehand.",
+      "options": [
+        "had informed",
+        "informed",
+        "inform",
+        "have informed"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "For a past unreal preference/regret, 'would have preferred' can take past perfect.",
+      "i18n": {
+        "en": {
+          "question": "I would have preferred that you ___ me beforehand.",
+          "options": [
+            "had informed",
+            "informed",
+            "inform",
+            "have informed"
+          ],
+          "explanation": "For a past unreal preference/regret, 'would have preferred' can take past perfect."
+        }
+      }
+    },
+    {
+      "id": 26,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Hardly had she entered the room ___ the lights went out.",
+      "options": [
+        "when",
+        "than",
+        "that",
+        "while"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The standard correlative is 'hardly/scarcely...when'.",
+      "i18n": {
+        "en": {
+          "question": "Hardly had she entered the room ___ the lights went out.",
+          "options": [
+            "when",
+            "than",
+            "that",
+            "while"
+          ],
+          "explanation": "The standard correlative is 'hardly/scarcely...when'."
+        }
+      }
+    },
+    {
+      "id": 27,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The more carefully the rubric is designed, ___ the assessment becomes.",
+      "options": [
+        "the more defensible",
+        "more defensible",
+        "the most defensible",
+        "most defensible"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Correlative comparative construction: the more..., the more....",
+      "i18n": {
+        "en": {
+          "question": "The more carefully the rubric is designed, ___ the assessment becomes.",
+          "options": [
+            "the more defensible",
+            "more defensible",
+            "the most defensible",
+            "most defensible"
+          ],
+          "explanation": "Correlative comparative construction: the more..., the more...."
+        }
+      }
+    },
+    {
+      "id": 28,
+      "type": "single_choice",
+      "section": "english",
+      "question": "There is little doubt that the findings ___ replicated under controlled conditions.",
+      "options": [
+        "can be",
+        "can being",
+        "are able",
+        "can have"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'Can be replicated' correctly combines modal + passive infinitive.",
+      "i18n": {
+        "en": {
+          "question": "There is little doubt that the findings ___ replicated under controlled conditions.",
+          "options": [
+            "can be",
+            "can being",
+            "are able",
+            "can have"
+          ],
+          "explanation": "'Can be replicated' correctly combines modal + passive infinitive."
+        }
+      }
+    },
+    {
+      "id": 29,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The teacher avoided making the task ___ difficult for novice learners.",
+      "options": [
+        "needlessly",
+        "needless",
+        "need",
+        "needing"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "An adverb modifies the adjective 'difficult'.",
+      "i18n": {
+        "en": {
+          "question": "The teacher avoided making the task ___ difficult for novice learners.",
+          "options": [
+            "needlessly",
+            "needless",
+            "need",
+            "needing"
+          ],
+          "explanation": "An adverb modifies the adjective 'difficult'."
+        }
+      }
+    },
+    {
+      "id": 30,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Neither of the explanations ___ entirely convincing.",
+      "options": [
+        "is",
+        "were",
+        "are",
+        "have"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "In standard formal English, neither of + plural noun takes singular agreement.",
+      "i18n": {
+        "en": {
+          "question": "Neither of the explanations ___ entirely convincing.",
+          "options": [
+            "is",
+            "were",
+            "are",
+            "have"
+          ],
+          "explanation": "In standard formal English, neither of + plural noun takes singular agreement."
+        }
+      }
+    },
+    {
+      "id": 31,
+      "type": "single_choice",
+      "section": "english",
+      "question": "A series of carefully designed tasks ___ helped reveal the misconception.",
+      "options": [
+        "have",
+        "has",
+        "are",
+        "were"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The head noun 'series' is singular.",
+      "i18n": {
+        "en": {
+          "question": "A series of carefully designed tasks ___ helped reveal the misconception.",
+          "options": [
+            "have",
+            "has",
+            "are",
+            "were"
+          ],
+          "explanation": "The head noun 'series' is singular."
+        }
+      }
+    },
+    {
+      "id": 32,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The students were made ___ the passage twice before answering.",
+      "options": [
+        "read",
+        "to read",
+        "reading",
+        "have read"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "In the passive of 'make + object + bare infinitive', 'to' is restored.",
+      "i18n": {
+        "en": {
+          "question": "The students were made ___ the passage twice before answering.",
+          "options": [
+            "read",
+            "to read",
+            "reading",
+            "have read"
+          ],
+          "explanation": "In the passive of 'make + object + bare infinitive', 'to' is restored."
+        }
+      }
+    },
+    {
+      "id": 33,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The teacher is accustomed to ___ evidence before accepting a claim.",
+      "options": [
+        "require",
+        "requiring",
+        "required",
+        "have required"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The phrase 'be accustomed to' takes a noun or gerund.",
+      "i18n": {
+        "en": {
+          "question": "The teacher is accustomed to ___ evidence before accepting a claim.",
+          "options": [
+            "require",
+            "requiring",
+            "required",
+            "have required"
+          ],
+          "explanation": "The phrase 'be accustomed to' takes a noun or gerund."
+        }
+      }
+    },
+    {
+      "id": 34,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The proposal is worth ___ in greater detail before rejection.",
+      "options": [
+        "consider",
+        "considering",
+        "to consider",
+        "considered"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'Worth' is followed by a gerund.",
+      "i18n": {
+        "en": {
+          "question": "The proposal is worth ___ in greater detail before rejection.",
+          "options": [
+            "consider",
+            "considering",
+            "to consider",
+            "considered"
+          ],
+          "explanation": "'Worth' is followed by a gerund."
+        }
+      }
+    },
+    {
+      "id": 35,
+      "type": "single_choice",
+      "section": "english",
+      "question": "So subtle ___ the distinction that several candidates overlooked it.",
+      "options": [
+        "were",
+        "was",
+        "is",
+        "has"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Inversion after 'so + adjective' uses auxiliary before subject: 'So subtle was...'.",
+      "i18n": {
+        "en": {
+          "question": "So subtle ___ the distinction that several candidates overlooked it.",
+          "options": [
+            "were",
+            "was",
+            "is",
+            "has"
+          ],
+          "explanation": "Inversion after 'so + adjective' uses auxiliary before subject: 'So subtle was...'."
+        }
+      }
+    },
+    {
+      "id": 36,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The teacher asked whether the pupils had completed the task and ___ they needed help.",
+      "options": [
+        "that",
+        "whether",
+        "what",
+        "which"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The second indirect alternative question is coordinated with 'whether'.",
+      "i18n": {
+        "en": {
+          "question": "The teacher asked whether the pupils had completed the task and ___ they needed help.",
+          "options": [
+            "that",
+            "whether",
+            "what",
+            "which"
+          ],
+          "explanation": "The second indirect alternative question is coordinated with 'whether'."
+        }
+      }
+    },
+    {
+      "id": 37,
+      "type": "single_choice",
+      "section": "english",
+      "question": "No explanation, however plausible, ___ accepted without evidence.",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The singular subject is 'No explanation'.",
+      "i18n": {
+        "en": {
+          "question": "No explanation, however plausible, ___ accepted without evidence.",
+          "options": [
+            "are",
+            "is",
+            "were",
+            "have"
+          ],
+          "explanation": "The singular subject is 'No explanation'."
+        }
+      }
+    },
+    {
+      "id": 38,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The data ___ insufficient to support a causal claim, despite the author's confidence.",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "In formal academic English, plural 'data' can take plural agreement.",
+      "i18n": {
+        "en": {
+          "question": "The data ___ insufficient to support a causal claim, despite the author's confidence.",
+          "options": [
+            "is",
+            "are",
+            "was",
+            "has"
+          ],
+          "explanation": "In formal academic English, plural 'data' can take plural agreement."
+        }
+      }
+    },
+    {
+      "id": 39,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The teacher's remarks were intended to clarify, rather than ___, the issue.",
+      "options": [
+        "complicated",
+        "complicate",
+        "complicating",
+        "have complicated"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "After 'rather than' parallel bare infinitives are used here: clarify rather than complicate.",
+      "i18n": {
+        "en": {
+          "question": "The teacher's remarks were intended to clarify, rather than ___, the issue.",
+          "options": [
+            "complicated",
+            "complicate",
+            "complicating",
+            "have complicated"
+          ],
+          "explanation": "After 'rather than' parallel bare infinitives are used here: clarify rather than complicate."
+        }
+      }
+    },
+    {
+      "id": 40,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the word closest in meaning to 'intransigent' in the context of a negotiation.",
+      "options": [
+        "uncertain",
+        "uncompromising",
+        "transparent",
+        "impartial"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Intransigent means refusing to change a position or compromise.",
+      "i18n": {
+        "en": {
+          "question": "Choose the word closest in meaning to 'intransigent' in the context of a negotiation.",
+          "options": [
+            "uncertain",
+            "uncompromising",
+            "transparent",
+            "impartial"
+          ],
+          "explanation": "Intransigent means refusing to change a position or compromise."
+        }
+      }
+    },
+    {
+      "id": 41,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The committee's decision was described as 'equivocal'. Which meaning fits best?",
+      "options": [
+        "legally binding",
+        "deliberately ambiguous",
+        "emotionally charged",
+        "unanimously supported"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Equivocal means open to more than one interpretation or deliberately ambiguous.",
+      "i18n": {
+        "en": {
+          "question": "The committee's decision was described as 'equivocal'. Which meaning fits best?",
+          "options": [
+            "legally binding",
+            "deliberately ambiguous",
+            "emotionally charged",
+            "unanimously supported"
+          ],
+          "explanation": "Equivocal means open to more than one interpretation or deliberately ambiguous."
+        }
+      }
+    },
+    {
+      "id": 42,
+      "type": "single_choice",
+      "section": "english",
+      "question": "A 'perfunctory' inspection is one that is:",
+      "options": [
+        "thorough and exhaustive",
+        "routine and lacking genuine care",
+        "unexpectedly hostile",
+        "legally mandated"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Perfunctory means done with minimal effort or interest.",
+      "i18n": {
+        "en": {
+          "question": "A 'perfunctory' inspection is one that is:",
+          "options": [
+            "thorough and exhaustive",
+            "routine and lacking genuine care",
+            "unexpectedly hostile",
+            "legally mandated"
+          ],
+          "explanation": "Perfunctory means done with minimal effort or interest."
+        }
+      }
+    },
+    {
+      "id": 43,
+      "type": "single_choice",
+      "section": "english",
+      "question": "If a statement is 'cogent', it is:",
+      "options": [
+        "confusing",
+        "persuasive and logically strong",
+        "purely emotional",
+        "tentative"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Cogent reasoning is clear, relevant, and convincing.",
+      "i18n": {
+        "en": {
+          "question": "If a statement is 'cogent', it is:",
+          "options": [
+            "confusing",
+            "persuasive and logically strong",
+            "purely emotional",
+            "tentative"
+          ],
+          "explanation": "Cogent reasoning is clear, relevant, and convincing."
+        }
+      }
+    },
+    {
+      "id": 44,
+      "type": "single_choice",
+      "section": "english",
+      "question": "To 'obviate' a difficulty is to:",
+      "options": [
+        "exaggerate it",
+        "make it unnecessary or prevent it",
+        "document it",
+        "postpone it"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Obviate means remove the need for or prevent something.",
+      "i18n": {
+        "en": {
+          "question": "To 'obviate' a difficulty is to:",
+          "options": [
+            "exaggerate it",
+            "make it unnecessary or prevent it",
+            "document it",
+            "postpone it"
+          ],
+          "explanation": "Obviate means remove the need for or prevent something."
+        }
+      }
+    },
+    {
+      "id": 45,
+      "type": "single_choice",
+      "section": "english",
+      "question": "A 'fastidious' learner is most likely to be:",
+      "options": [
+        "careless",
+        "very attentive to detail and standards",
+        "easily distracted",
+        "indifferent to quality"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Fastidious describes meticulous attention to detail.",
+      "i18n": {
+        "en": {
+          "question": "A 'fastidious' learner is most likely to be:",
+          "options": [
+            "careless",
+            "very attentive to detail and standards",
+            "easily distracted",
+            "indifferent to quality"
+          ],
+          "explanation": "Fastidious describes meticulous attention to detail."
+        }
+      }
+    },
+    {
+      "id": 46,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The word 'disinterested' most precisely means:",
+      "options": [
+        "bored and inattentive",
+        "unbiased and not seeking personal advantage",
+        "uninterested in learning",
+        "emotionally unstable"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Disinterested means impartial; uninterested means lacking interest.",
+      "i18n": {
+        "en": {
+          "question": "The word 'disinterested' most precisely means:",
+          "options": [
+            "bored and inattentive",
+            "unbiased and not seeking personal advantage",
+            "uninterested in learning",
+            "emotionally unstable"
+          ],
+          "explanation": "Disinterested means impartial; uninterested means lacking interest."
+        }
+      }
+    },
+    {
+      "id": 47,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which sentence uses 'infer' correctly?",
+      "options": [
+        "The data infer that the hypothesis is false.",
+        "The researcher inferred the author's intention from the pattern of omissions.",
+        "The teacher inferred the students to revise.",
+        "The result was inferred by the table."
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "A reader/listener infers something from evidence; evidence itself suggests or implies.",
+      "i18n": {
+        "en": {
+          "question": "Which sentence uses 'infer' correctly?",
+          "options": [
+            "The data infer that the hypothesis is false.",
+            "The researcher inferred the author's intention from the pattern of omissions.",
+            "The teacher inferred the students to revise.",
+            "The result was inferred by the table."
+          ],
+          "explanation": "A reader/listener infers something from evidence; evidence itself suggests or implies."
+        }
+      }
+    },
+    {
+      "id": 48,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the most precise word: The witness's account was ___ with the video evidence.",
+      "options": [
+        "conspicuous",
+        "congruent",
+        "contemptuous",
+        "contingent"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Congruent means in agreement or harmony with something.",
+      "i18n": {
+        "en": {
+          "question": "Choose the most precise word: The witness's account was ___ with the video evidence.",
+          "options": [
+            "conspicuous",
+            "congruent",
+            "contemptuous",
+            "contingent"
+          ],
+          "explanation": "Congruent means in agreement or harmony with something."
+        }
+      }
+    },
+    {
+      "id": 49,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which pair is correctly distinguished?",
+      "options": [
+        "complement = praise; compliment = complete",
+        "complement = praise/add to completeness; compliment = remark of praise",
+        "both are interchangeable",
+        "compliment = complete; complement = praise"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Complement completes or enhances; compliment expresses praise.",
+      "i18n": {
+        "en": {
+          "question": "Which pair is correctly distinguished?",
+          "options": [
+            "complement = praise; compliment = complete",
+            "complement = praise/add to completeness; compliment = remark of praise",
+            "both are interchangeable",
+            "compliment = complete; complement = praise"
+          ],
+          "explanation": "Complement completes or enhances; compliment expresses praise."
+        }
+      }
+    },
+    {
+      "id": 50,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The idiom 'to read between the lines' means to:",
+      "options": [
+        "read very quickly",
+        "infer an unstated meaning",
+        "correct grammatical errors",
+        "memorise exact wording"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "It means to infer meaning that is not explicitly stated.",
+      "i18n": {
+        "en": {
+          "question": "The idiom 'to read between the lines' means to:",
+          "options": [
+            "read very quickly",
+            "infer an unstated meaning",
+            "correct grammatical errors",
+            "memorise exact wording"
+          ],
+          "explanation": "It means to infer meaning that is not explicitly stated."
+        }
+      }
+    },
+    {
+      "id": 51,
+      "type": "single_choice",
+      "section": "english",
+      "question": "If a plan is 'feasible', it is:",
+      "options": [
+        "certain to succeed",
+        "possible and practicable",
+        "morally superior",
+        "already implemented"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Feasible means capable of being done successfully or practically.",
+      "i18n": {
+        "en": {
+          "question": "If a plan is 'feasible', it is:",
+          "options": [
+            "certain to succeed",
+            "possible and practicable",
+            "morally superior",
+            "already implemented"
+          ],
+          "explanation": "Feasible means capable of being done successfully or practically."
+        }
+      }
+    },
+    {
+      "id": 52,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct collocation.",
+      "options": [
+        "do a question",
+        "pose a question",
+        "make an evidence",
+        "commit a research"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'Pose a question' is the standard collocation.",
+      "i18n": {
+        "en": {
+          "question": "Choose the correct collocation.",
+          "options": [
+            "do a question",
+            "pose a question",
+            "make an evidence",
+            "commit a research"
+          ],
+          "explanation": "'Pose a question' is the standard collocation."
+        }
+      }
+    },
+    {
+      "id": 53,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which sentence is semantically most precise?",
+      "options": [
+        "The policy will affect on attendance.",
+        "The policy will affect attendance.",
+        "The policy will effect attendance.",
+        "The policy will effect on attendance."
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Affect is normally the verb meaning influence; effect is usually a noun or a less common verb meaning bring about.",
+      "i18n": {
+        "en": {
+          "question": "Which sentence is semantically most precise?",
+          "options": [
+            "The policy will affect on attendance.",
+            "The policy will affect attendance.",
+            "The policy will effect attendance.",
+            "The policy will effect on attendance."
+          ],
+          "explanation": "Affect is normally the verb meaning influence; effect is usually a noun or a less common verb meaning bring about."
+        }
+      }
+    },
+    {
+      "id": 54,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct use of 'adverse'.",
+      "options": [
+        "The teacher gave an adverse of the poem.",
+        "The medicine had adverse effects.",
+        "He adverse the conclusion.",
+        "The evidence was adverse to proving anything."
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Adverse commonly means harmful or unfavorable, especially before a noun.",
+      "i18n": {
+        "en": {
+          "question": "Choose the correct use of 'adverse'.",
+          "options": [
+            "The teacher gave an adverse of the poem.",
+            "The medicine had adverse effects.",
+            "He adverse the conclusion.",
+            "The evidence was adverse to proving anything."
+          ],
+          "explanation": "Adverse commonly means harmful or unfavorable, especially before a noun."
+        }
+      }
+    },
+    {
+      "id": 55,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which option best captures the distinction between 'credible' and 'credulous'?",
+      "options": [
+        "credible = doubtful; credulous = analytical",
+        "credible = believable; credulous = too ready to believe",
+        "both mean trustworthy",
+        "credible = naive; credulous = reliable"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Credible describes something worthy of belief; credulous describes a person too ready to believe.",
+      "i18n": {
+        "en": {
+          "question": "Which option best captures the distinction between 'credible' and 'credulous'?",
+          "options": [
+            "credible = doubtful; credulous = analytical",
+            "credible = believable; credulous = too ready to believe",
+            "both mean trustworthy",
+            "credible = naive; credulous = reliable"
+          ],
+          "explanation": "Credible describes something worthy of belief; credulous describes a person too ready to believe."
+        }
+      }
+    },
+    {
+      "id": 56,
+      "type": "single_choice",
+      "section": "english",
+      "question": "The phrase 'a red herring' refers to:",
+      "options": [
+        "a reliable piece of evidence",
+        "a misleading clue or distraction",
+        "a final conclusion",
+        "a minor grammatical error"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "A red herring diverts attention from the relevant issue.",
+      "i18n": {
+        "en": {
+          "question": "The phrase 'a red herring' refers to:",
+          "options": [
+            "a reliable piece of evidence",
+            "a misleading clue or distraction",
+            "a final conclusion",
+            "a minor grammatical error"
+          ],
+          "explanation": "A red herring diverts attention from the relevant issue."
+        }
+      }
+    },
+    {
+      "id": 57,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the most appropriate word: The speaker's claim was ___ by three independent studies.",
+      "options": [
+        "compromised",
+        "corroborated",
+        "contradicted",
+        "conceded"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Corroborated means confirmed or supported by additional evidence.",
+      "i18n": {
+        "en": {
+          "question": "Choose the most appropriate word: The speaker's claim was ___ by three independent studies.",
+          "options": [
+            "compromised",
+            "corroborated",
+            "contradicted",
+            "conceded"
+          ],
+          "explanation": "Corroborated means confirmed or supported by additional evidence."
+        }
+      }
+    },
+    {
+      "id": 58,
+      "type": "single_choice",
+      "section": "english",
+      "question": "'Mitigate' most nearly means:",
+      "options": [
+        "make inevitable",
+        "make less severe",
+        "make public",
+        "make contradictory"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Mitigate means reduce the severity, seriousness, or harmfulness of something.",
+      "i18n": {
+        "en": {
+          "question": "'Mitigate' most nearly means:",
+          "options": [
+            "make inevitable",
+            "make less severe",
+            "make public",
+            "make contradictory"
+          ],
+          "explanation": "Mitigate means reduce the severity, seriousness, or harmfulness of something."
+        }
+      }
+    },
+    {
+      "id": 59,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which is the best meaning of 'salient' in an academic passage?",
+      "options": [
+        "least certain",
+        "most noticeable or relevant",
+        "grammatically incorrect",
+        "historically ancient"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Salient means prominent or especially relevant.",
+      "i18n": {
+        "en": {
+          "question": "Which is the best meaning of 'salient' in an academic passage?",
+          "options": [
+            "least certain",
+            "most noticeable or relevant",
+            "grammatically incorrect",
+            "historically ancient"
+          ],
+          "explanation": "Salient means prominent or especially relevant."
+        }
+      }
+    },
+    {
+      "id": 60,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which sentence contains a correctly used phrasal verb?",
+      "options": [
+        "The researcher carried the experiment outly.",
+        "The researcher carried out the experiment carefully.",
+        "The researcher carried on the experiment out.",
+        "The researcher carried the experiment with."
+      ],
+      "answer": 1,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'Carry out' means perform or conduct.",
+      "i18n": {
+        "en": {
+          "question": "Which sentence contains a correctly used phrasal verb?",
+          "options": [
+            "The researcher carried the experiment outly.",
+            "The researcher carried out the experiment carefully.",
+            "The researcher carried on the experiment out.",
+            "The researcher carried the experiment with."
+          ],
+          "explanation": "'Carry out' means perform or conduct."
+        }
+      }
+    },
+    {
+      "id": 61,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct expression.",
+      "options": [
+        "different than the two models",
+        "different to from the two models",
+        "different from the two models",
+        "different with the two models"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "In formal standard English, 'different from' is the safest construction.",
+      "i18n": {
+        "en": {
+          "question": "Choose the correct expression.",
+          "options": [
+            "different than the two models",
+            "different to from the two models",
+            "different from the two models",
+            "different with the two models"
+          ],
+          "explanation": "In formal standard English, 'different from' is the safest construction."
+        }
+      }
+    },
+    {
+      "id": 62,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which sentence uses 'less' appropriately in formal standard English?",
+      "options": [
+        "There were less candidates this year.",
+        "I need less books.",
+        "There is less uncertainty in the revised model.",
+        "Less students attended."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'Less' is normally used with uncountable nouns; 'uncertainty' is uncountable.",
+      "i18n": {
+        "en": {
+          "question": "Which sentence uses 'less' appropriately in formal standard English?",
+          "options": [
+            "There were less candidates this year.",
+            "I need less books.",
+            "There is less uncertainty in the revised model.",
+            "Less students attended."
+          ],
+          "explanation": "'Less' is normally used with uncountable nouns; 'uncertainty' is uncountable."
+        }
+      }
+    },
+    {
+      "id": 63,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the best completion: The teacher's explanation was clear enough to leave little room ___ misunderstanding.",
+      "options": [
+        "to",
+        "of",
+        "for",
+        "with"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The standard collocation is 'room for misunderstanding'.",
+      "i18n": {
+        "en": {
+          "question": "Choose the best completion: The teacher's explanation was clear enough to leave little room ___ misunderstanding.",
+          "options": [
+            "to",
+            "of",
+            "for",
+            "with"
+          ],
+          "explanation": "The standard collocation is 'room for misunderstanding'."
+        }
+      }
+    },
+    {
+      "id": 64,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which sentence contains a dangling modifier?",
+      "options": [
+        "After reading the article, the teacher assigned a task.",
+        "Walking to school, Riya noticed the rain.",
+        "Walking to school, the rain soaked Riya.",
+        "Having checked the figures, the researcher revised the table."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The opening participial phrase must logically modify the subject; rain cannot walk to school.",
+      "i18n": {
+        "en": {
+          "question": "Which sentence contains a dangling modifier?",
+          "options": [
+            "After reading the article, the teacher assigned a task.",
+            "Walking to school, Riya noticed the rain.",
+            "Walking to school, the rain soaked Riya.",
+            "Having checked the figures, the researcher revised the table."
+          ],
+          "explanation": "The opening participial phrase must logically modify the subject; rain cannot walk to school."
+        }
+      }
+    },
+    {
+      "id": 65,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which sentence is free from ambiguity?",
+      "options": [
+        "I saw the teacher with the telescope.",
+        "The teacher told the student that he was late.",
+        "After the bell rang, the class began the test.",
+        "She discussed the result with the researcher in the room."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'After the bell rang...' has a clear grammatical relationship and no competing attachment.",
+      "i18n": {
+        "en": {
+          "question": "Which sentence is free from ambiguity?",
+          "options": [
+            "I saw the teacher with the telescope.",
+            "The teacher told the student that he was late.",
+            "After the bell rang, the class began the test.",
+            "She discussed the result with the researcher in the room."
+          ],
+          "explanation": "'After the bell rang...' has a clear grammatical relationship and no competing attachment."
+        }
+      }
+    },
+    {
+      "id": 66,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Select the sentence with correct parallelism.",
+      "options": [
+        "The course aims to develop reading, writing, and to speak.",
+        "The course aims at reading, writing, and speaking.",
+        "The course aims to develop reading, writing, and speaking.",
+        "The course aims developing reading, writing, and speaking."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The coordinated complements after 'develop' should be parallel gerund forms.",
+      "i18n": {
+        "en": {
+          "question": "Select the sentence with correct parallelism.",
+          "options": [
+            "The course aims to develop reading, writing, and to speak.",
+            "The course aims at reading, writing, and speaking.",
+            "The course aims to develop reading, writing, and speaking.",
+            "The course aims developing reading, writing, and speaking."
+          ],
+          "explanation": "The coordinated complements after 'develop' should be parallel gerund forms."
+        }
+      }
+    },
+    {
+      "id": 67,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct inversion.",
+      "options": [
+        "Rarely I have seen such precision.",
+        "Rarely I saw have such precision.",
+        "Rarely have I seen such precision.",
+        "Rarely have seen I such precision."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Negative/restrictive adverbials at the front trigger subject–auxiliary inversion.",
+      "i18n": {
+        "en": {
+          "question": "Choose the correct inversion.",
+          "options": [
+            "Rarely I have seen such precision.",
+            "Rarely I saw have such precision.",
+            "Rarely have I seen such precision.",
+            "Rarely have seen I such precision."
+          ],
+          "explanation": "Negative/restrictive adverbials at the front trigger subject–auxiliary inversion."
+        }
+      }
+    },
+    {
+      "id": 68,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which sentence correctly uses 'only' to mean that the students, not the teacher, submitted the forms?",
+      "options": [
+        "The students submitted only the forms.",
+        "The students only submitted the forms.",
+        "Only the students submitted the forms.",
+        "The students submitted the forms only."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Placing 'only' before 'the students' limits the subject.",
+      "i18n": {
+        "en": {
+          "question": "Which sentence correctly uses 'only' to mean that the students, not the teacher, submitted the forms?",
+          "options": [
+            "The students submitted only the forms.",
+            "The students only submitted the forms.",
+            "Only the students submitted the forms.",
+            "The students submitted the forms only."
+          ],
+          "explanation": "Placing 'only' before 'the students' limits the subject."
+        }
+      }
+    },
+    {
+      "id": 69,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the sentence in which the pronoun reference is clearest.",
+      "options": [
+        "When Anita spoke to Neha, she looked worried.",
+        "Anita told Neha that she was worried.",
+        "When Anita spoke to Neha, Anita looked worried.",
+        "The teacher told the parent that she should wait."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Repeating the noun removes the ambiguous pronoun reference.",
+      "i18n": {
+        "en": {
+          "question": "Choose the sentence in which the pronoun reference is clearest.",
+          "options": [
+            "When Anita spoke to Neha, she looked worried.",
+            "Anita told Neha that she was worried.",
+            "When Anita spoke to Neha, Anita looked worried.",
+            "The teacher told the parent that she should wait."
+          ],
+          "explanation": "Repeating the noun removes the ambiguous pronoun reference."
+        }
+      }
+    },
+    {
+      "id": 70,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which option best preserves the meaning: 'Despite being tired, he continued teaching.'",
+      "options": [
+        "He continued teaching so that he was tired.",
+        "Because he was tired, he stopped teaching.",
+        "Although he was tired, he continued teaching.",
+        "He was tired unless he continued teaching."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Although + clause expresses the same concessive relationship.",
+      "i18n": {
+        "en": {
+          "question": "Which option best preserves the meaning: 'Despite being tired, he continued teaching.'",
+          "options": [
+            "He continued teaching so that he was tired.",
+            "Because he was tired, he stopped teaching.",
+            "Although he was tired, he continued teaching.",
+            "He was tired unless he continued teaching."
+          ],
+          "explanation": "Although + clause expresses the same concessive relationship."
+        }
+      }
+    },
+    {
+      "id": 71,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the best word: The conclusion is ___ on an assumption that has not been tested.",
+      "options": [
+        "precluded",
+        "predatory",
+        "predicated",
+        "prohibited"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Predicated on means based on.",
+      "i18n": {
+        "en": {
+          "question": "Choose the best word: The conclusion is ___ on an assumption that has not been tested.",
+          "options": [
+            "precluded",
+            "predatory",
+            "predicated",
+            "prohibited"
+          ],
+          "explanation": "Predicated on means based on."
+        }
+      }
+    },
+    {
+      "id": 72,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which sentence correctly uses 'hardly'?",
+      "options": [
+        "Hardly I had arrived when it started.",
+        "Hardly did I arrived when it started.",
+        "Hardly had I arrived when it started.",
+        "Hardly had I arrive than it started."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'Hardly had + subject + V3 + when' is the standard inverted construction.",
+      "i18n": {
+        "en": {
+          "question": "Which sentence correctly uses 'hardly'?",
+          "options": [
+            "Hardly I had arrived when it started.",
+            "Hardly did I arrived when it started.",
+            "Hardly had I arrived when it started.",
+            "Hardly had I arrive than it started."
+          ],
+          "explanation": "'Hardly had + subject + V3 + when' is the standard inverted construction."
+        }
+      }
+    },
+    {
+      "id": 73,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct article: He was appointed ___ honorary adviser to the committee.",
+      "options": [
+        "a",
+        "the",
+        "an",
+        "no article"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'Honorary' begins with a vowel sound, so 'an' is used.",
+      "i18n": {
+        "en": {
+          "question": "Choose the correct article: He was appointed ___ honorary adviser to the committee.",
+          "options": [
+            "a",
+            "the",
+            "an",
+            "no article"
+          ],
+          "explanation": "'Honorary' begins with a vowel sound, so 'an' is used."
+        }
+      }
+    },
+    {
+      "id": 74,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct article: She has ___ unique ability to detect subtle errors.",
+      "options": [
+        "the",
+        "an",
+        "a",
+        "no article"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'Unique' begins with /juː/, a consonant sound, so 'a' is correct.",
+      "i18n": {
+        "en": {
+          "question": "Choose the correct article: She has ___ unique ability to detect subtle errors.",
+          "options": [
+            "the",
+            "an",
+            "a",
+            "no article"
+          ],
+          "explanation": "'Unique' begins with /juː/, a consonant sound, so 'a' is correct."
+        }
+      }
+    },
+    {
+      "id": 75,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which sentence correctly uses a non-defining relative clause?",
+      "options": [
+        "Students who submit late may lose marks.",
+        "The book, that I bought yesterday, is useful.",
+        "My sister, who teaches English, lives in Lucknow.",
+        "The teacher which arrived late apologised."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "A non-defining clause is set off by commas and cannot use 'that' in standard formal usage.",
+      "i18n": {
+        "en": {
+          "question": "Which sentence correctly uses a non-defining relative clause?",
+          "options": [
+            "Students who submit late may lose marks.",
+            "The book, that I bought yesterday, is useful.",
+            "My sister, who teaches English, lives in Lucknow.",
+            "The teacher which arrived late apologised."
+          ],
+          "explanation": "A non-defining clause is set off by commas and cannot use 'that' in standard formal usage."
+        }
+      }
+    },
+    {
+      "id": 76,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the best correction: 'He is senior than me.'",
+      "options": [
+        "He is more senior than me only.",
+        "He is senior from me.",
+        "He is senior to me.",
+        "He is senior with me."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The adjective 'senior' conventionally takes 'to', not 'than'.",
+      "i18n": {
+        "en": {
+          "question": "Choose the best correction: 'He is senior than me.'",
+          "options": [
+            "He is more senior than me only.",
+            "He is senior from me.",
+            "He is senior to me.",
+            "He is senior with me."
+          ],
+          "explanation": "The adjective 'senior' conventionally takes 'to', not 'than'."
+        }
+      }
+    },
+    {
+      "id": 77,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which sentence correctly uses 'used to' for a past habit?",
+      "options": [
+        "She used to teaching here.",
+        "She was used to teach here.",
+        "She used to teach here.",
+        "She use to taught here."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "'Used to + base verb' expresses a past habit or state.",
+      "i18n": {
+        "en": {
+          "question": "Which sentence correctly uses 'used to' for a past habit?",
+          "options": [
+            "She used to teaching here.",
+            "She was used to teach here.",
+            "She used to teach here.",
+            "She use to taught here."
+          ],
+          "explanation": "'Used to + base verb' expresses a past habit or state."
+        }
+      }
+    },
+    {
+      "id": 78,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which sentence correctly uses 'would' for a repeated past action?",
+      "options": [
+        "We would visit our grandparents now every summer.",
+        "Every summer, we would have visited our grandparents yesterday.",
+        "Every summer, we would visit our grandparents.",
+        "We would to visit our grandparents."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Would can describe repeated past actions when the past time frame is established.",
+      "i18n": {
+        "en": {
+          "question": "Which sentence correctly uses 'would' for a repeated past action?",
+          "options": [
+            "We would visit our grandparents now every summer.",
+            "Every summer, we would have visited our grandparents yesterday.",
+            "Every summer, we would visit our grandparents.",
+            "We would to visit our grandparents."
+          ],
+          "explanation": "Would can describe repeated past actions when the past time frame is established."
+        }
+      }
+    },
+    {
+      "id": 79,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the correct form: The teacher suggested that the students ___ their sources.",
+      "options": [
+        "checking",
+        "checked",
+        "check",
+        "to check"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Suggest that takes the base form in mandative subjunctive usage.",
+      "i18n": {
+        "en": {
+          "question": "Choose the correct form: The teacher suggested that the students ___ their sources.",
+          "options": [
+            "checking",
+            "checked",
+            "check",
+            "to check"
+          ],
+          "explanation": "Suggest that takes the base form in mandative subjunctive usage."
+        }
+      }
+    },
+    {
+      "id": 80,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which sentence best avoids a semantic contradiction?",
+      "options": [
+        "The silent noise disturbed everyone.",
+        "The evidence was conclusive but completely uncertain.",
+        "The sample was small, so the estimate should be interpreted cautiously.",
+        "The candidate was unanimously divided."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The fourth sentence is internally coherent; the others contain contradictory combinations.",
+      "i18n": {
+        "en": {
+          "question": "Which sentence best avoids a semantic contradiction?",
+          "options": [
+            "The silent noise disturbed everyone.",
+            "The evidence was conclusive but completely uncertain.",
+            "The sample was small, so the estimate should be interpreted cautiously.",
+            "The candidate was unanimously divided."
+          ],
+          "explanation": "The fourth sentence is internally coherent; the others contain contradictory combinations."
+        }
+      }
+    },
+    {
+      "id": 81,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Choose the most precise preposition: The policy is consistent ___ the stated objective.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The standard collocation is 'consistent with'.",
+      "i18n": {
+        "en": {
+          "question": "Choose the most precise preposition: The policy is consistent ___ the stated objective.",
+          "options": [
+            "to",
+            "for",
+            "with",
+            "at"
+          ],
+          "explanation": "The standard collocation is 'consistent with'."
+        }
+      }
+    },
+    {
+      "id": 82,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Read: 'A classroom can be quiet because students are deeply engaged, or because they are afraid to speak.' What is the most defensible inference?",
+      "options": [
+        "Fear improves participation.",
+        "Quiet classrooms are always effective.",
+        "Silence alone is insufficient evidence of engagement.",
+        "Engagement requires complete silence."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The contrast shows that identical outward behaviour can have different underlying causes.",
+      "i18n": {
+        "en": {
+          "question": "Read: 'A classroom can be quiet because students are deeply engaged, or because they are afraid to speak.' What is the most defensible inference?",
+          "options": [
+            "Fear improves participation.",
+            "Quiet classrooms are always effective.",
+            "Silence alone is insufficient evidence of engagement.",
+            "Engagement requires complete silence."
+          ],
+          "explanation": "The contrast shows that identical outward behaviour can have different underlying causes."
+        }
+      }
+    },
+    {
+      "id": 83,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Read: 'The policy increased test completion but not delayed-task completion.' Which conclusion is best supported?",
+      "options": [
+        "The policy improved every form of motivation.",
+        "The policy had no effect at all.",
+        "The policy's effect may be task-specific.",
+        "Delayed tasks were not measured."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The evidence supports a limited, task-specific effect rather than a global conclusion.",
+      "i18n": {
+        "en": {
+          "question": "Read: 'The policy increased test completion but not delayed-task completion.' Which conclusion is best supported?",
+          "options": [
+            "The policy improved every form of motivation.",
+            "The policy had no effect at all.",
+            "The policy's effect may be task-specific.",
+            "Delayed tasks were not measured."
+          ],
+          "explanation": "The evidence supports a limited, task-specific effect rather than a global conclusion."
+        }
+      }
+    },
+    {
+      "id": 84,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Read: 'Because the sample consisted only of volunteers, the author cautions against generalising.' The limitation is primarily one of:",
+      "options": [
+        "construct validity",
+        "inter-rater reliability",
+        "external validity",
+        "internal consistency"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Generalisation concerns external validity.",
+      "i18n": {
+        "en": {
+          "question": "Read: 'Because the sample consisted only of volunteers, the author cautions against generalising.' The limitation is primarily one of:",
+          "options": [
+            "construct validity",
+            "inter-rater reliability",
+            "external validity",
+            "internal consistency"
+          ],
+          "explanation": "Generalisation concerns external validity."
+        }
+      }
+    },
+    {
+      "id": 85,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Read: 'The teacher first models the strategy, then prompts pupils, and finally removes prompts.' Which progression is described?",
+      "options": [
+        "summative assessment",
+        "punitive conditioning",
+        "scaffolding with fading",
+        "rote rehearsal"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Support is gradually withdrawn as learner independence increases.",
+      "i18n": {
+        "en": {
+          "question": "Read: 'The teacher first models the strategy, then prompts pupils, and finally removes prompts.' Which progression is described?",
+          "options": [
+            "summative assessment",
+            "punitive conditioning",
+            "scaffolding with fading",
+            "rote rehearsal"
+          ],
+          "explanation": "Support is gradually withdrawn as learner independence increases."
+        }
+      }
+    },
+    {
+      "id": 86,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Read: 'The author uses one example that appears to refute the main claim, then explains why the apparent counterexample is limited.' This primarily strengthens the argument by:",
+      "options": [
+        "ignoring objections",
+        "replacing evidence with opinion",
+        "anticipating and qualifying a counterargument",
+        "using an appeal to authority"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Addressing a plausible counterexample can strengthen an argument when the limitation is justified.",
+      "i18n": {
+        "en": {
+          "question": "Read: 'The author uses one example that appears to refute the main claim, then explains why the apparent counterexample is limited.' This primarily strengthens the argument by:",
+          "options": [
+            "ignoring objections",
+            "replacing evidence with opinion",
+            "anticipating and qualifying a counterargument",
+            "using an appeal to authority"
+          ],
+          "explanation": "Addressing a plausible counterexample can strengthen an argument when the limitation is justified."
+        }
+      }
+    },
+    {
+      "id": 87,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Read: 'The results were statistically significant, but the average improvement was only a fraction of a point on the scale.' Which distinction matters?",
+      "options": [
+        "grammar and vocabulary",
+        "reliability and spelling",
+        "statistical significance and practical significance",
+        "sampling and punctuation"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "A statistically detectable effect may still be too small to matter practically.",
+      "i18n": {
+        "en": {
+          "question": "Read: 'The results were statistically significant, but the average improvement was only a fraction of a point on the scale.' Which distinction matters?",
+          "options": [
+            "grammar and vocabulary",
+            "reliability and spelling",
+            "statistical significance and practical significance",
+            "sampling and punctuation"
+          ],
+          "explanation": "A statistically detectable effect may still be too small to matter practically."
+        }
+      }
+    },
+    {
+      "id": 88,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Read: 'The article repeatedly uses words such as inevitably, unquestionably, and everyone.' What should a critical reader examine first?",
+      "options": [
+        "whether the article uses commas",
+        "whether every word is a noun",
+        "whether the rhetoric exceeds the evidence",
+        "whether the font is formal"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Absolute language can signal overclaiming and warrants comparison with the evidence.",
+      "i18n": {
+        "en": {
+          "question": "Read: 'The article repeatedly uses words such as inevitably, unquestionably, and everyone.' What should a critical reader examine first?",
+          "options": [
+            "whether the article uses commas",
+            "whether every word is a noun",
+            "whether the rhetoric exceeds the evidence",
+            "whether the font is formal"
+          ],
+          "explanation": "Absolute language can signal overclaiming and warrants comparison with the evidence."
+        }
+      }
+    },
+    {
+      "id": 89,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Read: 'Two classes improved. Class A received the new programme; Class B received no new programme. The classes were not randomly assigned.' What causal limitation remains?",
+      "options": [
+        "No outcome was measured.",
+        "The programme was necessarily ineffective.",
+        "Pre-existing group differences may explain some of the difference.",
+        "Random assignment is irrelevant to causal inference."
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Without random assignment, baseline differences can confound causal interpretation.",
+      "i18n": {
+        "en": {
+          "question": "Read: 'Two classes improved. Class A received the new programme; Class B received no new programme. The classes were not randomly assigned.' What causal limitation remains?",
+          "options": [
+            "No outcome was measured.",
+            "The programme was necessarily ineffective.",
+            "Pre-existing group differences may explain some of the difference.",
+            "Random assignment is irrelevant to causal inference."
+          ],
+          "explanation": "Without random assignment, baseline differences can confound causal interpretation."
+        }
+      }
+    },
+    {
+      "id": 90,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Read: 'The teacher asks students to predict an author's next claim, justify it with textual evidence, and revise the prediction.' This most directly develops:",
+      "options": [
+        "surface copying",
+        "handwriting speed",
+        "inferential and metacognitive reading",
+        "phonetic decoding only"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Prediction, evidence-based justification, and revision engage inference and metacognition.",
+      "i18n": {
+        "en": {
+          "question": "Read: 'The teacher asks students to predict an author's next claim, justify it with textual evidence, and revise the prediction.' This most directly develops:",
+          "options": [
+            "surface copying",
+            "handwriting speed",
+            "inferential and metacognitive reading",
+            "phonetic decoding only"
+          ],
+          "explanation": "Prediction, evidence-based justification, and revision engage inference and metacognition."
+        }
+      }
+    },
+    {
+      "id": 91,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Read: 'The passage distinguishes what the study found from what the author believes the finding might mean.' Why is this distinction important?",
+      "options": [
+        "It proves the author's interpretation is correct.",
+        "It makes the study impossible to understand.",
+        "It removes the need for evidence.",
+        "It separates evidence from interpretation."
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Separating observed findings from interpretation reduces the risk of treating speculation as evidence.",
+      "i18n": {
+        "en": {
+          "question": "Read: 'The passage distinguishes what the study found from what the author believes the finding might mean.' Why is this distinction important?",
+          "options": [
+            "It proves the author's interpretation is correct.",
+            "It makes the study impossible to understand.",
+            "It removes the need for evidence.",
+            "It separates evidence from interpretation."
+          ],
+          "explanation": "Separating observed findings from interpretation reduces the risk of treating speculation as evidence."
+        }
+      }
+    },
+    {
+      "id": 92,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Read: 'A learner recognises a word in isolation but misreads it in a sentence.' Which explanation is most plausible?",
+      "options": [
+        "Word recognition is sufficient evidence of full contextual reading.",
+        "Sentence context never affects reading.",
+        "The learner necessarily lacks vocabulary.",
+        "Contextual processing may still be weak."
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Performance can differ between isolated recognition and contextual processing.",
+      "i18n": {
+        "en": {
+          "question": "Read: 'A learner recognises a word in isolation but misreads it in a sentence.' Which explanation is most plausible?",
+          "options": [
+            "Word recognition is sufficient evidence of full contextual reading.",
+            "Sentence context never affects reading.",
+            "The learner necessarily lacks vocabulary.",
+            "Contextual processing may still be weak."
+          ],
+          "explanation": "Performance can differ between isolated recognition and contextual processing."
+        }
+      }
+    },
+    {
+      "id": 93,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Read: 'A teacher changes the text difficulty but keeps the learning objective and success criterion constant.' This is primarily an example of:",
+      "options": [
+        "confounding all variables deliberately",
+        "changing the learning construct entirely",
+        "removing assessment criteria",
+        "maintaining the construct while varying task support"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The target construct remains stable while access/support is adjusted.",
+      "i18n": {
+        "en": {
+          "question": "Read: 'A teacher changes the text difficulty but keeps the learning objective and success criterion constant.' This is primarily an example of:",
+          "options": [
+            "confounding all variables deliberately",
+            "changing the learning construct entirely",
+            "removing assessment criteria",
+            "maintaining the construct while varying task support"
+          ],
+          "explanation": "The target construct remains stable while access/support is adjusted."
+        }
+      }
+    },
+    {
+      "id": 94,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Read: 'The author cites a famous expert, but gives no evidence linking the expert's statement to the specific claim.' What weakness is most relevant?",
+      "options": [
+        "replication",
+        "valid operational definition",
+        "controlled comparison",
+        "appeal to authority without sufficient evidential support"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Authority alone does not establish the truth of a claim without relevant support.",
+      "i18n": {
+        "en": {
+          "question": "Read: 'The author cites a famous expert, but gives no evidence linking the expert's statement to the specific claim.' What weakness is most relevant?",
+          "options": [
+            "replication",
+            "valid operational definition",
+            "controlled comparison",
+            "appeal to authority without sufficient evidential support"
+          ],
+          "explanation": "Authority alone does not establish the truth of a claim without relevant support."
+        }
+      }
+    },
+    {
+      "id": 95,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Read: 'Students remember a rule immediately after practice but cannot use it in a new context.' Which issue is most directly indicated?",
+      "options": [
+        "lexical ambiguity",
+        "phonemic awareness",
+        "inter-rater reliability",
+        "transfer of learning"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Failure to apply learning in a new context indicates weak transfer.",
+      "i18n": {
+        "en": {
+          "question": "Read: 'Students remember a rule immediately after practice but cannot use it in a new context.' Which issue is most directly indicated?",
+          "options": [
+            "lexical ambiguity",
+            "phonemic awareness",
+            "inter-rater reliability",
+            "transfer of learning"
+          ],
+          "explanation": "Failure to apply learning in a new context indicates weak transfer."
+        }
+      }
+    },
+    {
+      "id": 96,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Read: 'A passage presents correlation between screen time and sleep problems, then states that screen time causes poor sleep.' What is the critical issue?",
+      "options": [
+        "screen time is necessarily harmless",
+        "correlation always proves causation",
+        "sleep cannot be measured",
+        "correlation does not by itself establish causation"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "A correlational association alone cannot establish a causal direction.",
+      "i18n": {
+        "en": {
+          "question": "Read: 'A passage presents correlation between screen time and sleep problems, then states that screen time causes poor sleep.' What is the critical issue?",
+          "options": [
+            "screen time is necessarily harmless",
+            "correlation always proves causation",
+            "sleep cannot be measured",
+            "correlation does not by itself establish causation"
+          ],
+          "explanation": "A correlational association alone cannot establish a causal direction."
+        }
+      }
+    },
+    {
+      "id": 97,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which classroom objective is most measurable?",
+      "options": [
+        "Students will understand poetry.",
+        "Students will appreciate literature.",
+        "Students will know the poem deeply.",
+        "Students will identify two effects of imagery in a given stanza."
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The third objective specifies an observable performance and a criterion.",
+      "i18n": {
+        "en": {
+          "question": "Which classroom objective is most measurable?",
+          "options": [
+            "Students will understand poetry.",
+            "Students will appreciate literature.",
+            "Students will know the poem deeply.",
+            "Students will identify two effects of imagery in a given stanza."
+          ],
+          "explanation": "The third objective specifies an observable performance and a criterion."
+        }
+      }
+    },
+    {
+      "id": 98,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which assessment best measures whether learners can use a new vocabulary item appropriately in context?",
+      "options": [
+        "copying the word ten times",
+        "matching the word to its spelling",
+        "circling the longest word",
+        "using the word accurately in an original sentence"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Contextual production directly measures functional use.",
+      "i18n": {
+        "en": {
+          "question": "Which assessment best measures whether learners can use a new vocabulary item appropriately in context?",
+          "options": [
+            "copying the word ten times",
+            "matching the word to its spelling",
+            "circling the longest word",
+            "using the word accurately in an original sentence"
+          ],
+          "explanation": "Contextual production directly measures functional use."
+        }
+      }
+    },
+    {
+      "id": 99,
+      "type": "single_choice",
+      "section": "english",
+      "question": "A teacher wants to distinguish a student's grammar knowledge from reading-speed limitations. Which design is most defensible?",
+      "options": [
+        "Use only a timed passage.",
+        "Remove all grammar items.",
+        "Use handwriting speed as the sole measure.",
+        "Use untimed items that isolate the grammatical target, alongside contextual items."
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Untimed target-isolated items reduce the confounding effect of reading speed.",
+      "i18n": {
+        "en": {
+          "question": "A teacher wants to distinguish a student's grammar knowledge from reading-speed limitations. Which design is most defensible?",
+          "options": [
+            "Use only a timed passage.",
+            "Remove all grammar items.",
+            "Use handwriting speed as the sole measure.",
+            "Use untimed items that isolate the grammatical target, alongside contextual items."
+          ],
+          "explanation": "Untimed target-isolated items reduce the confounding effect of reading speed."
+        }
+      }
+    },
+    {
+      "id": 100,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which feedback is most likely to support revision?",
+      "options": [
+        "Wrong.",
+        "Good.",
+        "You should simply study harder.",
+        "Your claim is clear; add evidence from paragraph 3 to justify the second inference."
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Specific, task-linked feedback identifies an actionable next step.",
+      "i18n": {
+        "en": {
+          "question": "Which feedback is most likely to support revision?",
+          "options": [
+            "Wrong.",
+            "Good.",
+            "You should simply study harder.",
+            "Your claim is clear; add evidence from paragraph 3 to justify the second inference."
+          ],
+          "explanation": "Specific, task-linked feedback identifies an actionable next step."
+        }
+      }
+    },
+    {
+      "id": 101,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which classroom task best promotes higher-order language use?",
+      "options": [
+        "Copy the definition of metaphor.",
+        "Underline every noun.",
+        "Repeat the teacher's sentence five times.",
+        "Compare two interpretations and defend one with textual evidence."
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Comparison plus evidence-based justification requires analysis and evaluation.",
+      "i18n": {
+        "en": {
+          "question": "Which classroom task best promotes higher-order language use?",
+          "options": [
+            "Copy the definition of metaphor.",
+            "Underline every noun.",
+            "Repeat the teacher's sentence five times.",
+            "Compare two interpretations and defend one with textual evidence."
+          ],
+          "explanation": "Comparison plus evidence-based justification requires analysis and evaluation."
+        }
+      }
+    },
+    {
+      "id": 102,
+      "type": "single_choice",
+      "section": "english",
+      "question": "In language teaching, which sequence most directly supports inductive grammar learning?",
+      "options": [
+        "Give rule → drill → test; no examples first.",
+        "Test first → reveal answer → stop.",
+        "Give translation → memorise rule → avoid application.",
+        "Provide examples → guide learners to notice patterns → formulate the rule → test it on new examples."
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Inductive learning moves from examples and noticing toward rule formation.",
+      "i18n": {
+        "en": {
+          "question": "In language teaching, which sequence most directly supports inductive grammar learning?",
+          "options": [
+            "Give rule → drill → test; no examples first.",
+            "Test first → reveal answer → stop.",
+            "Give translation → memorise rule → avoid application.",
+            "Provide examples → guide learners to notice patterns → formulate the rule → test it on new examples."
+          ],
+          "explanation": "Inductive learning moves from examples and noticing toward rule formation."
+        }
+      }
+    },
+    {
+      "id": 103,
+      "type": "single_choice",
+      "section": "english",
+      "question": "A teacher uses a dialogue where learners must negotiate meaning to complete a shared task. The central language-learning emphasis is:",
+      "options": [
+        "silent memorisation",
+        "isolated spelling",
+        "translation without communication",
+        "meaningful interaction"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Negotiation of meaning is central to communicative language use.",
+      "i18n": {
+        "en": {
+          "question": "A teacher uses a dialogue where learners must negotiate meaning to complete a shared task. The central language-learning emphasis is:",
+          "options": [
+            "silent memorisation",
+            "isolated spelling",
+            "translation without communication",
+            "meaningful interaction"
+          ],
+          "explanation": "Negotiation of meaning is central to communicative language use."
+        }
+      }
+    },
+    {
+      "id": 104,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which teacher move best supports learner autonomy?",
+      "options": [
+        "Correct every sentence before the learner finishes.",
+        "Require identical wording from every learner.",
+        "Give the answer immediately.",
+        "Provide a checklist and let learners self-monitor before submitting."
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "A self-monitoring checklist shifts part of regulation to the learner.",
+      "i18n": {
+        "en": {
+          "question": "Which teacher move best supports learner autonomy?",
+          "options": [
+            "Correct every sentence before the learner finishes.",
+            "Require identical wording from every learner.",
+            "Give the answer immediately.",
+            "Provide a checklist and let learners self-monitor before submitting."
+          ],
+          "explanation": "A self-monitoring checklist shifts part of regulation to the learner."
+        }
+      }
+    },
+    {
+      "id": 105,
+      "type": "single_choice",
+      "section": "english",
+      "question": "A child says 'goed' instead of 'went' after hearing many regular past-tense examples. The error most plausibly indicates:",
+      "options": [
+        "random guessing only",
+        "visual processing failure",
+        "absence of language learning",
+        "rule overgeneralisation"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The child has extended a productive regular rule to an irregular form.",
+      "i18n": {
+        "en": {
+          "question": "A child says 'goed' instead of 'went' after hearing many regular past-tense examples. The error most plausibly indicates:",
+          "options": [
+            "random guessing only",
+            "visual processing failure",
+            "absence of language learning",
+            "rule overgeneralisation"
+          ],
+          "explanation": "The child has extended a productive regular rule to an irregular form."
+        }
+      }
+    },
+    {
+      "id": 106,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which correction best preserves communicative flow during a speaking activity?",
+      "options": [
+        "Interrupt every error immediately.",
+        "Grade pronunciation after every word.",
+        "Ignore all errors permanently.",
+        "Record recurrent errors and address patterns after the task."
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Delayed focus on recurrent errors preserves fluency while still enabling form-focused feedback.",
+      "i18n": {
+        "en": {
+          "question": "Which correction best preserves communicative flow during a speaking activity?",
+          "options": [
+            "Interrupt every error immediately.",
+            "Grade pronunciation after every word.",
+            "Ignore all errors permanently.",
+            "Record recurrent errors and address patterns after the task."
+          ],
+          "explanation": "Delayed focus on recurrent errors preserves fluency while still enabling form-focused feedback."
+        }
+      }
+    },
+    {
+      "id": 107,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which pair best distinguishes formative and summative assessment?",
+      "options": [
+        "They are identical terms.",
+        "Formative is always graded; summative is never graded.",
+        "Formative occurs only before teaching; summative only during teaching.",
+        "Formative informs ongoing instruction; summative evaluates achievement at a point of completion."
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The core distinction is purpose and timing, not whether marks are awarded.",
+      "i18n": {
+        "en": {
+          "question": "Which pair best distinguishes formative and summative assessment?",
+          "options": [
+            "They are identical terms.",
+            "Formative is always graded; summative is never graded.",
+            "Formative occurs only before teaching; summative only during teaching.",
+            "Formative informs ongoing instruction; summative evaluates achievement at a point of completion."
+          ],
+          "explanation": "The core distinction is purpose and timing, not whether marks are awarded."
+        }
+      }
+    },
+    {
+      "id": 108,
+      "type": "single_choice",
+      "section": "english",
+      "question": "A learner can decode words accurately but cannot explain the author's implied attitude. The most direct instructional target is:",
+      "options": [
+        "alphabet recitation",
+        "letter recognition",
+        "phoneme segmentation only",
+        "inferential comprehension"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Implied attitude requires inferential comprehension.",
+      "i18n": {
+        "en": {
+          "question": "A learner can decode words accurately but cannot explain the author's implied attitude. The most direct instructional target is:",
+          "options": [
+            "alphabet recitation",
+            "letter recognition",
+            "phoneme segmentation only",
+            "inferential comprehension"
+          ],
+          "explanation": "Implied attitude requires inferential comprehension."
+        }
+      }
+    },
+    {
+      "id": 109,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which task most clearly assesses syntactic awareness rather than vocabulary recall?",
+      "options": [
+        "Choose the synonym of 'rapid'.",
+        "Define 'meticulous'.",
+        "Match 'happy' with 'joyful'.",
+        "Rearrange the clauses to produce a grammatically coherent sentence."
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Rearranging clauses to form a grammatical sentence directly targets syntax.",
+      "i18n": {
+        "en": {
+          "question": "Which task most clearly assesses syntactic awareness rather than vocabulary recall?",
+          "options": [
+            "Choose the synonym of 'rapid'.",
+            "Define 'meticulous'.",
+            "Match 'happy' with 'joyful'.",
+            "Rearrange the clauses to produce a grammatically coherent sentence."
+          ],
+          "explanation": "Rearranging clauses to form a grammatical sentence directly targets syntax."
+        }
+      }
+    },
+    {
+      "id": 110,
+      "type": "single_choice",
+      "section": "english",
+      "question": "A teacher asks students to explain why two grammatically possible sentences differ in emphasis. This targets:",
+      "options": [
+        "rote vocabulary",
+        "mere spelling recall",
+        "alphabet knowledge",
+        "pragmatic/functional awareness of form"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Comparing emphasis in grammatical alternatives links form with communicative function.",
+      "i18n": {
+        "en": {
+          "question": "A teacher asks students to explain why two grammatically possible sentences differ in emphasis. This targets:",
+          "options": [
+            "rote vocabulary",
+            "mere spelling recall",
+            "alphabet knowledge",
+            "pragmatic/functional awareness of form"
+          ],
+          "explanation": "Comparing emphasis in grammatical alternatives links form with communicative function."
+        }
+      }
+    },
+    {
+      "id": 111,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which approach best handles a learner who repeatedly confuses 'since' and 'for'?",
+      "options": [
+        "Give the dictionary meanings only.",
+        "Avoid teaching either word.",
+        "Punish every error.",
+        "Diagnose the temporal distinction, contrast minimal examples, elicit the rule, and require contextual use."
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Contrastive examples tied to the underlying distinction address the source of the error.",
+      "i18n": {
+        "en": {
+          "question": "Which approach best handles a learner who repeatedly confuses 'since' and 'for'?",
+          "options": [
+            "Give the dictionary meanings only.",
+            "Avoid teaching either word.",
+            "Punish every error.",
+            "Diagnose the temporal distinction, contrast minimal examples, elicit the rule, and require contextual use."
+          ],
+          "explanation": "Contrastive examples tied to the underlying distinction address the source of the error."
+        }
+      }
+    },
+    {
+      "id": 112,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which question best assesses literal comprehension?",
+      "options": [
+        "What does the phrase imply about the narrator's motives?",
+        "What hidden assumption underlies the argument?",
+        "Why might the author disagree with the policy?",
+        "Which date is explicitly stated in paragraph two?"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Literal comprehension asks for information explicitly stated in the text.",
+      "i18n": {
+        "en": {
+          "question": "Which question best assesses literal comprehension?",
+          "options": [
+            "What does the phrase imply about the narrator's motives?",
+            "What hidden assumption underlies the argument?",
+            "Why might the author disagree with the policy?",
+            "Which date is explicitly stated in paragraph two?"
+          ],
+          "explanation": "Literal comprehension asks for information explicitly stated in the text."
+        }
+      }
+    },
+    {
+      "id": 113,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which question best assesses inferential comprehension?",
+      "options": [
+        "What is the title?",
+        "Which word appears in line four?",
+        "How many sentences are in the passage?",
+        "What can be inferred about the speaker's attitude from the final paragraph?"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Inference requires deriving meaning beyond explicit wording.",
+      "i18n": {
+        "en": {
+          "question": "Which question best assesses inferential comprehension?",
+          "options": [
+            "What is the title?",
+            "Which word appears in line four?",
+            "How many sentences are in the passage?",
+            "What can be inferred about the speaker's attitude from the final paragraph?"
+          ],
+          "explanation": "Inference requires deriving meaning beyond explicit wording."
+        }
+      }
+    },
+    {
+      "id": 114,
+      "type": "single_choice",
+      "section": "english",
+      "question": "A teacher presents a short text, asks learners to predict content from the heading, then confirms or revises predictions after reading. This chiefly activates:",
+      "options": [
+        "mechanical copying",
+        "pure bottom-up decoding",
+        "rote translation",
+        "top-down processing"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Using prior knowledge and headings to anticipate meaning is top-down processing.",
+      "i18n": {
+        "en": {
+          "question": "A teacher presents a short text, asks learners to predict content from the heading, then confirms or revises predictions after reading. This chiefly activates:",
+          "options": [
+            "mechanical copying",
+            "pure bottom-up decoding",
+            "rote translation",
+            "top-down processing"
+          ],
+          "explanation": "Using prior knowledge and headings to anticipate meaning is top-down processing."
+        }
+      }
+    },
+    {
+      "id": 115,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which is the clearest example of bottom-up reading?",
+      "options": [
+        "Using the title to predict the topic.",
+        "Using background knowledge to fill a gap.",
+        "Inferring the author's bias from tone.",
+        "Identifying grapheme-phoneme correspondences to decode unfamiliar words."
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Bottom-up processing builds meaning from smaller linguistic units.",
+      "i18n": {
+        "en": {
+          "question": "Which is the clearest example of bottom-up reading?",
+          "options": [
+            "Using the title to predict the topic.",
+            "Using background knowledge to fill a gap.",
+            "Inferring the author's bias from tone.",
+            "Identifying grapheme-phoneme correspondences to decode unfamiliar words."
+          ],
+          "explanation": "Bottom-up processing builds meaning from smaller linguistic units."
+        }
+      }
+    },
+    {
+      "id": 116,
+      "type": "single_choice",
+      "section": "english",
+      "question": "A teacher wants to test whether learners can distinguish fact from opinion in an editorial. The best item is:",
+      "options": [
+        "Copy one sentence from the editorial.",
+        "Count the paragraphs.",
+        "Spell the author's surname.",
+        "Classify selected statements as fact or opinion and justify one classification."
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Classification plus justification directly targets fact-opinion discrimination.",
+      "i18n": {
+        "en": {
+          "question": "A teacher wants to test whether learners can distinguish fact from opinion in an editorial. The best item is:",
+          "options": [
+            "Copy one sentence from the editorial.",
+            "Count the paragraphs.",
+            "Spell the author's surname.",
+            "Classify selected statements as fact or opinion and justify one classification."
+          ],
+          "explanation": "Classification plus justification directly targets fact-opinion discrimination."
+        }
+      }
+    },
+    {
+      "id": 117,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which practice is most likely to improve retention of newly learned vocabulary over weeks?",
+      "options": [
+        "One intensive session only.",
+        "Avoiding retrieval to prevent errors.",
+        "Copying the list once.",
+        "Spaced retrieval across multiple sessions with varied contexts."
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "Spaced retrieval strengthens long-term retention more than one massed exposure.",
+      "i18n": {
+        "en": {
+          "question": "Which practice is most likely to improve retention of newly learned vocabulary over weeks?",
+          "options": [
+            "One intensive session only.",
+            "Avoiding retrieval to prevent errors.",
+            "Copying the list once.",
+            "Spaced retrieval across multiple sessions with varied contexts."
+          ],
+          "explanation": "Spaced retrieval strengthens long-term retention more than one massed exposure."
+        }
+      }
+    },
+    {
+      "id": 118,
+      "type": "single_choice",
+      "section": "english",
+      "question": "A teacher uses a translation exercise, but learners cannot use the same structures in conversation. The clearest instructional gap is:",
+      "options": [
+        "handwriting fluency",
+        "alphabet recognition",
+        "punctuation knowledge only",
+        "transfer from controlled knowledge to communicative use"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The learners need opportunities to transfer form knowledge into meaningful communicative use.",
+      "i18n": {
+        "en": {
+          "question": "A teacher uses a translation exercise, but learners cannot use the same structures in conversation. The clearest instructional gap is:",
+          "options": [
+            "handwriting fluency",
+            "alphabet recognition",
+            "punctuation knowledge only",
+            "transfer from controlled knowledge to communicative use"
+          ],
+          "explanation": "The learners need opportunities to transfer form knowledge into meaningful communicative use."
+        }
+      }
+    },
+    {
+      "id": 119,
+      "type": "single_choice",
+      "section": "english",
+      "question": "Which teacher question best promotes metalinguistic reflection?",
+      "options": [
+        "What is the answer?",
+        "Copy this sentence.",
+        "Repeat after me.",
+        "Which grammatical choice did you make, and what meaning change would occur if you used the alternative?"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "It asks learners to reason explicitly about form and meaning.",
+      "i18n": {
+        "en": {
+          "question": "Which teacher question best promotes metalinguistic reflection?",
+          "options": [
+            "What is the answer?",
+            "Copy this sentence.",
+            "Repeat after me.",
+            "Which grammatical choice did you make, and what meaning change would occur if you used the alternative?"
+          ],
+          "explanation": "It asks learners to reason explicitly about form and meaning."
+        }
+      }
+    },
+    {
+      "id": 120,
+      "type": "single_choice",
+      "section": "english",
+      "question": "A learner consistently chooses a grammatically correct option that changes the intended meaning of a dialogue. What should the teacher prioritise?",
+      "options": [
+        "Only spelling correction",
+        "Eliminating all alternative expressions",
+        "More copying of the same dialogue",
+        "Pragmatic/contextual appropriateness and the communicative consequence of the choice"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "negativeMarks": 1,
+      "explanation": "The form is grammatical, but the communicative meaning is inappropriate; instruction should address pragmatics and context.",
+      "i18n": {
+        "en": {
+          "question": "A learner consistently chooses a grammatically correct option that changes the intended meaning of a dialogue. What should the teacher prioritise?",
+          "options": [
+            "Only spelling correction",
+            "Eliminating all alternative expressions",
+            "More copying of the same dialogue",
+            "Pragmatic/contextual appropriateness and the communicative consequence of the choice"
+          ],
+          "explanation": "The form is grammatical, but the communicative meaning is inappropriate; instruction should address pragmatics and context."
+        }
+      }
+    }
+  ],
+  "_meta": {
+    "difficulty": "Extreme / Top 1%",
+    "language": "English",
+    "format": "Single-choice MCQ; exactly 4 options; one correct answer",
+    "coverage": [
+      "Advanced grammar and syntax",
+      "Error-prone structures",
+      "Vocabulary and collocations",
+      "Sentence correction and usage",
+      "Reading comprehension and inference",
+      "Language teaching pedagogy",
+      "Assessment and feedback",
+      "Reading processes",
+      "Metalinguistic awareness"
+    ],
+    "design_notes": "Newly authored practice questions. Options are intentionally close/tricky and include plausible distractors. Not claimed as verbatim previous-year questions.",
+    "answer_distribution": {
+      "A": 30,
+      "B": 30,
+      "C": 30,
+      "D": 30
+    }
+  }
+}
