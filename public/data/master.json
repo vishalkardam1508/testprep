@@ -57,6 +57,20 @@
           "questionsUrl": "/data/questions/supertet_2026_english_lvl1.json"
         },
         {
+          "id": "supertet_2026_english_mock_test_level_2", 
+          "title": "SUPER TET 2026 Top 120 English Crackdown Questions Level 2",
+          "description": "Full-length style mock test covering all CDP subjects",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJLT8uxmkvyF_oKY-P4XYSf5VznYcu6T-HPvUGhpOzUA&s=10",
+          "datePublished": "2026-10-28",
+          "totalQuestions": 100,
+          "duration": 30,
+          "maxScore": 300,
+          "difficulty": "Level-2",
+          "isFree": false,
+          "tags": ["English Language", "Grammar", "Vocabulary, Comprehension & Pedagogy"],
+          "questionsUrl": "/data/questions/supertet_2026_english_mock_test_level_2.json"
+        },
+        {
           "id": "supertet_top_cd_level_1", 
           "title": "SUPER TET Top 100 CDP Questions Level 1",
           "description": "Full-length style mock test covering all CDP subjects",
