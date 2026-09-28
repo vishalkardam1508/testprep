@@ -41,7 +41,21 @@
         "multipleChoice": { "allCorrect": 3, "partialCredit": 1, "anyWrong": -1 },
         "essay": { "marks": 5, "autoScore": false }
       },
-      "testSeries": [
+      "testSeries":[
+        {
+          "id": "supertet_2026_top_crackdown_questions_level_1", 
+          "title": "SUPER TET 2026 Top 120 English Crackdown Questions Level 1",
+          "description": "Full-length style mock test covering all CDP subjects",
+          "img": "https://tse1.mm.bing.net/th/id/OIP.74BLrtxc29QvQQrewQAkXQHaHa?r=0&pid=Api&h=220&P=0",
+          "datePublished": "2026-10-28",
+          "totalQuestions": 120,
+          "duration": 30,
+          "maxScore": 360,
+          "difficulty": "Level-1",
+          "isFree": true,
+          "tags": ["English Language", "Grammar", "Vocabulary, Comprehension & Pedagogy"],
+          "questionsUrl": "/data/questions/supertet_2026_english_lvl1.json"
+        },
         {
           "id": "supertet_top_cd_level_1", 
           "title": "SUPER TET Top 100 CDP Questions Level 1",
