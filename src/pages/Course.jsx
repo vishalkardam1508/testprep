@@ -109,7 +109,7 @@ export default function Course() {
       </div>
 
       {/* Exam pattern + syllabus */}
-      <CourseDetails course={course} />
+      <CourseDetails key={course.id} course={course} />
 
       <Footer />
     </div>

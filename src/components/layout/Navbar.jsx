@@ -32,13 +32,25 @@ export default function Navbar() {
           {/* Nav links */}
           <div className="flex items-center gap-2">
             {!isHome && (
-              <Link to="/" className="text-gray-400 hover:text-white text-sm font-medium px-4 py-2 rounded-lg hover:bg-gray-800 transition-all">
+              <Link to="/" className="hidden sm:block text-gray-400 hover:text-white text-sm font-medium px-4 py-2 rounded-lg hover:bg-gray-800 transition-all">
                 Home
               </Link>
             )}
             <Link
+              to="/add-test"
+              className="hidden md:block text-gray-400 hover:text-white text-sm font-medium px-4 py-2 rounded-lg hover:bg-gray-800 transition-all whitespace-nowrap"
+            >
+              📄 Add Test
+            </Link>
+            <Link
+              to="/ai-practice"
+              className="text-gray-400 hover:text-white text-sm font-medium px-3 sm:px-4 py-2 rounded-lg hover:bg-gray-800 transition-all whitespace-nowrap"
+            >
+              ✨ AI<span className="hidden sm:inline"> Practice</span>
+            </Link>
+            <Link
               to="/summary"
-              className="flex items-center gap-2 text-gray-400 hover:text-white text-sm font-medium px-4 py-2 rounded-lg hover:bg-gray-800 transition-all"
+              className="flex items-center gap-2 text-gray-400 hover:text-white text-sm font-medium px-3 sm:px-4 py-2 whitespace-nowrap rounded-lg hover:bg-gray-800 transition-all"
             >
               <span className="w-2 h-2 bg-violet-500 rounded-full animate-pulse" />
               My Results

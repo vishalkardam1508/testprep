@@ -150,7 +150,7 @@ export default function QuestionCard({ question, answer, onChange, index, total,
       </div>
 
       {/* Question text */}
-      <p className="text-white text-base md:text-lg font-medium leading-relaxed mb-5 sm:mb-6">
+      <p className="text-white text-base md:text-lg font-medium leading-relaxed mb-5 sm:mb-6 whitespace-pre-line">
         {question.question}
       </p>
 

@@ -3,10 +3,11 @@ import { useSeo } from '../hooks/useSeo'
 import HeroBanner from '../components/home/HeroBanner'
 import CourseCard from '../components/home/CourseCard'
 import FounderVision from '../components/home/FounderVision'
+import AiPracticePromo from '../components/home/AiPracticePromo'
 import Footer from '../components/layout/Footer'
 import { useMaster } from '../hooks/useMaster'
 import { useEffect } from 'react'
-import { useLocation } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 
 export default function Home() {
   const { master, loading, error } = useMaster()
@@ -74,6 +75,9 @@ export default function Home() {
         )}
       </section>
 
+      {/* AI Practice */}
+      <AiPracticePromo />
+
       {/* Founder — Thought & Vision */}
       <FounderVision founder={master?.app?.founder} />
 
@@ -86,9 +90,17 @@ export default function Home() {
           <p className="text-gray-400 mb-8">
             Free mock tests available. No registration required. Start now.
           </p>
-          <a href="#courses" className="btn-primary inline-block px-10 py-4 rounded-2xl text-base">
-            Browse Tests →
-          </a>
+          <div className="flex flex-col sm:flex-row items-stretch sm:items-center justify-center gap-3">
+            <a href="#courses" className="btn-primary px-10 py-4 rounded-2xl text-base">
+              Browse Tests →
+            </a>
+            <Link to="/ai-practice" className="btn-secondary px-10 py-4 rounded-2xl text-base">
+              ✨ Create AI Test
+            </Link>
+          </div>
+          <Link to="/add-test" className="inline-block mt-4 text-sm text-gray-400 hover:text-violet-300 transition-colors">
+            📄 Or add your own questions →
+          </Link>
         </div>
       </section>
 

@@ -16,6 +16,8 @@ import {
   getProgress, saveProgress, clearProgress,
   getLang, saveLang,
 } from '../utils/storage'
+import { isAiTestId, useAiTest, aiTestInfo, aiMarkingScheme, aiSections } from '../utils/aiTests'
+import VedhaLoader from '../components/ai/VedhaLoader'
 
 function FullScreenMessage({ children }) {
   return (
@@ -28,19 +30,24 @@ function FullScreenMessage({ children }) {
 export default function Quiz() {
   const { testId } = useParams()
   const navigate   = useNavigate()
-  const { getTest, loading: masterLoading, error: masterError } = useMaster()
-  const testInfo   = useMemo(() => getTest(testId), [getTest, testId])
+  const isAi       = isAiTestId(testId)
+  const { getTest, loading: masterLoadingRaw, error: masterErrorRaw } = useMaster()
+  // AI tests live in this browser, not in master.json
+  const { test: aiTest, generating: aiGenerating, phase: aiPhase } = useAiTest(isAi ? testId : null)
+  const masterLoading = !isAi && masterLoadingRaw
+  const masterError   = isAi ? null : masterErrorRaw
+  const testInfo   = useMemo(() => isAi ? aiTestInfo(aiTest) : getTest(testId), [isAi, aiTest, getTest, testId])
 
   const t = testInfo?.test
   useSeo(masterLoading ? { title: null } : t ? {
     title: `${t.title} — Free Online Mock Test`,
     description: `${t.description}. ${t.totalQuestions} questions, ${t.duration} minutes, ${t.maxScore} marks. Free ${testInfo.course.title} practice test in Hindi & English with solutions.`,
     image: t.img || testInfo.course.img,
-    noindex: !t.isFree,
+    noindex: !t.isFree || isAi,
   } : { title: 'Test not found', noindex: true })
 
   const isLocked     = testInfo ? !testInfo.test.isFree : false
-  const questionsUrl = testInfo && !isLocked ? testInfo.test.questionsUrl : null
+  const questionsUrl = testInfo && !isLocked && !isAi ? testInfo.test.questionsUrl : null
   const duration     = testInfo?.test.duration || 60
 
   const [questions,  setQuestions]  = useState([])   // sorted section-wise
@@ -59,6 +66,8 @@ export default function Quiz() {
   const [nameInput,  setNameInput]  = useState('')
   const [langPref,   setLangPref]   = useState(() => getLang())
   const submitRef = useRef(false)
+  const loadedRef = useRef(false)    // first load restores progress; later loads (AI batches) keep the position
+  const curIdRef  = useRef(null)
 
   // course → questions file → test (master.json); per-question marks still win
   const scheme = useMemo(
@@ -67,7 +76,12 @@ export default function Quiz() {
   )
 
   const bilingual = useMemo(() => isBilingual(questions), [questions])
-  const groups    = useMemo(() => groupBySection(questions, sections), [questions, sections])
+  // AI tests grow while the student answers, so they keep the order questions were written in
+  // (new ones always come at the end) instead of being grouped section by section
+  const streaming = isAi && aiTest?.source !== 'json'   // JSON tests are complete, so they keep normal sections
+  const groups    = useMemo(() => streaming
+    ? [{ id: 'all', title: 'Questions', color: 'violet', items: questions.map((q, index) => ({ q, index })) }]
+    : groupBySection(questions, sections), [streaming, questions, sections])
   // question index → index of its section in `groups`
   const sectionOf = useMemo(() => {
     const map = []
@@ -75,38 +89,59 @@ export default function Quiz() {
     return map
   }, [groups])
   const lang      = langPref || detectLang(questions[0]?.question)
+  curIdRef.current = questions[currentIdx]?.id
+  const backTo    = isAi ? `/ai-practice/${testId}` : `/course/${testInfo?.course?.id}`
   const changeLang = (l) => { setLangPref(l); saveLang(l) }
+
+  const applyData = useCallback((d) => {
+    const secs = d.sections || []
+    const qs   = d.keepOrder ? (d.questions || []) : orderBySection(d.questions || [], secs)
+    setSections(secs)
+    setFileScheme(d.markingScheme || null)
+    setQuestions(qs)
+    const findIdx = (id) => qs.findIndex(q => q.id === id)
+
+    if (loadedRef.current) {
+      // More questions arrived — stay on the same question even if its index moved
+      const i = findIdx(curIdRef.current)
+      if (i >= 0) setCurrentIdx(i)
+      return
+    }
+    loadedRef.current = true
+    const saved = getProgress(testId)
+    if (saved) {
+      setAnswers(saved.answers || {})
+      setVisited(new Set(saved.visited || []))
+      setMarked(new Set(saved.marked || []))
+      const byId = saved.currentId !== undefined ? findIdx(saved.currentId) : -1
+      setCurrentIdx(byId >= 0 ? byId : Math.min(saved.currentIdx || 0, Math.max(0, qs.length - 1)))
+      setStartedAt(saved.startedAt || null)
+    } else if (qs[0]) {
+      setVisited(new Set([qs[0].id]))
+    }
+    setLoading(false)
+  }, [testId])
 
   // Load questions (and restore saved progress, if any)
   useEffect(() => {
     if (!questionsUrl) return
     let alive = true
+    loadedRef.current = false
     setLoading(true)
     setError(null)
     fetchJson(questionsUrl)
-      .then(d => {
-        if (!alive) return
-        const secs = d.sections || []
-        const qs   = orderBySection(d.questions || [], secs)
-        setSections(secs)
-        setFileScheme(d.markingScheme || null)
-        setQuestions(qs)
-
-        const saved = getProgress(testId)
-        if (saved) {
-          setAnswers(saved.answers || {})
-          setVisited(new Set(saved.visited || []))
-          setMarked(new Set(saved.marked || []))
-          setCurrentIdx(Math.min(saved.currentIdx || 0, Math.max(0, qs.length - 1)))
-          setStartedAt(saved.startedAt || null)
-        } else if (qs[0]) {
-          setVisited(new Set([qs[0].id]))
-        }
-        setLoading(false)
-      })
+      .then(d => { if (alive) applyData(d) })
       .catch(e => { if (alive) { setError(e.message); setLoading(false) } })
     return () => { alive = false }
-  }, [questionsUrl, testId])
+  }, [questionsUrl, applyData])
+
+  // AI tests: questions come from browser storage and grow while batches are generated
+  const aiCount = aiTest?.questions.length || 0
+  useEffect(() => {
+    if (!isAi || !aiTest || submitRef.current) return
+    if (!aiCount) { if (!aiGenerating) setLoading(false); return }
+    applyData({ questions: aiTest.questions, sections: aiSections(aiTest), markingScheme: aiMarkingScheme(aiTest), keepOrder: aiTest.source !== 'json' })
+  }, [isAi, aiCount, aiGenerating, applyData])   // eslint-disable-line react-hooks/exhaustive-deps
 
   // Start the clock only once questions are ready and the student has entered a name
   useEffect(() => {
@@ -121,11 +156,12 @@ export default function Quiz() {
     saveProgress(testId, {
       startedAt,
       currentIdx,
+      currentId: questions[currentIdx]?.id,
       answers,
       visited: [...visited],
       marked:  [...marked],
     })
-  }, [testId, startedAt, currentIdx, answers, visited, marked])
+  }, [testId, startedAt, currentIdx, questions, answers, visited, marked])
 
   // Warn before closing / reloading the tab during a running test
   useEffect(() => {
@@ -185,6 +221,8 @@ export default function Quiz() {
       courseId:     testInfo?.course?.id    || '',
       courseTitle:  testInfo?.course?.title || '',
       questionsUrl: testInfo?.test?.questionsUrl || '',
+      // AI tests have no questions file, so the result keeps its own copy
+      ...(isAi ? { questions, sections } : {}),
       markingScheme: scheme,
       dateTaken:    new Date().toISOString(),
       timeTaken,
@@ -201,7 +239,7 @@ export default function Quiz() {
 
     clearProgress(testId)
     navigate(`/result/${id}`, { replace: true })
-  }, [questions, answers, scheme, testInfo, testId, startedAt, duration, navigate])
+  }, [questions, sections, isAi, answers, scheme, testInfo, testId, startedAt, duration, navigate])
 
   // Keep the active section tab centred in the scrollable tab bar
   useEffect(() => {
@@ -245,21 +283,23 @@ export default function Quiz() {
   if (loading) return (
     <FullScreenMessage>
       <div className="w-12 h-12 border-2 border-violet-500 border-t-transparent rounded-full animate-spin" />
-      <p className="text-gray-400">Loading questions...</p>
+      {isAi
+        ? <div className="w-full max-w-sm text-left"><VedhaLoader phase={aiPhase} count={aiTest?.questions.length || 0} target={aiTest?.target} /></div>
+        : <p className="text-gray-400">Loading questions...</p>}
     </FullScreenMessage>
   )
 
   if (error) return (
     <FullScreenMessage>
       <p className="text-red-400">Error: {error}</p>
-      <Link to={`/course/${testInfo.course.id}`} className="btn-secondary">← Back</Link>
+      <Link to={backTo} className="btn-secondary">← Back</Link>
     </FullScreenMessage>
   )
 
   if (questions.length === 0) return (
     <FullScreenMessage>
       <p className="text-gray-400 text-lg">This test has no questions yet.</p>
-      <Link to={`/course/${testInfo.course.id}`} className="btn-secondary">← Back</Link>
+      <Link to={backTo} className="btn-secondary">← Back</Link>
     </FullScreenMessage>
   )
 
@@ -320,7 +360,7 @@ export default function Quiz() {
             </button>
             <div className="min-w-0 flex-1">
               <h1 className="text-sm font-bold text-white truncate">{testInfo.test.title}</h1>
-              <p className="text-xs text-gray-500 truncate">{studentName && `${studentName} • `}{attempted}/{questions.length} Attempted</p>
+              <p className="text-xs text-gray-500 truncate">{studentName && `${studentName} • `}{attempted}/{questions.length} Attempted{isAi && aiGenerating && ' • more coming…'}</p>
             </div>
             <div className="hidden sm:block flex-shrink-0">
               {bilingual && <LangToggle lang={lang} onChange={changeLang} />}
@@ -376,7 +416,7 @@ export default function Quiz() {
 
             {/* Section tabs */}
             {showSectionTabs && (
-              <div className="flex gap-2 overflow-x-auto no-scrollbar -mx-3 px-3 sm:mx-0 sm:px-0 pb-1">
+              <div className="relative flex gap-2 overflow-x-auto no-scrollbar -mx-3 px-3 sm:mx-0 sm:px-0 pb-1">
                 {groups.map((g, gi) => {
                   const c      = sectionColor(g.color)
                   const active = gi === curGroupIdx
@@ -396,6 +436,22 @@ export default function Quiz() {
                     </button>
                   )
                 })}
+              </div>
+            )}
+
+            {/* AI tests: section of this question + live generation status */}
+            {streaming && q && (
+              <div className="flex flex-wrap items-center justify-between gap-2 text-xs">
+                {(() => {
+                  const s = sections.find(x => x.id === q.section)
+                  const c = sectionColor(s?.color)
+                  return s ? <span className={`inline-flex items-center gap-2 font-semibold ${c.text}`}><span className={`w-2 h-2 rounded-full ${c.dot}`} />{s.title}</span> : <span />
+                })()}
+                {aiGenerating && (
+                  <span className="text-cyan-400 bg-cyan-500/10 border border-cyan-500/20 px-3 py-1 rounded-full">
+                    <VedhaLoader compact phase={{ text: `Vedha Tutor is writing more · ${questions.length}/${aiTest?.target}` }} />
+                  </span>
+                )}
               </div>
             )}
 
@@ -432,7 +488,12 @@ export default function Quiz() {
                 {marked.has(q?.id) ? '🔖 Marked' : '🔖 Mark'}
               </button>
 
-              {!isLast ? (
+              {isLast && isAi && aiGenerating ? (
+                // Caught up with Vedha Tutor — the next questions appear here in a few seconds
+                <button disabled className="btn-primary py-2.5 px-4 sm:px-5 text-sm whitespace-nowrap opacity-70 cursor-wait">
+                  <VedhaLoader compact phase={{ text: 'Preparing next…' }} />
+                </button>
+              ) : !isLast ? (
                 <button onClick={() => goTo(currentIdx + 1)} className="btn-primary py-2.5 px-4 sm:px-5 text-sm whitespace-nowrap">
                   {nextGroup
                     ? <><span className="sm:hidden">Next Section →</span><span className="hidden sm:inline">Next Section: {nextGroup.title} →</span></>

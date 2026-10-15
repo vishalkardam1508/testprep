@@ -44,6 +44,9 @@ export default function HeroBanner({ appInfo, courseCount }) {
           <a href="#courses" className="btn-primary text-base px-8 py-4 rounded-2xl shadow-lg shadow-violet-500/25 hover:shadow-violet-500/40 hover:-translate-y-0.5 transition-all">
             Start Practicing →
           </a>
+          <Link to="/ai-practice" className="text-base font-semibold px-8 py-4 rounded-2xl border border-violet-500/40 bg-violet-500/10 text-violet-200 hover:bg-violet-500/20 hover:-translate-y-0.5 transition-all">
+            ✨ AI Practice
+          </Link>
           <Link to="/summary" className="btn-secondary text-base px-8 py-4 rounded-2xl hover:-translate-y-0.5 transition-all">
             My Results
           </Link>

@@ -77,7 +77,7 @@ export default function Result() {
 
   // Older results stored the questions inline; newer ones only store the URL
   const [questions, setQuestions] = useState(result?.questions || null)
-  const [sections, setSections] = useState([])
+  const [sections, setSections] = useState(result?.sections || [])
   const [qError, setQError] = useState(null)
   const questionsUrl = result?.questions ? null : result?.questionsUrl
 
@@ -346,7 +346,7 @@ export default function Result() {
                       </div>
 
                       {/* Question */}
-                      <p className="text-white text-sm mb-3 leading-relaxed">{text}</p>
+                      <p className="text-white text-sm mb-3 leading-relaxed whitespace-pre-line">{text}</p>
 
                       {/* Answer display by type */}
                       {d.type === 'essay' ? (

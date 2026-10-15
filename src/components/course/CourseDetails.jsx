@@ -28,8 +28,8 @@ function ExamPattern({ rows }) {
       <h2 className="text-xl font-bold text-white mb-4">Exam Pattern</h2>
       <div className="card overflow-hidden">
         <dl className="divide-y divide-gray-800">
-          {rows.map(r => (
-            <div key={r.label} className="grid grid-cols-5 gap-4 px-5 py-3 text-sm">
+          {rows.map((r, i) => (
+            <div key={i} className="grid grid-cols-5 gap-4 px-5 py-3 text-sm">
               <dt className="col-span-2 sm:col-span-1 text-gray-500 font-medium">{r.label}</dt>
               <dd className="col-span-3 sm:col-span-4 text-white">{r.value}</dd>
             </div>
@@ -106,7 +106,7 @@ function Syllabus({ sections, note }) {
       {note && <p className="text-xs text-gray-500 mb-4 leading-relaxed">ℹ️ {note}</p>}
       <div className="space-y-3">
         {sections.map((s, i) => (
-          <SyllabusSection key={s.title} section={s} open={openSet.has(i)} onToggle={() => toggle(i)} />
+          <SyllabusSection key={i} section={s} open={openSet.has(i)} onToggle={() => toggle(i)} />
         ))}
       </div>
     </section>
